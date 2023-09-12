@@ -1,369 +1,281 @@
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/">
-        <channel rdf:about="https://raw.githubusercontent.com/SebastienLemaire/general/main/nature_news_views.rss">
-            <title>Nature</title>
-            <description>Nature publishes peer-reviewed original research of the highest quality in all areas of cell biology with an emphasis on studies that provide insights into the molecular mechanisms underlying cellular processes. The journal&amp;rsquo;s scope is broad and ranges from cytoskeletal dynamics, membrane transport, adhesion and migration, cell division, signalling pathways, development and stem cells, to molecular and cellular mechanisms underlying cancer. Nature Cell Biology provides timely and informative coverage of cell biological advances.</description>
-            <link>https://raw.githubusercontent.com/SebastienLemaire/general/main/nature_news_views.rss</link>
-            <admin:generatorAgent rdf:resource="https://raw.githubusercontent.com/SebastienLemaire/general/"/>
-            <admin:errorReportsTo rdf:resource="mailto:sebastien.lemaire3@numericable.fr"/>
-            <dc:publisher>SebastienLemaire</dc:publisher>
-            <dc:language>en</dc:language>
-            <dc:rights>© 2023 Sebastien Lemaire Production. All rights reserved.</dc:rights>
-            <prism:publicationName>Nature Cell Biology</prism:publicationName>
-            
-            
-            <prism:copyright>© 2023 Sebastien Lemaire Production. All rights reserved.</prism:copyright>
-            <prism:rightsAgent>sebastien.lemaire3@numericable.fr</prism:rightsAgent>
-            <items>
-                <rdf:Seq>
-                
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02766-4"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02769-1"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02565-x"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02673-8"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02739-7"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02738-8"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02595-5"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02486-9"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02502-y"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02594-6"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02506-8"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02485-w"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02652-z"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02593-7"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02546-0"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02569-7"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02349-3"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02355-5"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02490-z"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02353-7"/>
-        
-                </rdf:Seq>
-            </items>
-        </channel>
-        
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02766-4">
-                <title><![CDATA[Light from cosmic dawn hints at how interstellar dust is made]]></title>
+<?xml version='1.0' encoding='UTF-8'?>
+        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+            <title>Nature News and Views </title>
+            <link>https://github.com/SebastienLemaire/general/blob/main/nature_news_views.rss</link>
+            <description>News and Views articles from Nature Publishing Group journals</description>
+            <atom:link href="https://github.com/SebastienLemaire/general/blob/main/nature_news_views.rss" rel="self"/>
+            <docs>http://www.rssboard.org/rss-specification</docs>
+            <generator>nature_news_views_rss.py</generator>
+            <language>en</language>
+            <lastBuildDate>Tue, 12 Sep 2023 13:18:50 +0000</lastBuildDate>
+            <pubDate>Sat, 09 Sep 2023 06:00:00 -0400</pubDate>
+            <ttl>120</ttl>
+    
+            <item>
+                <title>Light from cosmic dawn hints at how interstellar dust is made</title>
                 <link>https://www.nature.com/articles/d41586-023-02766-4</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-09-12; <a href="https://www.nature.com/articles/d41586-023-02766-4">doi:doi.org/d41586-023-02766-4</a></p>Light from cosmic dawn hints at how interstellar dust is made]]></content:encoded>
-                <dc:title><![CDATA[Light from cosmic dawn hints at how interstellar dust is made]]></dc:title>
+                <description>The obscuration of light from a distant galaxy has raised the possibility that a type of carbon dust existed in the earliest epochs of the Universe — challenging the idea that stars had not yet evolved enough to make such material.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The obscuration of light from a distant galaxy has raised the possibility that a type of carbon dust existed in the earliest epochs of the Universe — challenging the idea that stars had not yet evolved enough to make such material.</p></div>]]></content:encoded>
+                <pubDate>2023-09-12</pubDate>
                                 <dc:creator>Xuejuan Yang</dc:creator>
                 <dc:creator>Aigen Li</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02766-4</dc:identifier>
-                <dc:source>Nature, Published online: 2023-09-12; | doi:doi.org/d41586-023-02766-4</dc:source>
                 <dc:date>2023-09-12</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02766-4</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02766-4</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Light from cosmic dawn hints at how interstellar dust is made</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02766-4</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02769-1">
-                <title><![CDATA[From the archive: the value of MSc degrees, and painting tips]]></title>
+            <item>
+                <title>From the archive: the value of MSc degrees, and painting tips</title>
                 <link>https://www.nature.com/articles/d41586-023-02769-1</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-09-12; <a href="https://www.nature.com/articles/d41586-023-02769-1">doi:doi.org/d41586-023-02769-1</a></p>From the archive: the value of MSc degrees, and painting tips]]></content:encoded>
-                <dc:title><![CDATA[From the archive: the value of MSc degrees, and painting tips]]></dc:title>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-09-12</pubDate>
                 
-                <dc:identifier>doi.org/d41586-023-02769-1</dc:identifier>
-                <dc:source>Nature, Published online: 2023-09-12; | doi:doi.org/d41586-023-02769-1</dc:source>
                 <dc:date>2023-09-12</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02769-1</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02769-1</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>From the archive: the value of MSc degrees, and painting tips</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02769-1</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02565-x">
-                <title><![CDATA[Surface interaction propels molecule forwards]]></title>
+            <item>
+                <title>Surface interaction propels molecule forwards</title>
                 <link>https://www.nature.com/articles/d41586-023-02565-x</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-09-06; <a href="https://www.nature.com/articles/d41586-023-02565-x">doi:doi.org/d41586-023-02565-x</a></p>Surface interaction propels molecule forwards]]></content:encoded>
-                <dc:title><![CDATA[Surface interaction propels molecule forwards]]></dc:title>
+                <description>The interaction of a molecule with a specific surface has been shown to produce consistent unidirectional motion driven by voltage pulses. The mechanism can even facilitate the transport of molecular cargo.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The interaction of a molecule with a specific surface has been shown to produce consistent unidirectional motion driven by voltage pulses. The mechanism can even facilitate the transport of molecular cargo.</p></div>]]></content:encoded>
+                <pubDate>2023-09-06</pubDate>
                                 <dc:creator>Leo Gross</dc:creator>
                 <dc:creator>Jascha Repp</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02565-x</dc:identifier>
-                <dc:source>Nature, Published online: 2023-09-06; | doi:doi.org/d41586-023-02565-x</dc:source>
                 <dc:date>2023-09-06</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02565-x</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02565-x</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Surface interaction propels molecule forwards</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02565-x</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02673-8">
-                <title><![CDATA[Dynamic regulation of messenger RNA structure controls translation]]></title>
+            <item>
+                <title>Dynamic regulation of messenger RNA structure controls translation</title>
                 <link>https://www.nature.com/articles/d41586-023-02673-8</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-09-06; <a href="https://www.nature.com/articles/d41586-023-02673-8">doi:doi.org/d41586-023-02673-8</a></p>Dynamic regulation of messenger RNA structure controls translation]]></content:encoded>
-                <dc:title><![CDATA[Dynamic regulation of messenger RNA structure controls translation]]></dc:title>
+                <description>During translation, messenger RNA guides protein production, and certain conditions can favour particular proteins. Helicase enzymes and mRNA structure control translation during defence responses in plants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">During translation, messenger RNA guides protein production, and certain conditions can favour particular proteins. Helicase enzymes and mRNA structure control translation during defence responses in plants.</p></div>]]></content:encoded>
+                <pubDate>2023-09-06</pubDate>
                                 <dc:creator>Yizhu Lin</dc:creator>
                 <dc:creator>Stephen N. Floor</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02673-8</dc:identifier>
-                <dc:source>Nature, Published online: 2023-09-06; | doi:doi.org/d41586-023-02673-8</dc:source>
                 <dc:date>2023-09-06</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02673-8</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02673-8</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Dynamic regulation of messenger RNA structure controls translation</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02673-8</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02739-7">
-                <title><![CDATA[Cardiac cycle inspires optimized pipe flow]]></title>
+            <item>
+                <title>Cardiac cycle inspires optimized pipe flow</title>
                 <link>https://www.nature.com/articles/d41586-023-02739-7</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-09-06; <a href="https://www.nature.com/articles/d41586-023-02739-7">doi:doi.org/d41586-023-02739-7</a></p>Cardiac cycle inspires optimized pipe flow]]></content:encoded>
-                <dc:title><![CDATA[Cardiac cycle inspires optimized pipe flow]]></dc:title>
+                <description>Pulsatile driving of pipe flow that imitates waveforms measured in the human aorta has been shown to suppress turbulence and increase the energy efficiency of the transport of fluids in pipes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pulsatile driving of pipe flow that imitates waveforms measured in the human aorta has been shown to suppress turbulence and increase the energy efficiency of the transport of fluids in pipes.</p></div>]]></content:encoded>
+                <pubDate>2023-09-06</pubDate>
                                 <dc:creator>Angela Busse</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02739-7</dc:identifier>
-                <dc:source>Nature, Published online: 2023-09-06; | doi:doi.org/d41586-023-02739-7</dc:source>
                 <dc:date>2023-09-06</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02739-7</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02739-7</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Cardiac cycle inspires optimized pipe flow</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02739-7</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02738-8">
-                <title><![CDATA[From the archive: enchanting insects, and John Stuart Mill’s will]]></title>
+            <item>
+                <title>From the archive: enchanting insects, and John Stuart Mill’s will</title>
                 <link>https://www.nature.com/articles/d41586-023-02738-8</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-09-05; <a href="https://www.nature.com/articles/d41586-023-02738-8">doi:doi.org/d41586-023-02738-8</a></p>From the archive: enchanting insects, and John Stuart Mill’s will]]></content:encoded>
-                <dc:title><![CDATA[From the archive: enchanting insects, and John Stuart Mill’s will]]></dc:title>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-09-05</pubDate>
                 
-                <dc:identifier>doi.org/d41586-023-02738-8</dc:identifier>
-                <dc:source>Nature, Published online: 2023-09-05; | doi:doi.org/d41586-023-02738-8</dc:source>
                 <dc:date>2023-09-05</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02738-8</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02738-8</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>From the archive: enchanting insects, and John Stuart Mill’s will</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02738-8</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02595-5">
-                <title><![CDATA[A drowned future for coastal ecosystems]]></title>
+            <item>
+                <title>A drowned future for coastal ecosystems</title>
                 <link>https://www.nature.com/articles/d41586-023-02595-5</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02595-5">doi:doi.org/d41586-023-02595-5</a></p>A drowned future for coastal ecosystems]]></content:encoded>
-                <dc:title><![CDATA[A drowned future for coastal ecosystems]]></dc:title>
+                <description>Tidal marshes, mangroves and coral reefs support the livelihoods of millions of people. Most of these ecosystems will be vulnerable to submergence owing to rapid sea-level rise if global warming exceeds 2 °C above pre-industrial levels.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Tidal marshes, mangroves and coral reefs support the livelihoods of millions of people. Most of these ecosystems will be vulnerable to submergence owing to rapid sea-level rise if global warming exceeds 2 °C above pre-industrial levels.</p></div>]]></content:encoded>
+                <pubDate>2023-08-30</pubDate>
                                 <dc:creator>Qiang He</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02595-5</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02595-5</dc:source>
                 <dc:date>2023-08-30</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02595-5</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02595-5</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>A drowned future for coastal ecosystems</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02595-5</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02486-9">
-                <title><![CDATA[Dynamic ion channel defies dogma]]></title>
+            <item>
+                <title>Dynamic ion channel defies dogma</title>
                 <link>https://www.nature.com/articles/d41586-023-02486-9</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02486-9">doi:doi.org/d41586-023-02486-9</a></p>Dynamic ion channel defies dogma]]></content:encoded>
-                <dc:title><![CDATA[Dynamic ion channel defies dogma]]></dc:title>
+                <description>It is well established that proteins in the TRP family of ion channels assemble from four subunits. But do they always do this? A five-subunit structure has now been observed, and might be involved in channel regulation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">It is well established that proteins in the TRP family of ion channels assemble from four subunits. But do they always do this? A five-subunit structure has now been observed, and might be involved in channel regulation.</p></div>]]></content:encoded>
+                <pubDate>2023-08-30</pubDate>
                                 <dc:creator>Ute A. Hellmich</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02486-9</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02486-9</dc:source>
                 <dc:date>2023-08-30</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02486-9</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02486-9</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Dynamic ion channel defies dogma</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02486-9</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02502-y">
-                <title><![CDATA[Previously unknown pathway for lipid biosynthesis discovered]]></title>
+            <item>
+                <title>Previously unknown pathway for lipid biosynthesis discovered</title>
                 <link>https://www.nature.com/articles/d41586-023-02502-y</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02502-y">doi:doi.org/d41586-023-02502-y</a></p>Previously unknown pathway for lipid biosynthesis discovered]]></content:encoded>
-                <dc:title><![CDATA[Previously unknown pathway for lipid biosynthesis discovered]]></dc:title>
+                <description>The pathway used by mammalian cells to make triglyceride lipids when supplies of fat molecules are high has long been known. A route that works when fat supplies are low has now been discovered.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pathway used by mammalian cells to make triglyceride lipids when supplies of fat molecules are high has long been known. A route that works when fat supplies are low has now been discovered.</p></div>]]></content:encoded>
+                <pubDate>2023-08-30</pubDate>
                                 <dc:creator>Jean E. Schaffer</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02502-y</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02502-y</dc:source>
                 <dc:date>2023-08-30</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02502-y</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02502-y</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Previously unknown pathway for lipid biosynthesis discovered</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02502-y</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02594-6">
-                <title><![CDATA[Rethinking the effect of marine heatwaves on fish]]></title>
+            <item>
+                <title>Rethinking the effect of marine heatwaves on fish</title>
                 <link>https://www.nature.com/articles/d41586-023-02594-6</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02594-6">doi:doi.org/d41586-023-02594-6</a></p>Rethinking the effect of marine heatwaves on fish]]></content:encoded>
-                <dc:title><![CDATA[Rethinking the effect of marine heatwaves on fish]]></dc:title>
+                <description>Marine heatwaves are on the rise. A surprising result from the analysis of data for fish populations in Europe and North America could change ways of thinking about the ecological consequences of such events.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Marine heatwaves are on the rise. A surprising result from the analysis of data for fish populations in Europe and North America could change ways of thinking about the ecological consequences of such events.</p></div>]]></content:encoded>
+                <pubDate>2023-08-30</pubDate>
                                 <dc:creator>Mark R. Payne</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02594-6</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02594-6</dc:source>
                 <dc:date>2023-08-30</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02594-6</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02594-6</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Rethinking the effect of marine heatwaves on fish</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02594-6</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02506-8">
-                <title><![CDATA[Drone-racing champions outpaced by AI]]></title>
+            <item>
+                <title>Drone-racing champions outpaced by AI</title>
                 <link>https://www.nature.com/articles/d41586-023-02506-8</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02506-8">doi:doi.org/d41586-023-02506-8</a></p>Drone-racing champions outpaced by AI]]></content:encoded>
-                <dc:title><![CDATA[Drone-racing champions outpaced by AI]]></dc:title>
+                <description>An autonomous drone has competed against human drone-racing champions — and won. The victory can be attributed to savvy engineering and a type of artificial intelligence that learns mostly through trial and error.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An autonomous drone has competed against human drone-racing champions — and won. The victory can be attributed to savvy engineering and a type of artificial intelligence that learns mostly through trial and error.</p></div>]]></content:encoded>
+                <pubDate>2023-08-30</pubDate>
                                 <dc:creator>Guido C. H. E. de Croon</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02506-8</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02506-8</dc:source>
                 <dc:date>2023-08-30</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02506-8</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02506-8</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Drone-racing champions outpaced by AI</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02506-8</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02485-w">
-                <title><![CDATA[Heaviest oxygen isotope is found to be unbound]]></title>
+            <item>
+                <title>Heaviest oxygen isotope is found to be unbound</title>
                 <link>https://www.nature.com/articles/d41586-023-02485-w</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02485-w">doi:doi.org/d41586-023-02485-w</a></p>Heaviest oxygen isotope is found to be unbound]]></content:encoded>
-                <dc:title><![CDATA[Heaviest oxygen isotope is found to be unbound]]></dc:title>
+                <description>The isotope oxygen-28 is expected to be ‘doubly magic’, with strongly bound neutrons and protons in its nucleus. Experiments now reveal that it exists in an unbound state — casting doubt on its magic status.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The isotope oxygen-28 is expected to be ‘doubly magic’, with strongly bound neutrons and protons in its nucleus. Experiments now reveal that it exists in an unbound state — casting doubt on its magic status.</p></div>]]></content:encoded>
+                <pubDate>2023-08-30</pubDate>
                                 <dc:creator>Rituparna Kanungo</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02485-w</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02485-w</dc:source>
                 <dc:date>2023-08-30</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02485-w</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02485-w</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Heaviest oxygen isotope is found to be unbound</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02485-w</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02652-z">
-                <title><![CDATA[From the archive: colour constancy, and an atomic romance]]></title>
+            <item>
+                <title>From the archive: colour constancy, and an atomic romance</title>
                 <link>https://www.nature.com/articles/d41586-023-02652-z</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-29; <a href="https://www.nature.com/articles/d41586-023-02652-z">doi:doi.org/d41586-023-02652-z</a></p>From the archive: colour constancy, and an atomic romance]]></content:encoded>
-                <dc:title><![CDATA[From the archive: colour constancy, and an atomic romance]]></dc:title>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-08-29</pubDate>
                 
-                <dc:identifier>doi.org/d41586-023-02652-z</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-29; | doi:doi.org/d41586-023-02652-z</dc:source>
                 <dc:date>2023-08-29</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02652-z</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02652-z</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>From the archive: colour constancy, and an atomic romance</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02652-z</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02593-7">
-                <title><![CDATA[Corals have algal friends for dinner]]></title>
+            <item>
+                <title>Corals have algal friends for dinner</title>
                 <link>https://www.nature.com/articles/d41586-023-02593-7</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-23; <a href="https://www.nature.com/articles/d41586-023-02593-7">doi:doi.org/d41586-023-02593-7</a></p>Corals have algal friends for dinner]]></content:encoded>
-                <dc:title><![CDATA[Corals have algal friends for dinner]]></dc:title>
+                <description>Biologists have long sought to understand the factors that enable coral reefs to thrive. A careful analysis of nutrient cycling now points to an unexpected food source that helps to sustain corals during food scarcity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Biologists have long sought to understand the factors that enable coral reefs to thrive. A careful analysis of nutrient cycling now points to an unexpected food source that helps to sustain corals during food scarcity.</p></div>]]></content:encoded>
+                <pubDate>2023-08-23</pubDate>
                                 <dc:creator>Virginia M. Weis</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02593-7</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-23; | doi:doi.org/d41586-023-02593-7</dc:source>
                 <dc:date>2023-08-23</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02593-7</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02593-7</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Corals have algal friends for dinner</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02593-7</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02546-0">
-                <title><![CDATA[Brain implants that enable speech pass performance milestones]]></title>
+            <item>
+                <title>Brain implants that enable speech pass performance milestones</title>
                 <link>https://www.nature.com/articles/d41586-023-02546-0</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-23; <a href="https://www.nature.com/articles/d41586-023-02546-0">doi:doi.org/d41586-023-02546-0</a></p>Brain implants that enable speech pass performance milestones]]></content:encoded>
-                <dc:title><![CDATA[Brain implants that enable speech pass performance milestones]]></dc:title>
+                <description>Two brain–computer interfaces have been developed that bring unprecedented capabilities for translating brain signals into sentences — at speeds close to that of normal speech, and with vocabularies exceeding 1,000 words.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two brain–computer interfaces have been developed that bring unprecedented capabilities for translating brain signals into sentences — at speeds close to that of normal speech, and with vocabularies exceeding 1,000 words.</p></div>]]></content:encoded>
+                <pubDate>2023-08-23</pubDate>
                                 <dc:creator>Nick F. Ramsey</dc:creator>
                 <dc:creator>Nathan E. Crone</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02546-0</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-23; | doi:doi.org/d41586-023-02546-0</dc:source>
                 <dc:date>2023-08-23</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02546-0</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02546-0</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Brain implants that enable speech pass performance milestones</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02546-0</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02569-7">
-                <title><![CDATA[Analog chip paves the way for sustainable AI]]></title>
+            <item>
+                <title>Analog chip paves the way for sustainable AI</title>
                 <link>https://www.nature.com/articles/d41586-023-02569-7</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-23; <a href="https://www.nature.com/articles/d41586-023-02569-7">doi:doi.org/d41586-023-02569-7</a></p>Analog chip paves the way for sustainable AI]]></content:encoded>
-                <dc:title><![CDATA[Analog chip paves the way for sustainable AI]]></dc:title>
+                <description>As the resources required by artificial intelligence increase unsustainably, an analog design provides an energy-efficient alternative to digital computer chips — and one that is ideally suited to neural-network computations.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As the resources required by artificial intelligence increase unsustainably, an analog design provides an energy-efficient alternative to digital computer chips — and one that is ideally suited to neural-network computations.</p></div>]]></content:encoded>
+                <pubDate>2023-08-23</pubDate>
                                 <dc:creator>Hechen Wang</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02569-7</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-23; | doi:doi.org/d41586-023-02569-7</dc:source>
                 <dc:date>2023-08-23</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02569-7</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02569-7</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Analog chip paves the way for sustainable AI</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02569-7</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02349-3">
-                <title><![CDATA[Satellite images show the widespread impact of mining on tropical rivers]]></title>
+            <item>
+                <title>Satellite images show the widespread impact of mining on tropical rivers</title>
                 <link>https://www.nature.com/articles/d41586-023-02349-3</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-23; <a href="https://www.nature.com/articles/d41586-023-02349-3">doi:doi.org/d41586-023-02349-3</a></p>Satellite images show the widespread impact of mining on tropical rivers]]></content:encoded>
-                <dc:title><![CDATA[Satellite images show the widespread impact of mining on tropical rivers]]></dc:title>
+                <description>A careful analysis of satellite images has revealed marked changes in the suspended-sediment concentrations of many rivers around the world. The study links these changes directly to river mining activities in the affected areas.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A careful analysis of satellite images has revealed marked changes in the suspended-sediment concentrations of many rivers around the world. The study links these changes directly to river mining activities in the affected areas.</p></div>]]></content:encoded>
+                <pubDate>2023-08-23</pubDate>
                                 <dc:creator>Bryony Walmsley</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02349-3</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-23; | doi:doi.org/d41586-023-02349-3</dc:source>
                 <dc:date>2023-08-23</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02349-3</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02349-3</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Satellite images show the widespread impact of mining on tropical rivers</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02349-3</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02355-5">
-                <title><![CDATA[From the archive: Copernicus’s legacy, and a hungry pigeon]]></title>
+            <item>
+                <title>From the archive: Copernicus’s legacy, and a hungry pigeon</title>
                 <link>https://www.nature.com/articles/d41586-023-02355-5</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-22; <a href="https://www.nature.com/articles/d41586-023-02355-5">doi:doi.org/d41586-023-02355-5</a></p>From the archive: Copernicus’s legacy, and a hungry pigeon]]></content:encoded>
-                <dc:title><![CDATA[From the archive: Copernicus’s legacy, and a hungry pigeon]]></dc:title>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-08-22</pubDate>
                 
-                <dc:identifier>doi.org/d41586-023-02355-5</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-22; | doi:doi.org/d41586-023-02355-5</dc:source>
                 <dc:date>2023-08-22</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02355-5</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02355-5</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>From the archive: Copernicus’s legacy, and a hungry pigeon</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02355-5</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02490-z">
-                <title><![CDATA[The great melt will shape unprotected ecosystems]]></title>
+            <item>
+                <title>The great melt will shape unprotected ecosystems</title>
                 <link>https://www.nature.com/articles/d41586-023-02490-z</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-16; <a href="https://www.nature.com/articles/d41586-023-02490-z">doi:doi.org/d41586-023-02490-z</a></p>The great melt will shape unprotected ecosystems]]></content:encoded>
-                <dc:title><![CDATA[The great melt will shape unprotected ecosystems]]></dc:title>
+                <description>Glaciers should be prioritized in conservation agendas — and soon. Analysis suggests that glaciers could lose around half their area by the century’s end, with uncertain consequences for postglacial ecosystems.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Glaciers should be prioritized in conservation agendas — and soon. Analysis suggests that glaciers could lose around half their area by the century’s end, with uncertain consequences for postglacial ecosystems.</p></div>]]></content:encoded>
+                <pubDate>2023-08-16</pubDate>
                                 <dc:creator>Nicolas Lecomte</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02490-z</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-16; | doi:doi.org/d41586-023-02490-z</dc:source>
                 <dc:date>2023-08-16</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02490-z</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02490-z</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>The great melt will shape unprotected ecosystems</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02490-z</dc:identifier>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02353-7">
-                <title><![CDATA[Clues to rain formation found in droplet images]]></title>
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
                 <link>https://www.nature.com/articles/d41586-023-02353-7</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-16; <a href="https://www.nature.com/articles/d41586-023-02353-7">doi:doi.org/d41586-023-02353-7</a></p>Clues to rain formation found in droplet images]]></content:encoded>
-                <dc:title><![CDATA[Clues to rain formation found in droplet images]]></dc:title>
+                <description>X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.</p></div>]]></content:encoded>
+                <pubDate>2023-08-16</pubDate>
                                 <dc:creator>Thomas Leisner</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02353-7</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-16; | doi:doi.org/d41586-023-02353-7</dc:source>
                 <dc:date>2023-08-16</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02353-7</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02353-7</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>Clues to rain formation found in droplet images</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02353-7</dc:identifier>
             </item>
             
-    </rdf:RDF>
+        </channel>
+    </rss>
     
