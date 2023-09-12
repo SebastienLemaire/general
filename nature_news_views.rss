@@ -1,8 +1,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/">
     <channel rdf:about="https://raw.githubusercontent.com/SebastienLemaire/general/main/nature_news_views.rss">
-        <title>Nature Cell Biology</title>
-        <description>Nature Cell Biology publishes peer-reviewed original research of the highest quality in all areas of cell biology with an emphasis on studies that provide insights into the molecular mechanisms underlying cellular processes. The journal&amp;rsquo;s scope is broad and ranges from cytoskeletal dynamics, membrane transport, adhesion and migration, cell division, signalling pathways, development and stem cells, to molecular and cellular mechanisms underlying cancer. Nature Cell Biology provides timely and informative coverage of cell biological advances.</description>
+        <title>Nature</title>
+        <description>Nature publishes peer-reviewed original research of the highest quality in all areas of cell biology with an emphasis on studies that provide insights into the molecular mechanisms underlying cellular processes. The journal&amp;rsquo;s scope is broad and ranges from cytoskeletal dynamics, membrane transport, adhesion and migration, cell division, signalling pathways, development and stem cells, to molecular and cellular mechanisms underlying cancer. Nature Cell Biology provides timely and informative coverage of cell biological advances.</description>
         <link>https://raw.githubusercontent.com/SebastienLemaire/general/main/nature_news_views.rss</link>
         <admin:generatorAgent rdf:resource="https://raw.githubusercontent.com/SebastienLemaire/general/"/>
         <admin:errorReportsTo rdf:resource="mailto:sebastien.lemaire3@numericable.fr"/>
