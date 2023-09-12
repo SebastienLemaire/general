@@ -1,166 +1,525 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/">
-    <channel rdf:about="http://feeds.nature.com.insb.bib.cnrs.fr/ng/rss/current">
-        <title>Nature Genetics</title>
-        <description>Nature Genetics is the primary research journal for the genetics community. With a reputation for quality global coverage, Nature Genetics delivers the latest research across the field, including human genetics and genomics, genomics in plant and animal breeding, epigenetics, cancer and genetic technology. With News and Views, Analysis, Perspectives, Letters, Articles and Technical Reports, Nature Genetics is consistently the most frequently cited primary research journal in the field of Genetics and Heredity.</description>
-        <link>http://feeds.nature.com.insb.bib.cnrs.fr/ng/rss/current</link>
-        <admin:generatorAgent rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/"/>
-        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com"/>
-        <dc:publisher>Nature Publishing Group</dc:publisher>
+    <channel rdf:about="https://raw.githubusercontent.com/SebastienLemaire/general/main/nature_news_views.rss">
+        <title>Nature Cell Biology</title>
+        <description>Nature Cell Biology publishes peer-reviewed original research of the highest quality in all areas of cell biology with an emphasis on studies that provide insights into the molecular mechanisms underlying cellular processes. The journal&amp;rsquo;s scope is broad and ranges from cytoskeletal dynamics, membrane transport, adhesion and migration, cell division, signalling pathways, development and stem cells, to molecular and cellular mechanisms underlying cancer. Nature Cell Biology provides timely and informative coverage of cell biological advances.</description>
+        <link>https://raw.githubusercontent.com/SebastienLemaire/general/main/nature_news_views.rss</link>
+        <admin:generatorAgent rdf:resource="https://raw.githubusercontent.com/SebastienLemaire/general/"/>
+        <admin:errorReportsTo rdf:resource="mailto:sebastien.lemaire3@numericable.fr"/>
+        <dc:publisher>SebastienLemaire</dc:publisher>
         <dc:language>en</dc:language>
-        <dc:rights>© 2023 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
-        <prism:publicationName>Nature Genetics</prism:publicationName>
+        <dc:rights>© 2023 Sebastien Lemaire Production. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature Cell Biology</prism:publicationName>
         
         
-        <prism:copyright>© 2023 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
-        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
-        <image rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/uploads/product/ng/rss.png"/>
+        <prism:copyright>© 2023 Sebastien Lemaire Production. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>sebastien.lemaire3@numericable.fr</prism:rightsAgent>
         <items>
             <rdf:Seq>
-                
-                    <rdf:li rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01491-y"/>
-                
-                    <rdf:li rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01490-z"/>
-                
-                    <rdf:li rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01513-9"/>
-                
-                    <rdf:li rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01511-x"/>
-                
-                    <rdf:li rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01514-8"/>
-                
-                    <rdf:li rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01512-w"/>
-                
-                    <rdf:li rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01462-3"/>
-                
-                    <rdf:li rdf:resource="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01495-8"/>
-                
+            
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
+            <item>
+                <title>Clues to rain formation found in droplet images</title>
+                <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+                <description>
+                    X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.
+                </description>
+                <pubDate>2023-08-16</pubDate>
+                <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02353-7</guid>
+            </item>
+    
             </rdf:Seq>
         </items>
     </channel>
-    <image rdf:about="https://www-nature-com.insb.bib.cnrs.fr/uploads/product/ng/rss.png">
-        <title>Nature Genetics</title>
-        <url>https://www-nature-com.insb.bib.cnrs.fr/uploads/product/ng/rss.png</url>
-        <link>http://feeds.nature.com.insb.bib.cnrs.fr/ng/rss/current</link>
-    </image>
     
-        <item rdf:about="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01491-y">
-            <title><![CDATA[Quantifying fitness effects and mutation rates of mCAs in blood]]></title>
-            <link>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01491-y</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02565-x">
+            <title><![CDATA[Surface interaction propels molecule forwards]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02565-x</link>
             <content:encoded>
-                <![CDATA[<p>Nature Genetics, Published online: 11 September 2023; <a href="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01491-y">doi:10.1038/s41588-023-01491-y</a></p>Using data from the UK Biobank, we reveal the roles of selection and mutation in shaping the genetic diversity of mosaic chromosomal alterations in healthy blood.]]></content:encoded>
-            <dc:title><![CDATA[Quantifying fitness effects and mutation rates of mCAs in blood]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/s41588-023-01491-y</dc:identifier>
-            <dc:source>Nature Genetics, Published online: 2023-09-11; | doi:10.1038/s41588-023-01491-y</dc:source>
-            <dc:date>2023-09-11</dc:date>
-            <prism:publicationName>Nature Genetics</prism:publicationName>
-            <prism:doi>10.1038/s41588-023-01491-y</prism:doi>
-            <prism:url>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01491-y</prism:url>
+                <![CDATA[<p>Nature, Published online: 2023-09-06; <a href="https://www.nature.com/articles/d41586-023-02565-x">doi:doi.org/d41586-023-02565-x</a></p>Surface interaction propels molecule forwards]]></content:encoded>
+            <dc:title><![CDATA[Surface interaction propels molecule forwards]]></dc:title>
+            <dc:creator>Leo Gross</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02565-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-06; | doi:doi.org/d41586-023-02565-x</dc:source>
+            <dc:date>2023-09-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02565-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02565-x</prism:url>
         </item>
     
-        <item rdf:about="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01490-z">
-            <title><![CDATA[Mutation rates and fitness consequences of mosaic chromosomal alterations in blood]]></title>
-            <link>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01490-z</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02673-8">
+            <title><![CDATA[Dynamic regulation of messenger RNA structure controls translation]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02673-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature Genetics, Published online: 11 September 2023; <a href="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01490-z">doi:10.1038/s41588-023-01490-z</a></p>A survey of the fitness effects conferred by mosaic chromosomal alterations (mCAs) in UK Biobank shows that most mCAs—despite being relatively infrequent—are associated with increased fitness. Mosaic loss of the sex chromosomes was more common but these events afforded only small fitness gains.]]></content:encoded>
-            <dc:title><![CDATA[Mutation rates and fitness consequences of mosaic chromosomal alterations in blood]]></dc:title>
-            <dc:creator>Caroline J. Watson</dc:creator><dc:creator>Jamie R. Blundell</dc:creator>
-            <dc:identifier>doi:10.1038/s41588-023-01490-z</dc:identifier>
-            <dc:source>Nature Genetics, Published online: 2023-09-11; | doi:10.1038/s41588-023-01490-z</dc:source>
-            <dc:date>2023-09-11</dc:date>
-            <prism:publicationName>Nature Genetics</prism:publicationName>
-            <prism:doi>10.1038/s41588-023-01490-z</prism:doi>
-            <prism:url>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01490-z</prism:url>
+                <![CDATA[<p>Nature, Published online: 2023-09-06; <a href="https://www.nature.com/articles/d41586-023-02673-8">doi:doi.org/d41586-023-02673-8</a></p>Dynamic regulation of messenger RNA structure controls translation]]></content:encoded>
+            <dc:title><![CDATA[Dynamic regulation of messenger RNA structure controls translation]]></dc:title>
+            <dc:creator>Yizhu Lin</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02673-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-06; | doi:doi.org/d41586-023-02673-8</dc:source>
+            <dc:date>2023-09-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02673-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02673-8</prism:url>
         </item>
     
-        <item rdf:about="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01513-9">
-            <title><![CDATA[VNTRs and disease risk]]></title>
-            <link>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01513-9</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02739-7">
+            <title><![CDATA[Cardiac cycle inspires optimized pipe flow]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02739-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature Genetics, Published online: 08 September 2023; <a href="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01513-9">doi:10.1038/s41588-023-01513-9</a></p>VNTRs and disease risk]]></content:encoded>
-            <dc:title><![CDATA[VNTRs and disease risk]]></dc:title>
-            <dc:creator>Kyle Vogan</dc:creator>
-            <dc:identifier>doi:10.1038/s41588-023-01513-9</dc:identifier>
-            <dc:source>Nature Genetics, Published online: 2023-09-08; | doi:10.1038/s41588-023-01513-9</dc:source>
-            <dc:date>2023-09-08</dc:date>
-            <prism:publicationName>Nature Genetics</prism:publicationName>
-            <prism:doi>10.1038/s41588-023-01513-9</prism:doi>
-            <prism:url>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01513-9</prism:url>
+                <![CDATA[<p>Nature, Published online: 2023-09-06; <a href="https://www.nature.com/articles/d41586-023-02739-7">doi:doi.org/d41586-023-02739-7</a></p>Cardiac cycle inspires optimized pipe flow]]></content:encoded>
+            <dc:title><![CDATA[Cardiac cycle inspires optimized pipe flow]]></dc:title>
+            <dc:creator>Angela Busse</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02739-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-06; | doi:doi.org/d41586-023-02739-7</dc:source>
+            <dc:date>2023-09-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02739-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02739-7</prism:url>
         </item>
     
-        <item rdf:about="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01511-x">
-            <title><![CDATA[The complex relationship between cell transcriptomic state and phenotype]]></title>
-            <link>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01511-x</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02738-8">
+            <title><![CDATA[From the archive: enchanting insects, and John Stuart Mill’s will]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02738-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature Genetics, Published online: 08 September 2023; <a href="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01511-x">doi:10.1038/s41588-023-01511-x</a></p>The complex relationship between cell transcriptomic state and phenotype]]></content:encoded>
-            <dc:title><![CDATA[The complex relationship between cell transcriptomic state and phenotype]]></dc:title>
-            <dc:creator>Michael Fletcher</dc:creator>
-            <dc:identifier>doi:10.1038/s41588-023-01511-x</dc:identifier>
-            <dc:source>Nature Genetics, Published online: 2023-09-08; | doi:10.1038/s41588-023-01511-x</dc:source>
-            <dc:date>2023-09-08</dc:date>
-            <prism:publicationName>Nature Genetics</prism:publicationName>
-            <prism:doi>10.1038/s41588-023-01511-x</prism:doi>
-            <prism:url>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01511-x</prism:url>
+                <![CDATA[<p>Nature, Published online: 2023-09-05; <a href="https://www.nature.com/articles/d41586-023-02738-8">doi:doi.org/d41586-023-02738-8</a></p>From the archive: enchanting insects, and John Stuart Mill’s will]]></content:encoded>
+            <dc:title><![CDATA[From the archive: enchanting insects, and John Stuart Mill’s will]]></dc:title>
+            <dc:creator></dc:creator>
+            <dc:identifier>doi.org/d41586-023-02738-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-05; | doi:doi.org/d41586-023-02738-8</dc:source>
+            <dc:date>2023-09-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02738-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02738-8</prism:url>
         </item>
     
-        <item rdf:about="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01514-8">
-            <title><![CDATA[Alu elements confer enhancer–promoter specificity]]></title>
-            <link>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01514-8</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02506-8">
+            <title><![CDATA[Drone-racing champions outpaced by AI]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02506-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature Genetics, Published online: 08 September 2023; <a href="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01514-8">doi:10.1038/s41588-023-01514-8</a></p>Alu elements confer enhancer–promoter specificity]]></content:encoded>
-            <dc:title><![CDATA[Alu elements confer enhancer–promoter specificity]]></dc:title>
-            <dc:creator>Chiara Anania</dc:creator>
-            <dc:identifier>doi:10.1038/s41588-023-01514-8</dc:identifier>
-            <dc:source>Nature Genetics, Published online: 2023-09-08; | doi:10.1038/s41588-023-01514-8</dc:source>
-            <dc:date>2023-09-08</dc:date>
-            <prism:publicationName>Nature Genetics</prism:publicationName>
-            <prism:doi>10.1038/s41588-023-01514-8</prism:doi>
-            <prism:url>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01514-8</prism:url>
+                <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02506-8">doi:doi.org/d41586-023-02506-8</a></p>Drone-racing champions outpaced by AI]]></content:encoded>
+            <dc:title><![CDATA[Drone-racing champions outpaced by AI]]></dc:title>
+            <dc:creator>Guido C. H. E. de Croon</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02506-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02506-8</dc:source>
+            <dc:date>2023-08-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02506-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02506-8</prism:url>
         </item>
     
-        <item rdf:about="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01512-w">
-            <title><![CDATA[Genomics of the oldest domesticated wheat]]></title>
-            <link>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01512-w</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02485-w">
+            <title><![CDATA[Heaviest oxygen isotope is found to be unbound]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02485-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature Genetics, Published online: 08 September 2023; <a href="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01512-w">doi:10.1038/s41588-023-01512-w</a></p>Genomics of the oldest domesticated wheat]]></content:encoded>
-            <dc:title><![CDATA[Genomics of the oldest domesticated wheat]]></dc:title>
-            <dc:creator>Wei Li</dc:creator>
-            <dc:identifier>doi:10.1038/s41588-023-01512-w</dc:identifier>
-            <dc:source>Nature Genetics, Published online: 2023-09-08; | doi:10.1038/s41588-023-01512-w</dc:source>
-            <dc:date>2023-09-08</dc:date>
-            <prism:publicationName>Nature Genetics</prism:publicationName>
-            <prism:doi>10.1038/s41588-023-01512-w</prism:doi>
-            <prism:url>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01512-w</prism:url>
+                <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02485-w">doi:doi.org/d41586-023-02485-w</a></p>Heaviest oxygen isotope is found to be unbound]]></content:encoded>
+            <dc:title><![CDATA[Heaviest oxygen isotope is found to be unbound]]></dc:title>
+            <dc:creator>Rituparna Kanungo</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02485-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02485-w</dc:source>
+            <dc:date>2023-08-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02485-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02485-w</prism:url>
         </item>
     
-        <item rdf:about="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01462-3">
-            <title><![CDATA[GWAS of random glucose in 476,326 individuals provide insights into diabetes pathophysiology, complications and treatment stratification]]></title>
-            <link>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01462-3</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02595-5">
+            <title><![CDATA[A drowned future for coastal ecosystems]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02595-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature Genetics, Published online: 07 September 2023; <a href="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01462-3">doi:10.1038/s41588-023-01462-3</a></p>Genome-wide association analyses of blood glucose measurements under nonstandardized conditions provide insights into the biology of glucose regulation, diabetes complications and pathways for treatment stratification.]]></content:encoded>
-            <dc:title><![CDATA[GWAS of random glucose in 476,326 individuals provide insights into diabetes pathophysiology, complications and treatment stratification]]></dc:title>
-            <dc:creator>Vasiliki Lagou</dc:creator><dc:creator>Longda Jiang</dc:creator><dc:creator>Anna Ulrich</dc:creator><dc:creator>Liudmila Zudina</dc:creator><dc:creator>Karla Sofia Gutiérrez González</dc:creator><dc:creator>Zhanna Balkhiyarova</dc:creator><dc:creator>Alessia Faggian</dc:creator><dc:creator>Jared G. Maina</dc:creator><dc:creator>Shiqian Chen</dc:creator><dc:creator>Petar V. Todorov</dc:creator><dc:creator>Sodbo Sharapov</dc:creator><dc:creator>Alessia David</dc:creator><dc:creator>Letizia Marullo</dc:creator><dc:creator>Reedik Mägi</dc:creator><dc:creator>Roxana-Maria Rujan</dc:creator><dc:creator>Emma Ahlqvist</dc:creator><dc:creator>Gudmar Thorleifsson</dc:creator><dc:creator>Ηe Gao</dc:creator><dc:creator>Εvangelos Εvangelou</dc:creator><dc:creator>Beben Benyamin</dc:creator><dc:creator>Robert A. Scott</dc:creator><dc:creator>Aaron Isaacs</dc:creator><dc:creator>Jing Hua Zhao</dc:creator><dc:creator>Sara M. Willems</dc:creator><dc:creator>Toby Johnson</dc:creator><dc:creator>Christian Gieger</dc:creator><dc:creator>Harald Grallert</dc:creator><dc:creator>Christa Meisinger</dc:creator><dc:creator>Martina Müller-Nurasyid</dc:creator><dc:creator>Rona J. Strawbridge</dc:creator><dc:creator>Anuj Goel</dc:creator><dc:creator>Denis Rybin</dc:creator><dc:creator>Eva Albrecht</dc:creator><dc:creator>Anne U. Jackson</dc:creator><dc:creator>Heather M. Stringham</dc:creator><dc:creator>Ivan R. Corrêa Jr.</dc:creator><dc:creator>Eric Farber-Eger</dc:creator><dc:creator>Valgerdur Steinthorsdottir</dc:creator><dc:creator>André G. Uitterlinden</dc:creator><dc:creator>Patricia B. Munroe</dc:creator><dc:creator>Morris J. Brown</dc:creator><dc:creator>Julian Schmidberger</dc:creator><dc:creator>Oddgeir Holmen</dc:creator><dc:creator>Barbara Thorand</dc:creator><dc:creator>Kristian Hveem</dc:creator><dc:creator>Tom Wilsgaard</dc:creator><dc:creator>Karen L. Mohlke</dc:creator><dc:creator>Zhe Wang</dc:creator><dc:creator>Marcel den Hoed</dc:creator><dc:creator>Aleksey Shmeliov</dc:creator><dc:creator>Marcel den Hoed</dc:creator><dc:creator>Ruth J. F. Loos</dc:creator><dc:creator>Wolfgang Kratzer</dc:creator><dc:creator>Mark Haenle</dc:creator><dc:creator>Wolfgang Koenig</dc:creator><dc:creator>Bernhard O. Boehm</dc:creator><dc:creator>Tricia M. Tan</dc:creator><dc:creator>Alejandra Tomas</dc:creator><dc:creator>Victoria Salem</dc:creator><dc:creator>Inês Barroso</dc:creator><dc:creator>Jaakko Tuomilehto</dc:creator><dc:creator>Michael Boehnke</dc:creator><dc:creator>Jose C. Florez</dc:creator><dc:creator>Anders Hamsten</dc:creator><dc:creator>Hugh Watkins</dc:creator><dc:creator>Inger Njølstad</dc:creator><dc:creator>H.-Erich Wichmann</dc:creator><dc:creator>Mark J. Caulfield</dc:creator><dc:creator>Kay-Tee Khaw</dc:creator><dc:creator>Cornelia M. van Duijn</dc:creator><dc:creator>Albert Hofman</dc:creator><dc:creator>Nicholas J. Wareham</dc:creator><dc:creator>Claudia Langenberg</dc:creator><dc:creator>John B. Whitfield</dc:creator><dc:creator>Nicholas G. Martin</dc:creator><dc:creator>Grant Montgomery</dc:creator><dc:creator>Chiara Scapoli</dc:creator><dc:creator>Ioanna Tzoulaki</dc:creator><dc:creator>Paul Elliott</dc:creator><dc:creator>Unnur Thorsteinsdottir</dc:creator><dc:creator>Kari Stefansson</dc:creator><dc:creator>Evan L. Brittain</dc:creator><dc:creator>Mark I. McCarthy</dc:creator><dc:creator>Philippe Froguel</dc:creator><dc:creator>Patrick M. Sexton</dc:creator><dc:creator>Denise Wootten</dc:creator><dc:creator>Leif Groop</dc:creator><dc:creator>Josée Dupuis</dc:creator><dc:creator>James B. Meigs</dc:creator><dc:creator>Giuseppe Deganutti</dc:creator><dc:creator>Ayse Demirkan</dc:creator><dc:creator>Tune H. Pers</dc:creator><dc:creator>Christopher A. Reynolds</dc:creator><dc:creator>Yurii S. Aulchenko</dc:creator><dc:creator>Marika A. Kaakinen</dc:creator><dc:creator>Ben Jones</dc:creator><dc:creator>Inga Prokopenko</dc:creator><dc:creator>Cornelia M. van Duijn</dc:creator>
-            <dc:identifier>doi:10.1038/s41588-023-01462-3</dc:identifier>
-            <dc:source>Nature Genetics, Published online: 2023-09-07; | doi:10.1038/s41588-023-01462-3</dc:source>
-            <dc:date>2023-09-07</dc:date>
-            <prism:publicationName>Nature Genetics</prism:publicationName>
-            <prism:doi>10.1038/s41588-023-01462-3</prism:doi>
-            <prism:url>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01462-3</prism:url>
+                <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02595-5">doi:doi.org/d41586-023-02595-5</a></p>A drowned future for coastal ecosystems]]></content:encoded>
+            <dc:title><![CDATA[A drowned future for coastal ecosystems]]></dc:title>
+            <dc:creator>Qiang He</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02595-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02595-5</dc:source>
+            <dc:date>2023-08-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02595-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02595-5</prism:url>
         </item>
     
-        <item rdf:about="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01495-8">
-            <title><![CDATA[Structure and function of rice hybrid genomes reveal genetic basis and optimal performance of heterosis]]></title>
-            <link>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01495-8</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02486-9">
+            <title><![CDATA[Dynamic ion channel defies dogma]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02486-9</link>
             <content:encoded>
-                <![CDATA[<p>Nature Genetics, Published online: 07 September 2023; <a href="https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01495-8">doi:10.1038/s41588-023-01495-8</a></p>Resequencing of 2,839 hybrid rice cultivars and 9,839 F2 individuals from 18 elite crosses is used to characterize the genetics underlying a range of grain yield-related traits, providing insights into heterosis during breeding and a predictive model.]]></content:encoded>
-            <dc:title><![CDATA[Structure and function of rice hybrid genomes reveal genetic basis and optimal performance of heterosis]]></dc:title>
-            <dc:creator>Zhoulin Gu</dc:creator><dc:creator>Junyi Gong</dc:creator><dc:creator>Zhou Zhu</dc:creator><dc:creator>Zhen Li</dc:creator><dc:creator>Qi Feng</dc:creator><dc:creator>Changsheng Wang</dc:creator><dc:creator>Yan Zhao</dc:creator><dc:creator>Qilin Zhan</dc:creator><dc:creator>Congcong Zhou</dc:creator><dc:creator>Ahong Wang</dc:creator><dc:creator>Tao Huang</dc:creator><dc:creator>Lei Zhang</dc:creator><dc:creator>Qilin Tian</dc:creator><dc:creator>Danlin Fan</dc:creator><dc:creator>Yiqi Lu</dc:creator><dc:creator>Qiang Zhao</dc:creator><dc:creator>Xuehui Huang</dc:creator><dc:creator>Shihua Yang</dc:creator><dc:creator>Bin Han</dc:creator>
-            <dc:identifier>doi:10.1038/s41588-023-01495-8</dc:identifier>
-            <dc:source>Nature Genetics, Published online: 2023-09-07; | doi:10.1038/s41588-023-01495-8</dc:source>
-            <dc:date>2023-09-07</dc:date>
-            <prism:publicationName>Nature Genetics</prism:publicationName>
-            <prism:doi>10.1038/s41588-023-01495-8</prism:doi>
-            <prism:url>https://www-nature-com.insb.bib.cnrs.fr/articles/s41588-023-01495-8</prism:url>
+                <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02486-9">doi:doi.org/d41586-023-02486-9</a></p>Dynamic ion channel defies dogma]]></content:encoded>
+            <dc:title><![CDATA[Dynamic ion channel defies dogma]]></dc:title>
+            <dc:creator>Ute A. Hellmich</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02486-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02486-9</dc:source>
+            <dc:date>2023-08-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02486-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02486-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02502-y">
+            <title><![CDATA[Previously unknown pathway for lipid biosynthesis discovered]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02502-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02502-y">doi:doi.org/d41586-023-02502-y</a></p>Previously unknown pathway for lipid biosynthesis discovered]]></content:encoded>
+            <dc:title><![CDATA[Previously unknown pathway for lipid biosynthesis discovered]]></dc:title>
+            <dc:creator>Jean E. Schaffer</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02502-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02502-y</dc:source>
+            <dc:date>2023-08-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02502-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02502-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02594-6">
+            <title><![CDATA[Rethinking the effect of marine heatwaves on fish]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02594-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02594-6">doi:doi.org/d41586-023-02594-6</a></p>Rethinking the effect of marine heatwaves on fish]]></content:encoded>
+            <dc:title><![CDATA[Rethinking the effect of marine heatwaves on fish]]></dc:title>
+            <dc:creator>Mark R. Payne</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02594-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02594-6</dc:source>
+            <dc:date>2023-08-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02594-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02594-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02652-z">
+            <title><![CDATA[From the archive: colour constancy, and an atomic romance]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02652-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-29; <a href="https://www.nature.com/articles/d41586-023-02652-z">doi:doi.org/d41586-023-02652-z</a></p>From the archive: colour constancy, and an atomic romance]]></content:encoded>
+            <dc:title><![CDATA[From the archive: colour constancy, and an atomic romance]]></dc:title>
+            <dc:creator></dc:creator>
+            <dc:identifier>doi.org/d41586-023-02652-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-29; | doi:doi.org/d41586-023-02652-z</dc:source>
+            <dc:date>2023-08-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02652-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02652-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02593-7">
+            <title><![CDATA[Corals have algal friends for dinner]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02593-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-23; <a href="https://www.nature.com/articles/d41586-023-02593-7">doi:doi.org/d41586-023-02593-7</a></p>Corals have algal friends for dinner]]></content:encoded>
+            <dc:title><![CDATA[Corals have algal friends for dinner]]></dc:title>
+            <dc:creator>Virginia M. Weis</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02593-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-23; | doi:doi.org/d41586-023-02593-7</dc:source>
+            <dc:date>2023-08-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02593-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02593-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02546-0">
+            <title><![CDATA[Brain implants that enable speech pass performance milestones]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02546-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-23; <a href="https://www.nature.com/articles/d41586-023-02546-0">doi:doi.org/d41586-023-02546-0</a></p>Brain implants that enable speech pass performance milestones]]></content:encoded>
+            <dc:title><![CDATA[Brain implants that enable speech pass performance milestones]]></dc:title>
+            <dc:creator>Nick F. Ramsey</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02546-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-23; | doi:doi.org/d41586-023-02546-0</dc:source>
+            <dc:date>2023-08-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02546-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02546-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02569-7">
+            <title><![CDATA[Analog chip paves the way for sustainable AI]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02569-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-23; <a href="https://www.nature.com/articles/d41586-023-02569-7">doi:doi.org/d41586-023-02569-7</a></p>Analog chip paves the way for sustainable AI]]></content:encoded>
+            <dc:title><![CDATA[Analog chip paves the way for sustainable AI]]></dc:title>
+            <dc:creator>Hechen Wang</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02569-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-23; | doi:doi.org/d41586-023-02569-7</dc:source>
+            <dc:date>2023-08-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02569-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02569-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02349-3">
+            <title><![CDATA[Satellite images show the widespread impact of mining on tropical rivers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02349-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-23; <a href="https://www.nature.com/articles/d41586-023-02349-3">doi:doi.org/d41586-023-02349-3</a></p>Satellite images show the widespread impact of mining on tropical rivers]]></content:encoded>
+            <dc:title><![CDATA[Satellite images show the widespread impact of mining on tropical rivers]]></dc:title>
+            <dc:creator>Bryony Walmsley</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02349-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-23; | doi:doi.org/d41586-023-02349-3</dc:source>
+            <dc:date>2023-08-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02349-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02349-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02355-5">
+            <title><![CDATA[From the archive: Copernicus’s legacy, and a hungry pigeon]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02355-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-22; <a href="https://www.nature.com/articles/d41586-023-02355-5">doi:doi.org/d41586-023-02355-5</a></p>From the archive: Copernicus’s legacy, and a hungry pigeon]]></content:encoded>
+            <dc:title><![CDATA[From the archive: Copernicus’s legacy, and a hungry pigeon]]></dc:title>
+            <dc:creator></dc:creator>
+            <dc:identifier>doi.org/d41586-023-02355-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-22; | doi:doi.org/d41586-023-02355-5</dc:source>
+            <dc:date>2023-08-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02355-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02355-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02517-5">
+            <title><![CDATA[Immune treatment tackles chronic obstructive pulmonary disease]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02517-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-16; <a href="https://www.nature.com/articles/d41586-023-02517-5">doi:doi.org/d41586-023-02517-5</a></p>Immune treatment tackles chronic obstructive pulmonary disease]]></content:encoded>
+            <dc:title><![CDATA[Immune treatment tackles chronic obstructive pulmonary disease]]></dc:title>
+            <dc:creator>John V. Fahy</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02517-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-16; | doi:doi.org/d41586-023-02517-5</dc:source>
+            <dc:date>2023-08-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02517-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02517-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01783-7">
+            <title><![CDATA[Mitochondrial DNA comes with nuclear strings attached]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01783-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-16; <a href="https://www.nature.com/articles/d41586-023-01783-7">doi:doi.org/d41586-023-01783-7</a></p>Mitochondrial DNA comes with nuclear strings attached]]></content:encoded>
+            <dc:title><![CDATA[Mitochondrial DNA comes with nuclear strings attached]]></dc:title>
+            <dc:creator>Sonia Boscenco</dc:creator>
+            <dc:identifier>doi.org/d41586-023-01783-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-16; | doi:doi.org/d41586-023-01783-7</dc:source>
+            <dc:date>2023-08-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-01783-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01783-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02490-z">
+            <title><![CDATA[The great melt will shape unprotected ecosystems]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02490-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-16; <a href="https://www.nature.com/articles/d41586-023-02490-z">doi:doi.org/d41586-023-02490-z</a></p>The great melt will shape unprotected ecosystems]]></content:encoded>
+            <dc:title><![CDATA[The great melt will shape unprotected ecosystems]]></dc:title>
+            <dc:creator>Nicolas Lecomte</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02490-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-16; | doi:doi.org/d41586-023-02490-z</dc:source>
+            <dc:date>2023-08-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02490-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02490-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02353-7">
+            <title><![CDATA[Clues to rain formation found in droplet images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02353-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 2023-08-16; <a href="https://www.nature.com/articles/d41586-023-02353-7">doi:doi.org/d41586-023-02353-7</a></p>Clues to rain formation found in droplet images]]></content:encoded>
+            <dc:title><![CDATA[Clues to rain formation found in droplet images]]></dc:title>
+            <dc:creator>Thomas Leisner</dc:creator>
+            <dc:identifier>doi.org/d41586-023-02353-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-16; | doi:doi.org/d41586-023-02353-7</dc:source>
+            <dc:date>2023-08-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>doi.org/d41586-023-02353-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02353-7</prism:url>
+        </item>
+        
 </rdf:RDF>
+
