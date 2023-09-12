@@ -1,3 +1,5 @@
+#!/Users/labo/miniconda3/bin/python
+
 
 """
 nature_news_views_rss.py
@@ -12,24 +14,28 @@ from urllib.request import (
     urlopen, urlparse, urlunparse, urlretrieve)
 import os
 import sys
+import time
 
 
 def main():
     """Create RSS from website Nature News & Views"""
     # https://www.nature.com/nature/articles?type=news-and-views
     #
-    ## retrieve articles
-    item_list = retrieve_articles()
-    #
-    #
-    ## print XML for RSS feed
-    # tcrea = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    xmlt = make_rss_text(item_list)
-    #
-    #
-    ## update the file
-    update_file(xmlt)
-
+    while True:
+        ## retrieve articles
+        item_list = retrieve_articles()
+        #
+        #
+        ## print XML for RSS feed
+        # tcrea = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+        xmlt = make_rss_text(item_list)
+        #
+        #
+        ## update the file
+        update_file(xmlt)
+        #
+        ## wait for a day before next update
+        time.sleep(60 * 60 * 24)
 
 
 def make_rss_text(item_list):
@@ -77,7 +83,7 @@ def make_rss_text(item_list):
                 <content:encoded>
                     <![CDATA[<p>Nature, Published online: %s; <a href="%s">doi:%s</a></p>%s]]></content:encoded>
                 <dc:title><![CDATA[%s]]></dc:title>
-                <dc:creator>%s</dc:creator>
+                %s
                 <dc:identifier>%s</dc:identifier>
                 <dc:source>Nature, Published online: %s; | doi:%s</dc:source>
                 <dc:date>%s</dc:date>
@@ -86,6 +92,8 @@ def make_rss_text(item_list):
                 <prism:url>%s</prism:url>
             </item>
         ''' % (item['item_href'], item['item_title'], item['item_href'], item['temps'], item['item_href'], item['item_doi'], item['item_title'], item['item_title'], item['item_author'], item['item_doi'], item['temps'], item['item_doi'], item['temps'], item['item_doi'], item['item_href'])
+                # <description>%s</description>
+                # , item['item_summary']
         #
         xmlt += xml_item
     #
@@ -113,7 +121,7 @@ def update_file(xmlt):
 
 
 def retrieve_articles(url='https://www.nature.com/nature/articles?type=news-and-views'):
-    domain = url.split('/')[2]
+    # domain = url.split('/')[2]
     url_base = '/'.join(url.split('/')[0:3])
     soup = bs(urlopen(url))
     #
@@ -128,10 +136,14 @@ def retrieve_articles(url='https://www.nature.com/nature/articles?type=news-and-
             item_href = ''.join([url_base, card.h3.a.get_attribute_list("href")[0]])
             item_doi = 'doi.org/' + item_href.split('/')[-1]
             item_summary = card.div.p.get_text()
+            #
             try:
-                item_author = card.ul.li.get_text()
+                authl = []
+                for authb in card.ul.findAll("li"):
+                    authl.append(authb.get_text())
+                item_auth = '\n'.join(['''                <dc:creator>%s</dc:creator>''' % auth for auth in authl])
             except:
-                item_author = ''
+                item_auth = ''
         #
         for data in art.findAll("div", class_="c-card__section"):
             # data = art.findAll("div", class_="c-card__section")[0]
@@ -139,7 +151,7 @@ def retrieve_articles(url='https://www.nature.com/nature/articles?type=news-and-
             temps = data.time.get_attribute_list("datetime")[0]
             orderx = "%s_%s" % (temps, arti)
         #
-        item_list.append({'item_title': item_title, 'item_summary': item_summary, 'temps': temps, 'orderx': orderx, 'item_href': item_href, 'item_doi': item_doi, 'item_author': item_author})
+        item_list.append({'item_title': item_title, 'item_summary': item_summary, 'temps': temps, 'orderx': orderx, 'item_href': item_href, 'item_doi': item_doi, 'item_author': item_auth})
     #
     #
     ## reorder by publication time
