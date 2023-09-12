@@ -42,7 +42,7 @@ def make_rss_text(item_list):
     xmlt = '''<?xml version='1.0' encoding='UTF-8'?>
         <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
         <channel>
-            <title>Nature News and Views </title>
+            <title>Nature News and Views</title>
             <link>https://github.com/SebastienLemaire/general/blob/main/nature_news_views.rss</link>
             <description>News and Views articles from Nature Publishing Group journals</description>
             <atom:link href="https://github.com/SebastienLemaire/general/blob/main/nature_news_views.rss" rel="self"/>
@@ -65,11 +65,11 @@ def make_rss_text(item_list):
                 <pubDate>%s</pubDate>
                 %s
                 <dc:date>%s</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>%s</dc:source>
                 <dc:title>%s</dc:title>
                 <dc:identifier>doi:%s</dc:identifier>
             </item>
-        ''' % (item['item_title'], item['item_href'], item['item_summary'], item['item_summary'], item['temps'], item['item_author'], item['temps'], item['item_title'], item['item_doi'])
+        ''' % (item['item_title'], item['item_href'], item['item_summary'], item['item_summary'], item['temps'], item['item_author'], item['temps'], item['item_journal'], item['item_title'], item['item_doi'])
         #
         xmlt += xml_item
     #
@@ -97,38 +97,49 @@ def update_file(xmlt):
     os.system('git push -u origin main')
 
 
-def retrieve_articles(url='https://www.nature.com/nature/articles?type=news-and-views'):
-    # domain = url.split('/')[2]
-    url_base = '/'.join(url.split('/')[0:3])
-    soup = bs(urlopen(url))
+def retrieve_articles(url_list=['https://www.nature.com/nature/articles?type=news-and-views', 'https://www.nature.com/ng/articles?type=news-and-views', 'https://www.nature.com/nm/articles?type=news-and-views', 'https://www.nature.com/ncb/articles?type=news-and-views', 'https://www.nature.com/nmeth/articles?type=news-and-views', 'https://www.nature.com/nplants/articles?type=news-and-views']):
+    jdic = {
+        'nature': 'Nature',
+        'ng': 'Nature Genetics',
+        'nm': 'Nature Medicine',
+        'ncb': 'Nature Cell Biology',
+        'nmeth': 'Nature Methods',
+        'nplants': 'Nature Plants'
+    }
     #
     item_list = []
-    for arti, art in enumerate(soup.findAll("article", class_="u-full-height")):
-        # art = soup.findAll("article", class_="u-full-height")[0]
+    for url in url_list:
+        url_sect = url.split('/')
+        # domain = url.split('/')[2]
+        url_base = '/'.join(url_sect[0:3])
+        soup = bs(urlopen(url))
         #
-        for card in art.findAll("div", class_="c-card__body"):
-            # card = soup.findAll("div", class_="c-card__body")[0]
+        for arti, art in enumerate(soup.findAll("article", class_="u-full-height")):
+            # art = soup.findAll("article", class_="u-full-height")[0]
             #
-            item_title = card.h3.a.get_text()
-            item_href = ''.join([url_base, card.h3.a.get_attribute_list("href")[0]])
-            item_doi = 'doi.org/' + item_href.split('/')[-1]
-            item_summary = card.div.p.get_text()
+            for card in art.findAll("div", class_="c-card__body"):
+                # card = soup.findAll("div", class_="c-card__body")[0]
+                #
+                item_title = card.h3.a.get_text()
+                item_href = ''.join([url_base, card.h3.a.get_attribute_list("href")[0]])
+                item_doi = 'doi.org/' + item_href.split('/')[-1]
+                item_summary = card.div.p.get_text()
+                #
+                try:
+                    authl = []
+                    for authb in card.ul.findAll("li"):
+                        authl.append(authb.get_text())
+                    item_auth = '\n                '.join(['''<dc:creator>%s</dc:creator>''' % auth for auth in authl])
+                except:
+                    item_auth = ''
             #
-            try:
-                authl = []
-                for authb in card.ul.findAll("li"):
-                    authl.append(authb.get_text())
-                item_auth = '\n'.join(['''                <dc:creator>%s</dc:creator>''' % auth for auth in authl])
-            except:
-                item_auth = ''
-        #
-        for data in art.findAll("div", class_="c-card__section"):
-            # data = art.findAll("div", class_="c-card__section")[0]
+            for data in art.findAll("div", class_="c-card__section"):
+                # data = art.findAll("div", class_="c-card__section")[0]
+                #
+                temps = data.time.get_attribute_list("datetime")[0]
+                orderx = "%s_%s" % (temps, arti)
             #
-            temps = data.time.get_attribute_list("datetime")[0]
-            orderx = "%s_%s" % (temps, arti)
-        #
-        item_list.append({'item_title': item_title, 'item_summary': item_summary, 'temps': temps, 'orderx': orderx, 'item_href': item_href, 'item_doi': item_doi, 'item_author': item_auth})
+            item_list.append({'item_journal': jdic[url_sect[3]], 'item_title': item_title, 'item_summary': item_summary, 'temps': temps, 'orderx': orderx, 'item_href': item_href, 'item_doi': item_doi, 'item_author': item_auth})
     #
     #
     ## reorder by publication time
