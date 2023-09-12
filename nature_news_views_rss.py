@@ -39,67 +39,44 @@ def main():
 
 
 def make_rss_text(item_list):
-    xmlt = '''<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/">
-        <channel rdf:about="https://raw.githubusercontent.com/SebastienLemaire/general/main/nature_news_views.rss">
-            <title>Nature</title>
-            <description>Nature publishes peer-reviewed original research of the highest quality in all areas of cell biology with an emphasis on studies that provide insights into the molecular mechanisms underlying cellular processes. The journal&amp;rsquo;s scope is broad and ranges from cytoskeletal dynamics, membrane transport, adhesion and migration, cell division, signalling pathways, development and stem cells, to molecular and cellular mechanisms underlying cancer. Nature Cell Biology provides timely and informative coverage of cell biological advances.</description>
-            <link>https://raw.githubusercontent.com/SebastienLemaire/general/main/nature_news_views.rss</link>
-            <admin:generatorAgent rdf:resource="https://raw.githubusercontent.com/SebastienLemaire/general/"/>
-            <admin:errorReportsTo rdf:resource="mailto:sebastien.lemaire3@numericable.fr"/>
-            <dc:publisher>SebastienLemaire</dc:publisher>
-            <dc:language>en</dc:language>
-            <dc:rights>© 2023 Sebastien Lemaire Production. All rights reserved.</dc:rights>
-            <prism:publicationName>Nature Cell Biology</prism:publicationName>
-            
-            
-            <prism:copyright>© 2023 Sebastien Lemaire Production. All rights reserved.</prism:copyright>
-            <prism:rightsAgent>sebastien.lemaire3@numericable.fr</prism:rightsAgent>
-            <items>
-                <rdf:Seq>
-                '''
-    #
-    #
-    for item in item_list:
-        xml_item_seq = '''
-                        <rdf:li rdf:resource="%s"/>
-        ''' % (item['item_href'])
-        #
-        xmlt += xml_item_seq
-    #
-    #
-    xmlt += '''
-                </rdf:Seq>
-            </items>
-        </channel>
-        '''
+    xmlt = '''<?xml version='1.0' encoding='UTF-8'?>
+        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+            <title>Nature News and Views </title>
+            <link>https://github.com/SebastienLemaire/general/blob/main/nature_news_views.rss</link>
+            <description>News and Views articles from Nature Publishing Group journals</description>
+            <atom:link href="https://github.com/SebastienLemaire/general/blob/main/nature_news_views.rss" rel="self"/>
+            <docs>http://www.rssboard.org/rss-specification</docs>
+            <generator>nature_news_views_rss.py</generator>
+            <language>en</language>
+            <lastBuildDate>Tue, 12 Sep 2023 13:18:50 +0000</lastBuildDate>
+            <pubDate>Sat, 09 Sep 2023 06:00:00 -0400</pubDate>
+            <ttl>120</ttl>
+    '''
     #
     #
     for item in item_list:
         xml_item = '''
-            <item rdf:about="%s">
-                <title><![CDATA[%s]]></title>
+            <item>
+                <title>%s</title>
                 <link>%s</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: %s; <a href="%s">doi:%s</a></p>%s]]></content:encoded>
-                <dc:title><![CDATA[%s]]></dc:title>
+                <description>%s</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">%s</p></div>]]></content:encoded>
+                <pubDate>%s</pubDate>
                 %s
-                <dc:identifier>%s</dc:identifier>
-                <dc:source>Nature, Published online: %s; | doi:%s</dc:source>
                 <dc:date>%s</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>%s</prism:doi>
-                <prism:url>%s</prism:url>
+                <dc:source>Nature News and Views</dc:source>
+                <dc:title>%s</dc:title>
+                <dc:identifier>doi:%s</dc:identifier>
             </item>
-        ''' % (item['item_href'], item['item_title'], item['item_href'], item['temps'], item['item_href'], item['item_doi'], item['item_title'], item['item_title'], item['item_author'], item['item_doi'], item['temps'], item['item_doi'], item['temps'], item['item_doi'], item['item_href'])
-                # <description>%s</description>
-                # , item['item_summary']
+        ''' % (item['item_title'], item['item_href'], item['item_summary'], item['item_summary'], item['temps'], item['item_author'], item['temps'], item['item_title'], item['item_doi'])
         #
         xmlt += xml_item
     #
     #
     xmlt +='''    
-    </rdf:RDF>
+        </channel>
+    </rss>
     '''
     #
     return(xmlt)
