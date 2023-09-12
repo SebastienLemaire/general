@@ -17,6 +17,10 @@
             <items>
                 <rdf:Seq>
                 
+                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02766-4"/>
+        
+                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02769-1"/>
+        
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02565-x"/>
         
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02673-8"/>
@@ -25,10 +29,6 @@
         
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02738-8"/>
         
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02506-8"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02485-w"/>
-        
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02595-5"/>
         
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02486-9"/>
@@ -36,6 +36,10 @@
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02502-y"/>
         
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02594-6"/>
+        
+                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02506-8"/>
+        
+                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02485-w"/>
         
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02652-z"/>
         
@@ -49,10 +53,6 @@
         
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02355-5"/>
         
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02517-5"/>
-        
-                        <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01783-7"/>
-        
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02490-z"/>
         
                         <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02353-7"/>
@@ -60,6 +60,36 @@
                 </rdf:Seq>
             </items>
         </channel>
+        
+            <item rdf:about="https://www.nature.com/articles/d41586-023-02766-4">
+                <title><![CDATA[Light from cosmic dawn hints at how interstellar dust is made]]></title>
+                <link>https://www.nature.com/articles/d41586-023-02766-4</link>
+                <content:encoded>
+                    <![CDATA[<p>Nature, Published online: 2023-09-12; <a href="https://www.nature.com/articles/d41586-023-02766-4">doi:doi.org/d41586-023-02766-4</a></p>Light from cosmic dawn hints at how interstellar dust is made]]></content:encoded>
+                <dc:title><![CDATA[Light from cosmic dawn hints at how interstellar dust is made]]></dc:title>
+                <dc:creator>Xuejuan Yang</dc:creator>
+                <dc:identifier>doi.org/d41586-023-02766-4</dc:identifier>
+                <dc:source>Nature, Published online: 2023-09-12; | doi:doi.org/d41586-023-02766-4</dc:source>
+                <dc:date>2023-09-12</dc:date>
+                <prism:publicationName>Nature</prism:publicationName>
+                <prism:doi>doi.org/d41586-023-02766-4</prism:doi>
+                <prism:url>https://www.nature.com/articles/d41586-023-02766-4</prism:url>
+            </item>
+        
+            <item rdf:about="https://www.nature.com/articles/d41586-023-02769-1">
+                <title><![CDATA[From the archive: the value of MSc degrees, and painting tips]]></title>
+                <link>https://www.nature.com/articles/d41586-023-02769-1</link>
+                <content:encoded>
+                    <![CDATA[<p>Nature, Published online: 2023-09-12; <a href="https://www.nature.com/articles/d41586-023-02769-1">doi:doi.org/d41586-023-02769-1</a></p>From the archive: the value of MSc degrees, and painting tips]]></content:encoded>
+                <dc:title><![CDATA[From the archive: the value of MSc degrees, and painting tips]]></dc:title>
+                <dc:creator></dc:creator>
+                <dc:identifier>doi.org/d41586-023-02769-1</dc:identifier>
+                <dc:source>Nature, Published online: 2023-09-12; | doi:doi.org/d41586-023-02769-1</dc:source>
+                <dc:date>2023-09-12</dc:date>
+                <prism:publicationName>Nature</prism:publicationName>
+                <prism:doi>doi.org/d41586-023-02769-1</prism:doi>
+                <prism:url>https://www.nature.com/articles/d41586-023-02769-1</prism:url>
+            </item>
         
             <item rdf:about="https://www.nature.com/articles/d41586-023-02565-x">
                 <title><![CDATA[Surface interaction propels molecule forwards]]></title>
@@ -121,36 +151,6 @@
                 <prism:url>https://www.nature.com/articles/d41586-023-02738-8</prism:url>
             </item>
         
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02506-8">
-                <title><![CDATA[Drone-racing champions outpaced by AI]]></title>
-                <link>https://www.nature.com/articles/d41586-023-02506-8</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02506-8">doi:doi.org/d41586-023-02506-8</a></p>Drone-racing champions outpaced by AI]]></content:encoded>
-                <dc:title><![CDATA[Drone-racing champions outpaced by AI]]></dc:title>
-                <dc:creator>Guido C. H. E. de Croon</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02506-8</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02506-8</dc:source>
-                <dc:date>2023-08-30</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02506-8</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02506-8</prism:url>
-            </item>
-        
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02485-w">
-                <title><![CDATA[Heaviest oxygen isotope is found to be unbound]]></title>
-                <link>https://www.nature.com/articles/d41586-023-02485-w</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02485-w">doi:doi.org/d41586-023-02485-w</a></p>Heaviest oxygen isotope is found to be unbound]]></content:encoded>
-                <dc:title><![CDATA[Heaviest oxygen isotope is found to be unbound]]></dc:title>
-                <dc:creator>Rituparna Kanungo</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02485-w</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02485-w</dc:source>
-                <dc:date>2023-08-30</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02485-w</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02485-w</prism:url>
-            </item>
-        
             <item rdf:about="https://www.nature.com/articles/d41586-023-02595-5">
                 <title><![CDATA[A drowned future for coastal ecosystems]]></title>
                 <link>https://www.nature.com/articles/d41586-023-02595-5</link>
@@ -209,6 +209,36 @@
                 <prism:publicationName>Nature</prism:publicationName>
                 <prism:doi>doi.org/d41586-023-02594-6</prism:doi>
                 <prism:url>https://www.nature.com/articles/d41586-023-02594-6</prism:url>
+            </item>
+        
+            <item rdf:about="https://www.nature.com/articles/d41586-023-02506-8">
+                <title><![CDATA[Drone-racing champions outpaced by AI]]></title>
+                <link>https://www.nature.com/articles/d41586-023-02506-8</link>
+                <content:encoded>
+                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02506-8">doi:doi.org/d41586-023-02506-8</a></p>Drone-racing champions outpaced by AI]]></content:encoded>
+                <dc:title><![CDATA[Drone-racing champions outpaced by AI]]></dc:title>
+                <dc:creator>Guido C. H. E. de Croon</dc:creator>
+                <dc:identifier>doi.org/d41586-023-02506-8</dc:identifier>
+                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02506-8</dc:source>
+                <dc:date>2023-08-30</dc:date>
+                <prism:publicationName>Nature</prism:publicationName>
+                <prism:doi>doi.org/d41586-023-02506-8</prism:doi>
+                <prism:url>https://www.nature.com/articles/d41586-023-02506-8</prism:url>
+            </item>
+        
+            <item rdf:about="https://www.nature.com/articles/d41586-023-02485-w">
+                <title><![CDATA[Heaviest oxygen isotope is found to be unbound]]></title>
+                <link>https://www.nature.com/articles/d41586-023-02485-w</link>
+                <content:encoded>
+                    <![CDATA[<p>Nature, Published online: 2023-08-30; <a href="https://www.nature.com/articles/d41586-023-02485-w">doi:doi.org/d41586-023-02485-w</a></p>Heaviest oxygen isotope is found to be unbound]]></content:encoded>
+                <dc:title><![CDATA[Heaviest oxygen isotope is found to be unbound]]></dc:title>
+                <dc:creator>Rituparna Kanungo</dc:creator>
+                <dc:identifier>doi.org/d41586-023-02485-w</dc:identifier>
+                <dc:source>Nature, Published online: 2023-08-30; | doi:doi.org/d41586-023-02485-w</dc:source>
+                <dc:date>2023-08-30</dc:date>
+                <prism:publicationName>Nature</prism:publicationName>
+                <prism:doi>doi.org/d41586-023-02485-w</prism:doi>
+                <prism:url>https://www.nature.com/articles/d41586-023-02485-w</prism:url>
             </item>
         
             <item rdf:about="https://www.nature.com/articles/d41586-023-02652-z">
@@ -299,36 +329,6 @@
                 <prism:publicationName>Nature</prism:publicationName>
                 <prism:doi>doi.org/d41586-023-02355-5</prism:doi>
                 <prism:url>https://www.nature.com/articles/d41586-023-02355-5</prism:url>
-            </item>
-        
-            <item rdf:about="https://www.nature.com/articles/d41586-023-02517-5">
-                <title><![CDATA[Immune treatment tackles chronic obstructive pulmonary disease]]></title>
-                <link>https://www.nature.com/articles/d41586-023-02517-5</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-16; <a href="https://www.nature.com/articles/d41586-023-02517-5">doi:doi.org/d41586-023-02517-5</a></p>Immune treatment tackles chronic obstructive pulmonary disease]]></content:encoded>
-                <dc:title><![CDATA[Immune treatment tackles chronic obstructive pulmonary disease]]></dc:title>
-                <dc:creator>John V. Fahy</dc:creator>
-                <dc:identifier>doi.org/d41586-023-02517-5</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-16; | doi:doi.org/d41586-023-02517-5</dc:source>
-                <dc:date>2023-08-16</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-02517-5</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-02517-5</prism:url>
-            </item>
-        
-            <item rdf:about="https://www.nature.com/articles/d41586-023-01783-7">
-                <title><![CDATA[Mitochondrial DNA comes with nuclear strings attached]]></title>
-                <link>https://www.nature.com/articles/d41586-023-01783-7</link>
-                <content:encoded>
-                    <![CDATA[<p>Nature, Published online: 2023-08-16; <a href="https://www.nature.com/articles/d41586-023-01783-7">doi:doi.org/d41586-023-01783-7</a></p>Mitochondrial DNA comes with nuclear strings attached]]></content:encoded>
-                <dc:title><![CDATA[Mitochondrial DNA comes with nuclear strings attached]]></dc:title>
-                <dc:creator>Sonia Boscenco</dc:creator>
-                <dc:identifier>doi.org/d41586-023-01783-7</dc:identifier>
-                <dc:source>Nature, Published online: 2023-08-16; | doi:doi.org/d41586-023-01783-7</dc:source>
-                <dc:date>2023-08-16</dc:date>
-                <prism:publicationName>Nature</prism:publicationName>
-                <prism:doi>doi.org/d41586-023-01783-7</prism:doi>
-                <prism:url>https://www.nature.com/articles/d41586-023-01783-7</prism:url>
             </item>
         
             <item rdf:about="https://www.nature.com/articles/d41586-023-02490-z">
