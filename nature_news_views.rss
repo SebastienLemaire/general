@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
         <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
         <channel>
-            <title>Nature News and Views </title>
+            <title>Nature News and Views</title>
             <link>https://github.com/SebastienLemaire/general/blob/main/nature_news_views.rss</link>
             <description>News and Views articles from Nature Publishing Group journals</description>
             <atom:link href="https://github.com/SebastienLemaire/general/blob/main/nature_news_views.rss" rel="self"/>
@@ -18,10 +18,10 @@
                 <description>The obscuration of light from a distant galaxy has raised the possibility that a type of carbon dust existed in the earliest epochs of the Universe — challenging the idea that stars had not yet evolved enough to make such material.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">The obscuration of light from a distant galaxy has raised the possibility that a type of carbon dust existed in the earliest epochs of the Universe — challenging the idea that stars had not yet evolved enough to make such material.</p></div>]]></content:encoded>
                 <pubDate>2023-09-12</pubDate>
-                                <dc:creator>Xuejuan Yang</dc:creator>
+                <dc:creator>Xuejuan Yang</dc:creator>
                 <dc:creator>Aigen Li</dc:creator>
                 <dc:date>2023-09-12</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Light from cosmic dawn hints at how interstellar dust is made</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02766-4</dc:identifier>
             </item>
@@ -34,9 +34,64 @@
                 <pubDate>2023-09-12</pubDate>
                 
                 <dc:date>2023-09-12</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>From the archive: the value of MSc degrees, and painting tips</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02769-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Hobbies for mental health</title>
+                <link>https://www.nature.com/articles/s41591-023-02508-z</link>
+                <description>At a time when global mental health is in crisis, new data support the promotion of hobby engagement at the policy level in all countries.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">At a time when global mental health is in crisis, new data support the promotion of hobby engagement at the policy level in all countries.</p></div>]]></content:encoded>
+                <pubDate>2023-09-11</pubDate>
+                <dc:creator>Sophie Wickham</dc:creator>
+                <dc:date>2023-09-11</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Hobbies for mental health</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02508-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pausing pluripotency via RNA methylation</title>
+                <link>https://www.nature.com/articles/s41556-023-01203-y</link>
+                <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Xueting Xu</dc:creator>
+                <dc:creator>Baoming Qin</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pausing pluripotency via RNA methylation</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneering the path to NASH biomarker approval</title>
+                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
+                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Aleksander Krag</dc:creator>
+                <dc:creator>Mary E. Rinella</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>8G modifications rewire tumoral microRNAs</title>
+                <link>https://www.nature.com/articles/s41556-023-01179-9</link>
+                <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Marta Montes</dc:creator>
+                <dc:creator>Maite Huarte</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>8G modifications rewire tumoral microRNAs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
             </item>
         
             <item>
@@ -45,10 +100,10 @@
                 <description>The interaction of a molecule with a specific surface has been shown to produce consistent unidirectional motion driven by voltage pulses. The mechanism can even facilitate the transport of molecular cargo.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">The interaction of a molecule with a specific surface has been shown to produce consistent unidirectional motion driven by voltage pulses. The mechanism can even facilitate the transport of molecular cargo.</p></div>]]></content:encoded>
                 <pubDate>2023-09-06</pubDate>
-                                <dc:creator>Leo Gross</dc:creator>
+                <dc:creator>Leo Gross</dc:creator>
                 <dc:creator>Jascha Repp</dc:creator>
                 <dc:date>2023-09-06</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Surface interaction propels molecule forwards</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02565-x</dc:identifier>
             </item>
@@ -59,10 +114,10 @@
                 <description>During translation, messenger RNA guides protein production, and certain conditions can favour particular proteins. Helicase enzymes and mRNA structure control translation during defence responses in plants.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">During translation, messenger RNA guides protein production, and certain conditions can favour particular proteins. Helicase enzymes and mRNA structure control translation during defence responses in plants.</p></div>]]></content:encoded>
                 <pubDate>2023-09-06</pubDate>
-                                <dc:creator>Yizhu Lin</dc:creator>
+                <dc:creator>Yizhu Lin</dc:creator>
                 <dc:creator>Stephen N. Floor</dc:creator>
                 <dc:date>2023-09-06</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Dynamic regulation of messenger RNA structure controls translation</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02673-8</dc:identifier>
             </item>
@@ -73,9 +128,9 @@
                 <description>Pulsatile driving of pipe flow that imitates waveforms measured in the human aorta has been shown to suppress turbulence and increase the energy efficiency of the transport of fluids in pipes.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pulsatile driving of pipe flow that imitates waveforms measured in the human aorta has been shown to suppress turbulence and increase the energy efficiency of the transport of fluids in pipes.</p></div>]]></content:encoded>
                 <pubDate>2023-09-06</pubDate>
-                                <dc:creator>Angela Busse</dc:creator>
+                <dc:creator>Angela Busse</dc:creator>
                 <dc:date>2023-09-06</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Cardiac cycle inspires optimized pipe flow</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02739-7</dc:identifier>
             </item>
@@ -88,9 +143,78 @@
                 <pubDate>2023-09-05</pubDate>
                 
                 <dc:date>2023-09-05</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>From the archive: enchanting insects, and John Stuart Mill’s will</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02738-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A fork in the road to differentiation</title>
+                <link>https://www.nature.com/articles/s41588-023-01489-6</link>
+                <description>The symmetric inheritance of histone modifications by the nascent chromatin fibers during DNA replication is essential for proper developmental progression. Two new studies using mouse embryonic stem cells further illuminate the role of histone inheritance in early cell fate decisions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The symmetric inheritance of histone modifications by the nascent chromatin fibers during DNA replication is essential for proper developmental progression. Two new studies using mouse embryonic stem cells further illuminate the role of histone inheritance in early cell fate decisions.</p></div>]]></content:encoded>
+                <pubDate>2023-09-04</pubDate>
+                <dc:creator>Luis Altamirano-Pacheco</dc:creator>
+                <dc:creator>Pablo Navarro</dc:creator>
+                <dc:date>2023-09-04</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>A fork in the road to differentiation</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01489-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Inflammation drives pressure on TP53 mutant clones in myeloproliferative neoplasms</title>
+                <link>https://www.nature.com/articles/s41588-023-01479-8</link>
+                <description>Transformation of a myeloproliferative neoplasm to a secondary acute myeloid leukemia is rare but devastating. Single-cell, multi-omic characterization of hematopoietic stem and progenitor cells now shows the role of inflammation in transformation driven by mutations in TP53, with effects on the mutant clone but also non-mutant counterparts.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transformation of a myeloproliferative neoplasm to a secondary acute myeloid leukemia is rare but devastating. Single-cell, multi-omic characterization of hematopoietic stem and progenitor cells now shows the role of inflammation in transformation driven by mutations in TP53, with effects on the mutant clone but also non-mutant counterparts.</p></div>]]></content:encoded>
+                <pubDate>2023-09-04</pubDate>
+                <dc:creator>Adam Benabid</dc:creator>
+                <dc:creator>Rebekka K. Schneider</dc:creator>
+                <dc:date>2023-09-04</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Inflammation drives pressure on TP53 mutant clones in myeloproliferative neoplasms</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01479-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Systematic perturbation of chromatin factors identifies regulatory networks during healthy and malignant hematopoiesis</title>
+                <link>https://www.nature.com/articles/s41588-023-01478-9</link>
+                <description>In this issue of Nature Genetics, Lara-Astiaso et al. systematically characterized the functional roles of several chromatin factors in hematopoiesis by combining functional CRISPR screens with single-cell transcriptomics and chromatin accessibility profiling, revealing lineage biases and relationships with important transcription factors.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In this issue of Nature Genetics, Lara-Astiaso et al. systematically characterized the functional roles of several chromatin factors in hematopoiesis by combining functional CRISPR screens with single-cell transcriptomics and chromatin accessibility profiling, revealing lineage biases and relationships with important transcription factors.</p></div>]]></content:encoded>
+                <pubDate>2023-09-01</pubDate>
+                <dc:creator>Llorenç Solé-Boldo</dc:creator>
+                <dc:creator>Simon Haas</dc:creator>
+                <dc:date>2023-09-01</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Systematic perturbation of chromatin factors identifies regulatory networks during healthy and malignant hematopoiesis</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01478-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The power of repetition</title>
+                <link>https://www.nature.com/articles/s41477-023-01496-9</link>
+                <description>The inclusion of retrotransposon long terminal repeats — and of other repeated sequences — enhances transfer DNA copy numbers in plant cells during transformation. Gene editing and homologous recombination-mediated gene targeting can therefore be improved by these means: however, the mechanism remains a mystery.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The inclusion of retrotransposon long terminal repeats — and of other repeated sequences — enhances transfer DNA copy numbers in plant cells during transformation. Gene editing and homologous recombination-mediated gene targeting can therefore be improved by these means: however, the mechanism remains a mystery.</p></div>]]></content:encoded>
+                <pubDate>2023-08-31</pubDate>
+                <dc:creator>Holger Puchta</dc:creator>
+                <dc:date>2023-08-31</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>The power of repetition</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01496-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Advancing multiplexed imaging for enhanced tissue complexity analysis</title>
+                <link>https://www.nature.com/articles/s41592-023-01935-7</link>
+                <description>Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</p></div>]]></content:encoded>
+                <pubDate>2023-08-31</pubDate>
+                <dc:creator>Marieke E. Ijsselsteijn</dc:creator>
+                <dc:creator>Noel F. C. C. de Miranda</dc:creator>
+                <dc:date>2023-08-31</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Advancing multiplexed imaging for enhanced tissue complexity analysis</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01935-7</dc:identifier>
             </item>
         
             <item>
@@ -99,9 +223,9 @@
                 <description>Tidal marshes, mangroves and coral reefs support the livelihoods of millions of people. Most of these ecosystems will be vulnerable to submergence owing to rapid sea-level rise if global warming exceeds 2 °C above pre-industrial levels.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">Tidal marshes, mangroves and coral reefs support the livelihoods of millions of people. Most of these ecosystems will be vulnerable to submergence owing to rapid sea-level rise if global warming exceeds 2 °C above pre-industrial levels.</p></div>]]></content:encoded>
                 <pubDate>2023-08-30</pubDate>
-                                <dc:creator>Qiang He</dc:creator>
+                <dc:creator>Qiang He</dc:creator>
                 <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>A drowned future for coastal ecosystems</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02595-5</dc:identifier>
             </item>
@@ -112,9 +236,9 @@
                 <description>It is well established that proteins in the TRP family of ion channels assemble from four subunits. But do they always do this? A five-subunit structure has now been observed, and might be involved in channel regulation.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">It is well established that proteins in the TRP family of ion channels assemble from four subunits. But do they always do this? A five-subunit structure has now been observed, and might be involved in channel regulation.</p></div>]]></content:encoded>
                 <pubDate>2023-08-30</pubDate>
-                                <dc:creator>Ute A. Hellmich</dc:creator>
+                <dc:creator>Ute A. Hellmich</dc:creator>
                 <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Dynamic ion channel defies dogma</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02486-9</dc:identifier>
             </item>
@@ -125,9 +249,9 @@
                 <description>The pathway used by mammalian cells to make triglyceride lipids when supplies of fat molecules are high has long been known. A route that works when fat supplies are low has now been discovered.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pathway used by mammalian cells to make triglyceride lipids when supplies of fat molecules are high has long been known. A route that works when fat supplies are low has now been discovered.</p></div>]]></content:encoded>
                 <pubDate>2023-08-30</pubDate>
-                                <dc:creator>Jean E. Schaffer</dc:creator>
+                <dc:creator>Jean E. Schaffer</dc:creator>
                 <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Previously unknown pathway for lipid biosynthesis discovered</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02502-y</dc:identifier>
             </item>
@@ -138,9 +262,9 @@
                 <description>Marine heatwaves are on the rise. A surprising result from the analysis of data for fish populations in Europe and North America could change ways of thinking about the ecological consequences of such events.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">Marine heatwaves are on the rise. A surprising result from the analysis of data for fish populations in Europe and North America could change ways of thinking about the ecological consequences of such events.</p></div>]]></content:encoded>
                 <pubDate>2023-08-30</pubDate>
-                                <dc:creator>Mark R. Payne</dc:creator>
+                <dc:creator>Mark R. Payne</dc:creator>
                 <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Rethinking the effect of marine heatwaves on fish</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02594-6</dc:identifier>
             </item>
@@ -151,9 +275,9 @@
                 <description>An autonomous drone has competed against human drone-racing champions — and won. The victory can be attributed to savvy engineering and a type of artificial intelligence that learns mostly through trial and error.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">An autonomous drone has competed against human drone-racing champions — and won. The victory can be attributed to savvy engineering and a type of artificial intelligence that learns mostly through trial and error.</p></div>]]></content:encoded>
                 <pubDate>2023-08-30</pubDate>
-                                <dc:creator>Guido C. H. E. de Croon</dc:creator>
+                <dc:creator>Guido C. H. E. de Croon</dc:creator>
                 <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Drone-racing champions outpaced by AI</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02506-8</dc:identifier>
             </item>
@@ -164,9 +288,9 @@
                 <description>The isotope oxygen-28 is expected to be ‘doubly magic’, with strongly bound neutrons and protons in its nucleus. Experiments now reveal that it exists in an unbound state — casting doubt on its magic status.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">The isotope oxygen-28 is expected to be ‘doubly magic’, with strongly bound neutrons and protons in its nucleus. Experiments now reveal that it exists in an unbound state — casting doubt on its magic status.</p></div>]]></content:encoded>
                 <pubDate>2023-08-30</pubDate>
-                                <dc:creator>Rituparna Kanungo</dc:creator>
+                <dc:creator>Rituparna Kanungo</dc:creator>
                 <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Heaviest oxygen isotope is found to be unbound</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02485-w</dc:identifier>
             </item>
@@ -179,9 +303,80 @@
                 <pubDate>2023-08-29</pubDate>
                 
                 <dc:date>2023-08-29</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>From the archive: colour constancy, and an atomic romance</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02652-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Measuring open chromatin and DNA methylation in repeat arrays</title>
+                <link>https://www.nature.com/articles/s41477-023-01512-y</link>
+                <description>Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>R. Kelly Dawe</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A non-coding m6A reader promotes leukaemia</title>
+                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
+                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>James Russell</dc:creator>
+                <dc:creator>Konstantinos Tzelepis</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Using the methylome to predict pre-eclampsia</title>
+                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
+                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
+                <dc:creator>Lucy A. Bartho</dc:creator>
+                <dc:creator>Stephen Tong</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Silencing translation with phenolic acids</title>
+                <link>https://www.nature.com/articles/s41477-023-01497-8</link>
+                <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Venkatesh P. Thirumalaikumar</dc:creator>
+                <dc:creator>Monika Chodasiewicz</dc:creator>
+                <dc:creator>Aleksandra Skirycz</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Silencing translation with phenolic acids</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Fluorogenic chemically induced dimerization</title>
+                <link>https://www.nature.com/articles/s41592-023-01989-7</link>
+                <description>A new chemically induced dimerization (CID) pair exhibits fluorescence upon dimerization for the first time. Moreover, the CID pair is small and offers easily reversible dimerization that can be repeated multiple times.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new chemically induced dimerization (CID) pair exhibits fluorescence upon dimerization for the first time. Moreover, the CID pair is small and offers easily reversible dimerization that can be repeated multiple times.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Wenjing Wang</dc:creator>
+                <dc:creator>Jiaqi Shen</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Fluorogenic chemically induced dimerization</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
             </item>
         
             <item>
@@ -190,9 +385,9 @@
                 <description>Biologists have long sought to understand the factors that enable coral reefs to thrive. A careful analysis of nutrient cycling now points to an unexpected food source that helps to sustain corals during food scarcity.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">Biologists have long sought to understand the factors that enable coral reefs to thrive. A careful analysis of nutrient cycling now points to an unexpected food source that helps to sustain corals during food scarcity.</p></div>]]></content:encoded>
                 <pubDate>2023-08-23</pubDate>
-                                <dc:creator>Virginia M. Weis</dc:creator>
+                <dc:creator>Virginia M. Weis</dc:creator>
                 <dc:date>2023-08-23</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Corals have algal friends for dinner</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02593-7</dc:identifier>
             </item>
@@ -203,10 +398,10 @@
                 <description>Two brain–computer interfaces have been developed that bring unprecedented capabilities for translating brain signals into sentences — at speeds close to that of normal speech, and with vocabularies exceeding 1,000 words.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two brain–computer interfaces have been developed that bring unprecedented capabilities for translating brain signals into sentences — at speeds close to that of normal speech, and with vocabularies exceeding 1,000 words.</p></div>]]></content:encoded>
                 <pubDate>2023-08-23</pubDate>
-                                <dc:creator>Nick F. Ramsey</dc:creator>
+                <dc:creator>Nick F. Ramsey</dc:creator>
                 <dc:creator>Nathan E. Crone</dc:creator>
                 <dc:date>2023-08-23</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Brain implants that enable speech pass performance milestones</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02546-0</dc:identifier>
             </item>
@@ -217,9 +412,9 @@
                 <description>As the resources required by artificial intelligence increase unsustainably, an analog design provides an energy-efficient alternative to digital computer chips — and one that is ideally suited to neural-network computations.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">As the resources required by artificial intelligence increase unsustainably, an analog design provides an energy-efficient alternative to digital computer chips — and one that is ideally suited to neural-network computations.</p></div>]]></content:encoded>
                 <pubDate>2023-08-23</pubDate>
-                                <dc:creator>Hechen Wang</dc:creator>
+                <dc:creator>Hechen Wang</dc:creator>
                 <dc:date>2023-08-23</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Analog chip paves the way for sustainable AI</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02569-7</dc:identifier>
             </item>
@@ -230,9 +425,9 @@
                 <description>A careful analysis of satellite images has revealed marked changes in the suspended-sediment concentrations of many rivers around the world. The study links these changes directly to river mining activities in the affected areas.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">A careful analysis of satellite images has revealed marked changes in the suspended-sediment concentrations of many rivers around the world. The study links these changes directly to river mining activities in the affected areas.</p></div>]]></content:encoded>
                 <pubDate>2023-08-23</pubDate>
-                                <dc:creator>Bryony Walmsley</dc:creator>
+                <dc:creator>Bryony Walmsley</dc:creator>
                 <dc:date>2023-08-23</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Satellite images show the widespread impact of mining on tropical rivers</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02349-3</dc:identifier>
             </item>
@@ -245,9 +440,23 @@
                 <pubDate>2023-08-22</pubDate>
                 
                 <dc:date>2023-08-22</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>From the archive: Copernicus’s legacy, and a hungry pigeon</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02355-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Epigenetic control of cancer inflammation</title>
+                <link>https://www.nature.com/articles/s41556-023-01183-z</link>
+                <description>The interaction of non-immune and immune cells in the tumour microenvironment (TME) determines the quality of the immune attack on nascent tumour cells. A new study in melanoma cells shows that specific histone variants dampen the expression of cytokine genes in cancer-associated fibroblasts, leading to an immunosuppressive TME.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The interaction of non-immune and immune cells in the tumour microenvironment (TME) determines the quality of the immune attack on nascent tumour cells. A new study in melanoma cells shows that specific histone variants dampen the expression of cytokine genes in cancer-associated fibroblasts, leading to an immunosuppressive TME.</p></div>]]></content:encoded>
+                <pubDate>2023-08-21</pubDate>
+                <dc:creator>David Corujo</dc:creator>
+                <dc:creator>Marcus Buschbeck</dc:creator>
+                <dc:date>2023-08-21</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Epigenetic control of cancer inflammation</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01183-z</dc:identifier>
             </item>
         
             <item>
@@ -256,9 +465,9 @@
                 <description>Glaciers should be prioritized in conservation agendas — and soon. Analysis suggests that glaciers could lose around half their area by the century’s end, with uncertain consequences for postglacial ecosystems.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">Glaciers should be prioritized in conservation agendas — and soon. Analysis suggests that glaciers could lose around half their area by the century’s end, with uncertain consequences for postglacial ecosystems.</p></div>]]></content:encoded>
                 <pubDate>2023-08-16</pubDate>
-                                <dc:creator>Nicolas Lecomte</dc:creator>
+                <dc:creator>Nicolas Lecomte</dc:creator>
                 <dc:date>2023-08-16</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>The great melt will shape unprotected ecosystems</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02490-z</dc:identifier>
             </item>
@@ -269,11 +478,1192 @@
                 <description>X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">X-ray and optical imaging have revealed the intricate process through which droplets freeze during the formation of rain. The results could help to explain how clouds are able to produce enough ice particles to make rain.</p></div>]]></content:encoded>
                 <pubDate>2023-08-16</pubDate>
-                                <dc:creator>Thomas Leisner</dc:creator>
+                <dc:creator>Thomas Leisner</dc:creator>
                 <dc:date>2023-08-16</dc:date>
-                <dc:source>Nature News and Views</dc:source>
+                <dc:source>Nature</dc:source>
                 <dc:title>Clues to rain formation found in droplet images</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02353-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Opening the gates</title>
+                <link>https://www.nature.com/articles/s41477-023-01493-y</link>
+                <description>A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</p></div>]]></content:encoded>
+                <pubDate>2023-08-10</pubDate>
+                <dc:creator>Aswin Nair</dc:creator>
+                <dc:creator>Rishikesh P. Bhalerao</dc:creator>
+                <dc:date>2023-08-10</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Opening the gates</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01493-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Advancing variant effect prediction using protein language models</title>
+                <link>https://www.nature.com/articles/s41588-023-01470-3</link>
+                <description>A novel pipeline that expands the utility of the protein language model ESM1b has provided variant effect predictions for more than 40,000 protein isoforms. This strategy outperformed several state-of-the-art methods over multiple benchmarks.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A novel pipeline that expands the utility of the protein language model ESM1b has provided variant effect predictions for more than 40,000 protein isoforms. This strategy outperformed several state-of-the-art methods over multiple benchmarks.</p></div>]]></content:encoded>
+                <pubDate>2023-08-10</pubDate>
+                <dc:creator>Benjamin J. Livesey</dc:creator>
+                <dc:creator>Joseph A. Marsh</dc:creator>
+                <dc:date>2023-08-10</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Advancing variant effect prediction using protein language models</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01470-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>On the origin of strawberries</title>
+                <link>https://www.nature.com/articles/s41477-023-01488-9</link>
+                <description>High-quality genomes of the cultivated strawberry’s progenitors provide the strongest evidence to date for the identity and chromosomal composition of the four subgenomes of octoploid strawberry.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">High-quality genomes of the cultivated strawberry’s progenitors provide the strongest evidence to date for the identity and chromosomal composition of the four subgenomes of octoploid strawberry.</p></div>]]></content:encoded>
+                <pubDate>2023-08-09</pubDate>
+                <dc:creator>Aaron Liston</dc:creator>
+                <dc:date>2023-08-09</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>On the origin of strawberries</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01488-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Chemical fast track to induced pluripotency</title>
+                <link>https://www.nature.com/articles/s41556-023-01202-z</link>
+                <description>A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</p></div>]]></content:encoded>
+                <pubDate>2023-08-07</pubDate>
+                <dc:creator>Sebastian Memczak</dc:creator>
+                <dc:creator>Juan Carlos Izpisua Belmonte</dc:creator>
+                <dc:date>2023-08-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Chemical fast track to induced pluripotency</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01202-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Machine learning drives genetic discovery for binge eating disorder</title>
+                <link>https://www.nature.com/articles/s41588-023-01473-0</link>
+                <description>Identifying genetic risk factors for binge-eating disorder (BED) is vital to understand its etiology and develop effective prevention and intervention strategies. To overcome under-reporting of clinical BED diagnosis, a new study uses machine learning to identify genetic variants associated with quantitative BED risk scores and finds evidence for a pathological role of heme metabolism.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying genetic risk factors for binge-eating disorder (BED) is vital to understand its etiology and develop effective prevention and intervention strategies. To overcome under-reporting of clinical BED diagnosis, a new study uses machine learning to identify genetic variants associated with quantitative BED risk scores and finds evidence for a pathological role of heme metabolism.</p></div>]]></content:encoded>
+                <pubDate>2023-08-07</pubDate>
+                <dc:creator>Jackson G. Thorp</dc:creator>
+                <dc:creator>Zachary F. Gerring</dc:creator>
+                <dc:creator>Eske M. Derks</dc:creator>
+                <dc:date>2023-08-07</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Machine learning drives genetic discovery for binge eating disorder</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01473-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A mother to offspring metabolic link</title>
+                <link>https://www.nature.com/articles/s41556-023-01189-7</link>
+                <description>In many species, a mother’s environment can impact offspring’s metabolism, but the mechanisms that mediate such intergenerational effects are unclear. In this issue, a study finds that the provisioning of a sphingolipid from mothers to offspring drives changes in offspring metabolism that protect against neuronal damage.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In many species, a mother’s environment can impact offspring’s metabolism, but the mechanisms that mediate such intergenerational effects are unclear. In this issue, a study finds that the provisioning of a sphingolipid from mothers to offspring drives changes in offspring metabolism that protect against neuronal damage.</p></div>]]></content:encoded>
+                <pubDate>2023-08-03</pubDate>
+                <dc:creator>Nicholas O. Burton</dc:creator>
+                <dc:date>2023-08-03</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A mother to offspring metabolic link</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01189-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Our ancestry dictates clonal architecture and skin cancer susceptibility</title>
+                <link>https://www.nature.com/articles/s41588-023-01467-y</link>
+                <description>Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</p></div>]]></content:encoded>
+                <pubDate>2023-08-03</pubDate>
+                <dc:creator>Marco De Dominici</dc:creator>
+                <dc:creator>James DeGregori</dc:creator>
+                <dc:date>2023-08-03</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Our ancestry dictates clonal architecture and skin cancer susceptibility</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01467-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dissecting gene regulation with multimodal sequencing</title>
+                <link>https://www.nature.com/articles/s41592-023-01957-1</link>
+                <description>Recently proposed computational approaches explore casual links between chromatin and transcriptional changes that are provided by single-cell multimodal sequencing to bridge the knowledge gap in transcriptional regulatory control.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Recently proposed computational approaches explore casual links between chromatin and transcriptional changes that are provided by single-cell multimodal sequencing to bridge the knowledge gap in transcriptional regulatory control.</p></div>]]></content:encoded>
+                <pubDate>2023-08-03</pubDate>
+                <dc:creator>Ivan G. Costa</dc:creator>
+                <dc:date>2023-08-03</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Dissecting gene regulation with multimodal sequencing</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01957-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Precise, pragmatic and inclusive: the modern era of oncology clinical trials</title>
+                <link>https://www.nature.com/articles/s41591-023-02466-6</link>
+                <description>Innovative clinical trial designs with a patient-centered mission are crucial to advancing modern cancer care; the adaptive phase 2 umbrella study CTONG1702 provides one model for this new era of trial design.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Innovative clinical trial designs with a patient-centered mission are crucial to advancing modern cancer care; the adaptive phase 2 umbrella study CTONG1702 provides one model for this new era of trial design.</p></div>]]></content:encoded>
+                <pubDate>2023-07-31</pubDate>
+                <dc:creator>Michael J. Grant</dc:creator>
+                <dc:creator>Sarah B. Goldberg</dc:creator>
+                <dc:date>2023-07-31</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Precise, pragmatic and inclusive: the modern era of oncology clinical trials</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02466-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneer factor competing for fate change</title>
+                <link>https://www.nature.com/articles/s41556-023-01190-0</link>
+                <description>Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</p></div>]]></content:encoded>
+                <pubDate>2023-07-24</pubDate>
+                <dc:creator>Rui Yi</dc:creator>
+                <dc:creator>Yali Dou</dc:creator>
+                <dc:date>2023-07-24</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pioneer factor competing for fate change</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01190-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A light switch for DNA break repair</title>
+                <link>https://www.nature.com/articles/s41477-023-01462-5</link>
+                <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</p></div>]]></content:encoded>
+                <pubDate>2023-07-24</pubDate>
+                <dc:creator>Lejon E. M. Kralemann</dc:creator>
+                <dc:creator>Marcel Tijsterman</dc:creator>
+                <dc:date>2023-07-24</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A light switch for DNA break repair</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Psilocybin for the treatment of anorexia nervosa</title>
+                <link>https://www.nature.com/articles/s41591-023-02458-6</link>
+                <description>In individuals with anorexia nervosa, psilocybin therapy comes with specific risks and concerns; but an encouraging phase 1 trial underscores the necessity for more research into classic psychedelics to address the urgent need for effective treatments.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In individuals with anorexia nervosa, psilocybin therapy comes with specific risks and concerns; but an encouraging phase 1 trial underscores the necessity for more research into classic psychedelics to address the urgent need for effective treatments.</p></div>]]></content:encoded>
+                <pubDate>2023-07-24</pubDate>
+                <dc:creator>Tomislav Majić</dc:creator>
+                <dc:creator>Stefan Ehrlich</dc:creator>
+                <dc:date>2023-07-24</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Psilocybin for the treatment of anorexia nervosa</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02458-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Leveraging fine-scale population structures for precision healthcare</title>
+                <link>https://www.nature.com/articles/s41591-023-02423-3</link>
+                <description>A study investigates the links between fine-scale populations and outcomes including healthcare use and disease risk in a Los Angeles biobank, unveiling crucial insights into healthcare disparities in the USA.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study investigates the links between fine-scale populations and outcomes including healthcare use and disease risk in a Los Angeles biobank, unveiling crucial insights into healthcare disparities in the USA.</p></div>]]></content:encoded>
+                <pubDate>2023-07-18</pubDate>
+                <dc:creator>Masahiro Kanai</dc:creator>
+                <dc:date>2023-07-18</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Leveraging fine-scale population structures for precision healthcare</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02423-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Building resilience in heatwaves</title>
+                <link>https://www.nature.com/articles/s41591-023-02409-1</link>
+                <description>Escalating severity and frequency of heatwaves have outpaced the effectiveness of existing prevention and adaptation measures; there is urgency for reassessment, enhancement and implementation of strategies to mitigate health impacts in dealing with this global health challenge.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Escalating severity and frequency of heatwaves have outpaced the effectiveness of existing prevention and adaptation measures; there is urgency for reassessment, enhancement and implementation of strategies to mitigate health impacts in dealing with this global health challenge.</p></div>]]></content:encoded>
+                <pubDate>2023-07-18</pubDate>
+                <dc:creator>John S. Ji</dc:creator>
+                <dc:creator>Di Xi</dc:creator>
+                <dc:creator>Cunrui Huang</dc:creator>
+                <dc:date>2023-07-18</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Building resilience in heatwaves</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02409-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>H3K36 methylation is a reprogramming barrier</title>
+                <link>https://www.nature.com/articles/s41556-023-01147-3</link>
+                <description>Reprogramming of somatic cells is an inherently inefficient process. A new study has now identified histone H3K36 methylation as a crucial reprogramming barrier that operates downstream of TGFβ signalling. Global inhibition of H3K36 methylation induced PRC2-dependent silencing of mesenchymal genes and dramatically increased reprogramming efficiency.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Reprogramming of somatic cells is an inherently inefficient process. A new study has now identified histone H3K36 methylation as a crucial reprogramming barrier that operates downstream of TGFβ signalling. Global inhibition of H3K36 methylation induced PRC2-dependent silencing of mesenchymal genes and dramatically increased reprogramming efficiency.</p></div>]]></content:encoded>
+                <pubDate>2023-07-17</pubDate>
+                <dc:creator>Lea Rachel Zehava Cohen</dc:creator>
+                <dc:creator>Eran Meshorer</dc:creator>
+                <dc:date>2023-07-17</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>H3K36 methylation is a reprogramming barrier</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01147-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Balancing human and AI roles in clinical imaging</title>
+                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
+                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
+                <pubDate>2023-07-17</pubDate>
+                <dc:creator>Fiona Gilbert</dc:creator>
+                <dc:date>2023-07-17</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>RNA Pol II enters the ring of cohesin-mediated loop extrusion</title>
+                <link>https://www.nature.com/articles/s41588-023-01463-2</link>
+                <description>The three-dimensional organization of mammalian chromosomes can regulate transcription. Whether transcription itself influences genome structure has remained a source of debate. Using sensitive genome-wide readouts, two recent studies describe the involvement of transcription on genome architecture by different mechanisms.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The three-dimensional organization of mammalian chromosomes can regulate transcription. Whether transcription itself influences genome structure has remained a source of debate. Using sensitive genome-wide readouts, two recent studies describe the involvement of transcription on genome architecture by different mechanisms.</p></div>]]></content:encoded>
+                <pubDate>2023-07-14</pubDate>
+                <dc:creator>Daan Noordermeer</dc:creator>
+                <dc:date>2023-07-14</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>RNA Pol II enters the ring of cohesin-mediated loop extrusion</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01463-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Leveraging family relatedness to detect participation bias in genetic studies</title>
+                <link>https://www.nature.com/articles/s41588-023-01440-9</link>
+                <description>Identifying the ways that a study sample is not representative is essential for maximizing the generalizability of findings to the population. A new method proposes discerning non-representativeness in large-scale genetic studies by comparing the genotypes of closely related participants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying the ways that a study sample is not representative is essential for maximizing the generalizability of findings to the population. A new method proposes discerning non-representativeness in large-scale genetic studies by comparing the genotypes of closely related participants.</p></div>]]></content:encoded>
+                <pubDate>2023-07-13</pubDate>
+                <dc:creator>Mark J. Adams</dc:creator>
+                <dc:date>2023-07-13</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Leveraging family relatedness to detect participation bias in genetic studies</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01440-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Microbiome-mediated metabolic defence</title>
+                <link>https://www.nature.com/articles/s41477-023-01470-5</link>
+                <description>The destructive panicle disease rice false smut is caused by the biotrophic fungus Ustilaginoidea virens. Disease-suppressive microorganisms present in rice panicles have now been found to mediate fungal resistance by modulating the metabolism of the host plant.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The destructive panicle disease rice false smut is caused by the biotrophic fungus Ustilaginoidea virens. Disease-suppressive microorganisms present in rice panicles have now been found to mediate fungal resistance by modulating the metabolism of the host plant.</p></div>]]></content:encoded>
+                <pubDate>2023-07-11</pubDate>
+                <dc:creator>Daniela Paula de Toledo Thomazella</dc:creator>
+                <dc:creator>Paulo José Pereira Lima Teixeira</dc:creator>
+                <dc:date>2023-07-11</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Microbiome-mediated metabolic defence</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01470-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Using gut microorganisms to treat cancer</title>
+                <link>https://www.nature.com/articles/s41591-023-02460-y</link>
+                <description>Strategies to monitor and modulate gut microorganisms to improve immunity and responses to cancer immunotherapy are increasingly available, with opportunities to expand and iterate on these approaches to treat, intercept and prevent cancer (and other diseases) altogether.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Strategies to monitor and modulate gut microorganisms to improve immunity and responses to cancer immunotherapy are increasingly available, with opportunities to expand and iterate on these approaches to treat, intercept and prevent cancer (and other diseases) altogether.</p></div>]]></content:encoded>
+                <pubDate>2023-07-07</pubDate>
+                <dc:creator>Y. David Seo</dc:creator>
+                <dc:creator>Nadim Ajami</dc:creator>
+                <dc:creator>Jennifer A. Wargo</dc:creator>
+                <dc:date>2023-07-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Using gut microorganisms to treat cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02460-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Transient chromatin compaction in fork restart</title>
+                <link>https://www.nature.com/articles/s41556-023-01181-1</link>
+                <description>The compact state of chromatin induced by the methylation of lysine 9 on histone H3 has long been implicated in a heritable state of transcriptional repression. A study now shows that transient deposition of H3K9me3 helps to stabilize stalled DNA replication forks, while its reversal enables accurate fork restart.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The compact state of chromatin induced by the methylation of lysine 9 on histone H3 has long been implicated in a heritable state of transcriptional repression. A study now shows that transient deposition of H3K9me3 helps to stabilize stalled DNA replication forks, while its reversal enables accurate fork restart.</p></div>]]></content:encoded>
+                <pubDate>2023-07-06</pubDate>
+                <dc:creator>Susan M. Gasser</dc:creator>
+                <dc:date>2023-07-06</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Transient chromatin compaction in fork restart</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01181-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Lighting up action potentials with fast and bright voltage sensors</title>
+                <link>https://www.nature.com/articles/s41592-023-01928-6</link>
+                <description>Three groundbreaking studies have created a new generation of genetically encoded voltage indicators, empowering us to tackle a host of questions on our path toward understanding the brain.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Three groundbreaking studies have created a new generation of genetically encoded voltage indicators, empowering us to tackle a host of questions on our path toward understanding the brain.</p></div>]]></content:encoded>
+                <pubDate>2023-07-06</pubDate>
+                <dc:creator>Alessio Andreoni</dc:creator>
+                <dc:creator>Lin Tian</dc:creator>
+                <dc:date>2023-07-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Lighting up action potentials with fast and bright voltage sensors</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01928-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Clonal hematopoiesis, aging and Alzheimer’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02406-4</link>
+                <description>Unexpectedly, new data show that clonal hematopoiesis is associated with protection from Alzheimer’s disease; it is imperative that future studies unravel the complex tissue–disease contexts in which clonal hematopoiesis arises and contributes to aging-associated diseases.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Unexpectedly, new data show that clonal hematopoiesis is associated with protection from Alzheimer’s disease; it is imperative that future studies unravel the complex tissue–disease contexts in which clonal hematopoiesis arises and contributes to aging-associated diseases.</p></div>]]></content:encoded>
+                <pubDate>2023-07-04</pubDate>
+                <dc:creator>Pablo Sánchez Vela</dc:creator>
+                <dc:creator>Jennifer J. Trowbridge</dc:creator>
+                <dc:creator>Ross L. Levine</dc:creator>
+                <dc:date>2023-07-04</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Clonal hematopoiesis, aging and Alzheimer’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02406-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Hypoxia-stabilized RIPK1 promotes cell death</title>
+                <link>https://www.nature.com/articles/s41556-023-01176-y</link>
+                <description>The PHD–pVHL pathway is essential for oxygen-dependent prolyl hydroxylation of HIFA. A recent study identifies RIPK1 as a hydroxylation target in this pathway during hypoxia-induced cell death and presents a 2.8 Å resolution crystal structure of the pVHL–elongin B/C complex bound to hydroxylated RIPK1.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The PHD–pVHL pathway is essential for oxygen-dependent prolyl hydroxylation of HIFA. A recent study identifies RIPK1 as a hydroxylation target in this pathway during hypoxia-induced cell death and presents a 2.8 Å resolution crystal structure of the pVHL–elongin B/C complex bound to hydroxylated RIPK1.</p></div>]]></content:encoded>
+                <pubDate>2023-07-03</pubDate>
+                <dc:creator>Wei Ruan</dc:creator>
+                <dc:creator>Holger K. Eltzschig</dc:creator>
+                <dc:creator>Xiaoyi Yuan</dc:creator>
+                <dc:date>2023-07-03</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Hypoxia-stabilized RIPK1 promotes cell death</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01176-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dynamic nucleoskeleton in stress</title>
+                <link>https://www.nature.com/articles/s41477-023-01458-1</link>
+                <description>The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</p></div>]]></content:encoded>
+                <pubDate>2023-07-03</pubDate>
+                <dc:creator>Yiling Fang</dc:creator>
+                <dc:creator>Yangnan Gu</dc:creator>
+                <dc:date>2023-07-03</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Dynamic nucleoskeleton in stress</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Single-cell multiomic analyses sheds light on mitochondrial mutational selection</title>
+                <link>https://www.nature.com/articles/s41588-023-01436-5</link>
+                <description>Single large-scale mitochondrial DNA deletions cause a spectrum of disease with differing severities and tissue expressivity. Quantification of single-cell deletion levels with multi-modal cellular readouts provides insights into hematopoietic cell fate and disease manifestation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Single large-scale mitochondrial DNA deletions cause a spectrum of disease with differing severities and tissue expressivity. Quantification of single-cell deletion levels with multi-modal cellular readouts provides insights into hematopoietic cell fate and disease manifestation.</p></div>]]></content:encoded>
+                <pubDate>2023-06-29</pubDate>
+                <dc:creator>Sarah J. Pickett</dc:creator>
+                <dc:creator>Gavin Hudson</dc:creator>
+                <dc:creator>Laura C. Greaves</dc:creator>
+                <dc:date>2023-06-29</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Single-cell multiomic analyses sheds light on mitochondrial mutational selection</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01436-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Fast fragmenting mitochondria by TORC2</title>
+                <link>https://www.nature.com/articles/s41556-023-01173-1</link>
+                <description>Mitochondria are dynamic organelles, changing their morphology and functional capacity in response to physiological and metabolic cues. A study uncovers a role for the typically nutrient-responsive mTORC2 during fasting in vivo to promote mitochondrial fission via the activation of a signalling pathway that involves NDRG1 and CDC42.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mitochondria are dynamic organelles, changing their morphology and functional capacity in response to physiological and metabolic cues. A study uncovers a role for the typically nutrient-responsive mTORC2 during fasting in vivo to promote mitochondrial fission via the activation of a signalling pathway that involves NDRG1 and CDC42.</p></div>]]></content:encoded>
+                <pubDate>2023-06-29</pubDate>
+                <dc:creator>Miriam Valera-Alberni</dc:creator>
+                <dc:creator>William B. Mair</dc:creator>
+                <dc:date>2023-06-29</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Fast fragmenting mitochondria by TORC2</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01173-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How to talk about autism: reconciling genomics and neurodiversity</title>
+                <link>https://www.nature.com/articles/s41591-023-02403-7</link>
+                <description>A new study showing that genetic and non-genetic factors contribute to autistic traits calls for a fundamental realignment of the concepts and methods of genomics, with a critical understanding of the biosocial complexity of autism.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study showing that genetic and non-genetic factors contribute to autistic traits calls for a fundamental realignment of the concepts and methods of genomics, with a critical understanding of the biosocial complexity of autism.</p></div>]]></content:encoded>
+                <pubDate>2023-06-26</pubDate>
+                <dc:creator>Luca Chiapperino</dc:creator>
+                <dc:creator>Kristien Hens</dc:creator>
+                <dc:date>2023-06-26</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>How to talk about autism: reconciling genomics and neurodiversity</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02403-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Intimacy stabilizes symbiotic nodulation</title>
+                <link>https://www.nature.com/articles/s41477-023-01438-5</link>
+                <description>Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</p></div>]]></content:encoded>
+                <pubDate>2023-06-15</pubDate>
+                <dc:creator>Euan K. James</dc:creator>
+                <dc:date>2023-06-15</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Intimacy stabilizes symbiotic nodulation</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01438-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Guiding DNA repair at the nuclear periphery</title>
+                <link>https://www.nature.com/articles/s41556-023-01164-2</link>
+                <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</p></div>]]></content:encoded>
+                <pubDate>2023-06-15</pubDate>
+                <dc:creator>Sylvain Audibert</dc:creator>
+                <dc:creator>Evi Soutoglou</dc:creator>
+                <dc:date>2023-06-15</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Guiding DNA repair at the nuclear periphery</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01164-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Urban living and mental health</title>
+                <link>https://www.nature.com/articles/s41591-023-02348-x</link>
+                <description>A new study strengthens the association between urbanicity and mental health with more granularity than before, but a causative mechanism remains elusive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study strengthens the association between urbanicity and mental health with more granularity than before, but a causative mechanism remains elusive.</p></div>]]></content:encoded>
+                <pubDate>2023-06-15</pubDate>
+                <dc:creator>Brittany E. Evans</dc:creator>
+                <dc:creator>Catherine Tuvblad</dc:creator>
+                <dc:creator>Henrik Larsson</dc:creator>
+                <dc:date>2023-06-15</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Urban living and mental health</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02348-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Autophagy prevents microglial senescence</title>
+                <link>https://www.nature.com/articles/s41556-023-01168-y</link>
+                <description>Disruptions in the autophagy–lysosome pathway in neurons have been implicated in Alzheimer’s disease. A study now reports that autophagy is also critical for disease-associated microglia surrounding amyloid plaques and is protective against microglial senescence and neuropathology in an Alzheimer’s disease mouse model.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Disruptions in the autophagy–lysosome pathway in neurons have been implicated in Alzheimer’s disease. A study now reports that autophagy is also critical for disease-associated microglia surrounding amyloid plaques and is protective against microglial senescence and neuropathology in an Alzheimer’s disease mouse model.</p></div>]]></content:encoded>
+                <pubDate>2023-06-12</pubDate>
+                <dc:creator>Sadaf Amin</dc:creator>
+                <dc:creator>Bangyan Liu</dc:creator>
+                <dc:creator>Li Gan</dc:creator>
+                <dc:date>2023-06-12</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Autophagy prevents microglial senescence</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01168-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dynamic measures of insulin action identify genetic determinants of dysglycemia</title>
+                <link>https://www.nature.com/articles/s41588-023-01346-6</link>
+                <description>Genome-wide association studies (GWAS) of type 2 diabetes have identified few loci connected to muscle biology. A GWAS of post-glucose-challenge measures of insulin has now identified loci related to insulin resistance and GLUT4 regulation in skeletal muscle, illustrating the benefit of studying dynamic glycemic measures.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genome-wide association studies (GWAS) of type 2 diabetes have identified few loci connected to muscle biology. A GWAS of post-glucose-challenge measures of insulin has now identified loci related to insulin resistance and GLUT4 regulation in skeletal muscle, illustrating the benefit of studying dynamic glycemic measures.</p></div>]]></content:encoded>
+                <pubDate>2023-06-08</pubDate>
+                <dc:creator>Miriam S. Udler</dc:creator>
+                <dc:date>2023-06-08</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Dynamic measures of insulin action identify genetic determinants of dysglycemia</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01346-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The pyrimidinosome is cancer’s Achilles’ heel</title>
+                <link>https://www.nature.com/articles/s41556-023-01159-z</link>
+                <description>A new study shows that the enzymes involved in de novo pyrimidine synthesis and ferroptosis form a complex called the pyrimidinosome, which is controlled by AMPK. Cancer cells low in AMPK expression rely on the pyrimidinosome, suggesting that co-inhibition of AMPK and the pyrimidinosome represents a potential cancer treatment strategy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study shows that the enzymes involved in de novo pyrimidine synthesis and ferroptosis form a complex called the pyrimidinosome, which is controlled by AMPK. Cancer cells low in AMPK expression rely on the pyrimidinosome, suggesting that co-inhibition of AMPK and the pyrimidinosome represents a potential cancer treatment strategy.</p></div>]]></content:encoded>
+                <pubDate>2023-06-08</pubDate>
+                <dc:creator>Matthew Dodson</dc:creator>
+                <dc:creator>Donna D. Zhang</dc:creator>
+                <dc:date>2023-06-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>The pyrimidinosome is cancer’s Achilles’ heel</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01159-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Endoplasmic reticulum tethering by desmosomes</title>
+                <link>https://www.nature.com/articles/s41556-023-01144-6</link>
+                <description>Desmosomes and keratin are now found to regulate the distribution and dynamics of the endoplasmic reticulum (ER). This suggests that a range of ER functions may be coordinated by this intercellular adhesive and cytoskeletal network.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Desmosomes and keratin are now found to regulate the distribution and dynamics of the endoplasmic reticulum (ER). This suggests that a range of ER functions may be coordinated by this intercellular adhesive and cytoskeletal network.</p></div>]]></content:encoded>
+                <pubDate>2023-06-08</pubDate>
+                <dc:creator>Robert M. Harmon</dc:creator>
+                <dc:creator>Cara J. Gottardi</dc:creator>
+                <dc:date>2023-06-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Endoplasmic reticulum tethering by desmosomes</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01144-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>LDLs take a shortcut to mitochondria</title>
+                <link>https://www.nature.com/articles/s41556-023-01166-0</link>
+                <description>Receptor-mediated endocytosis delivers low-density lipoproteins (LDLs) to late endosomes, from where cholesterol is trafficked to mitochondria. Zhou et al. report that LDL-containing endosomes fuse with mitochondria, supplying cholesterol for steroid biosynthesis and enabling mitochondrial degradation of the LDL receptor.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Receptor-mediated endocytosis delivers low-density lipoproteins (LDLs) to late endosomes, from where cholesterol is trafficked to mitochondria. Zhou et al. report that LDL-containing endosomes fuse with mitochondria, supplying cholesterol for steroid biosynthesis and enabling mitochondrial degradation of the LDL receptor.</p></div>]]></content:encoded>
+                <pubDate>2023-06-05</pubDate>
+                <dc:creator>Satoko Shinjo</dc:creator>
+                <dc:creator>Luca Scorrano</dc:creator>
+                <dc:date>2023-06-05</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>LDLs take a shortcut to mitochondria</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01166-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>SUC1’s mode of low-affinity transport</title>
+                <link>https://www.nature.com/articles/s41477-023-01431-y</link>
+                <description>The new structure for the H+-coupled sucrose uptake transporter AtSUC1 helps us understand the mechanism used by plants for cellular sucrose uptake and phloem loading.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The new structure for the H+-coupled sucrose uptake transporter AtSUC1 helps us understand the mechanism used by plants for cellular sucrose uptake and phloem loading.</p></div>]]></content:encoded>
+                <pubDate>2023-05-25</pubDate>
+                <dc:creator>Anke Reinders</dc:creator>
+                <dc:creator>John Ward</dc:creator>
+                <dc:date>2023-05-25</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>SUC1’s mode of low-affinity transport</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01431-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Host protection by two memory-like MAIT subsets</title>
+                <link>https://www.nature.com/articles/s41556-023-01149-1</link>
+                <description>How mucosal-associated invariant T (MAIT) cells acquire memory-like features after infection and the factors that control this process have been unclear. A study now defines two subsets of antigen-adapted MAIT cells emerging after immunization that differ in functions, lung localization and metabolic requirements.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How mucosal-associated invariant T (MAIT) cells acquire memory-like features after infection and the factors that control this process have been unclear. A study now defines two subsets of antigen-adapted MAIT cells emerging after immunization that differ in functions, lung localization and metabolic requirements.</p></div>]]></content:encoded>
+                <pubDate>2023-05-25</pubDate>
+                <dc:creator>Margarita Dominguez-Villar</dc:creator>
+                <dc:date>2023-05-25</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Host protection by two memory-like MAIT subsets</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01149-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>B cell senescence takes guts</title>
+                <link>https://www.nature.com/articles/s41556-023-01153-5</link>
+                <description>Accumulation of senescent cells and compositional changes in gut microbiota have been independently reported to occur as a function of age. A study now suggests that these two seemingly disparate processes are more intimately linked than previously appreciated via a B cell–IgA–microbiota axis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Accumulation of senescent cells and compositional changes in gut microbiota have been independently reported to occur as a function of age. A study now suggests that these two seemingly disparate processes are more intimately linked than previously appreciated via a B cell–IgA–microbiota axis.</p></div>]]></content:encoded>
+                <pubDate>2023-05-24</pubDate>
+                <dc:creator>Bennett G. Childs</dc:creator>
+                <dc:creator>Sara I. Graves</dc:creator>
+                <dc:creator>Darren J. Baker</dc:creator>
+                <dc:date>2023-05-24</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>B cell senescence takes guts</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01153-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The flash dance of midlife: the Skylight 1 trial</title>
+                <link>https://www.nature.com/articles/s41591-023-02359-8</link>
+                <description>For women who choose nonhormonal therapy for hot flashes, fezolinetant appears to be one of several modestly efficacious and safe options — but women want more.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">For women who choose nonhormonal therapy for hot flashes, fezolinetant appears to be one of several modestly efficacious and safe options — but women want more.</p></div>]]></content:encoded>
+                <pubDate>2023-05-23</pubDate>
+                <dc:creator>Andrea LaCroix</dc:creator>
+                <dc:creator>Kristine Ensrud</dc:creator>
+                <dc:date>2023-05-23</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The flash dance of midlife: the Skylight 1 trial</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02359-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pathogen perception and deception in plant immunity by kinase fusion proteins</title>
+                <link>https://www.nature.com/articles/s41588-023-01396-w</link>
+                <description>Two studies describe kinase fusion proteins (KFPs) that regulate the perception and deception of wheat pathogens. These highlight the emergence of KFPs as plant immune regulators and emphasize the importance of crop wild relatives as a reservoir for resistance breeding and global food security.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two studies describe kinase fusion proteins (KFPs) that regulate the perception and deception of wheat pathogens. These highlight the emergence of KFPs as plant immune regulators and emphasize the importance of crop wild relatives as a reservoir for resistance breeding and global food security.</p></div>]]></content:encoded>
+                <pubDate>2023-05-22</pubDate>
+                <dc:creator>Tzion Fahima</dc:creator>
+                <dc:creator>Gitta Coaker</dc:creator>
+                <dc:date>2023-05-22</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Pathogen perception and deception in plant immunity by kinase fusion proteins</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01396-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Identifying the structures of individual RNA isoforms inside cells</title>
+                <link>https://www.nature.com/articles/s41592-023-01904-0</link>
+                <description>Nano-DMS-MaP focuses in on the structures of individual RNA isoforms, enabling direct examination of the structural diversity of different RNAs inside cells.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nano-DMS-MaP focuses in on the structures of individual RNA isoforms, enabling direct examination of the structural diversity of different RNAs inside cells.</p></div>]]></content:encoded>
+                <pubDate>2023-05-19</pubDate>
+                <dc:creator>Julia C. Kenyon</dc:creator>
+                <dc:creator>Johnson Mak</dc:creator>
+                <dc:date>2023-05-19</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Identifying the structures of individual RNA isoforms inside cells</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01904-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Silencing tau to treat early Alzheimer’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02357-w</link>
+                <description>An antisense oligonucleotide therapy substantially reduced tau expression in a phase 1b trial; whether this translates to clinical improvement remains to be seen, but it could have far-reaching implications for neurodegenerative diseases more broadly.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An antisense oligonucleotide therapy substantially reduced tau expression in a phase 1b trial; whether this translates to clinical improvement remains to be seen, but it could have far-reaching implications for neurodegenerative diseases more broadly.</p></div>]]></content:encoded>
+                <pubDate>2023-05-17</pubDate>
+                <dc:creator>Peter A. Ljubenkov</dc:creator>
+                <dc:creator>Gil D. Rabinovici</dc:creator>
+                <dc:date>2023-05-17</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Silencing tau to treat early Alzheimer’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02357-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Breaking transformation barriers</title>
+                <link>https://www.nature.com/articles/s41477-023-01420-1</link>
+                <description>The regulatory networks that underlie the regeneration capacity of wheat reveal new opportunities for overcoming barriers to highly efficient and genotype-independent transformation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The regulatory networks that underlie the regeneration capacity of wheat reveal new opportunities for overcoming barriers to highly efficient and genotype-independent transformation.</p></div>]]></content:encoded>
+                <pubDate>2023-05-16</pubDate>
+                <dc:creator>Wendy Harwood</dc:creator>
+                <dc:date>2023-05-16</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Breaking transformation barriers</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01420-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Advancing combination therapy for recurrent glioblastoma</title>
+                <link>https://www.nature.com/articles/s41591-023-02350-3</link>
+                <description>Adding an oncolytic virus to classic immune checkpoint inhibition elicits treatment responses and survival benefit for select immunologically ‘cold’ recurrent glioblastomas, although creative treatment strategies are still needed for patients with highly anti-inflammatory tumors.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Adding an oncolytic virus to classic immune checkpoint inhibition elicits treatment responses and survival benefit for select immunologically ‘cold’ recurrent glioblastomas, although creative treatment strategies are still needed for patients with highly anti-inflammatory tumors.</p></div>]]></content:encoded>
+                <pubDate>2023-05-15</pubDate>
+                <dc:creator>Adela Wu</dc:creator>
+                <dc:creator>Michael Lim</dc:creator>
+                <dc:date>2023-05-15</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Advancing combination therapy for recurrent glioblastoma</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02350-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A systematic analysis of immune escape signals in the primary and metastatic tumor genome</title>
+                <link>https://www.nature.com/articles/s41588-023-01374-2</link>
+                <description>Tumors develop mechanisms to escape immune destruction. A systematic analysis of large genome sequencing datasets shows that one in four tumors develop genetic immune escape and its prevalence is remarkably similar between primary and metastatic tumors, suggesting that immune escape is an early event during tumor evolution.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Tumors develop mechanisms to escape immune destruction. A systematic analysis of large genome sequencing datasets shows that one in four tumors develop genetic immune escape and its prevalence is remarkably similar between primary and metastatic tumors, suggesting that immune escape is an early event during tumor evolution.</p></div>]]></content:encoded>
+                <pubDate>2023-05-10</pubDate>
+                <dc:creator>Jimmy Van den Eynden</dc:creator>
+                <dc:date>2023-05-10</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>A systematic analysis of immune escape signals in the primary and metastatic tumor genome</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01374-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Organ-specific aging and the risk of chronic diseases</title>
+                <link>https://www.nature.com/articles/s41591-023-02338-z</link>
+                <description>A multiorgan model unravels the inter-organ aging network and predicts chronic diseases and mortality</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A multiorgan model unravels the inter-organ aging network and predicts chronic diseases and mortality</p></div>]]></content:encoded>
+                <pubDate>2023-05-09</pubDate>
+                <dc:creator>Mahdi Moqri</dc:creator>
+                <dc:creator>Michael Snyder</dc:creator>
+                <dc:date>2023-05-09</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Organ-specific aging and the risk of chronic diseases</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02338-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>ATG8 keeps Golgi in shape after the heat</title>
+                <link>https://www.nature.com/articles/s41477-023-01414-z</link>
+                <description>Short-term heat stress affects the morphology and function of the plant Golgi apparatus in a reversible manner. The autophagy component AUTOPHAGY 8 relocalizes to heat stress-induced vacuolated Golgi cisternae and contributes to their restoration, revealing a role of this protein outside of the canonical autophagy pathway.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Short-term heat stress affects the morphology and function of the plant Golgi apparatus in a reversible manner. The autophagy component AUTOPHAGY 8 relocalizes to heat stress-induced vacuolated Golgi cisternae and contributes to their restoration, revealing a role of this protein outside of the canonical autophagy pathway.</p></div>]]></content:encoded>
+                <pubDate>2023-05-09</pubDate>
+                <dc:creator>Manuel González-Fuente</dc:creator>
+                <dc:creator>Suayib Üstün</dc:creator>
+                <dc:date>2023-05-09</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>ATG8 keeps Golgi in shape after the heat</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01414-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Nonmetabolic role for CKB in ferroptosis</title>
+                <link>https://www.nature.com/articles/s41556-023-01104-0</link>
+                <description>The selenoprotein glutathione peroxidase 4 (GPX4) is the guardian of ferroptosis, a form of cell death earmarked by unrestrained lipid peroxidation. A new study shows that the metabolic enzyme creatinine kinase B (CKB) phosphorylates GPX4, which may influence the susceptibility of cancer cells to ferroptosis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The selenoprotein glutathione peroxidase 4 (GPX4) is the guardian of ferroptosis, a form of cell death earmarked by unrestrained lipid peroxidation. A new study shows that the metabolic enzyme creatinine kinase B (CKB) phosphorylates GPX4, which may influence the susceptibility of cancer cells to ferroptosis.</p></div>]]></content:encoded>
+                <pubDate>2023-05-08</pubDate>
+                <dc:creator>Eikan Mishima</dc:creator>
+                <dc:creator>Marcus Conrad</dc:creator>
+                <dc:date>2023-05-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Nonmetabolic role for CKB in ferroptosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01104-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Tailoring 3′ UTRs alters metastatic potential</title>
+                <link>https://www.nature.com/articles/s41556-023-01127-7</link>
+                <description>In cancer, alternative polyadenylation has been shown to lead to altered 3′ UTRs with different regulatory potentials. A study now suggests a mechanism that leads to 3′ UTR lengthening and translational repression of a subset of metastasis-suppressing genes, revealing a new prospective therapeutic vulnerability.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In cancer, alternative polyadenylation has been shown to lead to altered 3′ UTRs with different regulatory potentials. A study now suggests a mechanism that leads to 3′ UTR lengthening and translational repression of a subset of metastasis-suppressing genes, revealing a new prospective therapeutic vulnerability.</p></div>]]></content:encoded>
+                <pubDate>2023-05-08</pubDate>
+                <dc:creator>Kathleen Watt</dc:creator>
+                <dc:creator>Lynne-Marie Postovit</dc:creator>
+                <dc:date>2023-05-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Tailoring 3′ UTRs alters metastatic potential</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01127-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Automating kidney transplant diagnostics</title>
+                <link>https://www.nature.com/articles/s41591-023-02300-z</link>
+                <description>Diagnosis of kidney allograft rejection remains complex and somewhat subjective; but an automated version of the gold-standard Banff classification could streamline assessment and improve diagnostic accuracy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Diagnosis of kidney allograft rejection remains complex and somewhat subjective; but an automated version of the gold-standard Banff classification could streamline assessment and improve diagnostic accuracy.</p></div>]]></content:encoded>
+                <pubDate>2023-05-04</pubDate>
+                <dc:creator>Nissrin Alachkar</dc:creator>
+                <dc:creator>Nada Alachkar</dc:creator>
+                <dc:date>2023-05-04</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Automating kidney transplant diagnostics</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02300-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>NPFs rule suberization</title>
+                <link>https://www.nature.com/articles/s41477-023-01411-2</link>
+                <description>Hormone-dependent suberin deposition is a key process in root development and in response to biotic and abiotic stresses. A recent study demonstrates that long- and short-distance transport of abscisic acid (ABA) and gibberellin (GA) via four members of the nitrate and peptide transporter family (NPFs) is crucial for endodermal suberization in roots.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Hormone-dependent suberin deposition is a key process in root development and in response to biotic and abiotic stresses. A recent study demonstrates that long- and short-distance transport of abscisic acid (ABA) and gibberellin (GA) via four members of the nitrate and peptide transporter family (NPFs) is crucial for endodermal suberization in roots.</p></div>]]></content:encoded>
+                <pubDate>2023-05-04</pubDate>
+                <dc:creator>Kevin Robe</dc:creator>
+                <dc:creator>Marie Barberon</dc:creator>
+                <dc:date>2023-05-04</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>NPFs rule suberization</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01411-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The cutting edge of grass leaves</title>
+                <link>https://www.nature.com/articles/s41477-023-01417-w</link>
+                <description>The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</p></div>]]></content:encoded>
+                <pubDate>2023-05-04</pubDate>
+                <dc:creator>Jie Zhang</dc:creator>
+                <dc:creator>Hilde Nelissen</dc:creator>
+                <dc:date>2023-05-04</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>The cutting edge of grass leaves</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01417-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing</title>
+                <link>https://www.nature.com/articles/s41588-023-01363-5</link>
+                <description>Aberrant RNA splicing events resulting from DNA variations are common causes of genetic disorders. Two studies published in Nature Genetics independently describe methods to decipher DNA-variant-associated aberrant splicing using high-throughput RNA sequencing data.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Aberrant RNA splicing events resulting from DNA variations are common causes of genetic disorders. Two studies published in Nature Genetics independently describe methods to decipher DNA-variant-associated aberrant splicing using high-throughput RNA sequencing data.</p></div>]]></content:encoded>
+                <pubDate>2023-05-04</pubDate>
+                <dc:creator>Bin Zhang</dc:creator>
+                <dc:creator>Xin Gao</dc:creator>
+                <dc:date>2023-05-04</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01363-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Unmasking the elusive erythropoietin-producing ‘Norn’ cell</title>
+                <link>https://www.nature.com/articles/s41591-023-02322-7</link>
+                <description>Single-cell analyses in humans and mice have revealed the identity of the erythropoietin producing cells of the kidney — opening up new avenues of research for anemia and related disorders.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Single-cell analyses in humans and mice have revealed the identity of the erythropoietin producing cells of the kidney — opening up new avenues of research for anemia and related disorders.</p></div>]]></content:encoded>
+                <pubDate>2023-05-02</pubDate>
+                <dc:creator>Amin Abedini</dc:creator>
+                <dc:creator>Konstantin A. Klötzer</dc:creator>
+                <dc:creator>Katalin Susztak</dc:creator>
+                <dc:date>2023-05-02</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Unmasking the elusive erythropoietin-producing ‘Norn’ cell</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02322-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Turning a new leaf on cannabinoids</title>
+                <link>https://www.nature.com/articles/s41477-023-01415-y</link>
+                <description>Only a limited subset of angiosperms produce cannabinoids. Evidence for the independent evolution of cannabinoid biosynthesis was discovered in the South African plant Helichrysum umbraculigerum. This discovery provides an alternative set of enzymes that will expand the synthetic biology toolbox for those interested in manipulating the pathway for drug discovery.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Only a limited subset of angiosperms produce cannabinoids. Evidence for the independent evolution of cannabinoid biosynthesis was discovered in the South African plant Helichrysum umbraculigerum. This discovery provides an alternative set of enzymes that will expand the synthetic biology toolbox for those interested in manipulating the pathway for drug discovery.</p></div>]]></content:encoded>
+                <pubDate>2023-05-01</pubDate>
+                <dc:creator>Benjamin G. Chavez</dc:creator>
+                <dc:creator>John C. D’Auria</dc:creator>
+                <dc:date>2023-05-01</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Turning a new leaf on cannabinoids</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01415-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Using enormous genealogies to map causal variants in space and time</title>
+                <link>https://www.nature.com/articles/s41588-023-01389-9</link>
+                <description>A new method infers huge gene trees and tests the tree branches for phenotypic associations. This improves power to map the effects of rare variants that are missing from genotype arrays and imputation panels.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new method infers huge gene trees and tests the tree branches for phenotypic associations. This improves power to map the effects of rare variants that are missing from genotype arrays and imputation panels.</p></div>]]></content:encoded>
+                <pubDate>2023-05-01</pubDate>
+                <dc:creator>Kelley Harris</dc:creator>
+                <dc:date>2023-05-01</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Using enormous genealogies to map causal variants in space and time</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01389-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A call to improve the quality of screening programs</title>
+                <link>https://www.nature.com/articles/s41591-023-02305-8</link>
+                <description>The CanScreen5 project provides a tool for monitoring the performance and improving the quality of global cancer screening programs — and highlights the importance of robust quality assurance in this setting.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The CanScreen5 project provides a tool for monitoring the performance and improving the quality of global cancer screening programs — and highlights the importance of robust quality assurance in this setting.</p></div>]]></content:encoded>
+                <pubDate>2023-04-27</pubDate>
+                <dc:creator>Fei Wang</dc:creator>
+                <dc:creator>Xuesi Dong</dc:creator>
+                <dc:creator>Ni Li</dc:creator>
+                <dc:date>2023-04-27</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>A call to improve the quality of screening programs</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02305-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Government inaction and the preventable diabetes pandemic</title>
+                <link>https://www.nature.com/articles/s41591-023-02259-x</link>
+                <description>A new study highlights the importance of dietary intake and a health-promoting food environment for diabetes prevention, but translating this into meaningful outcomes requires urgent government action.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study highlights the importance of dietary intake and a health-promoting food environment for diabetes prevention, but translating this into meaningful outcomes requires urgent government action.</p></div>]]></content:encoded>
+                <pubDate>2023-04-17</pubDate>
+                <dc:creator>Andrew N. Reynolds</dc:creator>
+                <dc:creator>Jim Mann</dc:creator>
+                <dc:date>2023-04-17</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Government inaction and the preventable diabetes pandemic</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02259-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Discovering CRISPR–Cas off-target breaks</title>
+                <link>https://www.nature.com/articles/s41592-023-01847-6</link>
+                <description>DISCOVER-seq+ enables the efficient detection of CRISPR–Cas off-target breaks in primary cells and tissues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DISCOVER-seq+ enables the efficient detection of CRISPR–Cas off-target breaks in primary cells and tissues.</p></div>]]></content:encoded>
+                <pubDate>2023-04-06</pubDate>
+                <dc:creator>Carlos Jiménez</dc:creator>
+                <dc:creator>Nicola Crosetto</dc:creator>
+                <dc:date>2023-04-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Discovering CRISPR–Cas off-target breaks</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01847-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Catching active enhancers via H2B N-terminal acetylation</title>
+                <link>https://www.nature.com/articles/s41588-023-01347-5</link>
+                <description>Specific chromatin features, especially histone H3 lysine 27 acetylation, are widely used to identify active enhancers, yet current methods are imprecise. New work suggests that histone H2B N terminus multisite lysine acetylation (H2BNTac) is a notable signature of active enhancers and could substantially improve enhancer prediction.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Specific chromatin features, especially histone H3 lysine 27 acetylation, are widely used to identify active enhancers, yet current methods are imprecise. New work suggests that histone H2B N terminus multisite lysine acetylation (H2BNTac) is a notable signature of active enhancers and could substantially improve enhancer prediction.</p></div>]]></content:encoded>
+                <pubDate>2023-04-06</pubDate>
+                <dc:creator>Chang Huang</dc:creator>
+                <dc:creator>Kristian Helin</dc:creator>
+                <dc:date>2023-04-06</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Catching active enhancers via H2B N-terminal acetylation</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01347-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Unexpected heterogeneity in oropharyngeal squamous cell tumors</title>
+                <link>https://www.nature.com/articles/s41588-023-01360-8</link>
+                <description>A study uses single-cell RNA sequencing to profile human papillomavirus (HPV)-positive and -negative oropharyngeal squamous cell carcinoma, revealing considerable diversity within and between tumors. Within HPV-positive tumors, subsets of malignant cells are found with undetectable HPV expression and decreased HPV-related phenotypes, which may influence prognosis and response to therapy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study uses single-cell RNA sequencing to profile human papillomavirus (HPV)-positive and -negative oropharyngeal squamous cell carcinoma, revealing considerable diversity within and between tumors. Within HPV-positive tumors, subsets of malignant cells are found with undetectable HPV expression and decreased HPV-related phenotypes, which may influence prognosis and response to therapy.</p></div>]]></content:encoded>
+                <pubDate>2023-04-04</pubDate>
+                <dc:creator>David J. Peace</dc:creator>
+                <dc:creator>Evgeny Izumchenko</dc:creator>
+                <dc:creator>David Sidransky</dc:creator>
+                <dc:date>2023-04-04</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Unexpected heterogeneity in oropharyngeal squamous cell tumors</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01360-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Line-scanning speeds up Brillouin microscopy</title>
+                <link>https://www.nature.com/articles/s41592-023-01843-w</link>
+                <description>Two new Brillouin microscopes leverage line-scanning to overcome previous limitations of the technique, enabling fast imaging, with low phototoxicity, of mechanical properties in living embryos of model organisms and tumor spheroids.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new Brillouin microscopes leverage line-scanning to overcome previous limitations of the technique, enabling fast imaging, with low phototoxicity, of mechanical properties in living embryos of model organisms and tumor spheroids.</p></div>]]></content:encoded>
+                <pubDate>2023-03-30</pubDate>
+                <dc:creator>Nargess Khalilgharibi</dc:creator>
+                <dc:creator>Giulia Paci</dc:creator>
+                <dc:creator>Yanlan Mao</dc:creator>
+                <dc:date>2023-03-30</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Line-scanning speeds up Brillouin microscopy</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01843-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Nucleotide metabolism regulates human telomere length via telomerase activation</title>
+                <link>https://www.nature.com/articles/s41588-023-01359-1</link>
+                <description>Telomere length is an important determinant of cellular aging and disease risk, but the genetics of telomere length control in humans is unclear. A genome-wide CRISPR screen has now identified a central role for thymidine nucleotide metabolism in the regulation of telomere length, which has implications for the diagnosis and treatment of disease.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Telomere length is an important determinant of cellular aging and disease risk, but the genetics of telomere length control in humans is unclear. A genome-wide CRISPR screen has now identified a central role for thymidine nucleotide metabolism in the regulation of telomere length, which has implications for the diagnosis and treatment of disease.</p></div>]]></content:encoded>
+                <pubDate>2023-03-30</pubDate>
+                <dc:creator>Tracy M. Bryan</dc:creator>
+                <dc:date>2023-03-30</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Nucleotide metabolism regulates human telomere length via telomerase activation</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01359-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>IMAGE-seq and you shall find</title>
+                <link>https://www.nature.com/articles/s41592-023-01835-w</link>
+                <description>Integration of single-cell molecular profiling with cellular spatial localization has remained an elusive goal. Image-seq leverages high-resolution microscopy to spatially resolve and isolate viable bone marrow and leukemia cells for subsequent state-of-the art, single-cell transcriptomics.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Integration of single-cell molecular profiling with cellular spatial localization has remained an elusive goal. Image-seq leverages high-resolution microscopy to spatially resolve and isolate viable bone marrow and leukemia cells for subsequent state-of-the art, single-cell transcriptomics.</p></div>]]></content:encoded>
+                <pubDate>2023-03-27</pubDate>
+                <dc:creator>John P. Chute</dc:creator>
+                <dc:creator>Joshua P. Sasine</dc:creator>
+                <dc:date>2023-03-27</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>IMAGE-seq and you shall find</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01835-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mathematical modeling of neuroblastoma associates evolutionary patterns with outcomes</title>
+                <link>https://www.nature.com/articles/s41588-023-01358-2</link>
+                <description>A new study deciphers the origin and evolution of childhood neuroblastoma using genome sequencing data, mathematical models and statistical inference, showing how neuroblastoma evolution is an accurate predictor of outcome.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study deciphers the origin and evolution of childhood neuroblastoma using genome sequencing data, mathematical models and statistical inference, showing how neuroblastoma evolution is an accurate predictor of outcome.</p></div>]]></content:encoded>
+                <pubDate>2023-03-27</pubDate>
+                <dc:creator>Giulio Caravagna</dc:creator>
+                <dc:date>2023-03-27</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Mathematical modeling of neuroblastoma associates evolutionary patterns with outcomes</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01358-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Facilitating genome structural variation analysis</title>
+                <link>https://www.nature.com/articles/s41592-023-01767-5</link>
+                <description>Although structural variation is less explored than single-nucleotide variation, recent studies have shown it to be associated with several human diseases. Three fresh computational methods might help to elucidate this inadequately understood part of our genetic makeup.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Although structural variation is less explored than single-nucleotide variation, recent studies have shown it to be associated with several human diseases. Three fresh computational methods might help to elucidate this inadequately understood part of our genetic makeup.</p></div>]]></content:encoded>
+                <pubDate>2023-03-23</pubDate>
+                <dc:creator>Mile Sikic</dc:creator>
+                <dc:date>2023-03-23</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Facilitating genome structural variation analysis</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01767-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Estimation of cross-ancestry genetic correlations within ancestry tracts of admixed samples</title>
+                <link>https://www.nature.com/articles/s41588-023-01325-x</link>
+                <description>Quantifying whether different populations share similar effect sizes of common causal variants is vital to understand the genetic basis of disease and build better prediction models. A new study proposes a method leveraging admixture to estimate the correlation of causal genetic variants and finds they are largely similar across ancestry backgrounds.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Quantifying whether different populations share similar effect sizes of common causal variants is vital to understand the genetic basis of disease and build better prediction models. A new study proposes a method leveraging admixture to estimate the correlation of causal genetic variants and finds they are largely similar across ancestry backgrounds.</p></div>]]></content:encoded>
+                <pubDate>2023-03-20</pubDate>
+                <dc:creator>Elizabeth G. Atkinson</dc:creator>
+                <dc:date>2023-03-20</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Estimation of cross-ancestry genetic correlations within ancestry tracts of admixed samples</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01325-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Creating synthetic maize centromeres</title>
+                <link>https://www.nature.com/articles/s41477-023-01366-4</link>
+                <description>A tethering approach based on a LexA–CENH3 fusion protein in maize activates functional centromeres at synthetic LexO repeat arrays. The synthetic centromeres cause fragmentation of the resulting dicentric chromosomes, resulting in stably inherited and self-sustaining neochromosomes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A tethering approach based on a LexA–CENH3 fusion protein in maize activates functional centromeres at synthetic LexO repeat arrays. The synthetic centromeres cause fragmentation of the resulting dicentric chromosomes, resulting in stably inherited and self-sustaining neochromosomes.</p></div>]]></content:encoded>
+                <pubDate>2023-03-16</pubDate>
+                <dc:creator>Ian R. Henderson</dc:creator>
+                <dc:date>2023-03-16</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Creating synthetic maize centromeres</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01366-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The story of wheat and its cousins</title>
+                <link>https://www.nature.com/articles/s41477-023-01365-5</link>
+                <description>Sequences of almost 800 wheat genomes have retraced the history of wheat: when and where it was domesticated, how cultivation spread from its Middle Eastern centre of origin and how the genome adapted to selective pressures in new agricultural habitats, not least thanks to its ability to take up genes from wild cousins.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Sequences of almost 800 wheat genomes have retraced the history of wheat: when and where it was domesticated, how cultivation spread from its Middle Eastern centre of origin and how the genome adapted to selective pressures in new agricultural habitats, not least thanks to its ability to take up genes from wild cousins.</p></div>]]></content:encoded>
+                <pubDate>2023-03-16</pubDate>
+                <dc:creator>Jia-Wu Feng</dc:creator>
+                <dc:creator>Martin Mascher</dc:creator>
+                <dc:date>2023-03-16</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>The story of wheat and its cousins</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01365-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Tracking SARS-CoV-2 variants and resources</title>
+                <link>https://www.nature.com/articles/s41592-023-01833-y</link>
+                <description>Outbreak.info empowers real-time variant monitoring and tracing of associated publications and resources during the ‘infodemic’ of SARS-CoV-2.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Outbreak.info empowers real-time variant monitoring and tracing of associated publications and resources during the ‘infodemic’ of SARS-CoV-2.</p></div>]]></content:encoded>
+                <pubDate>2023-03-15</pubDate>
+                <dc:creator>Bas B. Oude Munnink</dc:creator>
+                <dc:creator>Marion Koopmans</dc:creator>
+                <dc:date>2023-03-15</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Tracking SARS-CoV-2 variants and resources</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01833-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Identifying individuals at extreme risk of venous thromboembolism using polygenic risk scores</title>
+                <link>https://www.nature.com/articles/s41588-023-01330-0</link>
+                <description>Current risk assessment and treatment strategies for venous thromboembolism (VTE) consider genetic factors only in a limited way. New work shows a more pervasive role of common variants in VTE risk, inspiring genetic predictors that surpass and complement individual clinical risk factors and monogenic thrombophilia testing.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Current risk assessment and treatment strategies for venous thromboembolism (VTE) consider genetic factors only in a limited way. New work shows a more pervasive role of common variants in VTE risk, inspiring genetic predictors that surpass and complement individual clinical risk factors and monogenic thrombophilia testing.</p></div>]]></content:encoded>
+                <pubDate>2023-03-09</pubDate>
+                <dc:creator>Michael Chong</dc:creator>
+                <dc:creator>Guillaume Paré</dc:creator>
+                <dc:date>2023-03-09</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Identifying individuals at extreme risk of venous thromboembolism using polygenic risk scores</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01330-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Deep brain imaging on the move</title>
+                <link>https://www.nature.com/articles/s41592-023-01808-z</link>
+                <description>New three-photon miniature microscopes open the study of neuronal networks to those deep in the brains of behaving animals.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New three-photon miniature microscopes open the study of neuronal networks to those deep in the brains of behaving animals.</p></div>]]></content:encoded>
+                <pubDate>2023-03-03</pubDate>
+                <dc:creator>Jérôme A. Lecoq</dc:creator>
+                <dc:creator>Roman Boehringer</dc:creator>
+                <dc:creator>Benjamin F. Grewe</dc:creator>
+                <dc:date>2023-03-03</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Deep brain imaging on the move</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01808-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Designing spatial transcriptomic experiments</title>
+                <link>https://www.nature.com/articles/s41592-023-01801-6</link>
+                <description>Optimal design of spatial transcriptomic experiments allows statistical evaluation of the impact of various biological and technological features on the discovery of cell phenotypes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Optimal design of spatial transcriptomic experiments allows statistical evaluation of the impact of various biological and technological features on the discovery of cell phenotypes.</p></div>]]></content:encoded>
+                <pubDate>2023-03-02</pubDate>
+                <dc:creator>Dario Righelli</dc:creator>
+                <dc:creator>Andrea Sottosanti</dc:creator>
+                <dc:creator>Davide Risso</dc:creator>
+                <dc:date>2023-03-02</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Designing spatial transcriptomic experiments</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01801-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Linking connectome with transcriptome using a self-inactivating rabies virus</title>
+                <link>https://www.nature.com/articles/s41592-023-01803-4</link>
+                <description>A self-inactivating rabies virus tracer allows long-term monitoring and transcriptomic profiling of synaptically connected cells.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A self-inactivating rabies virus tracer allows long-term monitoring and transcriptomic profiling of synaptically connected cells.</p></div>]]></content:encoded>
+                <pubDate>2023-03-02</pubDate>
+                <dc:creator>Shenqin Yao</dc:creator>
+                <dc:creator>Boaz P. Levi</dc:creator>
+                <dc:date>2023-03-02</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Linking connectome with transcriptome using a self-inactivating rabies virus</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01803-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Controlling cellular activities with light</title>
+                <link>https://www.nature.com/articles/s41592-022-01745-3</link>
+                <description>New red–green optogenetic dimerizers enable the switching on and off of gene expression with high spatiotemporal precision.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New red–green optogenetic dimerizers enable the switching on and off of gene expression with high spatiotemporal precision.</p></div>]]></content:encoded>
+                <pubDate>2023-02-23</pubDate>
+                <dc:creator>Yao-Wen Wu</dc:creator>
+                <dc:date>2023-02-23</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Controlling cellular activities with light</dc:title>
+                <dc:identifier>doi:doi.org/s41592-022-01745-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Leaf transformation in grasses</title>
+                <link>https://www.nature.com/articles/s41477-023-01349-5</link>
+                <description>Using leaf explants and morphological regulator genes (Babyboom and Wuschel 2) driven by new promoter combinations, an efficient transformation and genome editing system is developed in maize and sorghum and successfully applied in seven other Poaceae grass species.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Using leaf explants and morphological regulator genes (Babyboom and Wuschel 2) driven by new promoter combinations, an efficient transformation and genome editing system is developed in maize and sorghum and successfully applied in seven other Poaceae grass species.</p></div>]]></content:encoded>
+                <pubDate>2023-02-09</pubDate>
+                <dc:creator>Sadiye Hayta</dc:creator>
+                <dc:date>2023-02-09</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Leaf transformation in grasses</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01349-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>NCRs make the difference</title>
+                <link>https://www.nature.com/articles/s41477-023-01346-8</link>
+                <description>Various clades of legume plants irreversibly modify the development of their symbiotic nitrogen-fixing microorganisms. Key transcription factors controlling this process have been identified. They are conserved and functional even in plant species that do not induce such a terminal differentiation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Various clades of legume plants irreversibly modify the development of their symbiotic nitrogen-fixing microorganisms. Key transcription factors controlling this process have been identified. They are conserved and functional even in plant species that do not induce such a terminal differentiation.</p></div>]]></content:encoded>
+                <pubDate>2023-01-23</pubDate>
+                <dc:creator>Benjamin Gourion</dc:creator>
+                <dc:date>2023-01-23</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>NCRs make the difference</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01346-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Seeing the wood for the trees</title>
+                <link>https://www.nature.com/articles/s41592-022-01741-7</link>
+                <description>A deep learning approach called DeepPiCt facilitates segmentation and macromolecular identification in the cellular jungle of electron cryotomography data.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A deep learning approach called DeepPiCt facilitates segmentation and macromolecular identification in the cellular jungle of electron cryotomography data.</p></div>]]></content:encoded>
+                <pubDate>2023-01-23</pubDate>
+                <dc:creator>Olivia E. R. Smith</dc:creator>
+                <dc:creator>Tanmay A. M. Bharat</dc:creator>
+                <dc:date>2023-01-23</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Seeing the wood for the trees</dc:title>
+                <dc:identifier>doi:doi.org/s41592-022-01741-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An actin starry night regulates seed size</title>
+                <link>https://www.nature.com/articles/s41477-023-01341-z</link>
+                <description>In Arabidopsis, the final size of the seed is determined early on during its development by the growth of a single multinucleate cell, the coenocytic endosperm. The endosperm arises from a second fertilization event, alongside the embryo, and dominates the onset of seed development while later nourishing and supporting embryo growth.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In Arabidopsis, the final size of the seed is determined early on during its development by the growth of a single multinucleate cell, the coenocytic endosperm. The endosperm arises from a second fertilization event, alongside the embryo, and dominates the onset of seed development while later nourishing and supporting embryo growth.</p></div>]]></content:encoded>
+                <pubDate>2023-01-19</pubDate>
+                <dc:creator>Wenjia Xu</dc:creator>
+                <dc:creator>Enrico Magnani</dc:creator>
+                <dc:date>2023-01-19</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>An actin starry night regulates seed size</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01341-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Next-generation single virus tracking</title>
+                <link>https://www.nature.com/articles/s41592-022-01670-5</link>
+                <description>Multiplexing real-time single virus tracking with imaging paves the way for detailed information on virus–host interactions, offering a potential paradigm shift.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Multiplexing real-time single virus tracking with imaging paves the way for detailed information on virus–host interactions, offering a potential paradigm shift.</p></div>]]></content:encoded>
+                <pubDate>2022-11-10</pubDate>
+                <dc:creator>Sergi Padilla-Parra</dc:creator>
+                <dc:date>2022-11-10</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Next-generation single virus tracking</dc:title>
+                <dc:identifier>doi:doi.org/s41592-022-01670-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Redesigning hydrogel geometry for enhanced organoids</title>
+                <link>https://www.nature.com/articles/s41592-022-01656-3</link>
+                <description>OCTOPUS is a bioengineered device for high-fidelity organoid cultures long term.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">OCTOPUS is a bioengineered device for high-fidelity organoid cultures long term.</p></div>]]></content:encoded>
+                <pubDate>2022-10-24</pubDate>
+                <dc:creator>Killian Hillion</dc:creator>
+                <dc:creator>Maxime M. Mahe</dc:creator>
+                <dc:date>2022-10-24</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Redesigning hydrogel geometry for enhanced organoids</dc:title>
+                <dc:identifier>doi:doi.org/s41592-022-01656-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mapping of the zebrafish brain takes shape</title>
+                <link>https://www.nature.com/articles/s41592-022-01637-6</link>
+                <description>The generation of a whole larval zebrafish brain electron microscopy volume in tandem with automated tools lays the groundwork for producing the first vertebrate brain connectome.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The generation of a whole larval zebrafish brain electron microscopy volume in tandem with automated tools lays the groundwork for producing the first vertebrate brain connectome.</p></div>]]></content:encoded>
+                <pubDate>2022-10-24</pubDate>
+                <dc:creator>Paul Brooks</dc:creator>
+                <dc:creator>Andrew Champion</dc:creator>
+                <dc:creator>Marta Costa</dc:creator>
+                <dc:date>2022-10-24</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Mapping of the zebrafish brain takes shape</dc:title>
+                <dc:identifier>doi:doi.org/s41592-022-01637-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The data science future of neuroscience theory</title>
+                <link>https://www.nature.com/articles/s41592-022-01630-z</link>
+                <description>An approach for integrating the wealth of heterogeneous brain data — from gene expression and neurotransmitter receptor density to structure and function — allows neuroscientists to easily place their data within the broader neuroscientific context.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An approach for integrating the wealth of heterogeneous brain data — from gene expression and neurotransmitter receptor density to structure and function — allows neuroscientists to easily place their data within the broader neuroscientific context.</p></div>]]></content:encoded>
+                <pubDate>2022-10-06</pubDate>
+                <dc:creator>Bradley Voytek</dc:creator>
+                <dc:date>2022-10-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>The data science future of neuroscience theory</dc:title>
+                <dc:identifier>doi:doi.org/s41592-022-01630-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Improved tracking via cell region fingerprints</title>
+                <link>https://www.nature.com/articles/s41592-022-01525-z</link>
+                <description>TracX shows that fast proofreading of track assignments leads to improved cell tracking performance.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">TracX shows that fast proofreading of track assignments leads to improved cell tracking performance.</p></div>]]></content:encoded>
+                <pubDate>2022-09-22</pubDate>
+                <dc:creator>Beth A. Cimini</dc:creator>
+                <dc:date>2022-09-22</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Improved tracking via cell region fingerprints</dc:title>
+                <dc:identifier>doi:doi.org/s41592-022-01525-z</dc:identifier>
             </item>
             
         </channel>
