@@ -15,6 +15,7 @@ from urllib.request import (
 import os
 import sys
 import time
+import subprocess
 
 
 def main():
@@ -162,7 +163,8 @@ def _usage():
 
 #### MAIN
 if __name__ == "__main__":
-    main()
+    if not 'python /Users/labo/general/nature_news_views_rss.py' in subprocess.getoutput('ps -ef | grep nature'):
+        main()
 
 ####
 
