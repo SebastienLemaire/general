@@ -13,6 +13,60 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Blueprint for non-transgenic edited plants</title>
+                <link>https://www.nature.com/articles/s41477-023-01532-8</link>
+                <description>A robust strategy to obtain edited crops without integration of a transgene is developed based on co-editing the ALS gene and a gene of interest.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A robust strategy to obtain edited crops without integration of a transgene is developed based on co-editing the ALS gene and a gene of interest.</p></div>]]></content:encoded>
+                <pubDate>2023-09-18</pubDate>
+                <dc:creator>Jean-Luc Gallois</dc:creator>
+                <dc:creator>Fabien Nogué</dc:creator>
+                <dc:date>2023-09-18</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Blueprint for non-transgenic edited plants</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01532-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Waste product from wood finally used to make glue</title>
+                <link>https://www.nature.com/articles/d41586-023-02864-3</link>
+                <description>Scientists have had limited success in converting lignin, a structural component of plants, into high-value products. The discovery that lignin can be used as a wood glue could be a game-changer for biorefineries.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists have had limited success in converting lignin, a structural component of plants, into high-value products. The discovery that lignin can be used as a wood glue could be a game-changer for biorefineries.</p></div>]]></content:encoded>
+                <pubDate>2023-09-18</pubDate>
+                <dc:creator>Charles E. Frazier</dc:creator>
+                <dc:date>2023-09-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Waste product from wood finally used to make glue</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02864-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How to establish a GAPLESS Casparian strip</title>
+                <link>https://www.nature.com/articles/s41477-023-01525-7</link>
+                <description>To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</p></div>]]></content:encoded>
+                <pubDate>2023-09-18</pubDate>
+                <dc:creator>Milica Nenadić</dc:creator>
+                <dc:creator>Joop E. M. Vermeer</dc:creator>
+                <dc:date>2023-09-18</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>How to establish a GAPLESS Casparian strip</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01525-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Nickelates join the club of high-temperature superconductors</title>
+                <link>https://www.nature.com/articles/d41586-023-02857-2</link>
+                <description>A nickel-based compound has shown evidence of a superconducting state at a temperature of 80 kelvin. The material bridges a gap between other nickelates and a notable class of superconductor containing copper.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A nickel-based compound has shown evidence of a superconducting state at a temperature of 80 kelvin. The material bridges a gap between other nickelates and a notable class of superconductor containing copper.</p></div>]]></content:encoded>
+                <pubDate>2023-09-18</pubDate>
+                <dc:creator>Matthias Hepting</dc:creator>
+                <dc:date>2023-09-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Nickelates join the club of high-temperature superconductors</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02857-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>DMRT1 drives the human germline forward</title>
                 <link>https://www.nature.com/articles/s41556-023-01196-8</link>
                 <description>The molecular program of human germline commitment remains largely unknown. A new study delineates the multifaceted functions of DMRT1 in human germline development, particularly in the transition from early to late primordial germ cells.</description>
@@ -41,6 +95,19 @@
             </item>
         
             <item>
+                <title>Bacteria deliver water channels to infect plants</title>
+                <link>https://www.nature.com/articles/d41586-023-02767-3</link>
+                <description>A wide range of harmful bacteria introduce proteins into plant cells. Some of these proteins move to the cell membrane and serve as channels for water and nutrients, creating favourable conditions for bacterial growth beside plant cells.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A wide range of harmful bacteria introduce proteins into plant cells. Some of these proteins move to the cell membrane and serve as channels for water and nutrients, creating favourable conditions for bacterial growth beside plant cells.</p></div>]]></content:encoded>
+                <pubDate>2023-09-13</pubDate>
+                <dc:creator>Gwyn A. Beattie</dc:creator>
+                <dc:date>2023-09-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Bacteria deliver water channels to infect plants</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02767-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Harnessing medical twitter data for pathology AI</title>
                 <link>https://www.nature.com/articles/s41591-023-02530-1</link>
                 <description>Using pathology data from Twitter, researchers have built a visual-language model for classifying and retrieving histopathology images — representing a milestone in the development of multifunctional foundational artificial intelligence models in computational pathology.</description>
@@ -53,19 +120,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Harnessing medical twitter data for pathology AI</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02530-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Bacteria deliver water channels to infect plants</title>
-                <link>https://www.nature.com/articles/d41586-023-02767-3</link>
-                <description>A wide range of harmful bacteria introduce proteins into plant cells. Some of these proteins move to the cell membrane and serve as channels for water and nutrients, creating favourable conditions for bacterial growth beside plant cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A wide range of harmful bacteria introduce proteins into plant cells. Some of these proteins move to the cell membrane and serve as channels for water and nutrients, creating favourable conditions for bacterial growth beside plant cells.</p></div>]]></content:encoded>
-                <pubDate>2023-09-13</pubDate>
-                <dc:creator>Gwyn A. Beattie</dc:creator>
-                <dc:date>2023-09-13</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Bacteria deliver water channels to infect plants</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02767-3</dc:identifier>
             </item>
         
             <item>
@@ -137,7 +191,7 @@
             </item>
         
             <item>
-                <title>8G modifications rewire tumoral microRNAs</title>
+                <title>o8G modifications rewire tumoral microRNAs</title>
                 <link>https://www.nature.com/articles/s41556-023-01179-9</link>
                 <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</p></div>]]></content:encoded>
@@ -146,7 +200,7 @@
                 <dc:creator>Maite Huarte</dc:creator>
                 <dc:date>2023-09-07</dc:date>
                 <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>8G modifications rewire tumoral microRNAs</dc:title>
+                <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
             </item>
         
@@ -274,32 +328,6 @@
             </item>
         
             <item>
-                <title>Previously unknown pathway for lipid biosynthesis discovered</title>
-                <link>https://www.nature.com/articles/d41586-023-02502-y</link>
-                <description>The pathway used by mammalian cells to make triglyceride lipids when supplies of fat molecules are high has long been known. A route that works when fat supplies are low has now been discovered.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pathway used by mammalian cells to make triglyceride lipids when supplies of fat molecules are high has long been known. A route that works when fat supplies are low has now been discovered.</p></div>]]></content:encoded>
-                <pubDate>2023-08-30</pubDate>
-                <dc:creator>Jean E. Schaffer</dc:creator>
-                <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Previously unknown pathway for lipid biosynthesis discovered</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02502-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Rethinking the effect of marine heatwaves on fish</title>
-                <link>https://www.nature.com/articles/d41586-023-02594-6</link>
-                <description>Marine heatwaves are on the rise. A surprising result from the analysis of data for fish populations in Europe and North America could change ways of thinking about the ecological consequences of such events.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Marine heatwaves are on the rise. A surprising result from the analysis of data for fish populations in Europe and North America could change ways of thinking about the ecological consequences of such events.</p></div>]]></content:encoded>
-                <pubDate>2023-08-30</pubDate>
-                <dc:creator>Mark R. Payne</dc:creator>
-                <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Rethinking the effect of marine heatwaves on fish</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02594-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Drone-racing champions outpaced by AI</title>
                 <link>https://www.nature.com/articles/d41586-023-02506-8</link>
                 <description>An autonomous drone has competed against human drone-racing champions — and won. The victory can be attributed to savvy engineering and a type of artificial intelligence that learns mostly through trial and error.</description>
@@ -352,6 +380,32 @@
             </item>
         
             <item>
+                <title>Previously unknown pathway for lipid biosynthesis discovered</title>
+                <link>https://www.nature.com/articles/d41586-023-02502-y</link>
+                <description>The pathway used by mammalian cells to make triglyceride lipids when supplies of fat molecules are high has long been known. A route that works when fat supplies are low has now been discovered.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pathway used by mammalian cells to make triglyceride lipids when supplies of fat molecules are high has long been known. A route that works when fat supplies are low has now been discovered.</p></div>]]></content:encoded>
+                <pubDate>2023-08-30</pubDate>
+                <dc:creator>Jean E. Schaffer</dc:creator>
+                <dc:date>2023-08-30</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Previously unknown pathway for lipid biosynthesis discovered</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02502-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Rethinking the effect of marine heatwaves on fish</title>
+                <link>https://www.nature.com/articles/d41586-023-02594-6</link>
+                <description>Marine heatwaves are on the rise. A surprising result from the analysis of data for fish populations in Europe and North America could change ways of thinking about the ecological consequences of such events.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Marine heatwaves are on the rise. A surprising result from the analysis of data for fish populations in Europe and North America could change ways of thinking about the ecological consequences of such events.</p></div>]]></content:encoded>
+                <pubDate>2023-08-30</pubDate>
+                <dc:creator>Mark R. Payne</dc:creator>
+                <dc:date>2023-08-30</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Rethinking the effect of marine heatwaves on fish</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02594-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: colour constancy, and an atomic romance</title>
                 <link>https://www.nature.com/articles/d41586-023-02652-z</link>
                 <description>Snippets from Nature’s past.</description>
@@ -362,6 +416,34 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: colour constancy, and an atomic romance</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02652-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Measuring open chromatin and DNA methylation in repeat arrays</title>
+                <link>https://www.nature.com/articles/s41477-023-01512-y</link>
+                <description>Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>R. Kelly Dawe</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Silencing translation with phenolic acids</title>
+                <link>https://www.nature.com/articles/s41477-023-01497-8</link>
+                <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Venkatesh P. Thirumalaikumar</dc:creator>
+                <dc:creator>Monika Chodasiewicz</dc:creator>
+                <dc:creator>Aleksandra Skirycz</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Silencing translation with phenolic acids</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
             </item>
         
             <item>
@@ -394,34 +476,6 @@
             </item>
         
             <item>
-                <title>Measuring open chromatin and DNA methylation in repeat arrays</title>
-                <link>https://www.nature.com/articles/s41477-023-01512-y</link>
-                <description>Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>R. Kelly Dawe</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Silencing translation with phenolic acids</title>
-                <link>https://www.nature.com/articles/s41477-023-01497-8</link>
-                <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>Venkatesh P. Thirumalaikumar</dc:creator>
-                <dc:creator>Monika Chodasiewicz</dc:creator>
-                <dc:creator>Aleksandra Skirycz</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Silencing translation with phenolic acids</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Fluorogenic chemically induced dimerization</title>
                 <link>https://www.nature.com/articles/s41592-023-01989-7</link>
                 <description>A new chemically induced dimerization (CID) pair exhibits fluorescence upon dimerization for the first time. Moreover, the CID pair is small and offers easily reversible dimerization that can be repeated multiple times.</description>
@@ -433,19 +487,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Fluorogenic chemically induced dimerization</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Corals have algal friends for dinner</title>
-                <link>https://www.nature.com/articles/d41586-023-02593-7</link>
-                <description>Biologists have long sought to understand the factors that enable coral reefs to thrive. A careful analysis of nutrient cycling now points to an unexpected food source that helps to sustain corals during food scarcity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Biologists have long sought to understand the factors that enable coral reefs to thrive. A careful analysis of nutrient cycling now points to an unexpected food source that helps to sustain corals during food scarcity.</p></div>]]></content:encoded>
-                <pubDate>2023-08-23</pubDate>
-                <dc:creator>Virginia M. Weis</dc:creator>
-                <dc:date>2023-08-23</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Corals have algal friends for dinner</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02593-7</dc:identifier>
             </item>
         
             <item>
@@ -486,19 +527,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Satellite images show the widespread impact of mining on tropical rivers</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02349-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: Copernicus’s legacy, and a hungry pigeon</title>
-                <link>https://www.nature.com/articles/d41586-023-02355-5</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-08-22</pubDate>
-                
-                <dc:date>2023-08-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: Copernicus’s legacy, and a hungry pigeon</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02355-5</dc:identifier>
             </item>
         
             <item>
@@ -640,20 +668,6 @@
             </item>
         
             <item>
-                <title>Pioneer factor competing for fate change</title>
-                <link>https://www.nature.com/articles/s41556-023-01190-0</link>
-                <description>Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</p></div>]]></content:encoded>
-                <pubDate>2023-07-24</pubDate>
-                <dc:creator>Rui Yi</dc:creator>
-                <dc:creator>Yali Dou</dc:creator>
-                <dc:date>2023-07-24</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Pioneer factor competing for fate change</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01190-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>A light switch for DNA break repair</title>
                 <link>https://www.nature.com/articles/s41477-023-01462-5</link>
                 <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
@@ -665,6 +679,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>A light switch for DNA break repair</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneer factor competing for fate change</title>
+                <link>https://www.nature.com/articles/s41556-023-01190-0</link>
+                <description>Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</p></div>]]></content:encoded>
+                <pubDate>2023-07-24</pubDate>
+                <dc:creator>Rui Yi</dc:creator>
+                <dc:creator>Yali Dou</dc:creator>
+                <dc:date>2023-07-24</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pioneer factor competing for fate change</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01190-0</dc:identifier>
             </item>
         
             <item>
@@ -906,19 +934,6 @@
             </item>
         
             <item>
-                <title>Intimacy stabilizes symbiotic nodulation</title>
-                <link>https://www.nature.com/articles/s41477-023-01438-5</link>
-                <description>Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</p></div>]]></content:encoded>
-                <pubDate>2023-06-15</pubDate>
-                <dc:creator>Euan K. James</dc:creator>
-                <dc:date>2023-06-15</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Intimacy stabilizes symbiotic nodulation</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01438-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Guiding DNA repair at the nuclear periphery</title>
                 <link>https://www.nature.com/articles/s41556-023-01164-2</link>
                 <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
@@ -945,6 +960,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Urban living and mental health</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02348-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Intimacy stabilizes symbiotic nodulation</title>
+                <link>https://www.nature.com/articles/s41477-023-01438-5</link>
+                <description>Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</p></div>]]></content:encoded>
+                <pubDate>2023-06-15</pubDate>
+                <dc:creator>Euan K. James</dc:creator>
+                <dc:date>2023-06-15</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Intimacy stabilizes symbiotic nodulation</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01438-5</dc:identifier>
             </item>
         
             <item>
@@ -1018,6 +1046,19 @@
             </item>
         
             <item>
+                <title>Host protection by two memory-like MAIT subsets</title>
+                <link>https://www.nature.com/articles/s41556-023-01149-1</link>
+                <description>How mucosal-associated invariant T (MAIT) cells acquire memory-like features after infection and the factors that control this process have been unclear. A study now defines two subsets of antigen-adapted MAIT cells emerging after immunization that differ in functions, lung localization and metabolic requirements.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How mucosal-associated invariant T (MAIT) cells acquire memory-like features after infection and the factors that control this process have been unclear. A study now defines two subsets of antigen-adapted MAIT cells emerging after immunization that differ in functions, lung localization and metabolic requirements.</p></div>]]></content:encoded>
+                <pubDate>2023-05-25</pubDate>
+                <dc:creator>Margarita Dominguez-Villar</dc:creator>
+                <dc:date>2023-05-25</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Host protection by two memory-like MAIT subsets</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01149-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>SUC1’s mode of low-affinity transport</title>
                 <link>https://www.nature.com/articles/s41477-023-01431-y</link>
                 <description>The new structure for the H+-coupled sucrose uptake transporter AtSUC1 helps us understand the mechanism used by plants for cellular sucrose uptake and phloem loading.</description>
@@ -1029,19 +1070,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>SUC1’s mode of low-affinity transport</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01431-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Host protection by two memory-like MAIT subsets</title>
-                <link>https://www.nature.com/articles/s41556-023-01149-1</link>
-                <description>How mucosal-associated invariant T (MAIT) cells acquire memory-like features after infection and the factors that control this process have been unclear. A study now defines two subsets of antigen-adapted MAIT cells emerging after immunization that differ in functions, lung localization and metabolic requirements.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How mucosal-associated invariant T (MAIT) cells acquire memory-like features after infection and the factors that control this process have been unclear. A study now defines two subsets of antigen-adapted MAIT cells emerging after immunization that differ in functions, lung localization and metabolic requirements.</p></div>]]></content:encoded>
-                <pubDate>2023-05-25</pubDate>
-                <dc:creator>Margarita Dominguez-Villar</dc:creator>
-                <dc:date>2023-05-25</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Host protection by two memory-like MAIT subsets</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01149-1</dc:identifier>
             </item>
         
             <item>
@@ -1560,19 +1588,6 @@
             </item>
         
             <item>
-                <title>NCRs make the difference</title>
-                <link>https://www.nature.com/articles/s41477-023-01346-8</link>
-                <description>Various clades of legume plants irreversibly modify the development of their symbiotic nitrogen-fixing microorganisms. Key transcription factors controlling this process have been identified. They are conserved and functional even in plant species that do not induce such a terminal differentiation.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Various clades of legume plants irreversibly modify the development of their symbiotic nitrogen-fixing microorganisms. Key transcription factors controlling this process have been identified. They are conserved and functional even in plant species that do not induce such a terminal differentiation.</p></div>]]></content:encoded>
-                <pubDate>2023-01-23</pubDate>
-                <dc:creator>Benjamin Gourion</dc:creator>
-                <dc:date>2023-01-23</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>NCRs make the difference</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01346-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Seeing the wood for the trees</title>
                 <link>https://www.nature.com/articles/s41592-022-01741-7</link>
                 <description>A deep learning approach called DeepPiCt facilitates segmentation and macromolecular identification in the cellular jungle of electron cryotomography data.</description>
@@ -1584,20 +1599,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Seeing the wood for the trees</dc:title>
                 <dc:identifier>doi:doi.org/s41592-022-01741-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An actin starry night regulates seed size</title>
-                <link>https://www.nature.com/articles/s41477-023-01341-z</link>
-                <description>In Arabidopsis, the final size of the seed is determined early on during its development by the growth of a single multinucleate cell, the coenocytic endosperm. The endosperm arises from a second fertilization event, alongside the embryo, and dominates the onset of seed development while later nourishing and supporting embryo growth.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In Arabidopsis, the final size of the seed is determined early on during its development by the growth of a single multinucleate cell, the coenocytic endosperm. The endosperm arises from a second fertilization event, alongside the embryo, and dominates the onset of seed development while later nourishing and supporting embryo growth.</p></div>]]></content:encoded>
-                <pubDate>2023-01-19</pubDate>
-                <dc:creator>Wenjia Xu</dc:creator>
-                <dc:creator>Enrico Magnani</dc:creator>
-                <dc:date>2023-01-19</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>An actin starry night regulates seed size</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01341-z</dc:identifier>
             </item>
         
             <item>
