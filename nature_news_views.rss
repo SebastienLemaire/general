@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>A revolution in obesity treatment</title>
+                <link>https://www.nature.com/articles/s41591-023-02538-7</link>
+                <description>Mounting evidence, including the recent (and unprecedented) phase 2 data on retatrutide, supports a role for incretin hormone agonists in treating obesity. But with great power comes great responsibility.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mounting evidence, including the recent (and unprecedented) phase 2 data on retatrutide, supports a role for incretin hormone agonists in treating obesity. But with great power comes great responsibility.</p></div>]]></content:encoded>
+                <pubDate>2023-09-21</pubDate>
+                <dc:creator>Ildiko Lingvay</dc:creator>
+                <dc:creator>Shubham Agarwal</dc:creator>
+                <dc:date>2023-09-21</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>A revolution in obesity treatment</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02538-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The neural circuit that makes maternal mice respond to pups’ cries</title>
                 <link>https://www.nature.com/articles/d41586-023-02545-1</link>
                 <description>All newborn mammals cry. The neural circuit that stimulates mothers to look after crying offspring has been identified in mice — along with a mechanism that promotes maternal behaviour only after prolonged calls from pups.</description>
@@ -231,20 +245,6 @@
             </item>
         
             <item>
-                <title>Pausing pluripotency via RNA methylation</title>
-                <link>https://www.nature.com/articles/s41556-023-01203-y</link>
-                <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Xueting Xu</dc:creator>
-                <dc:creator>Baoming Qin</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Pausing pluripotency via RNA methylation</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pioneering the path to NASH biomarker approval</title>
                 <link>https://www.nature.com/articles/s41591-023-02527-w</link>
                 <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
@@ -256,6 +256,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pausing pluripotency via RNA methylation</title>
+                <link>https://www.nature.com/articles/s41556-023-01203-y</link>
+                <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Xueting Xu</dc:creator>
+                <dc:creator>Baoming Qin</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pausing pluripotency via RNA methylation</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
             </item>
         
             <item>
@@ -474,6 +488,21 @@
             </item>
         
             <item>
+                <title>Using the methylome to predict pre-eclampsia</title>
+                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
+                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
+                <dc:creator>Lucy A. Bartho</dc:creator>
+                <dc:creator>Stephen Tong</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Silencing translation with phenolic acids</title>
                 <link>https://www.nature.com/articles/s41477-023-01497-8</link>
                 <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
@@ -500,21 +529,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Using the methylome to predict pre-eclampsia</title>
-                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
-                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
-                <dc:creator>Lucy A. Bartho</dc:creator>
-                <dc:creator>Stephen Tong</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
             </item>
         
             <item>
@@ -740,6 +754,19 @@
             </item>
         
             <item>
+                <title>Balancing human and AI roles in clinical imaging</title>
+                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
+                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
+                <pubDate>2023-07-17</pubDate>
+                <dc:creator>Fiona Gilbert</dc:creator>
+                <dc:date>2023-07-17</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>H3K36 methylation is a reprogramming barrier</title>
                 <link>https://www.nature.com/articles/s41556-023-01147-3</link>
                 <description>Reprogramming of somatic cells is an inherently inefficient process. A new study has now identified histone H3K36 methylation as a crucial reprogramming barrier that operates downstream of TGFβ signalling. Global inhibition of H3K36 methylation induced PRC2-dependent silencing of mesenchymal genes and dramatically increased reprogramming efficiency.</description>
@@ -751,19 +778,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>H3K36 methylation is a reprogramming barrier</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01147-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Balancing human and AI roles in clinical imaging</title>
-                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
-                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
-                <pubDate>2023-07-17</pubDate>
-                <dc:creator>Fiona Gilbert</dc:creator>
-                <dc:date>2023-07-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
             </item>
         
             <item>
@@ -936,20 +950,6 @@
             </item>
         
             <item>
-                <title>Guiding DNA repair at the nuclear periphery</title>
-                <link>https://www.nature.com/articles/s41556-023-01164-2</link>
-                <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</p></div>]]></content:encoded>
-                <pubDate>2023-06-15</pubDate>
-                <dc:creator>Sylvain Audibert</dc:creator>
-                <dc:creator>Evi Soutoglou</dc:creator>
-                <dc:date>2023-06-15</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Guiding DNA repair at the nuclear periphery</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01164-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Urban living and mental health</title>
                 <link>https://www.nature.com/articles/s41591-023-02348-x</link>
                 <description>A new study strengthens the association between urbanicity and mental health with more granularity than before, but a causative mechanism remains elusive.</description>
@@ -962,6 +962,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Urban living and mental health</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02348-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Guiding DNA repair at the nuclear periphery</title>
+                <link>https://www.nature.com/articles/s41556-023-01164-2</link>
+                <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</p></div>]]></content:encoded>
+                <pubDate>2023-06-15</pubDate>
+                <dc:creator>Sylvain Audibert</dc:creator>
+                <dc:creator>Evi Soutoglou</dc:creator>
+                <dc:date>2023-06-15</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Guiding DNA repair at the nuclear periphery</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01164-2</dc:identifier>
             </item>
         
             <item>
@@ -1323,21 +1337,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Using enormous genealogies to map causal variants in space and time</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01389-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A call to improve the quality of screening programs</title>
-                <link>https://www.nature.com/articles/s41591-023-02305-8</link>
-                <description>The CanScreen5 project provides a tool for monitoring the performance and improving the quality of global cancer screening programs — and highlights the importance of robust quality assurance in this setting.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The CanScreen5 project provides a tool for monitoring the performance and improving the quality of global cancer screening programs — and highlights the importance of robust quality assurance in this setting.</p></div>]]></content:encoded>
-                <pubDate>2023-04-27</pubDate>
-                <dc:creator>Fei Wang</dc:creator>
-                <dc:creator>Xuesi Dong</dc:creator>
-                <dc:creator>Ni Li</dc:creator>
-                <dc:date>2023-04-27</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>A call to improve the quality of screening programs</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02305-8</dc:identifier>
             </item>
         
             <item>
