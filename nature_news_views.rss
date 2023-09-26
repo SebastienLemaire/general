@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>From the archive: teenage disdain, and Darwin ponders tiny males</title>
+                <link>https://www.nature.com/articles/d41586-023-02936-4</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-09-26</pubDate>
+                
+                <dc:date>2023-09-26</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: teenage disdain, and Darwin ponders tiny males</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02936-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>FER meets the Nod factor pathway</title>
                 <link>https://www.nature.com/articles/s41477-023-01531-9</link>
                 <description>Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</description>
@@ -231,19 +244,6 @@
             </item>
         
             <item>
-                <title>From the archive: the value of MSc degrees, and painting tips</title>
-                <link>https://www.nature.com/articles/d41586-023-02769-1</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-09-12</pubDate>
-                
-                <dc:date>2023-09-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: the value of MSc degrees, and painting tips</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02769-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Light from cosmic dawn hints at how interstellar dust is made</title>
                 <link>https://www.nature.com/articles/d41586-023-02766-4</link>
                 <description>The obscuration of light from a distant galaxy has raised the possibility that a type of carbon dust existed in the earliest epochs of the Universe — challenging the idea that stars had not yet evolved enough to make such material.</description>
@@ -255,6 +255,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Light from cosmic dawn hints at how interstellar dust is made</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02766-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: the value of MSc degrees, and painting tips</title>
+                <link>https://www.nature.com/articles/d41586-023-02769-1</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-09-12</pubDate>
+                
+                <dc:date>2023-09-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: the value of MSc degrees, and painting tips</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02769-1</dc:identifier>
             </item>
         
             <item>
@@ -433,19 +446,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Advancing multiplexed imaging for enhanced tissue complexity analysis</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01935-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Heaviest oxygen isotope is found to be unbound</title>
-                <link>https://www.nature.com/articles/d41586-023-02485-w</link>
-                <description>The isotope oxygen-28 is expected to be ‘doubly magic’, with strongly bound neutrons and protons in its nucleus. Experiments now reveal that it exists in an unbound state — casting doubt on its magic status.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The isotope oxygen-28 is expected to be ‘doubly magic’, with strongly bound neutrons and protons in its nucleus. Experiments now reveal that it exists in an unbound state — casting doubt on its magic status.</p></div>]]></content:encoded>
-                <pubDate>2023-08-30</pubDate>
-                <dc:creator>Rituparna Kanungo</dc:creator>
-                <dc:date>2023-08-30</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Heaviest oxygen isotope is found to be unbound</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02485-w</dc:identifier>
             </item>
         
             <item>
