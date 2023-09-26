@@ -13,6 +13,32 @@
             <ttl>120</ttl>
     
             <item>
+                <title>FER meets the Nod factor pathway</title>
+                <link>https://www.nature.com/articles/s41477-023-01531-9</link>
+                <description>Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</p></div>]]></content:encoded>
+                <pubDate>2023-09-25</pubDate>
+                <dc:creator>María Eugenia Zanetti</dc:creator>
+                <dc:date>2023-09-25</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>FER meets the Nod factor pathway</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01531-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</title>
+                <link>https://www.nature.com/articles/s41588-023-01493-w</link>
+                <description>Many precision cancer therapies function by inhibiting oncogenic signaling pathways. A new study describes the counterintuitive finding that forced hyperactivation of the same pathways can also enable selective tumor targeting.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Many precision cancer therapies function by inhibiting oncogenic signaling pathways. A new study describes the counterintuitive finding that forced hyperactivation of the same pathways can also enable selective tumor targeting.</p></div>]]></content:encoded>
+                <pubDate>2023-09-25</pubDate>
+                <dc:creator>Kris C. Wood</dc:creator>
+                <dc:date>2023-09-25</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01493-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>A revolution in obesity treatment</title>
                 <link>https://www.nature.com/articles/s41591-023-02538-7</link>
                 <description>Mounting evidence, including the recent (and unprecedented) phase 2 data on retatrutide, supports a role for incretin hormone agonists in treating obesity. But with great power comes great responsibility.</description>
@@ -488,21 +514,6 @@
             </item>
         
             <item>
-                <title>Using the methylome to predict pre-eclampsia</title>
-                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
-                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
-                <dc:creator>Lucy A. Bartho</dc:creator>
-                <dc:creator>Stephen Tong</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Silencing translation with phenolic acids</title>
                 <link>https://www.nature.com/articles/s41477-023-01497-8</link>
                 <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
@@ -515,6 +526,21 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Silencing translation with phenolic acids</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Using the methylome to predict pre-eclampsia</title>
+                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
+                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
+                <dc:creator>Lucy A. Bartho</dc:creator>
+                <dc:creator>Stephen Tong</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
             </item>
         
             <item>
@@ -1007,19 +1033,6 @@
             </item>
         
             <item>
-                <title>Dynamic measures of insulin action identify genetic determinants of dysglycemia</title>
-                <link>https://www.nature.com/articles/s41588-023-01346-6</link>
-                <description>Genome-wide association studies (GWAS) of type 2 diabetes have identified few loci connected to muscle biology. A GWAS of post-glucose-challenge measures of insulin has now identified loci related to insulin resistance and GLUT4 regulation in skeletal muscle, illustrating the benefit of studying dynamic glycemic measures.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genome-wide association studies (GWAS) of type 2 diabetes have identified few loci connected to muscle biology. A GWAS of post-glucose-challenge measures of insulin has now identified loci related to insulin resistance and GLUT4 regulation in skeletal muscle, illustrating the benefit of studying dynamic glycemic measures.</p></div>]]></content:encoded>
-                <pubDate>2023-06-08</pubDate>
-                <dc:creator>Miriam S. Udler</dc:creator>
-                <dc:date>2023-06-08</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Dynamic measures of insulin action identify genetic determinants of dysglycemia</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01346-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The pyrimidinosome is cancer’s Achilles’ heel</title>
                 <link>https://www.nature.com/articles/s41556-023-01159-z</link>
                 <description>A new study shows that the enzymes involved in de novo pyrimidine synthesis and ferroptosis form a complex called the pyrimidinosome, which is controlled by AMPK. Cancer cells low in AMPK expression rely on the pyrimidinosome, suggesting that co-inhibition of AMPK and the pyrimidinosome represents a potential cancer treatment strategy.</description>
@@ -1045,6 +1058,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Endoplasmic reticulum tethering by desmosomes</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01144-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dynamic measures of insulin action identify genetic determinants of dysglycemia</title>
+                <link>https://www.nature.com/articles/s41588-023-01346-6</link>
+                <description>Genome-wide association studies (GWAS) of type 2 diabetes have identified few loci connected to muscle biology. A GWAS of post-glucose-challenge measures of insulin has now identified loci related to insulin resistance and GLUT4 regulation in skeletal muscle, illustrating the benefit of studying dynamic glycemic measures.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genome-wide association studies (GWAS) of type 2 diabetes have identified few loci connected to muscle biology. A GWAS of post-glucose-challenge measures of insulin has now identified loci related to insulin resistance and GLUT4 regulation in skeletal muscle, illustrating the benefit of studying dynamic glycemic measures.</p></div>]]></content:encoded>
+                <pubDate>2023-06-08</pubDate>
+                <dc:creator>Miriam S. Udler</dc:creator>
+                <dc:date>2023-06-08</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Dynamic measures of insulin action identify genetic determinants of dysglycemia</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01346-6</dc:identifier>
             </item>
         
             <item>
@@ -1505,20 +1531,6 @@
             </item>
         
             <item>
-                <title>Identifying individuals at extreme risk of venous thromboembolism using polygenic risk scores</title>
-                <link>https://www.nature.com/articles/s41588-023-01330-0</link>
-                <description>Current risk assessment and treatment strategies for venous thromboembolism (VTE) consider genetic factors only in a limited way. New work shows a more pervasive role of common variants in VTE risk, inspiring genetic predictors that surpass and complement individual clinical risk factors and monogenic thrombophilia testing.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Current risk assessment and treatment strategies for venous thromboembolism (VTE) consider genetic factors only in a limited way. New work shows a more pervasive role of common variants in VTE risk, inspiring genetic predictors that surpass and complement individual clinical risk factors and monogenic thrombophilia testing.</p></div>]]></content:encoded>
-                <pubDate>2023-03-09</pubDate>
-                <dc:creator>Michael Chong</dc:creator>
-                <dc:creator>Guillaume Paré</dc:creator>
-                <dc:date>2023-03-09</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Identifying individuals at extreme risk of venous thromboembolism using polygenic risk scores</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01330-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Deep brain imaging on the move</title>
                 <link>https://www.nature.com/articles/s41592-023-01808-z</link>
                 <description>New three-photon miniature microscopes open the study of neuronal networks to those deep in the brains of behaving animals.</description>
@@ -1573,19 +1585,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Controlling cellular activities with light</dc:title>
                 <dc:identifier>doi:doi.org/s41592-022-01745-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Leaf transformation in grasses</title>
-                <link>https://www.nature.com/articles/s41477-023-01349-5</link>
-                <description>Using leaf explants and morphological regulator genes (Babyboom and Wuschel 2) driven by new promoter combinations, an efficient transformation and genome editing system is developed in maize and sorghum and successfully applied in seven other Poaceae grass species.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Using leaf explants and morphological regulator genes (Babyboom and Wuschel 2) driven by new promoter combinations, an efficient transformation and genome editing system is developed in maize and sorghum and successfully applied in seven other Poaceae grass species.</p></div>]]></content:encoded>
-                <pubDate>2023-02-09</pubDate>
-                <dc:creator>Sadiye Hayta</dc:creator>
-                <dc:date>2023-02-09</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Leaf transformation in grasses</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01349-5</dc:identifier>
             </item>
         
             <item>
