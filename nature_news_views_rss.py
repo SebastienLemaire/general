@@ -164,8 +164,7 @@ def _usage():
 
 #### MAIN
 if __name__ == "__main__":
-    if not 'python /Users/labo/general/nature_news_views_rss.py' in subprocess.getoutput('ps -ef | grep nature'):
-        main()
+    main()
 
 ####
 
