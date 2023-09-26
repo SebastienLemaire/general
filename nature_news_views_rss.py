@@ -22,21 +22,22 @@ def main():
     """Create RSS from website Nature News & Views"""
     # https://www.nature.com/nature/articles?type=news-and-views
     #
-    while True:
-        ## retrieve articles
-        item_list = retrieve_articles()
-        #
-        #
-        ## print XML for RSS feed
-        # tcrea = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-        xmlt = make_rss_text(item_list)
-        #
-        #
-        ## update the file
-        update_file(xmlt)
-        #
-        ## wait for a day before next update
-        time.sleep(60 * 60 * 24)
+    ## retrieve articles
+    item_list = retrieve_articles()
+    #
+    #
+    ## print XML for RSS feed
+    # tcrea = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    xmlt = make_rss_text(item_list)
+    #
+    #
+    ## update the file
+    update_file(xmlt)
+    #
+    # while True:
+    #     #
+    #     ## wait for a day before next update
+    #     time.sleep(60 * 60 * 24)
 
 
 def make_rss_text(item_list):
