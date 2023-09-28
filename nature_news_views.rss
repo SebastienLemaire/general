@@ -13,6 +13,34 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Factoring single-cell perturbations</title>
+                <link>https://www.nature.com/articles/s41592-023-02002-x</link>
+                <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</p></div>]]></content:encoded>
+                <pubDate>2023-09-28</pubDate>
+                <dc:creator>Bicna Song</dc:creator>
+                <dc:creator>Wei Li</dc:creator>
+                <dc:date>2023-09-28</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Factoring single-cell perturbations</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Master regulator of a mosquito X chromosome discovered</title>
+                <link>https://www.nature.com/articles/d41586-023-02972-0</link>
+                <description>In organisms with X and Y chromosomes, gene expression must be equalized between the sexes. A protein that causes upregulation of gene expression of the X chromosome in male mosquitoes has been discovered.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In organisms with X and Y chromosomes, gene expression must be equalized between the sexes. A protein that causes upregulation of gene expression of the X chromosome in male mosquitoes has been discovered.</p></div>]]></content:encoded>
+                <pubDate>2023-09-28</pubDate>
+                <dc:creator>Maggie P. Lauria Sneideman</dc:creator>
+                <dc:creator>Victoria H. Meller</dc:creator>
+                <dc:date>2023-09-28</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Master regulator of a mosquito X chromosome discovered</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02972-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Free-falling antihydrogen reveals the effect of gravity on antimatter</title>
                 <link>https://www.nature.com/articles/d41586-023-02930-w</link>
                 <description>A test performed on antihydrogen atoms has shown that gravity acts on matter and antimatter in a similar way. The experimental feat is the latest in efforts to probe the crossover between theories of relativity and particle physics.</description>
@@ -80,6 +108,19 @@
             </item>
         
             <item>
+                <title>An all-organic laser that is electrically driven</title>
+                <link>https://www.nature.com/articles/d41586-023-02935-5</link>
+                <description>An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</p></div>]]></content:encoded>
+                <pubDate>2023-09-27</pubDate>
+                <dc:creator>Stéphane Kéna-Cohen</dc:creator>
+                <dc:date>2023-09-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>An all-organic laser that is electrically driven</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02935-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Senolytic therapy for Alzheimer’s disease</title>
                 <link>https://www.nature.com/articles/s41591-023-02541-y</link>
                 <description>As the search for new and better treatments for Alzheimer’s disease continues, a phase 1 proof-of-concept study evaluating senolytic therapy breaks new ground.</description>
@@ -106,19 +147,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Tumor heterogeneity impairs immunogenicity in mismatch repair deficient tumors</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01492-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An all-organic laser that is electrically driven</title>
-                <link>https://www.nature.com/articles/d41586-023-02935-5</link>
-                <description>An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Stéphane Kéna-Cohen</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An all-organic laser that is electrically driven</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02935-5</dc:identifier>
             </item>
         
             <item>
@@ -175,20 +203,6 @@
             </item>
         
             <item>
-                <title>Dual stem-cell populations interact in the skull</title>
-                <link>https://www.nature.com/articles/d41586-023-02547-z</link>
-                <description>The discovery that the skull has two groups of stem cell that produce similar types of descendant cell has big implications for the field of stem-cell research — and casts light on a developmental disorder that affects many children.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery that the skull has two groups of stem cell that produce similar types of descendant cell has big implications for the field of stem-cell research — and casts light on a developmental disorder that affects many children.</p></div>]]></content:encoded>
-                <pubDate>2023-09-20</pubDate>
-                <dc:creator>Andrei S. Chagin</dc:creator>
-                <dc:creator>Dana Trompet</dc:creator>
-                <dc:date>2023-09-20</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Dual stem-cell populations interact in the skull</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02547-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Getting inside the oldest known vertebrate skull</title>
                 <link>https://www.nature.com/articles/d41586-023-02865-2</link>
                 <description>Analysis of a 458-million-year-old fossil fish reveals anatomical insights about the vertebrate skull and how skull organization evolved from that of ancestral early vertebrates to that of jawed vertebrates.</description>
@@ -227,6 +241,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>The neural circuit that makes maternal mice respond to pups’ cries</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02545-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dual stem-cell populations interact in the skull</title>
+                <link>https://www.nature.com/articles/d41586-023-02547-z</link>
+                <description>The discovery that the skull has two groups of stem cell that produce similar types of descendant cell has big implications for the field of stem-cell research — and casts light on a developmental disorder that affects many children.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery that the skull has two groups of stem cell that produce similar types of descendant cell has big implications for the field of stem-cell research — and casts light on a developmental disorder that affects many children.</p></div>]]></content:encoded>
+                <pubDate>2023-09-20</pubDate>
+                <dc:creator>Andrei S. Chagin</dc:creator>
+                <dc:creator>Dana Trompet</dc:creator>
+                <dc:date>2023-09-20</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Dual stem-cell populations interact in the skull</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02547-z</dc:identifier>
             </item>
         
             <item>
@@ -432,20 +460,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Dynamic regulation of messenger RNA structure controls translation</title>
-                <link>https://www.nature.com/articles/d41586-023-02673-8</link>
-                <description>During translation, messenger RNA guides protein production, and certain conditions can favour particular proteins. Helicase enzymes and mRNA structure control translation during defence responses in plants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">During translation, messenger RNA guides protein production, and certain conditions can favour particular proteins. Helicase enzymes and mRNA structure control translation during defence responses in plants.</p></div>]]></content:encoded>
-                <pubDate>2023-09-06</pubDate>
-                <dc:creator>Yizhu Lin</dc:creator>
-                <dc:creator>Stephen N. Floor</dc:creator>
-                <dc:date>2023-09-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Dynamic regulation of messenger RNA structure controls translation</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02673-8</dc:identifier>
             </item>
         
             <item>
@@ -1656,19 +1670,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>The data science future of neuroscience theory</dc:title>
                 <dc:identifier>doi:doi.org/s41592-022-01630-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Improved tracking via cell region fingerprints</title>
-                <link>https://www.nature.com/articles/s41592-022-01525-z</link>
-                <description>TracX shows that fast proofreading of track assignments leads to improved cell tracking performance.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">TracX shows that fast proofreading of track assignments leads to improved cell tracking performance.</p></div>]]></content:encoded>
-                <pubDate>2022-09-22</pubDate>
-                <dc:creator>Beth A. Cimini</dc:creator>
-                <dc:date>2022-09-22</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Improved tracking via cell region fingerprints</dc:title>
-                <dc:identifier>doi:doi.org/s41592-022-01525-z</dc:identifier>
             </item>
             
         </channel>
