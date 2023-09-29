@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The changing colour of carrot</title>
+                <link>https://www.nature.com/articles/s41477-023-01523-9</link>
+                <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</p></div>]]></content:encoded>
+                <pubDate>2023-09-28</pubDate>
+                <dc:creator>Yafei Guo</dc:creator>
+                <dc:creator>Fei Lu</dc:creator>
+                <dc:date>2023-09-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>The changing colour of carrot</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Factoring single-cell perturbations</title>
                 <link>https://www.nature.com/articles/s41592-023-02002-x</link>
                 <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
@@ -163,19 +177,6 @@
             </item>
         
             <item>
-                <title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</title>
-                <link>https://www.nature.com/articles/s41588-023-01493-w</link>
-                <description>Many precision cancer therapies function by inhibiting oncogenic signaling pathways. A new study describes the counterintuitive finding that forced hyperactivation of the same pathways can also enable selective tumor targeting.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Many precision cancer therapies function by inhibiting oncogenic signaling pathways. A new study describes the counterintuitive finding that forced hyperactivation of the same pathways can also enable selective tumor targeting.</p></div>]]></content:encoded>
-                <pubDate>2023-09-25</pubDate>
-                <dc:creator>Kris C. Wood</dc:creator>
-                <dc:date>2023-09-25</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01493-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>FER meets the Nod factor pathway</title>
                 <link>https://www.nature.com/articles/s41477-023-01531-9</link>
                 <description>Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</description>
@@ -186,6 +187,19 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>FER meets the Nod factor pathway</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01531-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</title>
+                <link>https://www.nature.com/articles/s41588-023-01493-w</link>
+                <description>Many precision cancer therapies function by inhibiting oncogenic signaling pathways. A new study describes the counterintuitive finding that forced hyperactivation of the same pathways can also enable selective tumor targeting.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Many precision cancer therapies function by inhibiting oncogenic signaling pathways. A new study describes the counterintuitive finding that forced hyperactivation of the same pathways can also enable selective tumor targeting.</p></div>]]></content:encoded>
+                <pubDate>2023-09-25</pubDate>
+                <dc:creator>Kris C. Wood</dc:creator>
+                <dc:date>2023-09-25</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01493-w</dc:identifier>
             </item>
         
             <item>
@@ -285,6 +299,20 @@
             </item>
         
             <item>
+                <title>How to establish a GAPLESS Casparian strip</title>
+                <link>https://www.nature.com/articles/s41477-023-01525-7</link>
+                <description>To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</p></div>]]></content:encoded>
+                <pubDate>2023-09-18</pubDate>
+                <dc:creator>Milica Nenadić</dc:creator>
+                <dc:creator>Joop E. M. Vermeer</dc:creator>
+                <dc:date>2023-09-18</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>How to establish a GAPLESS Casparian strip</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01525-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Waste product from wood finally used to make glue</title>
                 <link>https://www.nature.com/articles/d41586-023-02864-3</link>
                 <description>Scientists have had limited success in converting lignin, a structural component of plants, into high-value products. The discovery that lignin can be used as a wood glue could be a game-changer for biorefineries.</description>
@@ -308,20 +336,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Nickelates join the club of high-temperature superconductors</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02857-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>How to establish a GAPLESS Casparian strip</title>
-                <link>https://www.nature.com/articles/s41477-023-01525-7</link>
-                <description>To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</p></div>]]></content:encoded>
-                <pubDate>2023-09-18</pubDate>
-                <dc:creator>Milica Nenadić</dc:creator>
-                <dc:creator>Joop E. M. Vermeer</dc:creator>
-                <dc:date>2023-09-18</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>How to establish a GAPLESS Casparian strip</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01525-7</dc:identifier>
             </item>
         
             <item>
@@ -558,21 +572,6 @@
             </item>
         
             <item>
-                <title>Using the methylome to predict pre-eclampsia</title>
-                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
-                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
-                <dc:creator>Lucy A. Bartho</dc:creator>
-                <dc:creator>Stephen Tong</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Silencing translation with phenolic acids</title>
                 <link>https://www.nature.com/articles/s41477-023-01497-8</link>
                 <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
@@ -585,6 +584,21 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Silencing translation with phenolic acids</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Using the methylome to predict pre-eclampsia</title>
+                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
+                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
+                <dc:creator>Lucy A. Bartho</dc:creator>
+                <dc:creator>Stephen Tong</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
             </item>
         
             <item>
@@ -1035,6 +1049,19 @@
             </item>
         
             <item>
+                <title>Intimacy stabilizes symbiotic nodulation</title>
+                <link>https://www.nature.com/articles/s41477-023-01438-5</link>
+                <description>Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</p></div>]]></content:encoded>
+                <pubDate>2023-06-15</pubDate>
+                <dc:creator>Euan K. James</dc:creator>
+                <dc:date>2023-06-15</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Intimacy stabilizes symbiotic nodulation</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01438-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Guiding DNA repair at the nuclear periphery</title>
                 <link>https://www.nature.com/articles/s41556-023-01164-2</link>
                 <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
@@ -1046,19 +1073,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Guiding DNA repair at the nuclear periphery</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01164-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Intimacy stabilizes symbiotic nodulation</title>
-                <link>https://www.nature.com/articles/s41477-023-01438-5</link>
-                <description>Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</p></div>]]></content:encoded>
-                <pubDate>2023-06-15</pubDate>
-                <dc:creator>Euan K. James</dc:creator>
-                <dc:date>2023-06-15</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Intimacy stabilizes symbiotic nodulation</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01438-5</dc:identifier>
             </item>
         
             <item>
@@ -1503,19 +1517,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Facilitating genome structural variation analysis</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01767-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Creating synthetic maize centromeres</title>
-                <link>https://www.nature.com/articles/s41477-023-01366-4</link>
-                <description>A tethering approach based on a LexA–CENH3 fusion protein in maize activates functional centromeres at synthetic LexO repeat arrays. The synthetic centromeres cause fragmentation of the resulting dicentric chromosomes, resulting in stably inherited and self-sustaining neochromosomes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A tethering approach based on a LexA–CENH3 fusion protein in maize activates functional centromeres at synthetic LexO repeat arrays. The synthetic centromeres cause fragmentation of the resulting dicentric chromosomes, resulting in stably inherited and self-sustaining neochromosomes.</p></div>]]></content:encoded>
-                <pubDate>2023-03-16</pubDate>
-                <dc:creator>Ian R. Henderson</dc:creator>
-                <dc:date>2023-03-16</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Creating synthetic maize centromeres</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01366-4</dc:identifier>
             </item>
         
             <item>
