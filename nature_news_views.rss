@@ -13,6 +13,47 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The epicentre of haematopoiesis and osteogenesis</title>
+                <link>https://www.nature.com/articles/s41556-023-01242-5</link>
+                <description>Bone marrow endothelial cells deliver oxygen and nutrients and regulate bone formation and haematopoiesis in the surrounding microenvironment. A new study identifies a subtype of capillary that occurs exclusively in the epiphysis and displays unique characteristics that have a role in balancing osteogenesis and haematopoiesis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bone marrow endothelial cells deliver oxygen and nutrients and regulate bone formation and haematopoiesis in the surrounding microenvironment. A new study identifies a subtype of capillary that occurs exclusively in the epiphysis and displays unique characteristics that have a role in balancing osteogenesis and haematopoiesis.</p></div>]]></content:encoded>
+                <pubDate>2023-10-05</pubDate>
+                <dc:creator>David Redmond</dc:creator>
+                <dc:creator>Shahin Rafii</dc:creator>
+                <dc:date>2023-10-05</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>The epicentre of haematopoiesis and osteogenesis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01242-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Digital phenotyping could help detect autism</title>
+                <link>https://www.nature.com/articles/s41591-023-02557-4</link>
+                <description>Researchers have developed a screening tool for autism that uses computer vision and machine learning to analyze autism-related behaviors — but greater reliability and robust validation will be needed if such tools are to be used in primary care settings.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have developed a screening tool for autism that uses computer vision and machine learning to analyze autism-related behaviors — but greater reliability and robust validation will be needed if such tools are to be used in primary care settings.</p></div>]]></content:encoded>
+                <pubDate>2023-10-05</pubDate>
+                <dc:creator>Catherine Lord</dc:creator>
+                <dc:creator>Rujuta B. Wilson</dc:creator>
+                <dc:date>2023-10-05</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Digital phenotyping could help detect autism</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02557-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Organ-sparing precision treatment for muscle-invasive bladder cancer</title>
+                <link>https://www.nature.com/articles/s41591-023-02575-2</link>
+                <description>The response to neoadjuvant treatment can be used to stratify individuals with muscle-invasive bladder cancer according to their risk of progression, enabling bladder-sparing approaches for some — and heralding a shift from the existing one-size-fits-all approach.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The response to neoadjuvant treatment can be used to stratify individuals with muscle-invasive bladder cancer according to their risk of progression, enabling bladder-sparing approaches for some — and heralding a shift from the existing one-size-fits-all approach.</p></div>]]></content:encoded>
+                <pubDate>2023-10-04</pubDate>
+                <dc:creator>Roger Li</dc:creator>
+                <dc:date>2023-10-04</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Organ-sparing precision treatment for muscle-invasive bladder cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02575-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>How purposeless physics underlies purposeful life</title>
                 <link>https://www.nature.com/articles/d41586-023-03061-y</link>
                 <description>Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</description>
@@ -37,19 +78,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Real-time imaging of dynamic tissues</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02047-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Organ-sparing precision treatment for muscle-invasive bladder cancer</title>
-                <link>https://www.nature.com/articles/s41591-023-02575-2</link>
-                <description>The response to neoadjuvant treatment can be used to stratify individuals with muscle-invasive bladder cancer according to their risk of progression, enabling bladder-sparing approaches for some — and heralding a shift from the existing one-size-fits-all approach.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The response to neoadjuvant treatment can be used to stratify individuals with muscle-invasive bladder cancer according to their risk of progression, enabling bladder-sparing approaches for some — and heralding a shift from the existing one-size-fits-all approach.</p></div>]]></content:encoded>
-                <pubDate>2023-10-04</pubDate>
-                <dc:creator>Roger Li</dc:creator>
-                <dc:date>2023-10-04</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Organ-sparing precision treatment for muscle-invasive bladder cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02575-2</dc:identifier>
             </item>
         
             <item>
@@ -215,19 +243,6 @@
             </item>
         
             <item>
-                <title>Free-falling antihydrogen reveals the effect of gravity on antimatter</title>
-                <link>https://www.nature.com/articles/d41586-023-02930-w</link>
-                <description>A test performed on antihydrogen atoms has shown that gravity acts on matter and antimatter in a similar way. The experimental feat is the latest in efforts to probe the crossover between theories of relativity and particle physics.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A test performed on antihydrogen atoms has shown that gravity acts on matter and antimatter in a similar way. The experimental feat is the latest in efforts to probe the crossover between theories of relativity and particle physics.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Anna Soter</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Free-falling antihydrogen reveals the effect of gravity on antimatter</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02930-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Senolytic therapy for Alzheimer’s disease</title>
                 <link>https://www.nature.com/articles/s41591-023-02541-y</link>
                 <description>As the search for new and better treatments for Alzheimer’s disease continues, a phase 1 proof-of-concept study evaluating senolytic therapy breaks new ground.</description>
@@ -239,6 +254,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Senolytic therapy for Alzheimer’s disease</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02541-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Free-falling antihydrogen reveals the effect of gravity on antimatter</title>
+                <link>https://www.nature.com/articles/d41586-023-02930-w</link>
+                <description>A test performed on antihydrogen atoms has shown that gravity acts on matter and antimatter in a similar way. The experimental feat is the latest in efforts to probe the crossover between theories of relativity and particle physics.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A test performed on antihydrogen atoms has shown that gravity acts on matter and antimatter in a similar way. The experimental feat is the latest in efforts to probe the crossover between theories of relativity and particle physics.</p></div>]]></content:encoded>
+                <pubDate>2023-09-27</pubDate>
+                <dc:creator>Anna Soter</dc:creator>
+                <dc:date>2023-09-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Free-falling antihydrogen reveals the effect of gravity on antimatter</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02930-w</dc:identifier>
             </item>
         
             <item>
@@ -599,19 +627,6 @@
             </item>
         
             <item>
-                <title>Measuring open chromatin and DNA methylation in repeat arrays</title>
-                <link>https://www.nature.com/articles/s41477-023-01512-y</link>
-                <description>Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>R. Kelly Dawe</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Using the methylome to predict pre-eclampsia</title>
                 <link>https://www.nature.com/articles/s41591-023-02499-x</link>
                 <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
@@ -624,6 +639,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Measuring open chromatin and DNA methylation in repeat arrays</title>
+                <link>https://www.nature.com/articles/s41477-023-01512-y</link>
+                <description>Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>R. Kelly Dawe</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
             </item>
         
             <item>
@@ -850,6 +878,19 @@
             </item>
         
             <item>
+                <title>Leveraging fine-scale population structures for precision healthcare</title>
+                <link>https://www.nature.com/articles/s41591-023-02423-3</link>
+                <description>A study investigates the links between fine-scale populations and outcomes including healthcare use and disease risk in a Los Angeles biobank, unveiling crucial insights into healthcare disparities in the USA.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study investigates the links between fine-scale populations and outcomes including healthcare use and disease risk in a Los Angeles biobank, unveiling crucial insights into healthcare disparities in the USA.</p></div>]]></content:encoded>
+                <pubDate>2023-07-18</pubDate>
+                <dc:creator>Masahiro Kanai</dc:creator>
+                <dc:date>2023-07-18</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Leveraging fine-scale population structures for precision healthcare</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02423-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Building resilience in heatwaves</title>
                 <link>https://www.nature.com/articles/s41591-023-02409-1</link>
                 <description>Escalating severity and frequency of heatwaves have outpaced the effectiveness of existing prevention and adaptation measures; there is urgency for reassessment, enhancement and implementation of strategies to mitigate health impacts in dealing with this global health challenge.</description>
@@ -865,16 +906,16 @@
             </item>
         
             <item>
-                <title>Leveraging fine-scale population structures for precision healthcare</title>
-                <link>https://www.nature.com/articles/s41591-023-02423-3</link>
-                <description>A study investigates the links between fine-scale populations and outcomes including healthcare use and disease risk in a Los Angeles biobank, unveiling crucial insights into healthcare disparities in the USA.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study investigates the links between fine-scale populations and outcomes including healthcare use and disease risk in a Los Angeles biobank, unveiling crucial insights into healthcare disparities in the USA.</p></div>]]></content:encoded>
-                <pubDate>2023-07-18</pubDate>
-                <dc:creator>Masahiro Kanai</dc:creator>
-                <dc:date>2023-07-18</dc:date>
+                <title>Balancing human and AI roles in clinical imaging</title>
+                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
+                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
+                <pubDate>2023-07-17</pubDate>
+                <dc:creator>Fiona Gilbert</dc:creator>
+                <dc:date>2023-07-17</dc:date>
                 <dc:source>Nature Medicine</dc:source>
-                <dc:title>Leveraging fine-scale population structures for precision healthcare</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02423-3</dc:identifier>
+                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
             </item>
         
             <item>
@@ -889,19 +930,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>H3K36 methylation is a reprogramming barrier</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01147-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Balancing human and AI roles in clinical imaging</title>
-                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
-                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
-                <pubDate>2023-07-17</pubDate>
-                <dc:creator>Fiona Gilbert</dc:creator>
-                <dc:date>2023-07-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
             </item>
         
             <item>
@@ -1002,20 +1030,6 @@
             </item>
         
             <item>
-                <title>Dynamic nucleoskeleton in stress</title>
-                <link>https://www.nature.com/articles/s41477-023-01458-1</link>
-                <description>The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</p></div>]]></content:encoded>
-                <pubDate>2023-07-03</pubDate>
-                <dc:creator>Yiling Fang</dc:creator>
-                <dc:creator>Yangnan Gu</dc:creator>
-                <dc:date>2023-07-03</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Dynamic nucleoskeleton in stress</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Hypoxia-stabilized RIPK1 promotes cell death</title>
                 <link>https://www.nature.com/articles/s41556-023-01176-y</link>
                 <description>The PHD–pVHL pathway is essential for oxygen-dependent prolyl hydroxylation of HIFA. A recent study identifies RIPK1 as a hydroxylation target in this pathway during hypoxia-induced cell death and presents a 2.8 Å resolution crystal structure of the pVHL–elongin B/C complex bound to hydroxylated RIPK1.</description>
@@ -1028,6 +1042,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Hypoxia-stabilized RIPK1 promotes cell death</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01176-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dynamic nucleoskeleton in stress</title>
+                <link>https://www.nature.com/articles/s41477-023-01458-1</link>
+                <description>The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</p></div>]]></content:encoded>
+                <pubDate>2023-07-03</pubDate>
+                <dc:creator>Yiling Fang</dc:creator>
+                <dc:creator>Yangnan Gu</dc:creator>
+                <dc:date>2023-07-03</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Dynamic nucleoskeleton in stress</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
             </item>
         
             <item>
@@ -1213,21 +1241,6 @@
             </item>
         
             <item>
-                <title>B cell senescence takes guts</title>
-                <link>https://www.nature.com/articles/s41556-023-01153-5</link>
-                <description>Accumulation of senescent cells and compositional changes in gut microbiota have been independently reported to occur as a function of age. A study now suggests that these two seemingly disparate processes are more intimately linked than previously appreciated via a B cell–IgA–microbiota axis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Accumulation of senescent cells and compositional changes in gut microbiota have been independently reported to occur as a function of age. A study now suggests that these two seemingly disparate processes are more intimately linked than previously appreciated via a B cell–IgA–microbiota axis.</p></div>]]></content:encoded>
-                <pubDate>2023-05-24</pubDate>
-                <dc:creator>Bennett G. Childs</dc:creator>
-                <dc:creator>Sara I. Graves</dc:creator>
-                <dc:creator>Darren J. Baker</dc:creator>
-                <dc:date>2023-05-24</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>B cell senescence takes guts</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01153-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The flash dance of midlife: the Skylight 1 trial</title>
                 <link>https://www.nature.com/articles/s41591-023-02359-8</link>
                 <description>For women who choose nonhormonal therapy for hot flashes, fezolinetant appears to be one of several modestly efficacious and safe options — but women want more.</description>
@@ -1321,20 +1334,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>A systematic analysis of immune escape signals in the primary and metastatic tumor genome</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01374-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Organ-specific aging and the risk of chronic diseases</title>
-                <link>https://www.nature.com/articles/s41591-023-02338-z</link>
-                <description>A multiorgan model unravels the inter-organ aging network and predicts chronic diseases and mortality</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A multiorgan model unravels the inter-organ aging network and predicts chronic diseases and mortality</p></div>]]></content:encoded>
-                <pubDate>2023-05-09</pubDate>
-                <dc:creator>Mahdi Moqri</dc:creator>
-                <dc:creator>Michael Snyder</dc:creator>
-                <dc:date>2023-05-09</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Organ-specific aging and the risk of chronic diseases</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02338-z</dc:identifier>
             </item>
         
             <item>
