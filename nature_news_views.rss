@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Polycomb repression of the asexual embryo</title>
+                <link>https://www.nature.com/articles/s41477-023-01537-3</link>
+                <description>In angiosperms, the proliferation and differentiation of egg and central cells need to be repressed before fertilization. Autonomous endosperm development has been observed and well-studied in Arabidopsis mutants of FERTILIZATION INDEPENDENT SEED (FIS)-class POLYCOMB REPRESSIVE COMPLEX 2 (PRC2), but how defects of PRC2 components affect embryo development remains unclear. Wu et al. now describe an essential clue for understanding parthenogenetic embryogenesis from the rice double mutant osfie1 osfie2.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In angiosperms, the proliferation and differentiation of egg and central cells need to be repressed before fertilization. Autonomous endosperm development has been observed and well-studied in Arabidopsis mutants of FERTILIZATION INDEPENDENT SEED (FIS)-class POLYCOMB REPRESSIVE COMPLEX 2 (PRC2), but how defects of PRC2 components affect embryo development remains unclear. Wu et al. now describe an essential clue for understanding parthenogenetic embryogenesis from the rice double mutant osfie1 osfie2.</p></div>]]></content:encoded>
+                <pubDate>2023-10-09</pubDate>
+                <dc:creator>Kaoru Tonosaki</dc:creator>
+                <dc:creator>Tetsu Kinoshita</dc:creator>
+                <dc:date>2023-10-09</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Polycomb repression of the asexual embryo</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01537-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The epicentre of haematopoiesis and osteogenesis</title>
                 <link>https://www.nature.com/articles/s41556-023-01242-5</link>
                 <description>Bone marrow endothelial cells deliver oxygen and nutrients and regulate bone formation and haematopoiesis in the surrounding microenvironment. A new study identifies a subtype of capillary that occurs exclusively in the epiphysis and displays unique characteristics that have a role in balancing osteogenesis and haematopoiesis.</description>
@@ -148,20 +162,6 @@
             </item>
         
             <item>
-                <title>Factoring single-cell perturbations</title>
-                <link>https://www.nature.com/articles/s41592-023-02002-x</link>
-                <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</p></div>]]></content:encoded>
-                <pubDate>2023-09-28</pubDate>
-                <dc:creator>Bicna Song</dc:creator>
-                <dc:creator>Wei Li</dc:creator>
-                <dc:date>2023-09-28</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Factoring single-cell perturbations</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The changing colour of carrot</title>
                 <link>https://www.nature.com/articles/s41477-023-01523-9</link>
                 <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
@@ -173,6 +173,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The changing colour of carrot</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Factoring single-cell perturbations</title>
+                <link>https://www.nature.com/articles/s41592-023-02002-x</link>
+                <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</p></div>]]></content:encoded>
+                <pubDate>2023-09-28</pubDate>
+                <dc:creator>Bicna Song</dc:creator>
+                <dc:creator>Wei Li</dc:creator>
+                <dc:date>2023-09-28</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Factoring single-cell perturbations</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
             </item>
         
             <item>
@@ -627,6 +641,19 @@
             </item>
         
             <item>
+                <title>Measuring open chromatin and DNA methylation in repeat arrays</title>
+                <link>https://www.nature.com/articles/s41477-023-01512-y</link>
+                <description>Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>R. Kelly Dawe</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Using the methylome to predict pre-eclampsia</title>
                 <link>https://www.nature.com/articles/s41591-023-02499-x</link>
                 <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
@@ -639,19 +666,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Measuring open chromatin and DNA methylation in repeat arrays</title>
-                <link>https://www.nature.com/articles/s41477-023-01512-y</link>
-                <description>Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>R. Kelly Dawe</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
             </item>
         
             <item>
@@ -836,20 +850,6 @@
             </item>
         
             <item>
-                <title>A light switch for DNA break repair</title>
-                <link>https://www.nature.com/articles/s41477-023-01462-5</link>
-                <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</p></div>]]></content:encoded>
-                <pubDate>2023-07-24</pubDate>
-                <dc:creator>Lejon E. M. Kralemann</dc:creator>
-                <dc:creator>Marcel Tijsterman</dc:creator>
-                <dc:date>2023-07-24</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A light switch for DNA break repair</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pioneer factor competing for fate change</title>
                 <link>https://www.nature.com/articles/s41556-023-01190-0</link>
                 <description>Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</description>
@@ -875,6 +875,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Psilocybin for the treatment of anorexia nervosa</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02458-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A light switch for DNA break repair</title>
+                <link>https://www.nature.com/articles/s41477-023-01462-5</link>
+                <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</p></div>]]></content:encoded>
+                <pubDate>2023-07-24</pubDate>
+                <dc:creator>Lejon E. M. Kralemann</dc:creator>
+                <dc:creator>Marcel Tijsterman</dc:creator>
+                <dc:date>2023-07-24</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A light switch for DNA break repair</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
             </item>
         
             <item>
@@ -1030,6 +1044,20 @@
             </item>
         
             <item>
+                <title>Dynamic nucleoskeleton in stress</title>
+                <link>https://www.nature.com/articles/s41477-023-01458-1</link>
+                <description>The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</p></div>]]></content:encoded>
+                <pubDate>2023-07-03</pubDate>
+                <dc:creator>Yiling Fang</dc:creator>
+                <dc:creator>Yangnan Gu</dc:creator>
+                <dc:date>2023-07-03</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Dynamic nucleoskeleton in stress</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Hypoxia-stabilized RIPK1 promotes cell death</title>
                 <link>https://www.nature.com/articles/s41556-023-01176-y</link>
                 <description>The PHD–pVHL pathway is essential for oxygen-dependent prolyl hydroxylation of HIFA. A recent study identifies RIPK1 as a hydroxylation target in this pathway during hypoxia-induced cell death and presents a 2.8 Å resolution crystal structure of the pVHL–elongin B/C complex bound to hydroxylated RIPK1.</description>
@@ -1042,20 +1070,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Hypoxia-stabilized RIPK1 promotes cell death</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01176-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Dynamic nucleoskeleton in stress</title>
-                <link>https://www.nature.com/articles/s41477-023-01458-1</link>
-                <description>The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</p></div>]]></content:encoded>
-                <pubDate>2023-07-03</pubDate>
-                <dc:creator>Yiling Fang</dc:creator>
-                <dc:creator>Yangnan Gu</dc:creator>
-                <dc:date>2023-07-03</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Dynamic nucleoskeleton in stress</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
             </item>
         
             <item>
@@ -1528,20 +1542,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Facilitating genome structural variation analysis</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01767-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The story of wheat and its cousins</title>
-                <link>https://www.nature.com/articles/s41477-023-01365-5</link>
-                <description>Sequences of almost 800 wheat genomes have retraced the history of wheat: when and where it was domesticated, how cultivation spread from its Middle Eastern centre of origin and how the genome adapted to selective pressures in new agricultural habitats, not least thanks to its ability to take up genes from wild cousins.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Sequences of almost 800 wheat genomes have retraced the history of wheat: when and where it was domesticated, how cultivation spread from its Middle Eastern centre of origin and how the genome adapted to selective pressures in new agricultural habitats, not least thanks to its ability to take up genes from wild cousins.</p></div>]]></content:encoded>
-                <pubDate>2023-03-16</pubDate>
-                <dc:creator>Jia-Wu Feng</dc:creator>
-                <dc:creator>Martin Mascher</dc:creator>
-                <dc:date>2023-03-16</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>The story of wheat and its cousins</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01365-5</dc:identifier>
             </item>
         
             <item>
