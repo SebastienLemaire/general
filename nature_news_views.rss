@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>From the archive: science on TV, and the Lancet turns 100</title>
+                <link>https://www.nature.com/articles/d41586-023-03071-w</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-10-10</pubDate>
+                
+                <dc:date>2023-10-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: science on TV, and the Lancet turns 100</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03071-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Polycomb repression of the asexual embryo</title>
                 <link>https://www.nature.com/articles/s41477-023-01537-3</link>
                 <description>In angiosperms, the proliferation and differentiation of egg and central cells need to be repressed before fertilization. Autonomous endosperm development has been observed and well-studied in Arabidopsis mutants of FERTILIZATION INDEPENDENT SEED (FIS)-class POLYCOMB REPRESSIVE COMPLEX 2 (PRC2), but how defects of PRC2 components affect embryo development remains unclear. Wu et al. now describe an essential clue for understanding parthenogenetic embryogenesis from the rice double mutant osfie1 osfie2.</description>
@@ -55,6 +68,19 @@
             </item>
         
             <item>
+                <title>How purposeless physics underlies purposeful life</title>
+                <link>https://www.nature.com/articles/d41586-023-03061-y</link>
+                <description>Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</p></div>]]></content:encoded>
+                <pubDate>2023-10-04</pubDate>
+                <dc:creator>George F. R. Ellis</dc:creator>
+                <dc:date>2023-10-04</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How purposeless physics underlies purposeful life</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03061-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Organ-sparing precision treatment for muscle-invasive bladder cancer</title>
                 <link>https://www.nature.com/articles/s41591-023-02575-2</link>
                 <description>The response to neoadjuvant treatment can be used to stratify individuals with muscle-invasive bladder cancer according to their risk of progression, enabling bladder-sparing approaches for some — and heralding a shift from the existing one-size-fits-all approach.</description>
@@ -68,16 +94,16 @@
             </item>
         
             <item>
-                <title>How purposeless physics underlies purposeful life</title>
-                <link>https://www.nature.com/articles/d41586-023-03061-y</link>
-                <description>Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</p></div>]]></content:encoded>
+                <title>Cichlid fish seized an ecological opportunity to diversify</title>
+                <link>https://www.nature.com/articles/d41586-023-03014-5</link>
+                <description>The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</p></div>]]></content:encoded>
                 <pubDate>2023-10-04</pubDate>
-                <dc:creator>George F. R. Ellis</dc:creator>
+                <dc:creator>Martin J. Genner</dc:creator>
                 <dc:date>2023-10-04</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>How purposeless physics underlies purposeful life</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03061-y</dc:identifier>
+                <dc:title>Cichlid fish seized an ecological opportunity to diversify</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03014-5</dc:identifier>
             </item>
         
             <item>
@@ -92,19 +118,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Real-time imaging of dynamic tissues</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02047-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Cichlid fish seized an ecological opportunity to diversify</title>
-                <link>https://www.nature.com/articles/d41586-023-03014-5</link>
-                <description>The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</p></div>]]></content:encoded>
-                <pubDate>2023-10-04</pubDate>
-                <dc:creator>Martin J. Genner</dc:creator>
-                <dc:date>2023-10-04</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Cichlid fish seized an ecological opportunity to diversify</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03014-5</dc:identifier>
             </item>
         
             <item>
@@ -190,19 +203,6 @@
             </item>
         
             <item>
-                <title>The geography of climate governs biodiversity</title>
-                <link>https://www.nature.com/articles/d41586-023-02937-3</link>
-                <description>To explain the interplay of climate, area and isolation that underlies the marked global differences in biodiversity, a switch in focus from geographic space to climatic space offers a way forwards.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">To explain the interplay of climate, area and isolation that underlies the marked global differences in biodiversity, a switch in focus from geographic space to climatic space offers a way forwards.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Antonin Machac</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The geography of climate governs biodiversity</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02937-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The twisted material that splits the electron</title>
                 <link>https://www.nature.com/articles/d41586-023-02941-7</link>
                 <description>Layers of a thin semiconductor material overlap in a particular pattern, giving rise to particle currents carrying a fraction of the charge of an electron — with potential for encoding quantum information.</description>
@@ -281,6 +281,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Free-falling antihydrogen reveals the effect of gravity on antimatter</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02930-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The geography of climate governs biodiversity</title>
+                <link>https://www.nature.com/articles/d41586-023-02937-3</link>
+                <description>To explain the interplay of climate, area and isolation that underlies the marked global differences in biodiversity, a switch in focus from geographic space to climatic space offers a way forwards.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">To explain the interplay of climate, area and isolation that underlies the marked global differences in biodiversity, a switch in focus from geographic space to climatic space offers a way forwards.</p></div>]]></content:encoded>
+                <pubDate>2023-09-27</pubDate>
+                <dc:creator>Antonin Machac</dc:creator>
+                <dc:date>2023-09-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The geography of climate governs biodiversity</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02937-3</dc:identifier>
             </item>
         
             <item>
@@ -501,19 +514,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Harnessing medical twitter data for pathology AI</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02530-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Bacteria deliver water channels to infect plants</title>
-                <link>https://www.nature.com/articles/d41586-023-02767-3</link>
-                <description>A wide range of harmful bacteria introduce proteins into plant cells. Some of these proteins move to the cell membrane and serve as channels for water and nutrients, creating favourable conditions for bacterial growth beside plant cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A wide range of harmful bacteria introduce proteins into plant cells. Some of these proteins move to the cell membrane and serve as channels for water and nutrients, creating favourable conditions for bacterial growth beside plant cells.</p></div>]]></content:encoded>
-                <pubDate>2023-09-13</pubDate>
-                <dc:creator>Gwyn A. Beattie</dc:creator>
-                <dc:date>2023-09-13</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Bacteria deliver water channels to infect plants</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02767-3</dc:identifier>
             </item>
         
             <item>
