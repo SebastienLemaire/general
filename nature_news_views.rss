@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Clostridioides difficile infection drives neuronal inflammation</title>
+                <link>https://www.nature.com/articles/d41586-023-02640-3</link>
+                <description>Infection by the bacterium Clostridioides difficile can be fatal in a clinical setting. Insights into the molecular mechanisms underlying such infection might offer targets for the search to develop new treatments.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Infection by the bacterium Clostridioides difficile can be fatal in a clinical setting. Insights into the molecular mechanisms underlying such infection might offer targets for the search to develop new treatments.</p></div>]]></content:encoded>
+                <pubDate>2023-10-12</pubDate>
+                <dc:creator>Klaus  Aktories</dc:creator>
+                <dc:date>2023-10-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Clostridioides difficile infection drives neuronal inflammation</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02640-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Pig-to-primate organ transplants require genetic modifications of donor</title>
                 <link>https://www.nature.com/articles/d41586-023-02817-w</link>
                 <description>A raft of alterations to the pig genome — removing three antigen-encoding genes, adding seven human genes and eliminating a retrovirus — allows kidneys to be transplanted into monkeys, with implications for clinical trials.</description>
@@ -53,6 +66,19 @@
             </item>
         
             <item>
+                <title>The technique that can find a system’s state through data alone</title>
+                <link>https://www.nature.com/articles/d41586-023-03070-x</link>
+                <description>Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</p></div>]]></content:encoded>
+                <pubDate>2023-10-11</pubDate>
+                <dc:creator>Brendan Keith</dc:creator>
+                <dc:date>2023-10-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The technique that can find a system’s state through data alone</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03070-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>AI-supported insulin dosing for type 2 diabetes</title>
                 <link>https://www.nature.com/articles/s41591-023-02573-4</link>
                 <description>A novel AI-based decision support system for insulin titration in type 2 diabetes reveals important considerations surrounding the feasibility of clinical implementation.</description>
@@ -65,19 +91,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>AI-supported insulin dosing for type 2 diabetes</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02573-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The technique that can find a system’s state through data alone</title>
-                <link>https://www.nature.com/articles/d41586-023-03070-x</link>
-                <description>Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</p></div>]]></content:encoded>
-                <pubDate>2023-10-11</pubDate>
-                <dc:creator>Brendan Keith</dc:creator>
-                <dc:date>2023-10-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The technique that can find a system’s state through data alone</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03070-x</dc:identifier>
             </item>
         
             <item>
@@ -430,20 +443,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>A revolution in obesity treatment</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02538-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Dual stem-cell populations interact in the skull</title>
-                <link>https://www.nature.com/articles/d41586-023-02547-z</link>
-                <description>The discovery that the skull has two groups of stem cell that produce similar types of descendant cell has big implications for the field of stem-cell research — and casts light on a developmental disorder that affects many children.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery that the skull has two groups of stem cell that produce similar types of descendant cell has big implications for the field of stem-cell research — and casts light on a developmental disorder that affects many children.</p></div>]]></content:encoded>
-                <pubDate>2023-09-20</pubDate>
-                <dc:creator>Andrei S. Chagin</dc:creator>
-                <dc:creator>Dana Trompet</dc:creator>
-                <dc:date>2023-09-20</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Dual stem-cell populations interact in the skull</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02547-z</dc:identifier>
             </item>
         
             <item>
