@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Saving ribosomal proteins for later</title>
+                <link>https://www.nature.com/articles/s41556-023-01251-4</link>
+                <description>Disruption of ribosome assembly results in the accumulation of aggregation-prone ‘orphaned’ ribosomal proteins that are toxic to cells if left unchecked. A study finds that cells store such ribosomal proteins during heat shock to enable a quick recovery of ribosome assembly after the removal of this stress.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Disruption of ribosome assembly results in the accumulation of aggregation-prone ‘orphaned’ ribosomal proteins that are toxic to cells if left unchecked. A study finds that cells store such ribosomal proteins during heat shock to enable a quick recovery of ribosome assembly after the removal of this stress.</p></div>]]></content:encoded>
+                <pubDate>2023-10-16</pubDate>
+                <dc:creator>Joshua J. Black</dc:creator>
+                <dc:creator>Rachel Green</dc:creator>
+                <dc:date>2023-10-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Saving ribosomal proteins for later</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01251-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Clostridioides difficile infection drives neuronal inflammation</title>
                 <link>https://www.nature.com/articles/d41586-023-02640-3</link>
                 <description>Infection by the bacterium Clostridioides difficile can be fatal in a clinical setting. Insights into the molecular mechanisms underlying such infection might offer targets for the search to develop new treatments.</description>
@@ -121,20 +135,6 @@
             </item>
         
             <item>
-                <title>Digital phenotyping could help detect autism</title>
-                <link>https://www.nature.com/articles/s41591-023-02557-4</link>
-                <description>Researchers have developed a screening tool for autism that uses computer vision and machine learning to analyze autism-related behaviors — but greater reliability and robust validation will be needed if such tools are to be used in primary care settings.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have developed a screening tool for autism that uses computer vision and machine learning to analyze autism-related behaviors — but greater reliability and robust validation will be needed if such tools are to be used in primary care settings.</p></div>]]></content:encoded>
-                <pubDate>2023-10-05</pubDate>
-                <dc:creator>Catherine Lord</dc:creator>
-                <dc:creator>Rujuta B. Wilson</dc:creator>
-                <dc:date>2023-10-05</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Digital phenotyping could help detect autism</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02557-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The epicentre of haematopoiesis and osteogenesis</title>
                 <link>https://www.nature.com/articles/s41556-023-01242-5</link>
                 <description>Bone marrow endothelial cells deliver oxygen and nutrients and regulate bone formation and haematopoiesis in the surrounding microenvironment. A new study identifies a subtype of capillary that occurs exclusively in the epiphysis and displays unique characteristics that have a role in balancing osteogenesis and haematopoiesis.</description>
@@ -146,6 +146,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>The epicentre of haematopoiesis and osteogenesis</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01242-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Digital phenotyping could help detect autism</title>
+                <link>https://www.nature.com/articles/s41591-023-02557-4</link>
+                <description>Researchers have developed a screening tool for autism that uses computer vision and machine learning to analyze autism-related behaviors — but greater reliability and robust validation will be needed if such tools are to be used in primary care settings.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have developed a screening tool for autism that uses computer vision and machine learning to analyze autism-related behaviors — but greater reliability and robust validation will be needed if such tools are to be used in primary care settings.</p></div>]]></content:encoded>
+                <pubDate>2023-10-05</pubDate>
+                <dc:creator>Catherine Lord</dc:creator>
+                <dc:creator>Rujuta B. Wilson</dc:creator>
+                <dc:date>2023-10-05</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Digital phenotyping could help detect autism</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02557-4</dc:identifier>
             </item>
         
             <item>
@@ -864,20 +878,6 @@
             </item>
         
             <item>
-                <title>Pioneer factor competing for fate change</title>
-                <link>https://www.nature.com/articles/s41556-023-01190-0</link>
-                <description>Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</p></div>]]></content:encoded>
-                <pubDate>2023-07-24</pubDate>
-                <dc:creator>Rui Yi</dc:creator>
-                <dc:creator>Yali Dou</dc:creator>
-                <dc:date>2023-07-24</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Pioneer factor competing for fate change</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01190-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>A light switch for DNA break repair</title>
                 <link>https://www.nature.com/articles/s41477-023-01462-5</link>
                 <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
@@ -889,6 +889,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>A light switch for DNA break repair</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneer factor competing for fate change</title>
+                <link>https://www.nature.com/articles/s41556-023-01190-0</link>
+                <description>Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</p></div>]]></content:encoded>
+                <pubDate>2023-07-24</pubDate>
+                <dc:creator>Rui Yi</dc:creator>
+                <dc:creator>Yali Dou</dc:creator>
+                <dc:date>2023-07-24</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pioneer factor competing for fate change</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01190-0</dc:identifier>
             </item>
         
             <item>
@@ -1058,20 +1072,6 @@
             </item>
         
             <item>
-                <title>Dynamic nucleoskeleton in stress</title>
-                <link>https://www.nature.com/articles/s41477-023-01458-1</link>
-                <description>The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</p></div>]]></content:encoded>
-                <pubDate>2023-07-03</pubDate>
-                <dc:creator>Yiling Fang</dc:creator>
-                <dc:creator>Yangnan Gu</dc:creator>
-                <dc:date>2023-07-03</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Dynamic nucleoskeleton in stress</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Hypoxia-stabilized RIPK1 promotes cell death</title>
                 <link>https://www.nature.com/articles/s41556-023-01176-y</link>
                 <description>The PHD–pVHL pathway is essential for oxygen-dependent prolyl hydroxylation of HIFA. A recent study identifies RIPK1 as a hydroxylation target in this pathway during hypoxia-induced cell death and presents a 2.8 Å resolution crystal structure of the pVHL–elongin B/C complex bound to hydroxylated RIPK1.</description>
@@ -1084,6 +1084,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Hypoxia-stabilized RIPK1 promotes cell death</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01176-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dynamic nucleoskeleton in stress</title>
+                <link>https://www.nature.com/articles/s41477-023-01458-1</link>
+                <description>The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</p></div>]]></content:encoded>
+                <pubDate>2023-07-03</pubDate>
+                <dc:creator>Yiling Fang</dc:creator>
+                <dc:creator>Yangnan Gu</dc:creator>
+                <dc:date>2023-07-03</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Dynamic nucleoskeleton in stress</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
             </item>
         
             <item>
@@ -1239,19 +1253,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>LDLs take a shortcut to mitochondria</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01166-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Host protection by two memory-like MAIT subsets</title>
-                <link>https://www.nature.com/articles/s41556-023-01149-1</link>
-                <description>How mucosal-associated invariant T (MAIT) cells acquire memory-like features after infection and the factors that control this process have been unclear. A study now defines two subsets of antigen-adapted MAIT cells emerging after immunization that differ in functions, lung localization and metabolic requirements.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How mucosal-associated invariant T (MAIT) cells acquire memory-like features after infection and the factors that control this process have been unclear. A study now defines two subsets of antigen-adapted MAIT cells emerging after immunization that differ in functions, lung localization and metabolic requirements.</p></div>]]></content:encoded>
-                <pubDate>2023-05-25</pubDate>
-                <dc:creator>Margarita Dominguez-Villar</dc:creator>
-                <dc:date>2023-05-25</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Host protection by two memory-like MAIT subsets</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01149-1</dc:identifier>
             </item>
         
             <item>
