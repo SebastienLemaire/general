@@ -13,6 +13,45 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Stem cells used to model a two-week-old human embryo</title>
+                <link>https://www.nature.com/articles/d41586-023-03150-y</link>
+                <description>Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</p></div>]]></content:encoded>
+                <pubDate>2023-10-17</pubDate>
+                <dc:creator>Naomi  Moris</dc:creator>
+                <dc:date>2023-10-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Stem cells used to model a two-week-old human embryo</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03150-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>AI rapidly diagnoses brain tumours during surgery</title>
+                <link>https://www.nature.com/articles/d41586-023-03072-9</link>
+                <description>A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly.</p></div>]]></content:encoded>
+                <pubDate>2023-10-17</pubDate>
+                <dc:creator>Lissa C.   Baird</dc:creator>
+                <dc:date>2023-10-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>AI rapidly diagnoses brain tumours during surgery</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03072-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: animal behaviour, and Darwin discusses organ loss</title>
+                <link>https://www.nature.com/articles/d41586-023-03157-5</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-10-17</pubDate>
+                
+                <dc:date>2023-10-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: animal behaviour, and Darwin discusses organ loss</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03157-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Saving ribosomal proteins for later</title>
                 <link>https://www.nature.com/articles/s41556-023-01251-4</link>
                 <description>Disruption of ribosome assembly results in the accumulation of aggregation-prone ‘orphaned’ ribosomal proteins that are toxic to cells if left unchecked. A study finds that cells store such ribosomal proteins during heat shock to enable a quick recovery of ribosome assembly after the removal of this stress.</description>
@@ -163,19 +202,6 @@
             </item>
         
             <item>
-                <title>How purposeless physics underlies purposeful life</title>
-                <link>https://www.nature.com/articles/d41586-023-03061-y</link>
-                <description>Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</p></div>]]></content:encoded>
-                <pubDate>2023-10-04</pubDate>
-                <dc:creator>George F. R. Ellis</dc:creator>
-                <dc:date>2023-10-04</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>How purposeless physics underlies purposeful life</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03061-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Cichlid fish seized an ecological opportunity to diversify</title>
                 <link>https://www.nature.com/articles/d41586-023-03014-5</link>
                 <description>The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</description>
@@ -199,6 +225,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Organ-sparing precision treatment for muscle-invasive bladder cancer</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02575-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How purposeless physics underlies purposeful life</title>
+                <link>https://www.nature.com/articles/d41586-023-03061-y</link>
+                <description>Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Evolution by natural selection peerlessly describes how life’s complexity develops — but can it be explained in terms of physics? A new approach suggests it can.</p></div>]]></content:encoded>
+                <pubDate>2023-10-04</pubDate>
+                <dc:creator>George F. R. Ellis</dc:creator>
+                <dc:date>2023-10-04</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How purposeless physics underlies purposeful life</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03061-y</dc:identifier>
             </item>
         
             <item>
@@ -229,19 +268,6 @@
             </item>
         
             <item>
-                <title>Interstellar shocks unveil the material around new stars</title>
-                <link>https://www.nature.com/articles/d41586-023-02982-y</link>
-                <description>Astronomers have obtained spectacular images of an interstellar jet launched from a newly forming star. Careful comparison with archival data offers a fresh take on the chemistry of the environment that surrounds it.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Astronomers have obtained spectacular images of an interstellar jet launched from a newly forming star. Careful comparison with archival data offers a fresh take on the chemistry of the environment that surrounds it.</p></div>]]></content:encoded>
-                <pubDate>2023-10-02</pubDate>
-                <dc:creator>Joel Green</dc:creator>
-                <dc:date>2023-10-02</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Interstellar shocks unveil the material around new stars</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02982-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>A diffusion barrier limits nuclear leaks</title>
                 <link>https://www.nature.com/articles/s41556-023-01243-4</link>
                 <description>ESCRT-III seals holes in the nuclear envelope (NE). A study now shows that the Cmp7-directed ESCRT-III cascade that grommets and reseals NE holes after spindle pole body (SPB) extrusion at the end of fission yeast mitosis is complemented by the presence of a proteinaceous diffusion barrier to ensure NE integrity.</description>
@@ -253,6 +279,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>A diffusion barrier limits nuclear leaks</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01243-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Interstellar shocks unveil the material around new stars</title>
+                <link>https://www.nature.com/articles/d41586-023-02982-y</link>
+                <description>Astronomers have obtained spectacular images of an interstellar jet launched from a newly forming star. Careful comparison with archival data offers a fresh take on the chemistry of the environment that surrounds it.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Astronomers have obtained spectacular images of an interstellar jet launched from a newly forming star. Careful comparison with archival data offers a fresh take on the chemistry of the environment that surrounds it.</p></div>]]></content:encoded>
+                <pubDate>2023-10-02</pubDate>
+                <dc:creator>Joel Green</dc:creator>
+                <dc:date>2023-10-02</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Interstellar shocks unveil the material around new stars</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02982-y</dc:identifier>
             </item>
         
             <item>
@@ -407,19 +446,6 @@
             </item>
         
             <item>
-                <title>From the archive: teenage disdain, and Darwin ponders tiny males</title>
-                <link>https://www.nature.com/articles/d41586-023-02936-4</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-09-26</pubDate>
-                
-                <dc:date>2023-09-26</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: teenage disdain, and Darwin ponders tiny males</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02936-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>FER meets the Nod factor pathway</title>
                 <link>https://www.nature.com/articles/s41477-023-01531-9</link>
                 <description>Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</description>
@@ -457,33 +483,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>A revolution in obesity treatment</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02538-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Getting inside the oldest known vertebrate skull</title>
-                <link>https://www.nature.com/articles/d41586-023-02865-2</link>
-                <description>Analysis of a 458-million-year-old fossil fish reveals anatomical insights about the vertebrate skull and how skull organization evolved from that of ancestral early vertebrates to that of jawed vertebrates.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Analysis of a 458-million-year-old fossil fish reveals anatomical insights about the vertebrate skull and how skull organization evolved from that of ancestral early vertebrates to that of jawed vertebrates.</p></div>]]></content:encoded>
-                <pubDate>2023-09-20</pubDate>
-                <dc:creator>Zhikun Gai</dc:creator>
-                <dc:creator>Philip C. J. Donoghue</dc:creator>
-                <dc:date>2023-09-20</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Getting inside the oldest known vertebrate skull</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02865-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Hominins built with wood 476,000 years ago</title>
-                <link>https://www.nature.com/articles/d41586-023-02858-1</link>
-                <description>Understanding the timeline of technological developments sheds light on early societies. A remarkable finding in Africa of a structure made from shaped wood provides clues about our hominin relatives.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Understanding the timeline of technological developments sheds light on early societies. A remarkable finding in Africa of a structure made from shaped wood provides clues about our hominin relatives.</p></div>]]></content:encoded>
-                <pubDate>2023-09-20</pubDate>
-                <dc:creator>Annemieke Milks</dc:creator>
-                <dc:date>2023-09-20</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Hominins built with wood 476,000 years ago</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02858-1</dc:identifier>
             </item>
         
             <item>
