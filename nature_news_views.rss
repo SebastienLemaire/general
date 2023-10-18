@@ -13,6 +13,74 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Viruses use RNA decoys to thwart CRISPR defences</title>
+                <link>https://www.nature.com/articles/d41586-023-03133-z</link>
+                <description>Bacteria and archaea are microorganisms that often use RNA-guided defences called CRISPR to destroy the genomes of viruses that infect them. It now emerges that viruses make RNAs that act as mimics to divert such defences.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bacteria and archaea are microorganisms that often use RNA-guided defences called CRISPR to destroy the genomes of viruses that infect them. It now emerges that viruses make RNAs that act as mimics to divert such defences.</p></div>]]></content:encoded>
+                <pubDate>2023-10-18</pubDate>
+                <dc:creator>Carolyn  Kraus</dc:creator>
+                <dc:creator>Erik J.   Sontheimer</dc:creator>
+                <dc:date>2023-10-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Viruses use RNA decoys to thwart CRISPR defences</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03133-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Protein condensation regulates water availability in cells</title>
+                <link>https://www.nature.com/articles/d41586-023-03098-z</link>
+                <description>Proteins can condense to form membraneless organelles, which act as vessels for biochemical reactions in cells. An investigation shows that protein condensation is also a cellular mechanism for controlling water availability.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Proteins can condense to form membraneless organelles, which act as vessels for biochemical reactions in cells. An investigation shows that protein condensation is also a cellular mechanism for controlling water availability.</p></div>]]></content:encoded>
+                <pubDate>2023-10-18</pubDate>
+                <dc:creator>J. Pedro  de Souza </dc:creator>
+                <dc:creator>Howard A.   Stone</dc:creator>
+                <dc:date>2023-10-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Protein condensation regulates water availability in cells</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03098-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The language of bacterial defences expands</title>
+                <link>https://www.nature.com/articles/d41586-023-03149-5</link>
+                <description>Cells use specialized nucleotide signals to activate defences. A bacterial study reveals a previously unknown class of signals, formed by linking molecules of ATP and S-adenosyl methionine.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cells use specialized nucleotide signals to activate defences. A bacterial study reveals a previously unknown class of signals, formed by linking molecules of ATP and S-adenosyl methionine.</p></div>]]></content:encoded>
+                <pubDate>2023-10-18</pubDate>
+                <dc:creator>Douglas R.  Wassarman</dc:creator>
+                <dc:creator>Philip J.  Kranzusch</dc:creator>
+                <dc:date>2023-10-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The language of bacterial defences expands</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03149-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The compact accelerator that keeps electrons on the straight and narrow</title>
+                <link>https://www.nature.com/articles/d41586-023-03101-7</link>
+                <description>A silicon-based device uses laser light to accelerate electrons and simultaneously shape them into a narrow beam. The principle could be used to build microchip accelerators that do away with bulky conventional designs.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A silicon-based device uses laser light to accelerate electrons and simultaneously shape them into a narrow beam. The principle could be used to build microchip accelerators that do away with bulky conventional designs.</p></div>]]></content:encoded>
+                <pubDate>2023-10-18</pubDate>
+                <dc:creator>Yelong  Wei</dc:creator>
+                <dc:date>2023-10-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The compact accelerator that keeps electrons on the straight and narrow</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03101-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Searching for phase transitions in the dark</title>
+                <link>https://www.nature.com/articles/d41586-023-03148-6</link>
+                <description>An electrically insulating quantum material turns metallic when placed between two semi-reflecting mirrors — even if there is no illumination between them. This discovery paves the way for engineering other phase transitions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An electrically insulating quantum material turns metallic when placed between two semi-reflecting mirrors — even if there is no illumination between them. This discovery paves the way for engineering other phase transitions.</p></div>]]></content:encoded>
+                <pubDate>2023-10-18</pubDate>
+                <dc:creator>Edoardo  Baldini</dc:creator>
+                <dc:date>2023-10-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Searching for phase transitions in the dark</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03148-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Stem cells used to model a two-week-old human embryo</title>
                 <link>https://www.nature.com/articles/d41586-023-03150-y</link>
                 <description>Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</description>
@@ -79,6 +147,19 @@
             </item>
         
             <item>
+                <title>The technique that can find a system’s state through data alone</title>
+                <link>https://www.nature.com/articles/d41586-023-03070-x</link>
+                <description>Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</p></div>]]></content:encoded>
+                <pubDate>2023-10-11</pubDate>
+                <dc:creator>Brendan Keith</dc:creator>
+                <dc:date>2023-10-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The technique that can find a system’s state through data alone</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03070-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Pig-to-primate organ transplants require genetic modifications of donor</title>
                 <link>https://www.nature.com/articles/d41586-023-02817-w</link>
                 <description>A raft of alterations to the pig genome — removing three antigen-encoding genes, adding seven human genes and eliminating a retrovirus — allows kidneys to be transplanted into monkeys, with implications for clinical trials.</description>
@@ -116,19 +197,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Violent collision rocks a young planetary system</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03069-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The technique that can find a system’s state through data alone</title>
-                <link>https://www.nature.com/articles/d41586-023-03070-x</link>
-                <description>Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</p></div>]]></content:encoded>
-                <pubDate>2023-10-11</pubDate>
-                <dc:creator>Brendan Keith</dc:creator>
-                <dc:date>2023-10-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The technique that can find a system’s state through data alone</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03070-x</dc:identifier>
             </item>
         
             <item>
@@ -202,19 +270,6 @@
             </item>
         
             <item>
-                <title>Cichlid fish seized an ecological opportunity to diversify</title>
-                <link>https://www.nature.com/articles/d41586-023-03014-5</link>
-                <description>The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</p></div>]]></content:encoded>
-                <pubDate>2023-10-04</pubDate>
-                <dc:creator>Martin J. Genner</dc:creator>
-                <dc:date>2023-10-04</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Cichlid fish seized an ecological opportunity to diversify</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03014-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Organ-sparing precision treatment for muscle-invasive bladder cancer</title>
                 <link>https://www.nature.com/articles/s41591-023-02575-2</link>
                 <description>The response to neoadjuvant treatment can be used to stratify individuals with muscle-invasive bladder cancer according to their risk of progression, enabling bladder-sparing approaches for some — and heralding a shift from the existing one-size-fits-all approach.</description>
@@ -238,6 +293,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>How purposeless physics underlies purposeful life</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03061-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Cichlid fish seized an ecological opportunity to diversify</title>
+                <link>https://www.nature.com/articles/d41586-023-03014-5</link>
+                <description>The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The analysis of fossils in sediment cores from Lake Victoria, Africa, reveals that a group of cichlid fish rapidly diversified as the lake got larger and provided new ecological niches, whereas the other fish there did not diversify.</p></div>]]></content:encoded>
+                <pubDate>2023-10-04</pubDate>
+                <dc:creator>Martin J. Genner</dc:creator>
+                <dc:date>2023-10-04</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Cichlid fish seized an ecological opportunity to diversify</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03014-5</dc:identifier>
             </item>
         
             <item>
@@ -348,73 +416,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Senolytic therapy for Alzheimer’s disease</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02541-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Free-falling antihydrogen reveals the effect of gravity on antimatter</title>
-                <link>https://www.nature.com/articles/d41586-023-02930-w</link>
-                <description>A test performed on antihydrogen atoms has shown that gravity acts on matter and antimatter in a similar way. The experimental feat is the latest in efforts to probe the crossover between theories of relativity and particle physics.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A test performed on antihydrogen atoms has shown that gravity acts on matter and antimatter in a similar way. The experimental feat is the latest in efforts to probe the crossover between theories of relativity and particle physics.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Anna Soter</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Free-falling antihydrogen reveals the effect of gravity on antimatter</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02930-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The geography of climate governs biodiversity</title>
-                <link>https://www.nature.com/articles/d41586-023-02937-3</link>
-                <description>To explain the interplay of climate, area and isolation that underlies the marked global differences in biodiversity, a switch in focus from geographic space to climatic space offers a way forwards.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">To explain the interplay of climate, area and isolation that underlies the marked global differences in biodiversity, a switch in focus from geographic space to climatic space offers a way forwards.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Antonin Machac</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The geography of climate governs biodiversity</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02937-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The twisted material that splits the electron</title>
-                <link>https://www.nature.com/articles/d41586-023-02941-7</link>
-                <description>Layers of a thin semiconductor material overlap in a particular pattern, giving rise to particle currents carrying a fraction of the charge of an electron — with potential for encoding quantum information.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layers of a thin semiconductor material overlap in a particular pattern, giving rise to particle currents carrying a fraction of the charge of an electron — with potential for encoding quantum information.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Cécile Repellin</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The twisted material that splits the electron</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02941-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Coordinating the first heartbeat</title>
-                <link>https://www.nature.com/articles/d41586-023-02938-2</link>
-                <description>An impressive combination of computational modelling and experimental techniques in live zebrafish embryos reveals how the heart initiates its organized and rhythmic beating.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An impressive combination of computational modelling and experimental techniques in live zebrafish embryos reveals how the heart initiates its organized and rhythmic beating.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Joshua Bloomekatz</dc:creator>
-                <dc:creator>Neil C. Chi</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Coordinating the first heartbeat</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02938-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Measuring the ecological benefits of protected areas</title>
-                <link>https://www.nature.com/articles/d41586-023-02676-5</link>
-                <description>Are protected areas slowing down global biodiversity declines? A global analysis provides evidence that they are, although effects vary across groups of species, and what happens outside protected areas matters, too.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Are protected areas slowing down global biodiversity declines? A global analysis provides evidence that they are, although effects vary across groups of species, and what happens outside protected areas matters, too.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Ana S. L. Rodrigues</dc:creator>
-                <dc:creator>Marie-Morgane Rouyer</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Measuring the ecological benefits of protected areas</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02676-5</dc:identifier>
             </item>
         
             <item>
