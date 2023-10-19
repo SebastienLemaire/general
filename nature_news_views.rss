@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Hijacking host ribosomes via tRNA mimicry</title>
+                <link>https://www.nature.com/articles/s41556-023-01249-y</link>
+                <description>The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</p></div>]]></content:encoded>
+                <pubDate>2023-10-19</pubDate>
+                <dc:creator>Saori Uematsu</dc:creator>
+                <dc:creator>Shu-Bing Qian</dc:creator>
+                <dc:date>2023-10-19</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Hijacking host ribosomes via tRNA mimicry</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01249-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The power paradox of detecting disease-associated and gene-expression-associated variants</title>
+                <link>https://www.nature.com/articles/s41588-023-01525-5</link>
+                <description>The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</p></div>]]></content:encoded>
+                <pubDate>2023-10-19</pubDate>
+                <dc:creator>Tiffany Amariuta</dc:creator>
+                <dc:date>2023-10-19</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Viruses use RNA decoys to thwart CRISPR defences</title>
                 <link>https://www.nature.com/articles/d41586-023-03133-z</link>
                 <description>Bacteria and archaea are microorganisms that often use RNA-guided defences called CRISPR to destroy the genomes of viruses that infect them. It now emerges that viruses make RNAs that act as mimics to divert such defences.</description>
@@ -697,6 +724,20 @@
             </item>
         
             <item>
+                <title>A non-coding m6A reader promotes leukaemia</title>
+                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
+                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>James Russell</dc:creator>
+                <dc:creator>Konstantinos Tzelepis</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Silencing translation with phenolic acids</title>
                 <link>https://www.nature.com/articles/s41477-023-01497-8</link>
                 <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
@@ -709,20 +750,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Silencing translation with phenolic acids</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A non-coding m6A reader promotes leukaemia</title>
-                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
-                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>James Russell</dc:creator>
-                <dc:creator>Konstantinos Tzelepis</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
             </item>
         
             <item>
@@ -824,19 +851,6 @@
             </item>
         
             <item>
-                <title>A mother to offspring metabolic link</title>
-                <link>https://www.nature.com/articles/s41556-023-01189-7</link>
-                <description>In many species, a mother’s environment can impact offspring’s metabolism, but the mechanisms that mediate such intergenerational effects are unclear. In this issue, a study finds that the provisioning of a sphingolipid from mothers to offspring drives changes in offspring metabolism that protect against neuronal damage.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In many species, a mother’s environment can impact offspring’s metabolism, but the mechanisms that mediate such intergenerational effects are unclear. In this issue, a study finds that the provisioning of a sphingolipid from mothers to offspring drives changes in offspring metabolism that protect against neuronal damage.</p></div>]]></content:encoded>
-                <pubDate>2023-08-03</pubDate>
-                <dc:creator>Nicholas O. Burton</dc:creator>
-                <dc:date>2023-08-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A mother to offspring metabolic link</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01189-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Our ancestry dictates clonal architecture and skin cancer susceptibility</title>
                 <link>https://www.nature.com/articles/s41588-023-01467-y</link>
                 <description>Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</description>
@@ -864,6 +878,19 @@
             </item>
         
             <item>
+                <title>A mother to offspring metabolic link</title>
+                <link>https://www.nature.com/articles/s41556-023-01189-7</link>
+                <description>In many species, a mother’s environment can impact offspring’s metabolism, but the mechanisms that mediate such intergenerational effects are unclear. In this issue, a study finds that the provisioning of a sphingolipid from mothers to offspring drives changes in offspring metabolism that protect against neuronal damage.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In many species, a mother’s environment can impact offspring’s metabolism, but the mechanisms that mediate such intergenerational effects are unclear. In this issue, a study finds that the provisioning of a sphingolipid from mothers to offspring drives changes in offspring metabolism that protect against neuronal damage.</p></div>]]></content:encoded>
+                <pubDate>2023-08-03</pubDate>
+                <dc:creator>Nicholas O. Burton</dc:creator>
+                <dc:date>2023-08-03</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A mother to offspring metabolic link</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01189-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Precise, pragmatic and inclusive: the modern era of oncology clinical trials</title>
                 <link>https://www.nature.com/articles/s41591-023-02466-6</link>
                 <description>Innovative clinical trial designs with a patient-centered mission are crucial to advancing modern cancer care; the adaptive phase 2 umbrella study CTONG1702 provides one model for this new era of trial design.</description>
@@ -878,20 +905,6 @@
             </item>
         
             <item>
-                <title>A light switch for DNA break repair</title>
-                <link>https://www.nature.com/articles/s41477-023-01462-5</link>
-                <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</p></div>]]></content:encoded>
-                <pubDate>2023-07-24</pubDate>
-                <dc:creator>Lejon E. M. Kralemann</dc:creator>
-                <dc:creator>Marcel Tijsterman</dc:creator>
-                <dc:date>2023-07-24</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A light switch for DNA break repair</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pioneer factor competing for fate change</title>
                 <link>https://www.nature.com/articles/s41556-023-01190-0</link>
                 <description>Pioneer transcription factors bind closed chromatin regions, alter local accessibility and activate target genes. A study reveals that the SOX9 transcription factor drives cell fate switching by activating hair follicle cell enhancers, while simultaneously repressing epidermal enhancers via sequestration of epigenetic factors.</description>
@@ -903,6 +916,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Pioneer factor competing for fate change</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01190-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A light switch for DNA break repair</title>
+                <link>https://www.nature.com/articles/s41477-023-01462-5</link>
+                <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</p></div>]]></content:encoded>
+                <pubDate>2023-07-24</pubDate>
+                <dc:creator>Lejon E. M. Kralemann</dc:creator>
+                <dc:creator>Marcel Tijsterman</dc:creator>
+                <dc:date>2023-07-24</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A light switch for DNA break repair</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
             </item>
         
             <item>
@@ -1242,20 +1269,6 @@
             </item>
         
             <item>
-                <title>LDLs take a shortcut to mitochondria</title>
-                <link>https://www.nature.com/articles/s41556-023-01166-0</link>
-                <description>Receptor-mediated endocytosis delivers low-density lipoproteins (LDLs) to late endosomes, from where cholesterol is trafficked to mitochondria. Zhou et al. report that LDL-containing endosomes fuse with mitochondria, supplying cholesterol for steroid biosynthesis and enabling mitochondrial degradation of the LDL receptor.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Receptor-mediated endocytosis delivers low-density lipoproteins (LDLs) to late endosomes, from where cholesterol is trafficked to mitochondria. Zhou et al. report that LDL-containing endosomes fuse with mitochondria, supplying cholesterol for steroid biosynthesis and enabling mitochondrial degradation of the LDL receptor.</p></div>]]></content:encoded>
-                <pubDate>2023-06-05</pubDate>
-                <dc:creator>Satoko Shinjo</dc:creator>
-                <dc:creator>Luca Scorrano</dc:creator>
-                <dc:date>2023-06-05</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>LDLs take a shortcut to mitochondria</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01166-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>SUC1’s mode of low-affinity transport</title>
                 <link>https://www.nature.com/articles/s41477-023-01431-y</link>
                 <description>The new structure for the H+-coupled sucrose uptake transporter AtSUC1 helps us understand the mechanism used by plants for cellular sucrose uptake and phloem loading.</description>
@@ -1517,19 +1530,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>IMAGE-seq and you shall find</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01835-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Mathematical modeling of neuroblastoma associates evolutionary patterns with outcomes</title>
-                <link>https://www.nature.com/articles/s41588-023-01358-2</link>
-                <description>A new study deciphers the origin and evolution of childhood neuroblastoma using genome sequencing data, mathematical models and statistical inference, showing how neuroblastoma evolution is an accurate predictor of outcome.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study deciphers the origin and evolution of childhood neuroblastoma using genome sequencing data, mathematical models and statistical inference, showing how neuroblastoma evolution is an accurate predictor of outcome.</p></div>]]></content:encoded>
-                <pubDate>2023-03-27</pubDate>
-                <dc:creator>Giulio Caravagna</dc:creator>
-                <dc:date>2023-03-27</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Mathematical modeling of neuroblastoma associates evolutionary patterns with outcomes</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01358-2</dc:identifier>
             </item>
         
             <item>
