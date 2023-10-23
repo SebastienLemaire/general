@@ -13,17 +13,18 @@
             <ttl>120</ttl>
     
             <item>
-                <title>Hijacking host ribosomes via tRNA mimicry</title>
-                <link>https://www.nature.com/articles/s41556-023-01249-y</link>
-                <description>The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</p></div>]]></content:encoded>
-                <pubDate>2023-10-19</pubDate>
-                <dc:creator>Saori Uematsu</dc:creator>
-                <dc:creator>Shu-Bing Qian</dc:creator>
-                <dc:date>2023-10-19</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Hijacking host ribosomes via tRNA mimicry</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01249-y</dc:identifier>
+                <title>Post-zygotic brain mosaicism as a result of partial reversion of pre-zygotic aneuploidy</title>
+                <link>https://www.nature.com/articles/s41588-023-01552-2</link>
+                <description>Brain somatic mosaicism is linked to several neurological disorders and is thought to arise post-zygotically. A study suggests that pre-zygotic aneuploidy followed by post-zygotic partial reversion leads to a recurrent form of brain mosaicism-related epilepsy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Brain somatic mosaicism is linked to several neurological disorders and is thought to arise post-zygotically. A study suggests that pre-zygotic aneuploidy followed by post-zygotic partial reversion leads to a recurrent form of brain mosaicism-related epilepsy.</p></div>]]></content:encoded>
+                <pubDate>2023-10-23</pubDate>
+                <dc:creator>Changuk Chung</dc:creator>
+                <dc:creator>Xiaoxu Yang</dc:creator>
+                <dc:creator>Joseph G. Gleeson</dc:creator>
+                <dc:date>2023-10-23</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Post-zygotic brain mosaicism as a result of partial reversion of pre-zygotic aneuploidy</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01552-2</dc:identifier>
             </item>
         
             <item>
@@ -37,6 +38,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Hijacking host ribosomes via tRNA mimicry</title>
+                <link>https://www.nature.com/articles/s41556-023-01249-y</link>
+                <description>The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</p></div>]]></content:encoded>
+                <pubDate>2023-10-19</pubDate>
+                <dc:creator>Saori Uematsu</dc:creator>
+                <dc:creator>Shu-Bing Qian</dc:creator>
+                <dc:date>2023-10-19</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Hijacking host ribosomes via tRNA mimicry</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01249-y</dc:identifier>
             </item>
         
             <item>
@@ -446,19 +461,6 @@
             </item>
         
             <item>
-                <title>An all-organic laser that is electrically driven</title>
-                <link>https://www.nature.com/articles/d41586-023-02935-5</link>
-                <description>An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Stéphane Kéna-Cohen</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An all-organic laser that is electrically driven</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02935-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Tumor heterogeneity impairs immunogenicity in mismatch repair deficient tumors</title>
                 <link>https://www.nature.com/articles/s41588-023-01492-x</link>
                 <description>DNA mismatch repair deficiency (MMRd) is associated with elevated tumor mutational burden (TMB) and exceptional immunotherapy responses, yet some patients experience no clinical benefit. Recent work proposes that high intra-tumoral heterogeneity can offset immunogenicity in sporadic MMRd, suggesting a potential mechanism of immunotherapy failure.</description>
@@ -474,16 +476,16 @@
             </item>
         
             <item>
-                <title>FER meets the Nod factor pathway</title>
-                <link>https://www.nature.com/articles/s41477-023-01531-9</link>
-                <description>Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</p></div>]]></content:encoded>
-                <pubDate>2023-09-25</pubDate>
-                <dc:creator>María Eugenia Zanetti</dc:creator>
-                <dc:date>2023-09-25</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>FER meets the Nod factor pathway</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01531-9</dc:identifier>
+                <title>An all-organic laser that is electrically driven</title>
+                <link>https://www.nature.com/articles/d41586-023-02935-5</link>
+                <description>An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</p></div>]]></content:encoded>
+                <pubDate>2023-09-27</pubDate>
+                <dc:creator>Stéphane Kéna-Cohen</dc:creator>
+                <dc:date>2023-09-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>An all-organic laser that is electrically driven</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02935-5</dc:identifier>
             </item>
         
             <item>
@@ -497,6 +499,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01493-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>FER meets the Nod factor pathway</title>
+                <link>https://www.nature.com/articles/s41477-023-01531-9</link>
+                <description>Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</p></div>]]></content:encoded>
+                <pubDate>2023-09-25</pubDate>
+                <dc:creator>María Eugenia Zanetti</dc:creator>
+                <dc:date>2023-09-25</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>FER meets the Nod factor pathway</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01531-9</dc:identifier>
             </item>
         
             <item>
@@ -1503,19 +1518,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Line-scanning speeds up Brillouin microscopy</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01843-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Nucleotide metabolism regulates human telomere length via telomerase activation</title>
-                <link>https://www.nature.com/articles/s41588-023-01359-1</link>
-                <description>Telomere length is an important determinant of cellular aging and disease risk, but the genetics of telomere length control in humans is unclear. A genome-wide CRISPR screen has now identified a central role for thymidine nucleotide metabolism in the regulation of telomere length, which has implications for the diagnosis and treatment of disease.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Telomere length is an important determinant of cellular aging and disease risk, but the genetics of telomere length control in humans is unclear. A genome-wide CRISPR screen has now identified a central role for thymidine nucleotide metabolism in the regulation of telomere length, which has implications for the diagnosis and treatment of disease.</p></div>]]></content:encoded>
-                <pubDate>2023-03-30</pubDate>
-                <dc:creator>Tracy M. Bryan</dc:creator>
-                <dc:date>2023-03-30</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Nucleotide metabolism regulates human telomere length via telomerase activation</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01359-1</dc:identifier>
             </item>
         
             <item>
