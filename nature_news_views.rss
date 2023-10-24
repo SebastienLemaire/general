@@ -13,6 +13,46 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Anti-COVID drug accelerates viral evolution</title>
+                <link>https://www.nature.com/articles/d41586-023-03248-3</link>
+                <description>Molnupiravir, an antiviral drug used to treat COVID-19, induces numerous mutations in the SARS-CoV-2 genome that can increase the rate at which the virus evolves — yielding viral variants that might survive and be passed on.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Molnupiravir, an antiviral drug used to treat COVID-19, induces numerous mutations in the SARS-CoV-2 genome that can increase the rate at which the virus evolves — yielding viral variants that might survive and be passed on.</p></div>]]></content:encoded>
+                <pubDate>2023-10-24</pubDate>
+                <dc:creator>Sergei L. Kosakovsky Pond</dc:creator>
+                <dc:creator>Darren Martin</dc:creator>
+                <dc:date>2023-10-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Anti-COVID drug accelerates viral evolution</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03248-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Assessing the scale of rubber deforestation in southeast Asia</title>
+                <link>https://www.nature.com/articles/d41586-023-03153-9</link>
+                <description>Understanding the extent of deforestation associated with agriculturally harvested crops has implications for conservation efforts. A method to assess satellite data offers an accurate way to estimate rubber deforestation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Understanding the extent of deforestation associated with agriculturally harvested crops has implications for conservation efforts. A method to assess satellite data offers an accurate way to estimate rubber deforestation.</p></div>]]></content:encoded>
+                <pubDate>2023-10-24</pubDate>
+                <dc:creator>Carlos Souza Jr</dc:creator>
+                <dc:date>2023-10-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Assessing the scale of rubber deforestation in southeast Asia</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03153-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: soap success, and Michael Faraday’s lecture tips</title>
+                <link>https://www.nature.com/articles/d41586-023-03158-4</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-10-24</pubDate>
+                
+                <dc:date>2023-10-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: soap success, and Michael Faraday’s lecture tips</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03158-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Post-zygotic brain mosaicism as a result of partial reversion of pre-zygotic aneuploidy</title>
                 <link>https://www.nature.com/articles/s41588-023-01552-2</link>
                 <description>Brain somatic mosaicism is linked to several neurological disorders and is thought to arise post-zygotically. A study suggests that pre-zygotic aneuploidy followed by post-zygotic partial reversion leads to a recurrent form of brain mosaicism-related epilepsy.</description>
@@ -123,19 +163,6 @@
             </item>
         
             <item>
-                <title>Stem cells used to model a two-week-old human embryo</title>
-                <link>https://www.nature.com/articles/d41586-023-03150-y</link>
-                <description>Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</p></div>]]></content:encoded>
-                <pubDate>2023-10-17</pubDate>
-                <dc:creator>Naomi  Moris</dc:creator>
-                <dc:date>2023-10-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Stem cells used to model a two-week-old human embryo</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03150-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>AI rapidly diagnoses brain tumours during surgery</title>
                 <link>https://www.nature.com/articles/d41586-023-03072-9</link>
                 <description>A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly.</description>
@@ -159,6 +186,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: animal behaviour, and Darwin discusses organ loss</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03157-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Stem cells used to model a two-week-old human embryo</title>
+                <link>https://www.nature.com/articles/d41586-023-03150-y</link>
+                <description>Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</p></div>]]></content:encoded>
+                <pubDate>2023-10-17</pubDate>
+                <dc:creator>Naomi  Moris</dc:creator>
+                <dc:date>2023-10-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Stem cells used to model a two-week-old human embryo</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03150-y</dc:identifier>
             </item>
         
             <item>
@@ -186,19 +226,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Clostridioides difficile infection drives neuronal inflammation</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02640-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The technique that can find a system’s state through data alone</title>
-                <link>https://www.nature.com/articles/d41586-023-03070-x</link>
-                <description>Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</p></div>]]></content:encoded>
-                <pubDate>2023-10-11</pubDate>
-                <dc:creator>Brendan Keith</dc:creator>
-                <dc:date>2023-10-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The technique that can find a system’s state through data alone</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03070-x</dc:identifier>
             </item>
         
             <item>
@@ -239,6 +266,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Violent collision rocks a young planetary system</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03069-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The technique that can find a system’s state through data alone</title>
+                <link>https://www.nature.com/articles/d41586-023-03070-x</link>
+                <description>Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</p></div>]]></content:encoded>
+                <pubDate>2023-10-11</pubDate>
+                <dc:creator>Brendan Keith</dc:creator>
+                <dc:date>2023-10-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The technique that can find a system’s state through data alone</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03070-x</dc:identifier>
             </item>
         
             <item>
@@ -392,33 +432,6 @@
             </item>
         
             <item>
-                <title>Interstellar shocks unveil the material around new stars</title>
-                <link>https://www.nature.com/articles/d41586-023-02982-y</link>
-                <description>Astronomers have obtained spectacular images of an interstellar jet launched from a newly forming star. Careful comparison with archival data offers a fresh take on the chemistry of the environment that surrounds it.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Astronomers have obtained spectacular images of an interstellar jet launched from a newly forming star. Careful comparison with archival data offers a fresh take on the chemistry of the environment that surrounds it.</p></div>]]></content:encoded>
-                <pubDate>2023-10-02</pubDate>
-                <dc:creator>Joel Green</dc:creator>
-                <dc:date>2023-10-02</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Interstellar shocks unveil the material around new stars</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02982-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Master regulator of a mosquito X chromosome discovered</title>
-                <link>https://www.nature.com/articles/d41586-023-02972-0</link>
-                <description>In organisms with X and Y chromosomes, gene expression must be equalized between the sexes. A protein that causes upregulation of gene expression of the X chromosome in male mosquitoes has been discovered.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In organisms with X and Y chromosomes, gene expression must be equalized between the sexes. A protein that causes upregulation of gene expression of the X chromosome in male mosquitoes has been discovered.</p></div>]]></content:encoded>
-                <pubDate>2023-09-28</pubDate>
-                <dc:creator>Maggie P. Lauria Sneideman</dc:creator>
-                <dc:creator>Victoria H. Meller</dc:creator>
-                <dc:date>2023-09-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Master regulator of a mosquito X chromosome discovered</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02972-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The changing colour of carrot</title>
                 <link>https://www.nature.com/articles/s41477-023-01523-9</link>
                 <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
@@ -473,19 +486,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Tumor heterogeneity impairs immunogenicity in mismatch repair deficient tumors</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01492-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An all-organic laser that is electrically driven</title>
-                <link>https://www.nature.com/articles/d41586-023-02935-5</link>
-                <description>An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An organic light-emitting diode has been integrated with an optically driven organic laser to produce laser light from electricity. The design bypasses many of the challenges posed by direct electrical input in such devices.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Stéphane Kéna-Cohen</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An all-organic laser that is electrically driven</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02935-5</dc:identifier>
             </item>
         
             <item>
