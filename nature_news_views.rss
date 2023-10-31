@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>From the archive: Halloween horrors</title>
+                <link>https://www.nature.com/articles/d41586-023-03340-8</link>
+                <description>Spooky snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Spooky snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-10-31</pubDate>
+                
+                <dc:date>2023-10-31</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: Halloween horrors</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03340-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Magnetic atoms push interactions to new lengths for quantum simulation</title>
                 <link>https://www.nature.com/articles/d41586-023-03152-w</link>
                 <description>Lasers, and a cold ensemble of magnetic atoms, have been used to mimic a complex quantum system characterized by long-range interactions — an essential ingredient for realizing realistic models of many quantum materials.</description>
@@ -162,19 +175,6 @@
             </item>
         
             <item>
-                <title>The compact accelerator that keeps electrons on the straight and narrow</title>
-                <link>https://www.nature.com/articles/d41586-023-03101-7</link>
-                <description>A silicon-based device uses laser light to accelerate electrons and simultaneously shape them into a narrow beam. The principle could be used to build microchip accelerators that do away with bulky conventional designs.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A silicon-based device uses laser light to accelerate electrons and simultaneously shape them into a narrow beam. The principle could be used to build microchip accelerators that do away with bulky conventional designs.</p></div>]]></content:encoded>
-                <pubDate>2023-10-18</pubDate>
-                <dc:creator>Yelong  Wei</dc:creator>
-                <dc:date>2023-10-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The compact accelerator that keeps electrons on the straight and narrow</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03101-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Searching for phase transitions in the dark</title>
                 <link>https://www.nature.com/articles/d41586-023-03148-6</link>
                 <description>An electrically insulating quantum material turns metallic when placed between two semi-reflecting mirrors — even if there is no illumination between them. This discovery paves the way for engineering other phase transitions.</description>
@@ -227,6 +227,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>The language of bacterial defences expands</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03149-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The compact accelerator that keeps electrons on the straight and narrow</title>
+                <link>https://www.nature.com/articles/d41586-023-03101-7</link>
+                <description>A silicon-based device uses laser light to accelerate electrons and simultaneously shape them into a narrow beam. The principle could be used to build microchip accelerators that do away with bulky conventional designs.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A silicon-based device uses laser light to accelerate electrons and simultaneously shape them into a narrow beam. The principle could be used to build microchip accelerators that do away with bulky conventional designs.</p></div>]]></content:encoded>
+                <pubDate>2023-10-18</pubDate>
+                <dc:creator>Yelong  Wei</dc:creator>
+                <dc:date>2023-10-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The compact accelerator that keeps electrons on the straight and narrow</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03101-7</dc:identifier>
             </item>
         
             <item>
@@ -293,20 +306,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Clostridioides difficile infection drives neuronal inflammation</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02640-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Learn from the past to predict viral pandemics</title>
-                <link>https://www.nature.com/articles/d41586-023-02931-9</link>
-                <description>The COVID-19 pandemic highlighted the need to understand the emergence of viral variants, given that these can have implications for vaccination success. A bioinformatics tool offers a way to predict viral evolution.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The COVID-19 pandemic highlighted the need to understand the emergence of viral variants, given that these can have implications for vaccination success. A bioinformatics tool offers a way to predict viral evolution.</p></div>]]></content:encoded>
-                <pubDate>2023-10-11</pubDate>
-                <dc:creator>Nash D. Rochman</dc:creator>
-                <dc:creator>Eugene V. Koonin</dc:creator>
-                <dc:date>2023-10-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Learn from the past to predict viral pandemics</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02931-9</dc:identifier>
             </item>
         
             <item>
