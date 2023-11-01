@@ -13,6 +13,59 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Hydrogel implant rehabilitates muscles through electrical stimulation</title>
+                <link>https://www.nature.com/articles/d41586-023-03211-2</link>
+                <description>An electrically conductive hydrogel injected into an injured muscle can help the muscle to regenerate and reconnect with the nervous system. This effective soft prosthesis has enabled rats to walk soon after muscular injury.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An electrically conductive hydrogel injected into an injured muscle can help the muscle to regenerate and reconnect with the nervous system. This effective soft prosthesis has enabled rats to walk soon after muscular injury.</p></div>]]></content:encoded>
+                <pubDate>2023-11-01</pubDate>
+                <dc:creator>Milica Radisic</dc:creator>
+                <dc:date>2023-11-01</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Hydrogel implant rehabilitates muscles through electrical stimulation</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03211-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Getting to the heart of thick-filament structure</title>
+                <link>https://www.nature.com/articles/d41586-023-03307-9</link>
+                <description>Thick filaments contain the protein myosin that generates the force of every heartbeat. Two studies report how these myosin molecules pack together in thick filaments with other proteins to form a surprisingly complex structure.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Thick filaments contain the protein myosin that generates the force of every heartbeat. Two studies report how these myosin molecules pack together in thick filaments with other proteins to form a surprisingly complex structure.</p></div>]]></content:encoded>
+                <pubDate>2023-11-01</pubDate>
+                <dc:creator>Peter J. Knight</dc:creator>
+                <dc:date>2023-11-01</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Getting to the heart of thick-filament structure</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03307-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A radical evolutionary makeover gave echinoderms their unusual body plan</title>
+                <link>https://www.nature.com/articles/d41586-023-03123-1</link>
+                <description>Echinoderms such as starfish are unusual for their five-fold body symmetry. Maps of gene-expression patterns show how this body plan was acquired, and that the genes specifying head structures do the heavy lifting.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Echinoderms such as starfish are unusual for their five-fold body symmetry. Maps of gene-expression patterns show how this body plan was acquired, and that the genes specifying head structures do the heavy lifting.</p></div>]]></content:encoded>
+                <pubDate>2023-11-01</pubDate>
+                <dc:creator>Thurston Lacalli</dc:creator>
+                <dc:date>2023-11-01</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A radical evolutionary makeover gave echinoderms their unusual body plan</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03123-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Atom-swap chemistry could aid drug discovery</title>
+                <link>https://www.nature.com/articles/d41586-023-03297-8</link>
+                <description>An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.</p></div>]]></content:encoded>
+                <pubDate>2023-11-01</pubDate>
+                <dc:creator>Filippo Ficarra</dc:creator>
+                <dc:creator>Mattia Silvi</dc:creator>
+                <dc:date>2023-11-01</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Atom-swap chemistry could aid drug discovery</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03297-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: Halloween horrors</title>
                 <link>https://www.nature.com/articles/d41586-023-03340-8</link>
                 <description>Spooky snippets from Nature’s past.</description>
@@ -175,19 +228,6 @@
             </item>
         
             <item>
-                <title>Searching for phase transitions in the dark</title>
-                <link>https://www.nature.com/articles/d41586-023-03148-6</link>
-                <description>An electrically insulating quantum material turns metallic when placed between two semi-reflecting mirrors — even if there is no illumination between them. This discovery paves the way for engineering other phase transitions.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An electrically insulating quantum material turns metallic when placed between two semi-reflecting mirrors — even if there is no illumination between them. This discovery paves the way for engineering other phase transitions.</p></div>]]></content:encoded>
-                <pubDate>2023-10-18</pubDate>
-                <dc:creator>Edoardo  Baldini</dc:creator>
-                <dc:date>2023-10-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Searching for phase transitions in the dark</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03148-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Viruses use RNA decoys to thwart CRISPR defences</title>
                 <link>https://www.nature.com/articles/d41586-023-03133-z</link>
                 <description>Bacteria and archaea are microorganisms that often use RNA-guided defences called CRISPR to destroy the genomes of viruses that infect them. It now emerges that viruses make RNAs that act as mimics to divert such defences.</description>
@@ -243,16 +283,16 @@
             </item>
         
             <item>
-                <title>Stem cells used to model a two-week-old human embryo</title>
-                <link>https://www.nature.com/articles/d41586-023-03150-y</link>
-                <description>Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have used stem cells to create models that resemble human embryos at two weeks old, but bypass the earliest developmental stages — paving the way for studies that are not possible in human embryos.</p></div>]]></content:encoded>
-                <pubDate>2023-10-17</pubDate>
-                <dc:creator>Naomi  Moris</dc:creator>
-                <dc:date>2023-10-17</dc:date>
+                <title>Searching for phase transitions in the dark</title>
+                <link>https://www.nature.com/articles/d41586-023-03148-6</link>
+                <description>An electrically insulating quantum material turns metallic when placed between two semi-reflecting mirrors — even if there is no illumination between them. This discovery paves the way for engineering other phase transitions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An electrically insulating quantum material turns metallic when placed between two semi-reflecting mirrors — even if there is no illumination between them. This discovery paves the way for engineering other phase transitions.</p></div>]]></content:encoded>
+                <pubDate>2023-10-18</pubDate>
+                <dc:creator>Edoardo  Baldini</dc:creator>
+                <dc:date>2023-10-18</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>Stem cells used to model a two-week-old human embryo</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03150-y</dc:identifier>
+                <dc:title>Searching for phase transitions in the dark</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03148-6</dc:identifier>
             </item>
         
             <item>
@@ -293,45 +333,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Saving ribosomal proteins for later</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01251-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Clostridioides difficile infection drives neuronal inflammation</title>
-                <link>https://www.nature.com/articles/d41586-023-02640-3</link>
-                <description>Infection by the bacterium Clostridioides difficile can be fatal in a clinical setting. Insights into the molecular mechanisms underlying such infection might offer targets for the search to develop new treatments.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Infection by the bacterium Clostridioides difficile can be fatal in a clinical setting. Insights into the molecular mechanisms underlying such infection might offer targets for the search to develop new treatments.</p></div>]]></content:encoded>
-                <pubDate>2023-10-12</pubDate>
-                <dc:creator>Klaus  Aktories</dc:creator>
-                <dc:date>2023-10-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Clostridioides difficile infection drives neuronal inflammation</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02640-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Violent collision rocks a young planetary system</title>
-                <link>https://www.nature.com/articles/d41586-023-03069-4</link>
-                <description>When two worlds collide, they leave more than the shambles of dusty ejecta. Astronomers have detected light from a post-collision remnant, providing the best evidence so far for planetary-scale collisions in exoplanetary systems.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">When two worlds collide, they leave more than the shambles of dusty ejecta. Astronomers have detected light from a post-collision remnant, providing the best evidence so far for planetary-scale collisions in exoplanetary systems.</p></div>]]></content:encoded>
-                <pubDate>2023-10-11</pubDate>
-                <dc:creator>Carl Melis</dc:creator>
-                <dc:date>2023-10-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Violent collision rocks a young planetary system</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03069-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The technique that can find a system’s state through data alone</title>
-                <link>https://www.nature.com/articles/d41586-023-03070-x</link>
-                <description>Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pinpointing the state of a complex system is tricky, especially when the underlying mathematical equations aren’t known. But a data-driven technique makes light work of it — and could even change the way that models are formulated.</p></div>]]></content:encoded>
-                <pubDate>2023-10-11</pubDate>
-                <dc:creator>Brendan Keith</dc:creator>
-                <dc:date>2023-10-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The technique that can find a system’s state through data alone</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03070-x</dc:identifier>
             </item>
         
             <item>
