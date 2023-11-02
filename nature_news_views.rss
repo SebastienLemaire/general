@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Modeling the complexity of mammary gland in vitro</title>
+                <link>https://www.nature.com/articles/s41592-023-02064-x</link>
+                <description>A new method models mammary gland in vitro during physiological and pathological conditions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new method models mammary gland in vitro during physiological and pathological conditions.</p></div>]]></content:encoded>
+                <pubDate>2023-11-02</pubDate>
+                <dc:creator>Marco Fioramonti</dc:creator>
+                <dc:creator>Cédric Blanpain</dc:creator>
+                <dc:date>2023-11-02</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Modeling the complexity of mammary gland in vitro</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02064-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Hydrogel implant rehabilitates muscles through electrical stimulation</title>
                 <link>https://www.nature.com/articles/d41586-023-03211-2</link>
                 <description>An electrically conductive hydrogel injected into an injured muscle can help the muscle to regenerate and reconnect with the nervous system. This effective soft prosthesis has enabled rats to walk soon after muscular injury.</description>
@@ -434,20 +448,6 @@
             </item>
         
             <item>
-                <title>The changing colour of carrot</title>
-                <link>https://www.nature.com/articles/s41477-023-01523-9</link>
-                <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</p></div>]]></content:encoded>
-                <pubDate>2023-09-28</pubDate>
-                <dc:creator>Yafei Guo</dc:creator>
-                <dc:creator>Fei Lu</dc:creator>
-                <dc:date>2023-09-28</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>The changing colour of carrot</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Factoring single-cell perturbations</title>
                 <link>https://www.nature.com/articles/s41592-023-02002-x</link>
                 <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
@@ -459,6 +459,20 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Factoring single-cell perturbations</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The changing colour of carrot</title>
+                <link>https://www.nature.com/articles/s41477-023-01523-9</link>
+                <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</p></div>]]></content:encoded>
+                <pubDate>2023-09-28</pubDate>
+                <dc:creator>Yafei Guo</dc:creator>
+                <dc:creator>Fei Lu</dc:creator>
+                <dc:date>2023-09-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>The changing colour of carrot</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
             </item>
         
             <item>
@@ -1645,20 +1659,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Next-generation single virus tracking</dc:title>
                 <dc:identifier>doi:doi.org/s41592-022-01670-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Redesigning hydrogel geometry for enhanced organoids</title>
-                <link>https://www.nature.com/articles/s41592-022-01656-3</link>
-                <description>OCTOPUS is a bioengineered device for high-fidelity organoid cultures long term.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">OCTOPUS is a bioengineered device for high-fidelity organoid cultures long term.</p></div>]]></content:encoded>
-                <pubDate>2022-10-24</pubDate>
-                <dc:creator>Killian Hillion</dc:creator>
-                <dc:creator>Maxime M. Mahe</dc:creator>
-                <dc:date>2022-10-24</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Redesigning hydrogel geometry for enhanced organoids</dc:title>
-                <dc:identifier>doi:doi.org/s41592-022-01656-3</dc:identifier>
             </item>
         
             <item>
