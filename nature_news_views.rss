@@ -13,6 +13,62 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
+                <link>https://www.nature.com/articles/s41591-023-02623-x</link>
+                <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Alex Chehrazi-Raffle</dc:creator>
+                <dc:creator>Lihua E. Budde</dc:creator>
+                <dc:creator>Sumanta K. Pal</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Genetically encoded shape probes for cryogenic electron tomography</title>
+                <link>https://www.nature.com/articles/s41592-023-02044-1</link>
+                <description>A class of protein-based molecular shape probes move us closer toward the goal of a general, genetically encoded tagging system for cryogenic electron tomography.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A class of protein-based molecular shape probes move us closer toward the goal of a general, genetically encoded tagging system for cryogenic electron tomography.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Justin W. Taraska</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Genetically encoded shape probes for cryogenic electron tomography</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02044-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Keeping membraneless organelles apart</title>
+                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
+                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Jeremy D. Schmit</dc:creator>
+                <dc:creator>Miroslav Dundr</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Keeping membraneless organelles apart</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Spinal stimulation for unfreezing gait in Parkinson’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02604-0</link>
+                <description>Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Aviv Mizrahi-Kliger</dc:creator>
+                <dc:creator>Karunesh Ganguly</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Spinal stimulation for unfreezing gait in Parkinson’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02604-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
                 <link>https://www.nature.com/articles/d41586-023-03306-w</link>
                 <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
@@ -228,19 +284,6 @@
             </item>
         
             <item>
-                <title>The power paradox of detecting disease-associated and gene-expression-associated variants</title>
-                <link>https://www.nature.com/articles/s41588-023-01525-5</link>
-                <description>The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</p></div>]]></content:encoded>
-                <pubDate>2023-10-19</pubDate>
-                <dc:creator>Tiffany Amariuta</dc:creator>
-                <dc:date>2023-10-19</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Hijacking host ribosomes via tRNA mimicry</title>
                 <link>https://www.nature.com/articles/s41556-023-01249-y</link>
                 <description>The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</description>
@@ -252,6 +295,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Hijacking host ribosomes via tRNA mimicry</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01249-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The power paradox of detecting disease-associated and gene-expression-associated variants</title>
+                <link>https://www.nature.com/articles/s41588-023-01525-5</link>
+                <description>The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</p></div>]]></content:encoded>
+                <pubDate>2023-10-19</pubDate>
+                <dc:creator>Tiffany Amariuta</dc:creator>
+                <dc:date>2023-10-19</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
             </item>
         
             <item>
@@ -727,18 +783,17 @@
             </item>
         
             <item>
-                <title>Using the methylome to predict pre-eclampsia</title>
-                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
-                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
+                <title>A non-coding m6A reader promotes leukaemia</title>
+                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
+                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
                 <pubDate>2023-08-28</pubDate>
-                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
-                <dc:creator>Lucy A. Bartho</dc:creator>
-                <dc:creator>Stephen Tong</dc:creator>
+                <dc:creator>James Russell</dc:creator>
+                <dc:creator>Konstantinos Tzelepis</dc:creator>
                 <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
             </item>
         
             <item>
@@ -752,20 +807,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A non-coding m6A reader promotes leukaemia</title>
-                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
-                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>James Russell</dc:creator>
-                <dc:creator>Konstantinos Tzelepis</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
             </item>
         
             <item>
@@ -795,6 +836,21 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Fluorogenic chemically induced dimerization</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Using the methylome to predict pre-eclampsia</title>
+                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
+                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
+                <dc:creator>Lucy A. Bartho</dc:creator>
+                <dc:creator>Stephen Tong</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
             </item>
         
             <item>
@@ -853,20 +909,6 @@
             </item>
         
             <item>
-                <title>Chemical fast track to induced pluripotency</title>
-                <link>https://www.nature.com/articles/s41556-023-01202-z</link>
-                <description>A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</p></div>]]></content:encoded>
-                <pubDate>2023-08-07</pubDate>
-                <dc:creator>Sebastian Memczak</dc:creator>
-                <dc:creator>Juan Carlos Izpisua Belmonte</dc:creator>
-                <dc:date>2023-08-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Chemical fast track to induced pluripotency</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01202-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Machine learning drives genetic discovery for binge eating disorder</title>
                 <link>https://www.nature.com/articles/s41588-023-01473-0</link>
                 <description>Identifying genetic risk factors for binge-eating disorder (BED) is vital to understand its etiology and develop effective prevention and intervention strategies. To overcome under-reporting of clinical BED diagnosis, a new study uses machine learning to identify genetic variants associated with quantitative BED risk scores and finds evidence for a pathological role of heme metabolism.</description>
@@ -879,6 +921,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Machine learning drives genetic discovery for binge eating disorder</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01473-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Chemical fast track to induced pluripotency</title>
+                <link>https://www.nature.com/articles/s41556-023-01202-z</link>
+                <description>A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</p></div>]]></content:encoded>
+                <pubDate>2023-08-07</pubDate>
+                <dc:creator>Sebastian Memczak</dc:creator>
+                <dc:creator>Juan Carlos Izpisua Belmonte</dc:creator>
+                <dc:date>2023-08-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Chemical fast track to induced pluripotency</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01202-z</dc:identifier>
             </item>
         
             <item>
@@ -950,20 +1006,6 @@
             </item>
         
             <item>
-                <title>A light switch for DNA break repair</title>
-                <link>https://www.nature.com/articles/s41477-023-01462-5</link>
-                <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</p></div>]]></content:encoded>
-                <pubDate>2023-07-24</pubDate>
-                <dc:creator>Lejon E. M. Kralemann</dc:creator>
-                <dc:creator>Marcel Tijsterman</dc:creator>
-                <dc:date>2023-07-24</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A light switch for DNA break repair</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Psilocybin for the treatment of anorexia nervosa</title>
                 <link>https://www.nature.com/articles/s41591-023-02458-6</link>
                 <description>In individuals with anorexia nervosa, psilocybin therapy comes with specific risks and concerns; but an encouraging phase 1 trial underscores the necessity for more research into classic psychedelics to address the urgent need for effective treatments.</description>
@@ -975,6 +1017,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Psilocybin for the treatment of anorexia nervosa</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02458-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A light switch for DNA break repair</title>
+                <link>https://www.nature.com/articles/s41477-023-01462-5</link>
+                <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</p></div>]]></content:encoded>
+                <pubDate>2023-07-24</pubDate>
+                <dc:creator>Lejon E. M. Kralemann</dc:creator>
+                <dc:creator>Marcel Tijsterman</dc:creator>
+                <dc:date>2023-07-24</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A light switch for DNA break repair</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
             </item>
         
             <item>
@@ -1259,20 +1315,6 @@
             </item>
         
             <item>
-                <title>The pyrimidinosome is cancer’s Achilles’ heel</title>
-                <link>https://www.nature.com/articles/s41556-023-01159-z</link>
-                <description>A new study shows that the enzymes involved in de novo pyrimidine synthesis and ferroptosis form a complex called the pyrimidinosome, which is controlled by AMPK. Cancer cells low in AMPK expression rely on the pyrimidinosome, suggesting that co-inhibition of AMPK and the pyrimidinosome represents a potential cancer treatment strategy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study shows that the enzymes involved in de novo pyrimidine synthesis and ferroptosis form a complex called the pyrimidinosome, which is controlled by AMPK. Cancer cells low in AMPK expression rely on the pyrimidinosome, suggesting that co-inhibition of AMPK and the pyrimidinosome represents a potential cancer treatment strategy.</p></div>]]></content:encoded>
-                <pubDate>2023-06-08</pubDate>
-                <dc:creator>Matthew Dodson</dc:creator>
-                <dc:creator>Donna D. Zhang</dc:creator>
-                <dc:date>2023-06-08</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>The pyrimidinosome is cancer’s Achilles’ heel</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01159-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Endoplasmic reticulum tethering by desmosomes</title>
                 <link>https://www.nature.com/articles/s41556-023-01144-6</link>
                 <description>Desmosomes and keratin are now found to regulate the distribution and dynamics of the endoplasmic reticulum (ER). This suggests that a range of ER functions may be coordinated by this intercellular adhesive and cytoskeletal network.</description>
@@ -1314,20 +1356,6 @@
             </item>
         
             <item>
-                <title>The flash dance of midlife: the Skylight 1 trial</title>
-                <link>https://www.nature.com/articles/s41591-023-02359-8</link>
-                <description>For women who choose nonhormonal therapy for hot flashes, fezolinetant appears to be one of several modestly efficacious and safe options — but women want more.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">For women who choose nonhormonal therapy for hot flashes, fezolinetant appears to be one of several modestly efficacious and safe options — but women want more.</p></div>]]></content:encoded>
-                <pubDate>2023-05-23</pubDate>
-                <dc:creator>Andrea LaCroix</dc:creator>
-                <dc:creator>Kristine Ensrud</dc:creator>
-                <dc:date>2023-05-23</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>The flash dance of midlife: the Skylight 1 trial</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02359-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pathogen perception and deception in plant immunity by kinase fusion proteins</title>
                 <link>https://www.nature.com/articles/s41588-023-01396-w</link>
                 <description>Two studies describe kinase fusion proteins (KFPs) that regulate the perception and deception of wheat pathogens. These highlight the emergence of KFPs as plant immune regulators and emphasize the importance of crop wild relatives as a reservoir for resistance breeding and global food security.</description>
@@ -1353,20 +1381,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Identifying the structures of individual RNA isoforms inside cells</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01904-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Silencing tau to treat early Alzheimer’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02357-w</link>
-                <description>An antisense oligonucleotide therapy substantially reduced tau expression in a phase 1b trial; whether this translates to clinical improvement remains to be seen, but it could have far-reaching implications for neurodegenerative diseases more broadly.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An antisense oligonucleotide therapy substantially reduced tau expression in a phase 1b trial; whether this translates to clinical improvement remains to be seen, but it could have far-reaching implications for neurodegenerative diseases more broadly.</p></div>]]></content:encoded>
-                <pubDate>2023-05-17</pubDate>
-                <dc:creator>Peter A. Ljubenkov</dc:creator>
-                <dc:creator>Gil D. Rabinovici</dc:creator>
-                <dc:date>2023-05-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Silencing tau to treat early Alzheimer’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02357-w</dc:identifier>
             </item>
         
             <item>
@@ -1659,21 +1673,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Next-generation single virus tracking</dc:title>
                 <dc:identifier>doi:doi.org/s41592-022-01670-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Mapping of the zebrafish brain takes shape</title>
-                <link>https://www.nature.com/articles/s41592-022-01637-6</link>
-                <description>The generation of a whole larval zebrafish brain electron microscopy volume in tandem with automated tools lays the groundwork for producing the first vertebrate brain connectome.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The generation of a whole larval zebrafish brain electron microscopy volume in tandem with automated tools lays the groundwork for producing the first vertebrate brain connectome.</p></div>]]></content:encoded>
-                <pubDate>2022-10-24</pubDate>
-                <dc:creator>Paul Brooks</dc:creator>
-                <dc:creator>Andrew Champion</dc:creator>
-                <dc:creator>Marta Costa</dc:creator>
-                <dc:date>2022-10-24</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Mapping of the zebrafish brain takes shape</dc:title>
-                <dc:identifier>doi:doi.org/s41592-022-01637-6</dc:identifier>
             </item>
             
         </channel>
