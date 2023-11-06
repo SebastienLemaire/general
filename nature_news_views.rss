@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
+                <link>https://www.nature.com/articles/d41586-023-03306-w</link>
+                <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Matthew B. Dalva</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03306-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Modeling the complexity of mammary gland in vitro</title>
                 <link>https://www.nature.com/articles/s41592-023-02064-x</link>
                 <description>A new method models mammary gland in vitro during physiological and pathological conditions.</description>
@@ -93,20 +106,6 @@
             </item>
         
             <item>
-                <title>Magnetic atoms push interactions to new lengths for quantum simulation</title>
-                <link>https://www.nature.com/articles/d41586-023-03152-w</link>
-                <description>Lasers, and a cold ensemble of magnetic atoms, have been used to mimic a complex quantum system characterized by long-range interactions — an essential ingredient for realizing realistic models of many quantum materials.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Lasers, and a cold ensemble of magnetic atoms, have been used to mimic a complex quantum system characterized by long-range interactions — an essential ingredient for realizing realistic models of many quantum materials.</p></div>]]></content:encoded>
-                <pubDate>2023-10-25</pubDate>
-                <dc:creator>P. Blair Blakie</dc:creator>
-                <dc:creator>Barbara Capogrosso-Sansone</dc:creator>
-                <dc:date>2023-10-25</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Magnetic atoms push interactions to new lengths for quantum simulation</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03152-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>An ion transporter in sperm that has features of a channel</title>
                 <link>https://www.nature.com/articles/d41586-023-03154-8</link>
                 <description>A membrane-transport protein in sperm exchanges sodium and hydrogen ions. Its activations by voltage and by cyclic nucleotide molecules are usually only features of ion channels. Structural data shed light on this protein.</description>
@@ -157,6 +156,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Convictions show scale of wildlife hunting in China</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02942-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Magnetic atoms push interactions to new lengths for quantum simulation</title>
+                <link>https://www.nature.com/articles/d41586-023-03152-w</link>
+                <description>Lasers, and a cold ensemble of magnetic atoms, have been used to mimic a complex quantum system characterized by long-range interactions — an essential ingredient for realizing realistic models of many quantum materials.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Lasers, and a cold ensemble of magnetic atoms, have been used to mimic a complex quantum system characterized by long-range interactions — an essential ingredient for realizing realistic models of many quantum materials.</p></div>]]></content:encoded>
+                <pubDate>2023-10-25</pubDate>
+                <dc:creator>P. Blair Blakie</dc:creator>
+                <dc:creator>Barbara Capogrosso-Sansone</dc:creator>
+                <dc:date>2023-10-25</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Magnetic atoms push interactions to new lengths for quantum simulation</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03152-w</dc:identifier>
             </item>
         
             <item>
@@ -307,19 +320,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Searching for phase transitions in the dark</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03148-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>AI rapidly diagnoses brain tumours during surgery</title>
-                <link>https://www.nature.com/articles/d41586-023-03072-9</link>
-                <description>A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly.</p></div>]]></content:encoded>
-                <pubDate>2023-10-17</pubDate>
-                <dc:creator>Lissa C.   Baird</dc:creator>
-                <dc:date>2023-10-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>AI rapidly diagnoses brain tumours during surgery</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03072-9</dc:identifier>
             </item>
         
             <item>
