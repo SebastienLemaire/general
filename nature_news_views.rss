@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>From the archive: why the chicken crossed the road, and a frog in puffed breeches</title>
+                <link>https://www.nature.com/articles/d41586-023-03432-5</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-11-07</pubDate>
+                
+                <dc:date>2023-11-07</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: why the chicken crossed the road, and a frog in puffed breeches</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03432-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
                 <link>https://www.nature.com/articles/s41591-023-02623-x</link>
                 <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
@@ -25,6 +38,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
+                <link>https://www.nature.com/articles/d41586-023-03306-w</link>
+                <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Matthew B. Dalva</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03306-w</dc:identifier>
             </item>
         
             <item>
@@ -66,19 +92,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Spinal stimulation for unfreezing gait in Parkinson’s disease</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02604-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
-                <link>https://www.nature.com/articles/d41586-023-03306-w</link>
-                <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Matthew B. Dalva</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03306-w</dc:identifier>
             </item>
         
             <item>
@@ -162,19 +175,6 @@
             </item>
         
             <item>
-                <title>An ion transporter in sperm that has features of a channel</title>
-                <link>https://www.nature.com/articles/d41586-023-03154-8</link>
-                <description>A membrane-transport protein in sperm exchanges sodium and hydrogen ions. Its activations by voltage and by cyclic nucleotide molecules are usually only features of ion channels. Structural data shed light on this protein.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A membrane-transport protein in sperm exchanges sodium and hydrogen ions. Its activations by voltage and by cyclic nucleotide molecules are usually only features of ion channels. Structural data shed light on this protein.</p></div>]]></content:encoded>
-                <pubDate>2023-10-25</pubDate>
-                <dc:creator>John Orlowski</dc:creator>
-                <dc:date>2023-10-25</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An ion transporter in sperm that has features of a channel</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03154-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Deep Mars is surprisingly soft</title>
                 <link>https://www.nature.com/articles/d41586-023-03151-x</link>
                 <description>Two analyses of seismic waves that traversed Mars paint the clearest picture yet of the red planet’s core and deep mantle — and rationalize the puzzling implications of a previous interpretation of the seismological data.</description>
@@ -226,6 +226,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Magnetic atoms push interactions to new lengths for quantum simulation</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03152-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An ion transporter in sperm that has features of a channel</title>
+                <link>https://www.nature.com/articles/d41586-023-03154-8</link>
+                <description>A membrane-transport protein in sperm exchanges sodium and hydrogen ions. Its activations by voltage and by cyclic nucleotide molecules are usually only features of ion channels. Structural data shed light on this protein.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A membrane-transport protein in sperm exchanges sodium and hydrogen ions. Its activations by voltage and by cyclic nucleotide molecules are usually only features of ion channels. Structural data shed light on this protein.</p></div>]]></content:encoded>
+                <pubDate>2023-10-25</pubDate>
+                <dc:creator>John Orlowski</dc:creator>
+                <dc:date>2023-10-25</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>An ion transporter in sperm that has features of a channel</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03154-8</dc:identifier>
             </item>
         
             <item>
@@ -376,19 +389,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Searching for phase transitions in the dark</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03148-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: animal behaviour, and Darwin discusses organ loss</title>
-                <link>https://www.nature.com/articles/d41586-023-03157-5</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-10-17</pubDate>
-                
-                <dc:date>2023-10-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: animal behaviour, and Darwin discusses organ loss</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03157-5</dc:identifier>
             </item>
         
             <item>
