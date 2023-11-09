@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</title>
+                <link>https://www.nature.com/articles/s41556-023-01275-w</link>
+                <description>YTHDF family members are ‘readers’ of a common mRNA modification, but their effects on mRNA translation and stability have been disputed. A new study shows that YTHDF1 and YTHDF3 are post-translationally regulated through O-GlcNAcylation, unifying disparate results and pointing to environmental cues that could modulate YTHDF function.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">YTHDF family members are ‘readers’ of a common mRNA modification, but their effects on mRNA translation and stability have been disputed. A new study shows that YTHDF1 and YTHDF3 are post-translationally regulated through O-GlcNAcylation, unifying disparate results and pointing to environmental cues that could modulate YTHDF function.</p></div>]]></content:encoded>
+                <pubDate>2023-11-09</pubDate>
+                <dc:creator>Mary W. N. Burns</dc:creator>
+                <dc:creator>Jennifer J. Kohler</dc:creator>
+                <dc:date>2023-11-09</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01275-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Sperm bud mitochondria to adjust the numbers</title>
+                <link>https://www.nature.com/articles/s41556-023-01255-0</link>
+                <description>Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</p></div>]]></content:encoded>
+                <pubDate>2023-11-09</pubDate>
+                <dc:creator>Diane C. Shakes</dc:creator>
+                <dc:date>2023-11-09</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Sperm bud mitochondria to adjust the numbers</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01255-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Ultra-compact oddities are galaxies stripped of stars</title>
                 <link>https://www.nature.com/articles/d41586-023-03275-0</link>
                 <description>Observations have shown that some dwarf galaxies lose their stars through interactions with more massive galaxies. The dense nuclei that remain are ultra-compact dwarf galaxies, the origin of which has long been a subject of debate.</description>
@@ -65,6 +92,20 @@
             </item>
         
             <item>
+                <title>Keeping membraneless organelles apart</title>
+                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
+                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Jeremy D. Schmit</dc:creator>
+                <dc:creator>Miroslav Dundr</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Keeping membraneless organelles apart</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
                 <link>https://www.nature.com/articles/s41591-023-02623-x</link>
                 <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
@@ -90,20 +131,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Genetically encoded shape probes for cryogenic electron tomography</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02044-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Keeping membraneless organelles apart</title>
-                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
-                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Jeremy D. Schmit</dc:creator>
-                <dc:creator>Miroslav Dundr</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Keeping membraneless organelles apart</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
             </item>
         
             <item>
@@ -670,20 +697,6 @@
             </item>
         
             <item>
-                <title>Pioneering the path to NASH biomarker approval</title>
-                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
-                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Aleksander Krag</dc:creator>
-                <dc:creator>Mary E. Rinella</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pausing pluripotency via RNA methylation</title>
                 <link>https://www.nature.com/articles/s41556-023-01203-y</link>
                 <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
@@ -695,6 +708,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Pausing pluripotency via RNA methylation</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneering the path to NASH biomarker approval</title>
+                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
+                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Aleksander Krag</dc:creator>
+                <dc:creator>Mary E. Rinella</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
             </item>
         
             <item>
@@ -781,20 +808,6 @@
             </item>
         
             <item>
-                <title>A non-coding m6A reader promotes leukaemia</title>
-                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
-                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>James Russell</dc:creator>
-                <dc:creator>Konstantinos Tzelepis</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Measuring open chromatin and DNA methylation in repeat arrays</title>
                 <link>https://www.nature.com/articles/s41477-023-01512-y</link>
                 <description>Highly repetitive regions such as centromeres bedevilled genome assembly for decades until a recent flurry of gapless genome publications. Attention is now focused on interpreting the chromatin within these most repetitive regions, as illustrated by a new paper on simultaneously measuring open chromatin and DNA methylation using long-read sequencing.</description>
@@ -834,6 +847,20 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Fluorogenic chemically induced dimerization</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A non-coding m6A reader promotes leukaemia</title>
+                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
+                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>James Russell</dc:creator>
+                <dc:creator>Konstantinos Tzelepis</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
             </item>
         
             <item>
@@ -1060,19 +1087,6 @@
             </item>
         
             <item>
-                <title>Balancing human and AI roles in clinical imaging</title>
-                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
-                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
-                <pubDate>2023-07-17</pubDate>
-                <dc:creator>Fiona Gilbert</dc:creator>
-                <dc:date>2023-07-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>H3K36 methylation is a reprogramming barrier</title>
                 <link>https://www.nature.com/articles/s41556-023-01147-3</link>
                 <description>Reprogramming of somatic cells is an inherently inefficient process. A new study has now identified histone H3K36 methylation as a crucial reprogramming barrier that operates downstream of TGFβ signalling. Global inhibition of H3K36 methylation induced PRC2-dependent silencing of mesenchymal genes and dramatically increased reprogramming efficiency.</description>
@@ -1084,6 +1098,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>H3K36 methylation is a reprogramming barrier</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01147-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Balancing human and AI roles in clinical imaging</title>
+                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
+                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
+                <pubDate>2023-07-17</pubDate>
+                <dc:creator>Fiona Gilbert</dc:creator>
+                <dc:date>2023-07-17</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
             </item>
         
             <item>
@@ -1256,6 +1283,20 @@
             </item>
         
             <item>
+                <title>Guiding DNA repair at the nuclear periphery</title>
+                <link>https://www.nature.com/articles/s41556-023-01164-2</link>
+                <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</p></div>]]></content:encoded>
+                <pubDate>2023-06-15</pubDate>
+                <dc:creator>Sylvain Audibert</dc:creator>
+                <dc:creator>Evi Soutoglou</dc:creator>
+                <dc:date>2023-06-15</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Guiding DNA repair at the nuclear periphery</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01164-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Urban living and mental health</title>
                 <link>https://www.nature.com/articles/s41591-023-02348-x</link>
                 <description>A new study strengthens the association between urbanicity and mental health with more granularity than before, but a causative mechanism remains elusive.</description>
@@ -1271,20 +1312,6 @@
             </item>
         
             <item>
-                <title>Guiding DNA repair at the nuclear periphery</title>
-                <link>https://www.nature.com/articles/s41556-023-01164-2</link>
-                <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</p></div>]]></content:encoded>
-                <pubDate>2023-06-15</pubDate>
-                <dc:creator>Sylvain Audibert</dc:creator>
-                <dc:creator>Evi Soutoglou</dc:creator>
-                <dc:date>2023-06-15</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Guiding DNA repair at the nuclear periphery</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01164-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Intimacy stabilizes symbiotic nodulation</title>
                 <link>https://www.nature.com/articles/s41477-023-01438-5</link>
                 <description>Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</description>
@@ -1295,35 +1322,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Intimacy stabilizes symbiotic nodulation</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01438-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Autophagy prevents microglial senescence</title>
-                <link>https://www.nature.com/articles/s41556-023-01168-y</link>
-                <description>Disruptions in the autophagy–lysosome pathway in neurons have been implicated in Alzheimer’s disease. A study now reports that autophagy is also critical for disease-associated microglia surrounding amyloid plaques and is protective against microglial senescence and neuropathology in an Alzheimer’s disease mouse model.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Disruptions in the autophagy–lysosome pathway in neurons have been implicated in Alzheimer’s disease. A study now reports that autophagy is also critical for disease-associated microglia surrounding amyloid plaques and is protective against microglial senescence and neuropathology in an Alzheimer’s disease mouse model.</p></div>]]></content:encoded>
-                <pubDate>2023-06-12</pubDate>
-                <dc:creator>Sadaf Amin</dc:creator>
-                <dc:creator>Bangyan Liu</dc:creator>
-                <dc:creator>Li Gan</dc:creator>
-                <dc:date>2023-06-12</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Autophagy prevents microglial senescence</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01168-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Endoplasmic reticulum tethering by desmosomes</title>
-                <link>https://www.nature.com/articles/s41556-023-01144-6</link>
-                <description>Desmosomes and keratin are now found to regulate the distribution and dynamics of the endoplasmic reticulum (ER). This suggests that a range of ER functions may be coordinated by this intercellular adhesive and cytoskeletal network.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Desmosomes and keratin are now found to regulate the distribution and dynamics of the endoplasmic reticulum (ER). This suggests that a range of ER functions may be coordinated by this intercellular adhesive and cytoskeletal network.</p></div>]]></content:encoded>
-                <pubDate>2023-06-08</pubDate>
-                <dc:creator>Robert M. Harmon</dc:creator>
-                <dc:creator>Cara J. Gottardi</dc:creator>
-                <dc:date>2023-06-08</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Endoplasmic reticulum tethering by desmosomes</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01144-6</dc:identifier>
             </item>
         
             <item>
