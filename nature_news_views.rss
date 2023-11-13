@@ -13,6 +13,34 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Person-centered HIV PrEP for cisgender women</title>
+                <link>https://www.nature.com/articles/s41591-023-02618-8</link>
+                <description>Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.</p></div>]]></content:encoded>
+                <pubDate>2023-11-13</pubDate>
+                <dc:creator>Maryam Shahmanesh</dc:creator>
+                <dc:creator>Natsayi Chimbindi</dc:creator>
+                <dc:creator>Frances M. Cowan</dc:creator>
+                <dc:date>2023-11-13</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Person-centered HIV PrEP for cisgender women</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02618-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>PROTACs reach clinical development in inflammatory skin disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02622-y</link>
+                <description>A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</p></div>]]></content:encoded>
+                <pubDate>2023-11-13</pubDate>
+                <dc:creator>Fleur M. Ferguson</dc:creator>
+                <dc:date>2023-11-13</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>PROTACs reach clinical development in inflammatory skin disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02622-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</title>
                 <link>https://www.nature.com/articles/s41556-023-01275-w</link>
                 <description>YTHDF family members are ‘readers’ of a common mRNA modification, but their effects on mRNA translation and stability have been disputed. A new study shows that YTHDF1 and YTHDF3 are post-translationally regulated through O-GlcNAcylation, unifying disparate results and pointing to environmental cues that could modulate YTHDF function.</description>
@@ -79,6 +107,21 @@
             </item>
         
             <item>
+                <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
+                <link>https://www.nature.com/articles/s41591-023-02623-x</link>
+                <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Alex Chehrazi-Raffle</dc:creator>
+                <dc:creator>Lihua E. Budde</dc:creator>
+                <dc:creator>Sumanta K. Pal</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
                 <link>https://www.nature.com/articles/d41586-023-03306-w</link>
                 <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
@@ -106,18 +149,17 @@
             </item>
         
             <item>
-                <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
-                <link>https://www.nature.com/articles/s41591-023-02623-x</link>
-                <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</p></div>]]></content:encoded>
+                <title>Spinal stimulation for unfreezing gait in Parkinson’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02604-0</link>
+                <description>Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</p></div>]]></content:encoded>
                 <pubDate>2023-11-06</pubDate>
-                <dc:creator>Alex Chehrazi-Raffle</dc:creator>
-                <dc:creator>Lihua E. Budde</dc:creator>
-                <dc:creator>Sumanta K. Pal</dc:creator>
+                <dc:creator>Aviv Mizrahi-Kliger</dc:creator>
+                <dc:creator>Karunesh Ganguly</dc:creator>
                 <dc:date>2023-11-06</dc:date>
                 <dc:source>Nature Medicine</dc:source>
-                <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
+                <dc:title>Spinal stimulation for unfreezing gait in Parkinson’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02604-0</dc:identifier>
             </item>
         
             <item>
@@ -131,20 +173,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Genetically encoded shape probes for cryogenic electron tomography</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02044-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Spinal stimulation for unfreezing gait in Parkinson’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02604-0</link>
-                <description>Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Aviv Mizrahi-Kliger</dc:creator>
-                <dc:creator>Karunesh Ganguly</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Spinal stimulation for unfreezing gait in Parkinson’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02604-0</dc:identifier>
             </item>
         
             <item>
@@ -711,20 +739,6 @@
             </item>
         
             <item>
-                <title>Pioneering the path to NASH biomarker approval</title>
-                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
-                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Aleksander Krag</dc:creator>
-                <dc:creator>Mary E. Rinella</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>o8G modifications rewire tumoral microRNAs</title>
                 <link>https://www.nature.com/articles/s41556-023-01179-9</link>
                 <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
@@ -736,6 +750,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneering the path to NASH biomarker approval</title>
+                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
+                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Aleksander Krag</dc:creator>
+                <dc:creator>Mary E. Rinella</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
             </item>
         
             <item>
@@ -850,20 +878,6 @@
             </item>
         
             <item>
-                <title>A non-coding m6A reader promotes leukaemia</title>
-                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
-                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>James Russell</dc:creator>
-                <dc:creator>Konstantinos Tzelepis</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Using the methylome to predict pre-eclampsia</title>
                 <link>https://www.nature.com/articles/s41591-023-02499-x</link>
                 <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
@@ -876,6 +890,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A non-coding m6A reader promotes leukaemia</title>
+                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
+                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>James Russell</dc:creator>
+                <dc:creator>Konstantinos Tzelepis</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
             </item>
         
             <item>
@@ -1087,6 +1115,19 @@
             </item>
         
             <item>
+                <title>Balancing human and AI roles in clinical imaging</title>
+                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
+                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
+                <pubDate>2023-07-17</pubDate>
+                <dc:creator>Fiona Gilbert</dc:creator>
+                <dc:date>2023-07-17</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>H3K36 methylation is a reprogramming barrier</title>
                 <link>https://www.nature.com/articles/s41556-023-01147-3</link>
                 <description>Reprogramming of somatic cells is an inherently inefficient process. A new study has now identified histone H3K36 methylation as a crucial reprogramming barrier that operates downstream of TGFβ signalling. Global inhibition of H3K36 methylation induced PRC2-dependent silencing of mesenchymal genes and dramatically increased reprogramming efficiency.</description>
@@ -1098,19 +1139,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>H3K36 methylation is a reprogramming barrier</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01147-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Balancing human and AI roles in clinical imaging</title>
-                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
-                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
-                <pubDate>2023-07-17</pubDate>
-                <dc:creator>Fiona Gilbert</dc:creator>
-                <dc:date>2023-07-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
             </item>
         
             <item>
@@ -1269,20 +1297,6 @@
             </item>
         
             <item>
-                <title>How to talk about autism: reconciling genomics and neurodiversity</title>
-                <link>https://www.nature.com/articles/s41591-023-02403-7</link>
-                <description>A new study showing that genetic and non-genetic factors contribute to autistic traits calls for a fundamental realignment of the concepts and methods of genomics, with a critical understanding of the biosocial complexity of autism.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study showing that genetic and non-genetic factors contribute to autistic traits calls for a fundamental realignment of the concepts and methods of genomics, with a critical understanding of the biosocial complexity of autism.</p></div>]]></content:encoded>
-                <pubDate>2023-06-26</pubDate>
-                <dc:creator>Luca Chiapperino</dc:creator>
-                <dc:creator>Kristien Hens</dc:creator>
-                <dc:date>2023-06-26</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>How to talk about autism: reconciling genomics and neurodiversity</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02403-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Guiding DNA repair at the nuclear periphery</title>
                 <link>https://www.nature.com/articles/s41556-023-01164-2</link>
                 <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
@@ -1294,21 +1308,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Guiding DNA repair at the nuclear periphery</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01164-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Urban living and mental health</title>
-                <link>https://www.nature.com/articles/s41591-023-02348-x</link>
-                <description>A new study strengthens the association between urbanicity and mental health with more granularity than before, but a causative mechanism remains elusive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study strengthens the association between urbanicity and mental health with more granularity than before, but a causative mechanism remains elusive.</p></div>]]></content:encoded>
-                <pubDate>2023-06-15</pubDate>
-                <dc:creator>Brittany E. Evans</dc:creator>
-                <dc:creator>Catherine Tuvblad</dc:creator>
-                <dc:creator>Henrik Larsson</dc:creator>
-                <dc:date>2023-06-15</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Urban living and mental health</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02348-x</dc:identifier>
             </item>
         
             <item>
