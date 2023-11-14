@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The deep route to low-field MRI with high potential</title>
+                <link>https://www.nature.com/articles/d41586-023-03531-3</link>
+                <description>A type of magnetic resonance imaging, known as low-field MRI, could make the technique more widely accessible, but only if the image quality can be improved. A deep-learning protocol might hold the key.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A type of magnetic resonance imaging, known as low-field MRI, could make the technique more widely accessible, but only if the image quality can be improved. A deep-learning protocol might hold the key.</p></div>]]></content:encoded>
+                <pubDate>2023-11-14</pubDate>
+                <dc:creator>Patricia M.  Johnson</dc:creator>
+                <dc:creator>Yvonne W.   Lui</dc:creator>
+                <dc:date>2023-11-14</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The deep route to low-field MRI with high potential</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03531-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: air for prairie dogs, and popular fallacies explained</title>
+                <link>https://www.nature.com/articles/d41586-023-03433-4</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-11-14</pubDate>
+                
+                <dc:date>2023-11-14</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: air for prairie dogs, and popular fallacies explained</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03433-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Person-centered HIV PrEP for cisgender women</title>
                 <link>https://www.nature.com/articles/s41591-023-02618-8</link>
                 <description>Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.</description>
@@ -107,6 +134,19 @@
             </item>
         
             <item>
+                <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
+                <link>https://www.nature.com/articles/d41586-023-03306-w</link>
+                <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Matthew B. Dalva</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03306-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
                 <link>https://www.nature.com/articles/s41591-023-02623-x</link>
                 <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
@@ -119,19 +159,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
-                <link>https://www.nature.com/articles/d41586-023-03306-w</link>
-                <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Matthew B. Dalva</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03306-w</dc:identifier>
             </item>
         
             <item>
@@ -256,19 +283,6 @@
             </item>
         
             <item>
-                <title>Convictions show scale of wildlife hunting in China</title>
-                <link>https://www.nature.com/articles/d41586-023-02942-6</link>
-                <description>An analysis of convictions reveals that around one-fifth of China’s terrestrial vertebrate species were illegally hunted over a six-year period. Improved efforts to reduce such crimes are needed to control this threat to biodiversity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of convictions reveals that around one-fifth of China’s terrestrial vertebrate species were illegally hunted over a six-year period. Improved efforts to reduce such crimes are needed to control this threat to biodiversity.</p></div>]]></content:encoded>
-                <pubDate>2023-10-25</pubDate>
-                <dc:creator>David P. Edwards</dc:creator>
-                <dc:date>2023-10-25</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Convictions show scale of wildlife hunting in China</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-02942-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Magnetic atoms push interactions to new lengths for quantum simulation</title>
                 <link>https://www.nature.com/articles/d41586-023-03152-w</link>
                 <description>Lasers, and a cold ensemble of magnetic atoms, have been used to mimic a complex quantum system characterized by long-range interactions — an essential ingredient for realizing realistic models of many quantum materials.</description>
@@ -320,6 +334,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Dopamine determines how reward overrides risk</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03085-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Convictions show scale of wildlife hunting in China</title>
+                <link>https://www.nature.com/articles/d41586-023-02942-6</link>
+                <description>An analysis of convictions reveals that around one-fifth of China’s terrestrial vertebrate species were illegally hunted over a six-year period. Improved efforts to reduce such crimes are needed to control this threat to biodiversity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of convictions reveals that around one-fifth of China’s terrestrial vertebrate species were illegally hunted over a six-year period. Improved efforts to reduce such crimes are needed to control this threat to biodiversity.</p></div>]]></content:encoded>
+                <pubDate>2023-10-25</pubDate>
+                <dc:creator>David P. Edwards</dc:creator>
+                <dc:date>2023-10-25</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Convictions show scale of wildlife hunting in China</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-02942-6</dc:identifier>
             </item>
         
             <item>
@@ -402,33 +429,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The language of bacterial defences expands</title>
-                <link>https://www.nature.com/articles/d41586-023-03149-5</link>
-                <description>Cells use specialized nucleotide signals to activate defences. A bacterial study reveals a previously unknown class of signals, formed by linking molecules of ATP and S-adenosyl methionine.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cells use specialized nucleotide signals to activate defences. A bacterial study reveals a previously unknown class of signals, formed by linking molecules of ATP and S-adenosyl methionine.</p></div>]]></content:encoded>
-                <pubDate>2023-10-18</pubDate>
-                <dc:creator>Douglas R.  Wassarman</dc:creator>
-                <dc:creator>Philip J.  Kranzusch</dc:creator>
-                <dc:date>2023-10-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The language of bacterial defences expands</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03149-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The compact accelerator that keeps electrons on the straight and narrow</title>
-                <link>https://www.nature.com/articles/d41586-023-03101-7</link>
-                <description>A silicon-based device uses laser light to accelerate electrons and simultaneously shape them into a narrow beam. The principle could be used to build microchip accelerators that do away with bulky conventional designs.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A silicon-based device uses laser light to accelerate electrons and simultaneously shape them into a narrow beam. The principle could be used to build microchip accelerators that do away with bulky conventional designs.</p></div>]]></content:encoded>
-                <pubDate>2023-10-18</pubDate>
-                <dc:creator>Yelong  Wei</dc:creator>
-                <dc:date>2023-10-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The compact accelerator that keeps electrons on the straight and narrow</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03101-7</dc:identifier>
             </item>
         
             <item>
