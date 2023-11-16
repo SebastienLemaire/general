@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Cytosolic transfer of circulating LPS by EVs</title>
+                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
+                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
+                <pubDate>2023-11-16</pubDate>
+                <dc:creator>Yi Huang</dc:creator>
+                <dc:creator>Rongbin Zhou</dc:creator>
+                <dc:date>2023-11-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Multi-material 3D printing guided by machine vision</title>
                 <link>https://www.nature.com/articles/d41586-023-03420-9</link>
                 <description>A 3D printer uses machine vision to solve a problem that has plagued 3D inkjet printers, increasing the range of materials that can be used, and enabling the rapid production of complex objects such as a robot hand.</description>
@@ -188,6 +202,20 @@
             </item>
         
             <item>
+                <title>Keeping membraneless organelles apart</title>
+                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
+                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Jeremy D. Schmit</dc:creator>
+                <dc:creator>Miroslav Dundr</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Keeping membraneless organelles apart</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
                 <link>https://www.nature.com/articles/s41591-023-02623-x</link>
                 <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
@@ -200,20 +228,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Keeping membraneless organelles apart</title>
-                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
-                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Jeremy D. Schmit</dc:creator>
-                <dc:creator>Miroslav Dundr</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Keeping membraneless organelles apart</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
             </item>
         
             <item>
@@ -726,20 +740,6 @@
             </item>
         
             <item>
-                <title>Pausing pluripotency via RNA methylation</title>
-                <link>https://www.nature.com/articles/s41556-023-01203-y</link>
-                <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Xueting Xu</dc:creator>
-                <dc:creator>Baoming Qin</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Pausing pluripotency via RNA methylation</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>o8G modifications rewire tumoral microRNAs</title>
                 <link>https://www.nature.com/articles/s41556-023-01179-9</link>
                 <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
@@ -765,6 +765,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pausing pluripotency via RNA methylation</title>
+                <link>https://www.nature.com/articles/s41556-023-01203-y</link>
+                <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Xueting Xu</dc:creator>
+                <dc:creator>Baoming Qin</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pausing pluripotency via RNA methylation</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
             </item>
         
             <item>
@@ -1295,20 +1309,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Single-cell multiomic analyses sheds light on mitochondrial mutational selection</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01436-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Guiding DNA repair at the nuclear periphery</title>
-                <link>https://www.nature.com/articles/s41556-023-01164-2</link>
-                <description>The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nuclear envelope participates in the spatial regulation of DNA repair, but the mechanisms behind this are unclear. A study now reports that a nuclear envelope-localized nuclease, NUMEN/ENDOD1, guides the choice of DNA-repair pathway by inhibiting the resection of DNA ends and aberrant recombination, ensuring genome stability.</p></div>]]></content:encoded>
-                <pubDate>2023-06-15</pubDate>
-                <dc:creator>Sylvain Audibert</dc:creator>
-                <dc:creator>Evi Soutoglou</dc:creator>
-                <dc:date>2023-06-15</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Guiding DNA repair at the nuclear periphery</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01164-2</dc:identifier>
             </item>
         
             <item>
