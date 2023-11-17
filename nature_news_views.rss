@@ -27,6 +27,21 @@
             </item>
         
             <item>
+                <title>New ingredients for old recipes</title>
+                <link>https://www.nature.com/articles/s41588-023-01591-9</link>
+                <description>The pancreas is an essential organ present in all vertebrates, and human pancreatic agenesis is an extremely rare disorder of largely unknown genetic determinants. A study now demonstrates that a primate-specific regulatory network controlled by the KRAB zinc-finger protein ZNF808 is essential for pancreas development.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pancreas is an essential organ present in all vertebrates, and human pancreatic agenesis is an extremely rare disorder of largely unknown genetic determinants. A study now demonstrates that a primate-specific regulatory network controlled by the KRAB zinc-finger protein ZNF808 is essential for pancreas development.</p></div>]]></content:encoded>
+                <pubDate>2023-11-16</pubDate>
+                <dc:creator>Olga Rosspopoff</dc:creator>
+                <dc:creator>Filipe Martins</dc:creator>
+                <dc:creator>Didier Trono</dc:creator>
+                <dc:date>2023-11-16</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>New ingredients for old recipes</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01591-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Multi-material 3D printing guided by machine vision</title>
                 <link>https://www.nature.com/articles/d41586-023-03420-9</link>
                 <description>A 3D printer uses machine vision to solve a problem that has plagued 3D inkjet printers, increasing the range of materials that can be used, and enabling the rapid production of complex objects such as a robot hand.</description>
@@ -1006,20 +1021,6 @@
             </item>
         
             <item>
-                <title>Our ancestry dictates clonal architecture and skin cancer susceptibility</title>
-                <link>https://www.nature.com/articles/s41588-023-01467-y</link>
-                <description>Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</p></div>]]></content:encoded>
-                <pubDate>2023-08-03</pubDate>
-                <dc:creator>Marco De Dominici</dc:creator>
-                <dc:creator>James DeGregori</dc:creator>
-                <dc:date>2023-08-03</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Our ancestry dictates clonal architecture and skin cancer susceptibility</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01467-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Dissecting gene regulation with multimodal sequencing</title>
                 <link>https://www.nature.com/articles/s41592-023-01957-1</link>
                 <description>Recently proposed computational approaches explore casual links between chromatin and transcriptional changes that are provided by single-cell multimodal sequencing to bridge the knowledge gap in transcriptional regulatory control.</description>
@@ -1043,6 +1044,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>A mother to offspring metabolic link</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01189-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Our ancestry dictates clonal architecture and skin cancer susceptibility</title>
+                <link>https://www.nature.com/articles/s41588-023-01467-y</link>
+                <description>Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</p></div>]]></content:encoded>
+                <pubDate>2023-08-03</pubDate>
+                <dc:creator>Marco De Dominici</dc:creator>
+                <dc:creator>James DeGregori</dc:creator>
+                <dc:date>2023-08-03</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Our ancestry dictates clonal architecture and skin cancer susceptibility</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01467-y</dc:identifier>
             </item>
         
             <item>
@@ -1514,21 +1529,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Catching active enhancers via H2B N-terminal acetylation</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01347-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Unexpected heterogeneity in oropharyngeal squamous cell tumors</title>
-                <link>https://www.nature.com/articles/s41588-023-01360-8</link>
-                <description>A study uses single-cell RNA sequencing to profile human papillomavirus (HPV)-positive and -negative oropharyngeal squamous cell carcinoma, revealing considerable diversity within and between tumors. Within HPV-positive tumors, subsets of malignant cells are found with undetectable HPV expression and decreased HPV-related phenotypes, which may influence prognosis and response to therapy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study uses single-cell RNA sequencing to profile human papillomavirus (HPV)-positive and -negative oropharyngeal squamous cell carcinoma, revealing considerable diversity within and between tumors. Within HPV-positive tumors, subsets of malignant cells are found with undetectable HPV expression and decreased HPV-related phenotypes, which may influence prognosis and response to therapy.</p></div>]]></content:encoded>
-                <pubDate>2023-04-04</pubDate>
-                <dc:creator>David J. Peace</dc:creator>
-                <dc:creator>Evgeny Izumchenko</dc:creator>
-                <dc:creator>David Sidransky</dc:creator>
-                <dc:date>2023-04-04</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Unexpected heterogeneity in oropharyngeal squamous cell tumors</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01360-8</dc:identifier>
             </item>
         
             <item>
