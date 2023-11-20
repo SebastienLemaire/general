@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>AI and imaging-based cancer screening: getting ready for prime time</title>
+                <link>https://www.nature.com/articles/s41591-023-02630-y</link>
+                <description>New data show that AI could enhance imaging-based screen for pancreatic cancer; however, its evaluation must be rigorous and adhere to the same standards used for conventional screening.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New data show that AI could enhance imaging-based screen for pancreatic cancer; however, its evaluation must be rigorous and adhere to the same standards used for conventional screening.</p></div>]]></content:encoded>
+                <pubDate>2023-11-20</pubDate>
+                <dc:creator>Jörg Kleeff</dc:creator>
+                <dc:creator>Ulrich Ronellenfitsch</dc:creator>
+                <dc:date>2023-11-20</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>AI and imaging-based cancer screening: getting ready for prime time</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02630-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Cytosolic transfer of circulating LPS by EVs</title>
                 <link>https://www.nature.com/articles/s41556-023-01283-w</link>
                 <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
@@ -217,20 +231,6 @@
             </item>
         
             <item>
-                <title>Keeping membraneless organelles apart</title>
-                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
-                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Jeremy D. Schmit</dc:creator>
-                <dc:creator>Miroslav Dundr</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Keeping membraneless organelles apart</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
                 <link>https://www.nature.com/articles/s41591-023-02623-x</link>
                 <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
@@ -243,6 +243,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Keeping membraneless organelles apart</title>
+                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
+                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Jeremy D. Schmit</dc:creator>
+                <dc:creator>Miroslav Dundr</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Keeping membraneless organelles apart</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
             </item>
         
             <item>
@@ -1251,21 +1265,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Transient chromatin compaction in fork restart</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01181-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Clonal hematopoiesis, aging and Alzheimer’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02406-4</link>
-                <description>Unexpectedly, new data show that clonal hematopoiesis is associated with protection from Alzheimer’s disease; it is imperative that future studies unravel the complex tissue–disease contexts in which clonal hematopoiesis arises and contributes to aging-associated diseases.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Unexpectedly, new data show that clonal hematopoiesis is associated with protection from Alzheimer’s disease; it is imperative that future studies unravel the complex tissue–disease contexts in which clonal hematopoiesis arises and contributes to aging-associated diseases.</p></div>]]></content:encoded>
-                <pubDate>2023-07-04</pubDate>
-                <dc:creator>Pablo Sánchez Vela</dc:creator>
-                <dc:creator>Jennifer J. Trowbridge</dc:creator>
-                <dc:creator>Ross L. Levine</dc:creator>
-                <dc:date>2023-07-04</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Clonal hematopoiesis, aging and Alzheimer’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02406-4</dc:identifier>
             </item>
         
             <item>
