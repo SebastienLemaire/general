@@ -13,6 +13,32 @@
             <ttl>120</ttl>
     
             <item>
+                <title>From the archive: a juice extractor in an insect’s gut, and amateur radio telephony</title>
+                <link>https://www.nature.com/articles/d41586-023-03501-9</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-11-21</pubDate>
+                
+                <dc:date>2023-11-21</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: a juice extractor in an insect’s gut, and amateur radio telephony</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03501-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>People go the extra mile for food</title>
+                <link>https://www.nature.com/articles/d41586-023-03617-y</link>
+                <description>GPS data reveal that people travel far from home to buy food in the United States, challenging ideas about how access to food relates to unhealthy eating habits.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that people travel far from home to buy food in the United States, challenging ideas about how access to food relates to unhealthy eating habits.</p></div>]]></content:encoded>
+                <pubDate>2023-11-21</pubDate>
+                
+                <dc:date>2023-11-21</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>People go the extra mile for food</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03617-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>AI and imaging-based cancer screening: getting ready for prime time</title>
                 <link>https://www.nature.com/articles/s41591-023-02630-y</link>
                 <description>New data show that AI could enhance imaging-based screen for pancreatic cancer; however, its evaluation must be rigorous and adhere to the same standards used for conventional screening.</description>
@@ -218,19 +244,6 @@
             </item>
         
             <item>
-                <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
-                <link>https://www.nature.com/articles/d41586-023-03306-w</link>
-                <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Matthew B. Dalva</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03306-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
                 <link>https://www.nature.com/articles/s41591-023-02623-x</link>
                 <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
@@ -274,6 +287,19 @@
             </item>
         
             <item>
+                <title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</title>
+                <link>https://www.nature.com/articles/d41586-023-03306-w</link>
+                <description>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Matthew B. Dalva</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Brain cancer thrives by hijacking mechanisms to boost synapse strength</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03306-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Genetically encoded shape probes for cryogenic electron tomography</title>
                 <link>https://www.nature.com/articles/s41592-023-02044-1</link>
                 <description>A class of protein-based molecular shape probes move us closer toward the goal of a general, genetically encoded tagging system for cryogenic electron tomography.</description>
@@ -298,20 +324,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Modeling the complexity of mammary gland in vitro</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02064-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Atom-swap chemistry could aid drug discovery</title>
-                <link>https://www.nature.com/articles/d41586-023-03297-8</link>
-                <description>An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.</p></div>]]></content:encoded>
-                <pubDate>2023-11-01</pubDate>
-                <dc:creator>Filippo Ficarra</dc:creator>
-                <dc:creator>Mattia Silvi</dc:creator>
-                <dc:date>2023-11-01</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Atom-swap chemistry could aid drug discovery</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03297-8</dc:identifier>
             </item>
         
             <item>
@@ -354,6 +366,20 @@
             </item>
         
             <item>
+                <title>Atom-swap chemistry could aid drug discovery</title>
+                <link>https://www.nature.com/articles/d41586-023-03297-8</link>
+                <description>An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.</p></div>]]></content:encoded>
+                <pubDate>2023-11-01</pubDate>
+                <dc:creator>Filippo Ficarra</dc:creator>
+                <dc:creator>Mattia Silvi</dc:creator>
+                <dc:date>2023-11-01</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Atom-swap chemistry could aid drug discovery</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03297-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: Halloween horrors</title>
                 <link>https://www.nature.com/articles/d41586-023-03340-8</link>
                 <description>Spooky snippets from Nature’s past.</description>
@@ -364,20 +390,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: Halloween horrors</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03340-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Magnetic atoms push interactions to new lengths for quantum simulation</title>
-                <link>https://www.nature.com/articles/d41586-023-03152-w</link>
-                <description>Lasers, and a cold ensemble of magnetic atoms, have been used to mimic a complex quantum system characterized by long-range interactions — an essential ingredient for realizing realistic models of many quantum materials.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Lasers, and a cold ensemble of magnetic atoms, have been used to mimic a complex quantum system characterized by long-range interactions — an essential ingredient for realizing realistic models of many quantum materials.</p></div>]]></content:encoded>
-                <pubDate>2023-10-25</pubDate>
-                <dc:creator>P. Blair Blakie</dc:creator>
-                <dc:creator>Barbara Capogrosso-Sansone</dc:creator>
-                <dc:date>2023-10-25</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Magnetic atoms push interactions to new lengths for quantum simulation</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03152-w</dc:identifier>
             </item>
         
             <item>
@@ -431,19 +443,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Convictions show scale of wildlife hunting in China</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-02942-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: soap success, and Michael Faraday’s lecture tips</title>
-                <link>https://www.nature.com/articles/d41586-023-03158-4</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-10-24</pubDate>
-                
-                <dc:date>2023-10-24</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: soap success, and Michael Faraday’s lecture tips</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03158-4</dc:identifier>
             </item>
         
             <item>
