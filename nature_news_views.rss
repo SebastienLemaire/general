@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Bright satellites are disrupting astronomy research worldwide</title>
+                <link>https://www.nature.com/articles/d41586-023-03610-5</link>
+                <description>A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.</p></div>]]></content:encoded>
+                <pubDate>2023-11-21</pubDate>
+                <dc:creator>Samantha Lawler</dc:creator>
+                <dc:date>2023-11-21</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Bright satellites are disrupting astronomy research worldwide</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03610-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: a juice extractor in an insect’s gut, and amateur radio telephony</title>
                 <link>https://www.nature.com/articles/d41586-023-03501-9</link>
                 <description>Snippets from Nature’s past.</description>
@@ -390,19 +403,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: Halloween horrors</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03340-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An ion transporter in sperm that has features of a channel</title>
-                <link>https://www.nature.com/articles/d41586-023-03154-8</link>
-                <description>A membrane-transport protein in sperm exchanges sodium and hydrogen ions. Its activations by voltage and by cyclic nucleotide molecules are usually only features of ion channels. Structural data shed light on this protein.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A membrane-transport protein in sperm exchanges sodium and hydrogen ions. Its activations by voltage and by cyclic nucleotide molecules are usually only features of ion channels. Structural data shed light on this protein.</p></div>]]></content:encoded>
-                <pubDate>2023-10-25</pubDate>
-                <dc:creator>John Orlowski</dc:creator>
-                <dc:date>2023-10-25</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An ion transporter in sperm that has features of a channel</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03154-8</dc:identifier>
             </item>
         
             <item>
