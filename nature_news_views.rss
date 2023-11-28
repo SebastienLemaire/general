@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>From the archive: renaming the proton, and enthusiasm for sanitary matters</title>
+                <link>https://www.nature.com/articles/d41586-023-03702-2</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-11-28</pubDate>
+                
+                <dc:date>2023-11-28</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: renaming the proton, and enthusiasm for sanitary matters</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03702-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>15 years after a giant leap for cancer genomics</title>
                 <link>https://www.nature.com/articles/d41586-023-03626-x</link>
                 <description>In 2008, the first comprehensive sequence of a cancer genome was reported, ushering in a new era of molecular diagnostic, prognostic and therapeutic advances informed by an essential framework to understand cancer’s complexities.</description>
@@ -24,6 +37,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>15 years after a giant leap for cancer genomics</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03626-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>California wildlife pays the cost of megafires</title>
+                <link>https://www.nature.com/articles/d41586-023-03701-3</link>
+                <description>Increasingly intense wildfires in the United States could have profound impacts on natural habitats — potentially leaving hundreds of animal species struggling to recover.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Increasingly intense wildfires in the United States could have profound impacts on natural habitats — potentially leaving hundreds of animal species struggling to recover.</p></div>]]></content:encoded>
+                <pubDate>2023-11-27</pubDate>
+                <dc:creator>Holly Smith</dc:creator>
+                <dc:date>2023-11-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>California wildlife pays the cost of megafires</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03701-3</dc:identifier>
             </item>
         
             <item>
@@ -52,19 +78,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>COPIng with senescence</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>California wildlife pays the cost of megafires</title>
-                <link>https://www.nature.com/articles/d41586-023-03701-3</link>
-                <description>Increasingly intense wildfires in the United States could have profound impacts on natural habitats — potentially leaving hundreds of animal species struggling to recover.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Increasingly intense wildfires in the United States could have profound impacts on natural habitats — potentially leaving hundreds of animal species struggling to recover.</p></div>]]></content:encoded>
-                <pubDate>2023-11-27</pubDate>
-                <dc:creator>Holly Smith</dc:creator>
-                <dc:date>2023-11-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>California wildlife pays the cost of megafires</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03701-3</dc:identifier>
             </item>
         
             <item>
@@ -136,19 +149,6 @@
             </item>
         
             <item>
-                <title>Bright satellites are disrupting astronomy research worldwide</title>
-                <link>https://www.nature.com/articles/d41586-023-03610-5</link>
-                <description>A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.</p></div>]]></content:encoded>
-                <pubDate>2023-11-21</pubDate>
-                <dc:creator>Samantha Lawler</dc:creator>
-                <dc:date>2023-11-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Bright satellites are disrupting astronomy research worldwide</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03610-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>From the archive: a juice extractor in an insect’s gut, and amateur radio telephony</title>
                 <link>https://www.nature.com/articles/d41586-023-03501-9</link>
                 <description>Snippets from Nature’s past.</description>
@@ -172,6 +172,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>People go the extra mile for food</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03617-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Bright satellites are disrupting astronomy research worldwide</title>
+                <link>https://www.nature.com/articles/d41586-023-03610-5</link>
+                <description>A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.</p></div>]]></content:encoded>
+                <pubDate>2023-11-21</pubDate>
+                <dc:creator>Samantha Lawler</dc:creator>
+                <dc:date>2023-11-21</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Bright satellites are disrupting astronomy research worldwide</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03610-5</dc:identifier>
             </item>
         
             <item>
@@ -460,20 +473,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Modeling the complexity of mammary gland in vitro</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02064-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Atom-swap chemistry could aid drug discovery</title>
-                <link>https://www.nature.com/articles/d41586-023-03297-8</link>
-                <description>An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.</p></div>]]></content:encoded>
-                <pubDate>2023-11-01</pubDate>
-                <dc:creator>Filippo Ficarra</dc:creator>
-                <dc:creator>Mattia Silvi</dc:creator>
-                <dc:date>2023-11-01</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Atom-swap chemistry could aid drug discovery</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03297-8</dc:identifier>
             </item>
         
             <item>
