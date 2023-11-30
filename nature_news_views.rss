@@ -13,6 +13,36 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Taming the HLA for single-cell genomics</title>
+                <link>https://www.nature.com/articles/s41588-023-01590-w</link>
+                <description>Variants in the HLA region on chromosome 6 are strongly associated with many immune-related diseases. A method to construct personalized HLA genomes from single-cell RNA sequencing data, coupled with single-cell HLA expression quantitative trait loci modeling, identifies how genetic variants influence HLA gene expression across cell states.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Variants in the HLA region on chromosome 6 are strongly associated with many immune-related diseases. A method to construct personalized HLA genomes from single-cell RNA sequencing data, coupled with single-cell HLA expression quantitative trait loci modeling, identifies how genetic variants influence HLA gene expression across cell states.</p></div>]]></content:encoded>
+                <pubDate>2023-11-30</pubDate>
+                <dc:creator>Jennifer A. Kelly</dc:creator>
+                <dc:creator>Kandice L. Tessneer</dc:creator>
+                <dc:creator>Patrick M. Gaffney</dc:creator>
+                <dc:date>2023-11-30</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Taming the HLA for single-cell genomics</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01590-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Current approaches to genomic deep learning struggle to fully capture human genetic variation</title>
+                <link>https://www.nature.com/articles/s41588-023-01517-5</link>
+                <description>Deep learning shows promise for predicting gene expression levels from DNA sequences. However, recent studies show that current state-of-the-art models struggle to accurately characterize expression variation from personal genomes, limiting their usefulness in personalized medicine.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Deep learning shows promise for predicting gene expression levels from DNA sequences. However, recent studies show that current state-of-the-art models struggle to accurately characterize expression variation from personal genomes, limiting their usefulness in personalized medicine.</p></div>]]></content:encoded>
+                <pubDate>2023-11-30</pubDate>
+                <dc:creator>Ziqi Tang</dc:creator>
+                <dc:creator>Shushan Toneyan</dc:creator>
+                <dc:creator>Peter K. Koo</dc:creator>
+                <dc:date>2023-11-30</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Current approaches to genomic deep learning struggle to fully capture human genetic variation</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01517-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>An immune-cell transcription factor tethers DNA together</title>
                 <link>https://www.nature.com/articles/d41586-023-03628-9</link>
                 <description>A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.</description>
@@ -257,20 +287,6 @@
             </item>
         
             <item>
-                <title>Cytosolic transfer of circulating LPS by EVs</title>
-                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
-                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
-                <pubDate>2023-11-16</pubDate>
-                <dc:creator>Yi Huang</dc:creator>
-                <dc:creator>Rongbin Zhou</dc:creator>
-                <dc:date>2023-11-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>New ingredients for old recipes</title>
                 <link>https://www.nature.com/articles/s41588-023-01591-9</link>
                 <description>The pancreas is an essential organ present in all vertebrates, and human pancreatic agenesis is an extremely rare disorder of largely unknown genetic determinants. A study now demonstrates that a primate-specific regulatory network controlled by the KRAB zinc-finger protein ZNF808 is essential for pancreas development.</description>
@@ -283,6 +299,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>New ingredients for old recipes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01591-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Cytosolic transfer of circulating LPS by EVs</title>
+                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
+                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
+                <pubDate>2023-11-16</pubDate>
+                <dc:creator>Yi Huang</dc:creator>
+                <dc:creator>Rongbin Zhou</dc:creator>
+                <dc:date>2023-11-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
             </item>
         
             <item>
@@ -1038,6 +1068,20 @@
             </item>
         
             <item>
+                <title>Chemical fast track to induced pluripotency</title>
+                <link>https://www.nature.com/articles/s41556-023-01202-z</link>
+                <description>A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</p></div>]]></content:encoded>
+                <pubDate>2023-08-07</pubDate>
+                <dc:creator>Sebastian Memczak</dc:creator>
+                <dc:creator>Juan Carlos Izpisua Belmonte</dc:creator>
+                <dc:date>2023-08-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Chemical fast track to induced pluripotency</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01202-z</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Machine learning drives genetic discovery for binge eating disorder</title>
                 <link>https://www.nature.com/articles/s41588-023-01473-0</link>
                 <description>Identifying genetic risk factors for binge-eating disorder (BED) is vital to understand its etiology and develop effective prevention and intervention strategies. To overcome under-reporting of clinical BED diagnosis, a new study uses machine learning to identify genetic variants associated with quantitative BED risk scores and finds evidence for a pathological role of heme metabolism.</description>
@@ -1050,20 +1094,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Machine learning drives genetic discovery for binge eating disorder</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01473-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Chemical fast track to induced pluripotency</title>
-                <link>https://www.nature.com/articles/s41556-023-01202-z</link>
-                <description>A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A fast protocol for chemical cellular reprogramming reveals a diapause-like state, endogenous retrovirus activation and barriers to cell-fate transitions on the way to pluripotency. The system offers insights into manipulation of cellular regeneration and rejuvenation, two processes with great therapeutic potential.</p></div>]]></content:encoded>
-                <pubDate>2023-08-07</pubDate>
-                <dc:creator>Sebastian Memczak</dc:creator>
-                <dc:creator>Juan Carlos Izpisua Belmonte</dc:creator>
-                <dc:date>2023-08-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Chemical fast track to induced pluripotency</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01202-z</dc:identifier>
             </item>
         
             <item>
@@ -1466,20 +1496,6 @@
             </item>
         
             <item>
-                <title>The cutting edge of grass leaves</title>
-                <link>https://www.nature.com/articles/s41477-023-01417-w</link>
-                <description>The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</p></div>]]></content:encoded>
-                <pubDate>2023-05-04</pubDate>
-                <dc:creator>Jie Zhang</dc:creator>
-                <dc:creator>Hilde Nelissen</dc:creator>
-                <dc:date>2023-05-04</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>The cutting edge of grass leaves</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01417-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing</title>
                 <link>https://www.nature.com/articles/s41588-023-01363-5</link>
                 <description>Aberrant RNA splicing events resulting from DNA variations are common causes of genetic disorders. Two studies published in Nature Genetics independently describe methods to decipher DNA-variant-associated aberrant splicing using high-throughput RNA sequencing data.</description>
@@ -1494,16 +1510,17 @@
             </item>
         
             <item>
-                <title>Using enormous genealogies to map causal variants in space and time</title>
-                <link>https://www.nature.com/articles/s41588-023-01389-9</link>
-                <description>A new method infers huge gene trees and tests the tree branches for phenotypic associations. This improves power to map the effects of rare variants that are missing from genotype arrays and imputation panels.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new method infers huge gene trees and tests the tree branches for phenotypic associations. This improves power to map the effects of rare variants that are missing from genotype arrays and imputation panels.</p></div>]]></content:encoded>
-                <pubDate>2023-05-01</pubDate>
-                <dc:creator>Kelley Harris</dc:creator>
-                <dc:date>2023-05-01</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Using enormous genealogies to map causal variants in space and time</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01389-9</dc:identifier>
+                <title>The cutting edge of grass leaves</title>
+                <link>https://www.nature.com/articles/s41477-023-01417-w</link>
+                <description>The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</p></div>]]></content:encoded>
+                <pubDate>2023-05-04</pubDate>
+                <dc:creator>Jie Zhang</dc:creator>
+                <dc:creator>Hilde Nelissen</dc:creator>
+                <dc:date>2023-05-04</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>The cutting edge of grass leaves</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01417-w</dc:identifier>
             </item>
         
             <item>
@@ -1518,20 +1535,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Discovering CRISPR–Cas off-target breaks</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01847-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Catching active enhancers via H2B N-terminal acetylation</title>
-                <link>https://www.nature.com/articles/s41588-023-01347-5</link>
-                <description>Specific chromatin features, especially histone H3 lysine 27 acetylation, are widely used to identify active enhancers, yet current methods are imprecise. New work suggests that histone H2B N terminus multisite lysine acetylation (H2BNTac) is a notable signature of active enhancers and could substantially improve enhancer prediction.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Specific chromatin features, especially histone H3 lysine 27 acetylation, are widely used to identify active enhancers, yet current methods are imprecise. New work suggests that histone H2B N terminus multisite lysine acetylation (H2BNTac) is a notable signature of active enhancers and could substantially improve enhancer prediction.</p></div>]]></content:encoded>
-                <pubDate>2023-04-06</pubDate>
-                <dc:creator>Chang Huang</dc:creator>
-                <dc:creator>Kristian Helin</dc:creator>
-                <dc:date>2023-04-06</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Catching active enhancers via H2B N-terminal acetylation</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01347-5</dc:identifier>
             </item>
         
             <item>
