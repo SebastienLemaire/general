@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>How hyenas decide whether to form a lion-fighting mob</title>
+                <link>https://www.nature.com/articles/d41586-023-03778-w</link>
+                <description>Monitoring complex hyena societies in the wild sheds light on factors that predict whether individuals will engage in a risky collective activity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Monitoring complex hyena societies in the wild sheds light on factors that predict whether individuals will engage in a risky collective activity.</p></div>]]></content:encoded>
+                <pubDate>2023-12-04</pubDate>
+                <dc:creator>Mary Abraham</dc:creator>
+                <dc:date>2023-12-04</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How hyenas decide whether to form a lion-fighting mob</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03778-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Taming the HLA for single-cell genomics</title>
                 <link>https://www.nature.com/articles/s41588-023-01590-w</link>
                 <description>Variants in the HLA region on chromosome 6 are strongly associated with many immune-related diseases. A method to construct personalized HLA genomes from single-cell RNA sequencing data, coupled with single-cell HLA expression quantitative trait loci modeling, identifies how genetic variants influence HLA gene expression across cell states.</description>
@@ -166,19 +179,6 @@
             </item>
         
             <item>
-                <title>JWST ends game of hide and seek with methane</title>
-                <link>https://www.nature.com/articles/d41586-023-03500-w</link>
-                <description>The space telescope has helped to determine the atmospheric composition of an exoplanet using the light spectrum of its host star. Spectral changes as the planet orbits the star reveal the long-sought presence of exoplanetary methane.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The space telescope has helped to determine the atmospheric composition of an exoplanet using the light spectrum of its host star. Spectral changes as the planet orbits the star reveal the long-sought presence of exoplanetary methane.</p></div>]]></content:encoded>
-                <pubDate>2023-11-22</pubDate>
-                <dc:creator>Gloria Guilluy</dc:creator>
-                <dc:date>2023-11-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>JWST ends game of hide and seek with methane</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03500-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Magnetic hopfion rings in new era for topology</title>
                 <link>https://www.nature.com/articles/d41586-023-03502-8</link>
                 <description>A curious topological structure known as a hopfion ring has been induced in a magnetic material. The first of its kind in 3D, the ring is a tantalizing prospect for several branches of computing development.</description>
@@ -231,6 +231,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Ancient DNA uncovers past migrations in California</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03503-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>JWST ends game of hide and seek with methane</title>
+                <link>https://www.nature.com/articles/d41586-023-03500-w</link>
+                <description>The space telescope has helped to determine the atmospheric composition of an exoplanet using the light spectrum of its host star. Spectral changes as the planet orbits the star reveal the long-sought presence of exoplanetary methane.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The space telescope has helped to determine the atmospheric composition of an exoplanet using the light spectrum of its host star. Spectral changes as the planet orbits the star reveal the long-sought presence of exoplanetary methane.</p></div>]]></content:encoded>
+                <pubDate>2023-11-22</pubDate>
+                <dc:creator>Gloria Guilluy</dc:creator>
+                <dc:date>2023-11-22</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>JWST ends game of hide and seek with methane</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03500-w</dc:identifier>
             </item>
         
             <item>
@@ -354,20 +367,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Stress granules offer first aid for leaky organelles</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03417-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The deep route to low-field MRI with high potential</title>
-                <link>https://www.nature.com/articles/d41586-023-03531-3</link>
-                <description>A type of magnetic resonance imaging, known as low-field MRI, could make the technique more widely accessible, but only if the image quality can be improved. A deep-learning protocol might hold the key.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A type of magnetic resonance imaging, known as low-field MRI, could make the technique more widely accessible, but only if the image quality can be improved. A deep-learning protocol might hold the key.</p></div>]]></content:encoded>
-                <pubDate>2023-11-14</pubDate>
-                <dc:creator>Patricia M.  Johnson</dc:creator>
-                <dc:creator>Yvonne W.   Lui</dc:creator>
-                <dc:date>2023-11-14</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The deep route to low-field MRI with high potential</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03531-3</dc:identifier>
             </item>
         
             <item>
