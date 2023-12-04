@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Metabolically regulated lineages in prostate cancer</title>
+                <link>https://www.nature.com/articles/s41556-023-01298-3</link>
+                <description>Lineage plasticity and epigenetic changes underlie prostate development and cancer evolution. A new study shows that basal and luminal prostate cells have distinct metabolic profiles, with a basal-to-luminal shift intensifying pyruvate oxidation. Metabolic changes in turn influence chromatin architecture, lineage reprogramming and treatment sensitivity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Lineage plasticity and epigenetic changes underlie prostate development and cancer evolution. A new study shows that basal and luminal prostate cells have distinct metabolic profiles, with a basal-to-luminal shift intensifying pyruvate oxidation. Metabolic changes in turn influence chromatin architecture, lineage reprogramming and treatment sensitivity.</p></div>]]></content:encoded>
+                <pubDate>2023-12-04</pubDate>
+                <dc:creator>Martin K. Bakht</dc:creator>
+                <dc:creator>Himisha Beltran</dc:creator>
+                <dc:date>2023-12-04</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Metabolically regulated lineages in prostate cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01298-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>How hyenas decide whether to form a lion-fighting mob</title>
                 <link>https://www.nature.com/articles/d41586-023-03778-w</link>
                 <description>Monitoring complex hyena societies in the wild sheds light on factors that predict whether individuals will engage in a risky collective activity.</description>
@@ -151,20 +165,6 @@
             </item>
         
             <item>
-                <title>Teatime for pangenomics</title>
-                <link>https://www.nature.com/articles/s41477-023-01566-y</link>
-                <description>A full pot of diversity is discovered in the tea pangenome.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A full pot of diversity is discovered in the tea pangenome.</p></div>]]></content:encoded>
-                <pubDate>2023-11-27</pubDate>
-                <dc:creator>David Edwards</dc:creator>
-                <dc:creator>Jacqueline Batley</dc:creator>
-                <dc:date>2023-11-27</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Teatime for pangenomics</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01566-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>COPIng with senescence</title>
                 <link>https://www.nature.com/articles/s41556-023-01276-9</link>
                 <description>There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</description>
@@ -176,6 +176,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>COPIng with senescence</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Teatime for pangenomics</title>
+                <link>https://www.nature.com/articles/s41477-023-01566-y</link>
+                <description>A full pot of diversity is discovered in the tea pangenome.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A full pot of diversity is discovered in the tea pangenome.</p></div>]]></content:encoded>
+                <pubDate>2023-11-27</pubDate>
+                <dc:creator>David Edwards</dc:creator>
+                <dc:creator>Jacqueline Batley</dc:creator>
+                <dc:date>2023-11-27</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Teatime for pangenomics</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01566-y</dc:identifier>
             </item>
         
             <item>
@@ -300,6 +314,20 @@
             </item>
         
             <item>
+                <title>Cytosolic transfer of circulating LPS by EVs</title>
+                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
+                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
+                <pubDate>2023-11-16</pubDate>
+                <dc:creator>Yi Huang</dc:creator>
+                <dc:creator>Rongbin Zhou</dc:creator>
+                <dc:date>2023-11-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>New ingredients for old recipes</title>
                 <link>https://www.nature.com/articles/s41588-023-01591-9</link>
                 <description>The pancreas is an essential organ present in all vertebrates, and human pancreatic agenesis is an extremely rare disorder of largely unknown genetic determinants. A study now demonstrates that a primate-specific regulatory network controlled by the KRAB zinc-finger protein ZNF808 is essential for pancreas development.</description>
@@ -312,20 +340,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>New ingredients for old recipes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01591-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Cytosolic transfer of circulating LPS by EVs</title>
-                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
-                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
-                <pubDate>2023-11-16</pubDate>
-                <dc:creator>Yi Huang</dc:creator>
-                <dc:creator>Rongbin Zhou</dc:creator>
-                <dc:date>2023-11-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
             </item>
         
             <item>
@@ -830,20 +844,6 @@
             </item>
         
             <item>
-                <title>Pioneering the path to NASH biomarker approval</title>
-                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
-                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Aleksander Krag</dc:creator>
-                <dc:creator>Mary E. Rinella</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pausing pluripotency via RNA methylation</title>
                 <link>https://www.nature.com/articles/s41556-023-01203-y</link>
                 <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
@@ -855,6 +855,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Pausing pluripotency via RNA methylation</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneering the path to NASH biomarker approval</title>
+                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
+                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Aleksander Krag</dc:creator>
+                <dc:creator>Mary E. Rinella</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
             </item>
         
             <item>
@@ -983,6 +997,20 @@
             </item>
         
             <item>
+                <title>A non-coding m6A reader promotes leukaemia</title>
+                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
+                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>James Russell</dc:creator>
+                <dc:creator>Konstantinos Tzelepis</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Using the methylome to predict pre-eclampsia</title>
                 <link>https://www.nature.com/articles/s41591-023-02499-x</link>
                 <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
@@ -995,20 +1023,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A non-coding m6A reader promotes leukaemia</title>
-                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
-                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>James Russell</dc:creator>
-                <dc:creator>Konstantinos Tzelepis</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
             </item>
         
             <item>
@@ -1220,19 +1234,6 @@
             </item>
         
             <item>
-                <title>Balancing human and AI roles in clinical imaging</title>
-                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
-                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
-                <pubDate>2023-07-17</pubDate>
-                <dc:creator>Fiona Gilbert</dc:creator>
-                <dc:date>2023-07-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>H3K36 methylation is a reprogramming barrier</title>
                 <link>https://www.nature.com/articles/s41556-023-01147-3</link>
                 <description>Reprogramming of somatic cells is an inherently inefficient process. A new study has now identified histone H3K36 methylation as a crucial reprogramming barrier that operates downstream of TGFβ signalling. Global inhibition of H3K36 methylation induced PRC2-dependent silencing of mesenchymal genes and dramatically increased reprogramming efficiency.</description>
@@ -1244,6 +1245,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>H3K36 methylation is a reprogramming barrier</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01147-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Balancing human and AI roles in clinical imaging</title>
+                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
+                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
+                <pubDate>2023-07-17</pubDate>
+                <dc:creator>Fiona Gilbert</dc:creator>
+                <dc:date>2023-07-17</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
             </item>
         
             <item>
@@ -1326,21 +1340,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Transient chromatin compaction in fork restart</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01181-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Hypoxia-stabilized RIPK1 promotes cell death</title>
-                <link>https://www.nature.com/articles/s41556-023-01176-y</link>
-                <description>The PHD–pVHL pathway is essential for oxygen-dependent prolyl hydroxylation of HIFA. A recent study identifies RIPK1 as a hydroxylation target in this pathway during hypoxia-induced cell death and presents a 2.8 Å resolution crystal structure of the pVHL–elongin B/C complex bound to hydroxylated RIPK1.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The PHD–pVHL pathway is essential for oxygen-dependent prolyl hydroxylation of HIFA. A recent study identifies RIPK1 as a hydroxylation target in this pathway during hypoxia-induced cell death and presents a 2.8 Å resolution crystal structure of the pVHL–elongin B/C complex bound to hydroxylated RIPK1.</p></div>]]></content:encoded>
-                <pubDate>2023-07-03</pubDate>
-                <dc:creator>Wei Ruan</dc:creator>
-                <dc:creator>Holger K. Eltzschig</dc:creator>
-                <dc:creator>Xiaoyi Yuan</dc:creator>
-                <dc:date>2023-07-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Hypoxia-stabilized RIPK1 promotes cell death</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01176-y</dc:identifier>
             </item>
         
             <item>
