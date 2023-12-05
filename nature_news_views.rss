@@ -13,17 +13,16 @@
             <ttl>120</ttl>
     
             <item>
-                <title>Metabolically regulated lineages in prostate cancer</title>
-                <link>https://www.nature.com/articles/s41556-023-01298-3</link>
-                <description>Lineage plasticity and epigenetic changes underlie prostate development and cancer evolution. A new study shows that basal and luminal prostate cells have distinct metabolic profiles, with a basal-to-luminal shift intensifying pyruvate oxidation. Metabolic changes in turn influence chromatin architecture, lineage reprogramming and treatment sensitivity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Lineage plasticity and epigenetic changes underlie prostate development and cancer evolution. A new study shows that basal and luminal prostate cells have distinct metabolic profiles, with a basal-to-luminal shift intensifying pyruvate oxidation. Metabolic changes in turn influence chromatin architecture, lineage reprogramming and treatment sensitivity.</p></div>]]></content:encoded>
-                <pubDate>2023-12-04</pubDate>
-                <dc:creator>Martin K. Bakht</dc:creator>
-                <dc:creator>Himisha Beltran</dc:creator>
-                <dc:date>2023-12-04</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Metabolically regulated lineages in prostate cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01298-3</dc:identifier>
+                <title>From the archive: Uri Geller’s tricks, and willows to the rescue</title>
+                <link>https://www.nature.com/articles/d41586-023-03779-9</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-12-05</pubDate>
+                
+                <dc:date>2023-12-05</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: Uri Geller’s tricks, and willows to the rescue</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03779-9</dc:identifier>
             </item>
         
             <item>
@@ -37,6 +36,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>How hyenas decide whether to form a lion-fighting mob</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03778-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Metabolically regulated lineages in prostate cancer</title>
+                <link>https://www.nature.com/articles/s41556-023-01298-3</link>
+                <description>Lineage plasticity and epigenetic changes underlie prostate development and cancer evolution. A new study shows that basal and luminal prostate cells have distinct metabolic profiles, with a basal-to-luminal shift intensifying pyruvate oxidation. Metabolic changes in turn influence chromatin architecture, lineage reprogramming and treatment sensitivity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Lineage plasticity and epigenetic changes underlie prostate development and cancer evolution. A new study shows that basal and luminal prostate cells have distinct metabolic profiles, with a basal-to-luminal shift intensifying pyruvate oxidation. Metabolic changes in turn influence chromatin architecture, lineage reprogramming and treatment sensitivity.</p></div>]]></content:encoded>
+                <pubDate>2023-12-04</pubDate>
+                <dc:creator>Martin K. Bakht</dc:creator>
+                <dc:creator>Himisha Beltran</dc:creator>
+                <dc:date>2023-12-04</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Metabolically regulated lineages in prostate cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01298-3</dc:identifier>
             </item>
         
             <item>
@@ -193,20 +206,6 @@
             </item>
         
             <item>
-                <title>Magnetic hopfion rings in new era for topology</title>
-                <link>https://www.nature.com/articles/d41586-023-03502-8</link>
-                <description>A curious topological structure known as a hopfion ring has been induced in a magnetic material. The first of its kind in 3D, the ring is a tantalizing prospect for several branches of computing development.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A curious topological structure known as a hopfion ring has been induced in a magnetic material. The first of its kind in 3D, the ring is a tantalizing prospect for several branches of computing development.</p></div>]]></content:encoded>
-                <pubDate>2023-11-22</pubDate>
-                <dc:creator>Hanu Arava</dc:creator>
-                <dc:creator>Charudatta M. Phatak</dc:creator>
-                <dc:date>2023-11-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Magnetic hopfion rings in new era for topology</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03502-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Emissions scenarios and targets aligned to meet climate goals</title>
                 <link>https://www.nature.com/articles/d41586-023-03504-6</link>
                 <description>A mismatch in how carbon emissions are reported could endanger nations’ best efforts to meet targets for curbing climate change. A method for translating between reporting conventions offers a path forward.</description>
@@ -258,6 +257,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>JWST ends game of hide and seek with methane</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03500-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Magnetic hopfion rings in new era for topology</title>
+                <link>https://www.nature.com/articles/d41586-023-03502-8</link>
+                <description>A curious topological structure known as a hopfion ring has been induced in a magnetic material. The first of its kind in 3D, the ring is a tantalizing prospect for several branches of computing development.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A curious topological structure known as a hopfion ring has been induced in a magnetic material. The first of its kind in 3D, the ring is a tantalizing prospect for several branches of computing development.</p></div>]]></content:encoded>
+                <pubDate>2023-11-22</pubDate>
+                <dc:creator>Hanu Arava</dc:creator>
+                <dc:creator>Charudatta M. Phatak</dc:creator>
+                <dc:date>2023-11-22</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Magnetic hopfion rings in new era for topology</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03502-8</dc:identifier>
             </item>
         
             <item>
@@ -381,19 +394,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Stress granules offer first aid for leaky organelles</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03417-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: air for prairie dogs, and popular fallacies explained</title>
-                <link>https://www.nature.com/articles/d41586-023-03433-4</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-11-14</pubDate>
-                
-                <dc:date>2023-11-14</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: air for prairie dogs, and popular fallacies explained</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03433-4</dc:identifier>
             </item>
         
             <item>
