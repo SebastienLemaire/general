@@ -13,6 +13,59 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Self-assembling structures close the gap to trap light</title>
+                <link>https://www.nature.com/articles/d41586-023-03685-0</link>
+                <description>An innovative method uses the intrinsic attractive force between silicon surfaces that are separated by a tiny gap to engineer structures that can confine light — offering an ideal set-up for manipulating single photons.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An innovative method uses the intrinsic attractive force between silicon surfaces that are separated by a tiny gap to engineer structures that can confine light — offering an ideal set-up for manipulating single photons.</p></div>]]></content:encoded>
+                <pubDate>2023-12-06</pubDate>
+                <dc:creator>Takashi Asano</dc:creator>
+                <dc:date>2023-12-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Self-assembling structures close the gap to trap light</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03685-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An expanded genomic database for identifying disease-related variants</title>
+                <link>https://www.nature.com/articles/d41586-023-01598-6</link>
+                <description>An expanded version of a human-genome database called gnomAD, containing 76,156 whole-genome sequences, has enabled investigation of how variants in non-protein-coding regions of the genome affect health.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An expanded version of a human-genome database called gnomAD, containing 76,156 whole-genome sequences, has enabled investigation of how variants in non-protein-coding regions of the genome affect health.</p></div>]]></content:encoded>
+                <pubDate>2023-12-06</pubDate>
+                <dc:creator>Ryan S. Dhindsa</dc:creator>
+                <dc:creator>Slavé Petrovski</dc:creator>
+                <dc:date>2023-12-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>An expanded genomic database for identifying disease-related variants</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-01598-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Movies tell us how tissues develop a 3D shape</title>
+                <link>https://www.nature.com/articles/s41592-023-02102-8</link>
+                <description>Two new methods enable the study of the mechanics of tissue development.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new methods enable the study of the mechanics of tissue development.</p></div>]]></content:encoded>
+                <pubDate>2023-12-06</pubDate>
+                <dc:creator>François Graner</dc:creator>
+                <dc:date>2023-12-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Harmful tumour–kidney interactions identified</title>
+                <link>https://www.nature.com/articles/d41586-023-03630-1</link>
+                <description>Fatal renal dysfunction is often associated with tumour development. Fly and mouse data reveal evolutionarily conserved mechanisms that link tumours to renal failure and offer potential for future therapeutic approaches.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Fatal renal dysfunction is often associated with tumour development. Fly and mouse data reveal evolutionarily conserved mechanisms that link tumours to renal failure and offer potential for future therapeutic approaches.</p></div>]]></content:encoded>
+                <pubDate>2023-12-06</pubDate>
+                <dc:creator>Pierre Leopold</dc:creator>
+                <dc:date>2023-12-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Harmful tumour–kidney interactions identified</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03630-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: Uri Geller’s tricks, and willows to the rescue</title>
                 <link>https://www.nature.com/articles/d41586-023-03779-9</link>
                 <description>Snippets from Nature’s past.</description>
@@ -206,20 +259,6 @@
             </item>
         
             <item>
-                <title>Emissions scenarios and targets aligned to meet climate goals</title>
-                <link>https://www.nature.com/articles/d41586-023-03504-6</link>
-                <description>A mismatch in how carbon emissions are reported could endanger nations’ best efforts to meet targets for curbing climate change. A method for translating between reporting conventions offers a path forward.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A mismatch in how carbon emissions are reported could endanger nations’ best efforts to meet targets for curbing climate change. A method for translating between reporting conventions offers a path forward.</p></div>]]></content:encoded>
-                <pubDate>2023-11-22</pubDate>
-                <dc:creator>Chris D. Jones</dc:creator>
-                <dc:creator>Alexander J. Askew</dc:creator>
-                <dc:date>2023-11-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Emissions scenarios and targets aligned to meet climate goals</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03504-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Genes are often uninformative for dating species’ origins</title>
                 <link>https://www.nature.com/articles/d41586-023-03487-4</link>
                 <description>The time frame of a species’ origins provides context for evolutionary questions. However, dates from fossils are often inconsistent with estimates from genetic data. Emerging evidence points to a new explanation for this discrepancy.</description>
@@ -271,6 +310,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Magnetic hopfion rings in new era for topology</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03502-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Emissions scenarios and targets aligned to meet climate goals</title>
+                <link>https://www.nature.com/articles/d41586-023-03504-6</link>
+                <description>A mismatch in how carbon emissions are reported could endanger nations’ best efforts to meet targets for curbing climate change. A method for translating between reporting conventions offers a path forward.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A mismatch in how carbon emissions are reported could endanger nations’ best efforts to meet targets for curbing climate change. A method for translating between reporting conventions offers a path forward.</p></div>]]></content:encoded>
+                <pubDate>2023-11-22</pubDate>
+                <dc:creator>Chris D. Jones</dc:creator>
+                <dc:creator>Alexander J. Askew</dc:creator>
+                <dc:date>2023-11-22</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Emissions scenarios and targets aligned to meet climate goals</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03504-6</dc:identifier>
             </item>
         
             <item>
@@ -353,47 +406,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>New ingredients for old recipes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01591-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Multi-material 3D printing guided by machine vision</title>
-                <link>https://www.nature.com/articles/d41586-023-03420-9</link>
-                <description>A 3D printer uses machine vision to solve a problem that has plagued 3D inkjet printers, increasing the range of materials that can be used, and enabling the rapid production of complex objects such as a robot hand.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A 3D printer uses machine vision to solve a problem that has plagued 3D inkjet printers, increasing the range of materials that can be used, and enabling the rapid production of complex objects such as a robot hand.</p></div>]]></content:encoded>
-                <pubDate>2023-11-15</pubDate>
-                <dc:creator>Yong Lin Kong</dc:creator>
-                <dc:date>2023-11-15</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Multi-material 3D printing guided by machine vision</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03420-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Diabetes prevention programme put to the test</title>
-                <link>https://www.nature.com/articles/d41586-023-03431-6</link>
-                <description>Causal evidence shows that referring people who are at risk of developing diabetes to a nationwide lifestyle-change programme can result in health improvements — but only if programme participation can be sustained.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Causal evidence shows that referring people who are at risk of developing diabetes to a nationwide lifestyle-change programme can result in health improvements — but only if programme participation can be sustained.</p></div>]]></content:encoded>
-                <pubDate>2023-11-15</pubDate>
-                <dc:creator>Edward W.  Gregg</dc:creator>
-                <dc:creator>Naomi  Holman</dc:creator>
-                <dc:date>2023-11-15</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Diabetes prevention programme put to the test</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03431-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Stress granules offer first aid for leaky organelles</title>
-                <link>https://www.nature.com/articles/d41586-023-03417-4</link>
-                <description>Assemblies of protein and RNA called stress granules appear in response to stressful conditions. The discovery that these granules can plug holes in punctured organelles sheds light on cellular defences against damage and infection.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Assemblies of protein and RNA called stress granules appear in response to stressful conditions. The discovery that these granules can plug holes in punctured organelles sheds light on cellular defences against damage and infection.</p></div>]]></content:encoded>
-                <pubDate>2023-11-15</pubDate>
-                <dc:creator>Stephen P. Plassmeyer</dc:creator>
-                <dc:creator>Alex S. Holehouse</dc:creator>
-                <dc:date>2023-11-15</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Stress granules offer first aid for leaky organelles</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03417-4</dc:identifier>
             </item>
         
             <item>
@@ -1660,19 +1672,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Seeing the wood for the trees</dc:title>
                 <dc:identifier>doi:doi.org/s41592-022-01741-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Next-generation single virus tracking</title>
-                <link>https://www.nature.com/articles/s41592-022-01670-5</link>
-                <description>Multiplexing real-time single virus tracking with imaging paves the way for detailed information on virus–host interactions, offering a potential paradigm shift.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Multiplexing real-time single virus tracking with imaging paves the way for detailed information on virus–host interactions, offering a potential paradigm shift.</p></div>]]></content:encoded>
-                <pubDate>2022-11-10</pubDate>
-                <dc:creator>Sergi Padilla-Parra</dc:creator>
-                <dc:date>2022-11-10</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Next-generation single virus tracking</dc:title>
-                <dc:identifier>doi:doi.org/s41592-022-01670-5</dc:identifier>
             </item>
             
         </channel>
