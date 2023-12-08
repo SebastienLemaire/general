@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Assembling neuroactive alkaloids</title>
+                <link>https://www.nature.com/articles/s41477-023-01586-8</link>
+                <description>The Lycopodium alkaloids represent a valuable source of neuroactive compounds. The biosynthesis of these specialized metabolites is now shown to involve three α-carbonic anhydrase-like enzymes that are responsible for constructing the key carbon–carbon bonds within their distinctive polycyclic alkaloid structures.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The Lycopodium alkaloids represent a valuable source of neuroactive compounds. The biosynthesis of these specialized metabolites is now shown to involve three α-carbonic anhydrase-like enzymes that are responsible for constructing the key carbon–carbon bonds within their distinctive polycyclic alkaloid structures.</p></div>]]></content:encoded>
+                <pubDate>2023-12-08</pubDate>
+                <dc:creator>Richiro Ushimaru</dc:creator>
+                <dc:creator>Ikuro Abe</dc:creator>
+                <dc:date>2023-12-08</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Assembling neuroactive alkaloids</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01586-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Structural biology in the age of AI</title>
+                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
+                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
+                <pubDate>2023-12-08</pubDate>
+                <dc:creator>Sriram Subramaniam</dc:creator>
+                <dc:date>2023-12-08</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Structural biology in the age of AI</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Self-assembling structures close the gap to trap light</title>
                 <link>https://www.nature.com/articles/d41586-023-03685-0</link>
                 <description>An innovative method uses the intrinsic attractive force between silicon surfaces that are separated by a tiny gap to engineer structures that can confine light — offering an ideal set-up for manipulating single photons.</description>
@@ -23,6 +50,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Self-assembling structures close the gap to trap light</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03685-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Movies tell us how tissues develop a 3D shape</title>
+                <link>https://www.nature.com/articles/s41592-023-02102-8</link>
+                <description>Two new methods enable the study of the mechanics of tissue development.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new methods enable the study of the mechanics of tissue development.</p></div>]]></content:encoded>
+                <pubDate>2023-12-06</pubDate>
+                <dc:creator>François Graner</dc:creator>
+                <dc:date>2023-12-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
             </item>
         
             <item>
@@ -37,19 +77,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>An expanded genomic database for identifying disease-related variants</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-01598-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Movies tell us how tissues develop a 3D shape</title>
-                <link>https://www.nature.com/articles/s41592-023-02102-8</link>
-                <description>Two new methods enable the study of the mechanics of tissue development.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new methods enable the study of the mechanics of tissue development.</p></div>]]></content:encoded>
-                <pubDate>2023-12-06</pubDate>
-                <dc:creator>François Graner</dc:creator>
-                <dc:date>2023-12-06</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
             </item>
         
             <item>
@@ -231,20 +258,6 @@
             </item>
         
             <item>
-                <title>COPIng with senescence</title>
-                <link>https://www.nature.com/articles/s41556-023-01276-9</link>
-                <description>There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</p></div>]]></content:encoded>
-                <pubDate>2023-11-27</pubDate>
-                <dc:creator>Stella Victorelli</dc:creator>
-                <dc:creator>João F. Passos</dc:creator>
-                <dc:date>2023-11-27</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>COPIng with senescence</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Teatime for pangenomics</title>
                 <link>https://www.nature.com/articles/s41477-023-01566-y</link>
                 <description>A full pot of diversity is discovered in the tea pangenome.</description>
@@ -256,6 +269,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Teatime for pangenomics</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01566-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>COPIng with senescence</title>
+                <link>https://www.nature.com/articles/s41556-023-01276-9</link>
+                <description>There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</p></div>]]></content:encoded>
+                <pubDate>2023-11-27</pubDate>
+                <dc:creator>Stella Victorelli</dc:creator>
+                <dc:creator>João F. Passos</dc:creator>
+                <dc:date>2023-11-27</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>COPIng with senescence</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
             </item>
         
             <item>
@@ -1492,17 +1519,17 @@
             </item>
         
             <item>
-                <title>NPFs rule suberization</title>
-                <link>https://www.nature.com/articles/s41477-023-01411-2</link>
-                <description>Hormone-dependent suberin deposition is a key process in root development and in response to biotic and abiotic stresses. A recent study demonstrates that long- and short-distance transport of abscisic acid (ABA) and gibberellin (GA) via four members of the nitrate and peptide transporter family (NPFs) is crucial for endodermal suberization in roots.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Hormone-dependent suberin deposition is a key process in root development and in response to biotic and abiotic stresses. A recent study demonstrates that long- and short-distance transport of abscisic acid (ABA) and gibberellin (GA) via four members of the nitrate and peptide transporter family (NPFs) is crucial for endodermal suberization in roots.</p></div>]]></content:encoded>
+                <title>The cutting edge of grass leaves</title>
+                <link>https://www.nature.com/articles/s41477-023-01417-w</link>
+                <description>The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</p></div>]]></content:encoded>
                 <pubDate>2023-05-04</pubDate>
-                <dc:creator>Kevin Robe</dc:creator>
-                <dc:creator>Marie Barberon</dc:creator>
+                <dc:creator>Jie Zhang</dc:creator>
+                <dc:creator>Hilde Nelissen</dc:creator>
                 <dc:date>2023-05-04</dc:date>
                 <dc:source>Nature Plants</dc:source>
-                <dc:title>NPFs rule suberization</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01411-2</dc:identifier>
+                <dc:title>The cutting edge of grass leaves</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01417-w</dc:identifier>
             </item>
         
             <item>
@@ -1517,20 +1544,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01363-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The cutting edge of grass leaves</title>
-                <link>https://www.nature.com/articles/s41477-023-01417-w</link>
-                <description>The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The flat structure of a leaf blade enables it to function as a photosynthetic organ for efficient light capture. The leaf rim or the edge-most region of leaf margin directs the planar growth of both leaves and ligules in grasses.</p></div>]]></content:encoded>
-                <pubDate>2023-05-04</pubDate>
-                <dc:creator>Jie Zhang</dc:creator>
-                <dc:creator>Hilde Nelissen</dc:creator>
-                <dc:date>2023-05-04</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>The cutting edge of grass leaves</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01417-w</dc:identifier>
             </item>
         
             <item>
@@ -1658,20 +1671,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Controlling cellular activities with light</dc:title>
                 <dc:identifier>doi:doi.org/s41592-022-01745-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Seeing the wood for the trees</title>
-                <link>https://www.nature.com/articles/s41592-022-01741-7</link>
-                <description>A deep learning approach called DeepPiCt facilitates segmentation and macromolecular identification in the cellular jungle of electron cryotomography data.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A deep learning approach called DeepPiCt facilitates segmentation and macromolecular identification in the cellular jungle of electron cryotomography data.</p></div>]]></content:encoded>
-                <pubDate>2023-01-23</pubDate>
-                <dc:creator>Olivia E. R. Smith</dc:creator>
-                <dc:creator>Tanmay A. M. Bharat</dc:creator>
-                <dc:date>2023-01-23</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Seeing the wood for the trees</dc:title>
-                <dc:identifier>doi:doi.org/s41592-022-01741-7</dc:identifier>
             </item>
             
         </channel>
