@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Beyond bruises: the lifelong toll of violence on women’s health</title>
+                <link>https://www.nature.com/articles/s41591-023-02654-4</link>
+                <description>The major health consequences of violence against women present a compelling case for global prevention, detection and intervention initiatives.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The major health consequences of violence against women present a compelling case for global prevention, detection and intervention initiatives.</p></div>]]></content:encoded>
+                <pubDate>2023-12-11</pubDate>
+                <dc:creator>Soraya Seedat</dc:creator>
+                <dc:creator>Sarah L. Halligan</dc:creator>
+                <dc:date>2023-12-11</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Beyond bruises: the lifelong toll of violence on women’s health</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02654-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Assembling neuroactive alkaloids</title>
                 <link>https://www.nature.com/articles/s41477-023-01586-8</link>
                 <description>The Lycopodium alkaloids represent a valuable source of neuroactive compounds. The biosynthesis of these specialized metabolites is now shown to involve three α-carbonic anhydrase-like enzymes that are responsible for constructing the key carbon–carbon bonds within their distinctive polycyclic alkaloid structures.</description>
@@ -883,20 +897,6 @@
             </item>
         
             <item>
-                <title>Pausing pluripotency via RNA methylation</title>
-                <link>https://www.nature.com/articles/s41556-023-01203-y</link>
-                <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Xueting Xu</dc:creator>
-                <dc:creator>Baoming Qin</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Pausing pluripotency via RNA methylation</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pioneering the path to NASH biomarker approval</title>
                 <link>https://www.nature.com/articles/s41591-023-02527-w</link>
                 <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
@@ -908,6 +908,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pausing pluripotency via RNA methylation</title>
+                <link>https://www.nature.com/articles/s41556-023-01203-y</link>
+                <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Xueting Xu</dc:creator>
+                <dc:creator>Baoming Qin</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pausing pluripotency via RNA methylation</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
             </item>
         
             <item>
@@ -1036,20 +1050,6 @@
             </item>
         
             <item>
-                <title>A non-coding m6A reader promotes leukaemia</title>
-                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
-                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>James Russell</dc:creator>
-                <dc:creator>Konstantinos Tzelepis</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Using the methylome to predict pre-eclampsia</title>
                 <link>https://www.nature.com/articles/s41591-023-02499-x</link>
                 <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
@@ -1062,6 +1062,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A non-coding m6A reader promotes leukaemia</title>
+                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
+                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>James Russell</dc:creator>
+                <dc:creator>Konstantinos Tzelepis</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
             </item>
         
             <item>
@@ -1273,6 +1287,19 @@
             </item>
         
             <item>
+                <title>Balancing human and AI roles in clinical imaging</title>
+                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
+                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
+                <pubDate>2023-07-17</pubDate>
+                <dc:creator>Fiona Gilbert</dc:creator>
+                <dc:date>2023-07-17</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>H3K36 methylation is a reprogramming barrier</title>
                 <link>https://www.nature.com/articles/s41556-023-01147-3</link>
                 <description>Reprogramming of somatic cells is an inherently inefficient process. A new study has now identified histone H3K36 methylation as a crucial reprogramming barrier that operates downstream of TGFβ signalling. Global inhibition of H3K36 methylation induced PRC2-dependent silencing of mesenchymal genes and dramatically increased reprogramming efficiency.</description>
@@ -1284,19 +1311,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>H3K36 methylation is a reprogramming barrier</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01147-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Balancing human and AI roles in clinical imaging</title>
-                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
-                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
-                <pubDate>2023-07-17</pubDate>
-                <dc:creator>Fiona Gilbert</dc:creator>
-                <dc:date>2023-07-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
             </item>
         
             <item>
@@ -1337,21 +1351,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Microbiome-mediated metabolic defence</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01470-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Using gut microorganisms to treat cancer</title>
-                <link>https://www.nature.com/articles/s41591-023-02460-y</link>
-                <description>Strategies to monitor and modulate gut microorganisms to improve immunity and responses to cancer immunotherapy are increasingly available, with opportunities to expand and iterate on these approaches to treat, intercept and prevent cancer (and other diseases) altogether.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Strategies to monitor and modulate gut microorganisms to improve immunity and responses to cancer immunotherapy are increasingly available, with opportunities to expand and iterate on these approaches to treat, intercept and prevent cancer (and other diseases) altogether.</p></div>]]></content:encoded>
-                <pubDate>2023-07-07</pubDate>
-                <dc:creator>Y. David Seo</dc:creator>
-                <dc:creator>Nadim Ajami</dc:creator>
-                <dc:creator>Jennifer A. Wargo</dc:creator>
-                <dc:date>2023-07-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Using gut microorganisms to treat cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02460-y</dc:identifier>
             </item>
         
             <item>
