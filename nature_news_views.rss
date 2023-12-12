@@ -26,6 +26,32 @@
             </item>
         
             <item>
+                <title>MYC protein helps cancer to take its vitamins</title>
+                <link>https://www.nature.com/articles/d41586-023-03764-2</link>
+                <description>Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                <dc:creator>Martina Wallace</dc:creator>
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>MYC protein helps cancer to take its vitamins</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03764-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: London fog, and an expedition team to envy</title>
+                <link>https://www.nature.com/articles/d41586-023-03780-2</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: London fog, and an expedition team to envy</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03780-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Implementing plans for global elimination of cervical cancer</title>
                 <link>https://www.nature.com/articles/s41591-023-02577-0</link>
                 <description>Evidence supports the use of primary HPV testing to accelerate the global elimination of cervical cancer, but such recommendations must be viewed in the context of the fragile healthcare systems and complex implementation challenges in low-income and lower-middle income countries.</description>
@@ -40,16 +66,16 @@
             </item>
         
             <item>
-                <title>MYC protein helps cancer to take its vitamins</title>
-                <link>https://www.nature.com/articles/d41586-023-03764-2</link>
-                <description>Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</p></div>]]></content:encoded>
+                <title>Domestic cats eat whatever they can catch</title>
+                <link>https://www.nature.com/articles/d41586-023-03784-y</link>
+                <description>A meta-analysis of the diets of domestic cats.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A meta-analysis of the diets of domestic cats.</p></div>]]></content:encoded>
                 <pubDate>2023-12-12</pubDate>
-                <dc:creator>Martina Wallace</dc:creator>
+                <dc:creator>Andrew Mitchinson</dc:creator>
                 <dc:date>2023-12-12</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>MYC protein helps cancer to take its vitamins</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03764-2</dc:identifier>
+                <dc:title>Domestic cats eat whatever they can catch</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03784-y</dc:identifier>
             </item>
         
             <item>
@@ -217,33 +243,6 @@
             </item>
         
             <item>
-                <title>The overlooked role of landscape dynamics in steering biodiversity</title>
-                <link>https://www.nature.com/articles/d41586-023-03536-y</link>
-                <description>Scientists have long sought to understand what drives biodiversity changes. A study unifies ideas about marine and terrestrial biodiversity in one explanatory framework, pointing to physical geography as dictating life’s trajectory.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists have long sought to understand what drives biodiversity changes. A study unifies ideas about marine and terrestrial biodiversity in one explanatory framework, pointing to physical geography as dictating life’s trajectory.</p></div>]]></content:encoded>
-                <pubDate>2023-11-29</pubDate>
-                <dc:creator>Alexandre Pohl</dc:creator>
-                <dc:date>2023-11-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The overlooked role of landscape dynamics in steering biodiversity</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03536-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Tackling extreme poverty around the world need not impede climate action</title>
-                <link>https://www.nature.com/articles/d41586-023-03627-w</link>
-                <description>A study has revealed that eliminating extreme poverty would result in a relatively small increase in global greenhouse-gas emissions, dispelling the idea that efforts to combat climate change and poverty are incompatible.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study has revealed that eliminating extreme poverty would result in a relatively small increase in global greenhouse-gas emissions, dispelling the idea that efforts to combat climate change and poverty are incompatible.</p></div>]]></content:encoded>
-                <pubDate>2023-11-29</pubDate>
-                <dc:creator>Katharine L. Ricke</dc:creator>
-                <dc:creator>Gordon C. McCord</dc:creator>
-                <dc:date>2023-11-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Tackling extreme poverty around the world need not impede climate action</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03627-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Carbon rings push limits of chemical theories</title>
                 <link>https://www.nature.com/articles/d41586-023-03575-5</link>
                 <description>Scientists are tantalized by the many forms that carbon could adopt — some of which are predicted to have extraordinary properties. The synthesis of three new all-carbon molecules is therefore a source of excitement.</description>
@@ -269,6 +268,33 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>An immune-cell transcription factor tethers DNA together</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03628-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The overlooked role of landscape dynamics in steering biodiversity</title>
+                <link>https://www.nature.com/articles/d41586-023-03536-y</link>
+                <description>Scientists have long sought to understand what drives biodiversity changes. A study unifies ideas about marine and terrestrial biodiversity in one explanatory framework, pointing to physical geography as dictating life’s trajectory.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists have long sought to understand what drives biodiversity changes. A study unifies ideas about marine and terrestrial biodiversity in one explanatory framework, pointing to physical geography as dictating life’s trajectory.</p></div>]]></content:encoded>
+                <pubDate>2023-11-29</pubDate>
+                <dc:creator>Alexandre Pohl</dc:creator>
+                <dc:date>2023-11-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The overlooked role of landscape dynamics in steering biodiversity</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03536-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Tackling extreme poverty around the world need not impede climate action</title>
+                <link>https://www.nature.com/articles/d41586-023-03627-w</link>
+                <description>A study has revealed that eliminating extreme poverty would result in a relatively small increase in global greenhouse-gas emissions, dispelling the idea that efforts to combat climate change and poverty are incompatible.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study has revealed that eliminating extreme poverty would result in a relatively small increase in global greenhouse-gas emissions, dispelling the idea that efforts to combat climate change and poverty are incompatible.</p></div>]]></content:encoded>
+                <pubDate>2023-11-29</pubDate>
+                <dc:creator>Katharine L. Ricke</dc:creator>
+                <dc:creator>Gordon C. McCord</dc:creator>
+                <dc:date>2023-11-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Tackling extreme poverty around the world need not impede climate action</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03627-w</dc:identifier>
             </item>
         
             <item>
@@ -340,19 +366,6 @@
             </item>
         
             <item>
-                <title>Genes are often uninformative for dating species’ origins</title>
-                <link>https://www.nature.com/articles/d41586-023-03487-4</link>
-                <description>The time frame of a species’ origins provides context for evolutionary questions. However, dates from fossils are often inconsistent with estimates from genetic data. Emerging evidence points to a new explanation for this discrepancy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The time frame of a species’ origins provides context for evolutionary questions. However, dates from fossils are often inconsistent with estimates from genetic data. Emerging evidence points to a new explanation for this discrepancy.</p></div>]]></content:encoded>
-                <pubDate>2023-11-22</pubDate>
-                <dc:creator>Matt Pennell</dc:creator>
-                <dc:date>2023-11-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Genes are often uninformative for dating species’ origins</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03487-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Ancient DNA uncovers past migrations in California</title>
                 <link>https://www.nature.com/articles/d41586-023-03503-7</link>
                 <description>Genomic data from ancient humans who lived up to 7,400 years ago, sampled from across California and Mexico, unveil patterns of migration that could explain how some Indigenous languages spread in parts of North America.</description>
@@ -405,19 +418,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Emissions scenarios and targets aligned to meet climate goals</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03504-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>People go the extra mile for food</title>
-                <link>https://www.nature.com/articles/d41586-023-03617-y</link>
-                <description>GPS data reveal that people travel far from home to buy food in the United States, challenging ideas about how access to food relates to unhealthy eating habits.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that people travel far from home to buy food in the United States, challenging ideas about how access to food relates to unhealthy eating habits.</p></div>]]></content:encoded>
-                <pubDate>2023-11-21</pubDate>
-                <dc:creator>Abigail Klopper</dc:creator>
-                <dc:date>2023-11-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>People go the extra mile for food</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03617-y</dc:identifier>
             </item>
         
             <item>
