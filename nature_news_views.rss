@@ -13,6 +13,46 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Structures of the amphetamine-binding receptor will aid drug discovery</title>
+                <link>https://www.nature.com/articles/d41586-023-03786-w</link>
+                <description>High-resolution structures of TAAR1 — the receptor bound by amphetamines and molecules called trace amines — reveal detailed interactions with ligand molecules that will inform efforts to design antipsychotic drugs.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">High-resolution structures of TAAR1 — the receptor bound by amphetamines and molecules called trace amines — reveal detailed interactions with ligand molecules that will inform efforts to design antipsychotic drugs.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                <dc:creator>Harald H. Sitte</dc:creator>
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Structures of the amphetamine-binding receptor will aid drug discovery</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03786-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Implementing plans for global elimination of cervical cancer</title>
+                <link>https://www.nature.com/articles/s41591-023-02577-0</link>
+                <description>Evidence supports the use of primary HPV testing to accelerate the global elimination of cervical cancer, but such recommendations must be viewed in the context of the fragile healthcare systems and complex implementation challenges in low-income and lower-middle income countries.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Evidence supports the use of primary HPV testing to accelerate the global elimination of cervical cancer, but such recommendations must be viewed in the context of the fragile healthcare systems and complex implementation challenges in low-income and lower-middle income countries.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                <dc:creator>Diama Bhadra Vale</dc:creator>
+                <dc:creator>Julio Cesar Teixeira</dc:creator>
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Implementing plans for global elimination of cervical cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02577-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>MYC protein helps cancer to take its vitamins</title>
+                <link>https://www.nature.com/articles/d41586-023-03764-2</link>
+                <description>Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                <dc:creator>Martina Wallace</dc:creator>
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>MYC protein helps cancer to take its vitamins</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03764-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Beyond bruises: the lifelong toll of violence on women’s health</title>
                 <link>https://www.nature.com/articles/s41591-023-02654-4</link>
                 <description>The major health consequences of violence against women present a compelling case for global prevention, detection and intervention initiatives.</description>
@@ -67,19 +107,6 @@
             </item>
         
             <item>
-                <title>Movies tell us how tissues develop a 3D shape</title>
-                <link>https://www.nature.com/articles/s41592-023-02102-8</link>
-                <description>Two new methods enable the study of the mechanics of tissue development.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new methods enable the study of the mechanics of tissue development.</p></div>]]></content:encoded>
-                <pubDate>2023-12-06</pubDate>
-                <dc:creator>François Graner</dc:creator>
-                <dc:date>2023-12-06</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>An expanded genomic database for identifying disease-related variants</title>
                 <link>https://www.nature.com/articles/d41586-023-01598-6</link>
                 <description>An expanded version of a human-genome database called gnomAD, containing 76,156 whole-genome sequences, has enabled investigation of how variants in non-protein-coding regions of the genome affect health.</description>
@@ -104,6 +131,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Harmful tumour–kidney interactions identified</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03630-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Movies tell us how tissues develop a 3D shape</title>
+                <link>https://www.nature.com/articles/s41592-023-02102-8</link>
+                <description>Two new methods enable the study of the mechanics of tissue development.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new methods enable the study of the mechanics of tissue development.</p></div>]]></content:encoded>
+                <pubDate>2023-12-06</pubDate>
+                <dc:creator>François Graner</dc:creator>
+                <dc:date>2023-12-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
             </item>
         
             <item>
@@ -177,20 +217,6 @@
             </item>
         
             <item>
-                <title>An immune-cell transcription factor tethers DNA together</title>
-                <link>https://www.nature.com/articles/d41586-023-03628-9</link>
-                <description>A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.</p></div>]]></content:encoded>
-                <pubDate>2023-11-29</pubDate>
-                <dc:creator>Zhi Liu</dc:creator>
-                <dc:creator>Ye Zheng</dc:creator>
-                <dc:date>2023-11-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An immune-cell transcription factor tethers DNA together</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03628-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The overlooked role of landscape dynamics in steering biodiversity</title>
                 <link>https://www.nature.com/articles/d41586-023-03536-y</link>
                 <description>Scientists have long sought to understand what drives biodiversity changes. A study unifies ideas about marine and terrestrial biodiversity in one explanatory framework, pointing to physical geography as dictating life’s trajectory.</description>
@@ -229,6 +255,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Carbon rings push limits of chemical theories</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03575-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An immune-cell transcription factor tethers DNA together</title>
+                <link>https://www.nature.com/articles/d41586-023-03628-9</link>
+                <description>A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.</p></div>]]></content:encoded>
+                <pubDate>2023-11-29</pubDate>
+                <dc:creator>Zhi Liu</dc:creator>
+                <dc:creator>Ye Zheng</dc:creator>
+                <dc:date>2023-11-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>An immune-cell transcription factor tethers DNA together</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03628-9</dc:identifier>
             </item>
         
             <item>
@@ -368,32 +408,6 @@
             </item>
         
             <item>
-                <title>Bright satellites are disrupting astronomy research worldwide</title>
-                <link>https://www.nature.com/articles/d41586-023-03610-5</link>
-                <description>A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.</p></div>]]></content:encoded>
-                <pubDate>2023-11-21</pubDate>
-                <dc:creator>Samantha Lawler</dc:creator>
-                <dc:date>2023-11-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Bright satellites are disrupting astronomy research worldwide</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03610-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: a juice extractor in an insect’s gut, and amateur radio telephony</title>
-                <link>https://www.nature.com/articles/d41586-023-03501-9</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-11-21</pubDate>
-                
-                <dc:date>2023-11-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: a juice extractor in an insect’s gut, and amateur radio telephony</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03501-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>People go the extra mile for food</title>
                 <link>https://www.nature.com/articles/d41586-023-03617-y</link>
                 <description>GPS data reveal that people travel far from home to buy food in the United States, challenging ideas about how access to food relates to unhealthy eating habits.</description>
@@ -505,20 +519,6 @@
             </item>
         
             <item>
-                <title>Keeping membraneless organelles apart</title>
-                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
-                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Jeremy D. Schmit</dc:creator>
-                <dc:creator>Miroslav Dundr</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Keeping membraneless organelles apart</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
                 <link>https://www.nature.com/articles/s41591-023-02623-x</link>
                 <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
@@ -531,6 +531,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Keeping membraneless organelles apart</title>
+                <link>https://www.nature.com/articles/s41556-023-01265-y</link>
+                <description>How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How spatial organization in the cell is achieved on the organelle scale is unclear. A new study finds that tethering specific proteins near the surface of micelle-like paraspeckles modifies their properties and determines whether these subnuclear organelles are separate from, adhere to, or are engulfed by nuclear speckles.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Jeremy D. Schmit</dc:creator>
+                <dc:creator>Miroslav Dundr</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Keeping membraneless organelles apart</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
             </item>
         
             <item>
@@ -757,20 +771,6 @@
             </item>
         
             <item>
-                <title>Senolytic therapy for Alzheimer’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02541-y</link>
-                <description>As the search for new and better treatments for Alzheimer’s disease continues, a phase 1 proof-of-concept study evaluating senolytic therapy breaks new ground.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As the search for new and better treatments for Alzheimer’s disease continues, a phase 1 proof-of-concept study evaluating senolytic therapy breaks new ground.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Frank M. Longo</dc:creator>
-                <dc:creator>Stephen M. Massa</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Senolytic therapy for Alzheimer’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02541-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Tumor heterogeneity impairs immunogenicity in mismatch repair deficient tumors</title>
                 <link>https://www.nature.com/articles/s41588-023-01492-x</link>
                 <description>DNA mismatch repair deficiency (MMRd) is associated with elevated tumor mutational burden (TMB) and exceptional immunotherapy responses, yet some patients experience no clinical benefit. Recent work proposes that high intra-tumoral heterogeneity can offset immunogenicity in sporadic MMRd, suggesting a potential mechanism of immunotherapy failure.</description>
@@ -783,6 +783,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Tumor heterogeneity impairs immunogenicity in mismatch repair deficient tumors</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01492-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Senolytic therapy for Alzheimer’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02541-y</link>
+                <description>As the search for new and better treatments for Alzheimer’s disease continues, a phase 1 proof-of-concept study evaluating senolytic therapy breaks new ground.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As the search for new and better treatments for Alzheimer’s disease continues, a phase 1 proof-of-concept study evaluating senolytic therapy breaks new ground.</p></div>]]></content:encoded>
+                <pubDate>2023-09-27</pubDate>
+                <dc:creator>Frank M. Longo</dc:creator>
+                <dc:creator>Stephen M. Massa</dc:creator>
+                <dc:date>2023-09-27</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Senolytic therapy for Alzheimer’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02541-y</dc:identifier>
             </item>
         
             <item>
@@ -1284,19 +1298,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Building resilience in heatwaves</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02409-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Balancing human and AI roles in clinical imaging</title>
-                <link>https://www.nature.com/articles/s41591-023-02441-1</link>
-                <description>Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence in combination with human expertise could be the optimal approach to improving diagnostic accuracy while maintaining a safety net in clinical imaging.</p></div>]]></content:encoded>
-                <pubDate>2023-07-17</pubDate>
-                <dc:creator>Fiona Gilbert</dc:creator>
-                <dc:date>2023-07-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Balancing human and AI roles in clinical imaging</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02441-1</dc:identifier>
             </item>
         
             <item>
