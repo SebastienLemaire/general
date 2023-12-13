@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Modified messenger-RNA components alter the encoded protein</title>
+                <link>https://www.nature.com/articles/d41586-023-03787-9</link>
+                <description>Modified components of messenger RNA can cause the protein-production machinery to stall during the process of translation. This might change the protein being made, a finding with implications for vaccines or therapies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Modified components of messenger RNA can cause the protein-production machinery to stall during the process of translation. This might change the protein being made, a finding with implications for vaccines or therapies.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Nicholas J. Tursi</dc:creator>
+                <dc:creator>David B. Weiner</dc:creator>
+                <dc:date>2023-12-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Modified messenger-RNA components alter the encoded protein</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03787-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Structures of the amphetamine-binding receptor will aid drug discovery</title>
                 <link>https://www.nature.com/articles/d41586-023-03786-w</link>
                 <description>High-resolution structures of TAAR1 — the receptor bound by amphetamines and molecules called trace amines — reveal detailed interactions with ligand molecules that will inform efforts to design antipsychotic drugs.</description>
@@ -52,6 +66,19 @@
             </item>
         
             <item>
+                <title>Domestic cats eat whatever they can catch</title>
+                <link>https://www.nature.com/articles/d41586-023-03784-y</link>
+                <description>A meta-analysis of the diets of domestic cats.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A meta-analysis of the diets of domestic cats.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                <dc:creator>Andrew Mitchinson</dc:creator>
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Domestic cats eat whatever they can catch</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03784-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Implementing plans for global elimination of cervical cancer</title>
                 <link>https://www.nature.com/articles/s41591-023-02577-0</link>
                 <description>Evidence supports the use of primary HPV testing to accelerate the global elimination of cervical cancer, but such recommendations must be viewed in the context of the fragile healthcare systems and complex implementation challenges in low-income and lower-middle income countries.</description>
@@ -63,19 +90,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Implementing plans for global elimination of cervical cancer</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02577-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Domestic cats eat whatever they can catch</title>
-                <link>https://www.nature.com/articles/d41586-023-03784-y</link>
-                <description>A meta-analysis of the diets of domestic cats.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A meta-analysis of the diets of domestic cats.</p></div>]]></content:encoded>
-                <pubDate>2023-12-12</pubDate>
-                <dc:creator>Andrew Mitchinson</dc:creator>
-                <dc:date>2023-12-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Domestic cats eat whatever they can catch</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03784-y</dc:identifier>
             </item>
         
             <item>
@@ -243,20 +257,6 @@
             </item>
         
             <item>
-                <title>Carbon rings push limits of chemical theories</title>
-                <link>https://www.nature.com/articles/d41586-023-03575-5</link>
-                <description>Scientists are tantalized by the many forms that carbon could adopt — some of which are predicted to have extraordinary properties. The synthesis of three new all-carbon molecules is therefore a source of excitement.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists are tantalized by the many forms that carbon could adopt — some of which are predicted to have extraordinary properties. The synthesis of three new all-carbon molecules is therefore a source of excitement.</p></div>]]></content:encoded>
-                <pubDate>2023-11-29</pubDate>
-                <dc:creator>Przemysław Gaweł</dc:creator>
-                <dc:creator>Cina Foroutan-Nejad</dc:creator>
-                <dc:date>2023-11-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Carbon rings push limits of chemical theories</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03575-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>An immune-cell transcription factor tethers DNA together</title>
                 <link>https://www.nature.com/articles/d41586-023-03628-9</link>
                 <description>A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.</description>
@@ -295,6 +295,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Tackling extreme poverty around the world need not impede climate action</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03627-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Carbon rings push limits of chemical theories</title>
+                <link>https://www.nature.com/articles/d41586-023-03575-5</link>
+                <description>Scientists are tantalized by the many forms that carbon could adopt — some of which are predicted to have extraordinary properties. The synthesis of three new all-carbon molecules is therefore a source of excitement.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists are tantalized by the many forms that carbon could adopt — some of which are predicted to have extraordinary properties. The synthesis of three new all-carbon molecules is therefore a source of excitement.</p></div>]]></content:encoded>
+                <pubDate>2023-11-29</pubDate>
+                <dc:creator>Przemysław Gaweł</dc:creator>
+                <dc:creator>Cina Foroutan-Nejad</dc:creator>
+                <dc:date>2023-11-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Carbon rings push limits of chemical theories</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03575-5</dc:identifier>
             </item>
         
             <item>
@@ -363,20 +377,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>COPIng with senescence</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Ancient DNA uncovers past migrations in California</title>
-                <link>https://www.nature.com/articles/d41586-023-03503-7</link>
-                <description>Genomic data from ancient humans who lived up to 7,400 years ago, sampled from across California and Mexico, unveil patterns of migration that could explain how some Indigenous languages spread in parts of North America.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genomic data from ancient humans who lived up to 7,400 years ago, sampled from across California and Mexico, unveil patterns of migration that could explain how some Indigenous languages spread in parts of North America.</p></div>]]></content:encoded>
-                <pubDate>2023-11-22</pubDate>
-                <dc:creator>Alan  Izarraras-Gomez</dc:creator>
-                <dc:creator>Diego Ortega-Del Vecchyo</dc:creator>
-                <dc:date>2023-11-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ancient DNA uncovers past migrations in California</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03503-7</dc:identifier>
             </item>
         
             <item>
