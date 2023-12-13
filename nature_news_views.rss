@@ -13,6 +13,75 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Gene expression of single cells mapped in tissue sections</title>
+                <link>https://www.nature.com/articles/d41586-023-03788-8</link>
+                <description>A tool that tags individual cells in a tissue with a unique barcode means that the gene-expression profile of each cell can be plotted in its original location. This allows spatial information to be captured at single-cell resolution.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A tool that tags individual cells in a tissue with a unique barcode means that the gene-expression profile of each cell can be plotted in its original location. This allows spatial information to be captured at single-cell resolution.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Patrik L. Ståhl</dc:creator>
+                <dc:date>2023-12-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Gene expression of single cells mapped in tissue sections</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03788-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A next-generation inhalable dry powder COVID vaccine</title>
+                <link>https://www.nature.com/articles/d41586-023-03557-7</link>
+                <description>Current injectable COVID-19 vaccines are unable to induce robust immunity in the mucosal tissues lining the airways. A protein-based vaccine delivered to the lungs in the form of an inhaled dry powder shows promise as a way forward.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Current injectable COVID-19 vaccines are unable to induce robust immunity in the mucosal tissues lining the airways. A protein-based vaccine delivered to the lungs in the form of an inhaled dry powder shows promise as a way forward.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Zhou Xing</dc:creator>
+                <dc:creator>Mangalakumari Jeyanathan</dc:creator>
+                <dc:date>2023-12-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A next-generation inhalable dry powder COVID vaccine</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03557-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Twisted system makes nanolasers shine together</title>
+                <link>https://www.nature.com/articles/d41586-023-03783-z</link>
+                <description>Ultrathin semiconductor materials that mimic twisted layers of atoms have been used to build synchronized arrays of nanometre-scale lasers. The systems can be configured — and easily reconfigured — to form intricate patterns.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ultrathin semiconductor materials that mimic twisted layers of atoms have been used to build synchronized arrays of nanometre-scale lasers. The systems can be configured — and easily reconfigured — to form intricate patterns.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Liqin Tang</dc:creator>
+                <dc:creator>Zhigang Chen</dc:creator>
+                <dc:date>2023-12-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Twisted system makes nanolasers shine together</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03783-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Indigenous diversity in Australia’s DNA tapestry unlocked for genetic equity</title>
+                <link>https://www.nature.com/articles/d41586-023-03785-x</link>
+                <description>Diverse genomic sequences might boost equity in areas such as health care. Genomic data from Indigenous Australians, shared through a community-consultation framework, aids efforts to boost genetic representation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Diverse genomic sequences might boost equity in areas such as health care. Genomic data from Indigenous Australians, shared through a community-consultation framework, aids efforts to boost genetic representation.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Katrina G. Claw</dc:creator>
+                <dc:creator>Amber Nashoba</dc:creator>
+                <dc:date>2023-12-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Indigenous diversity in Australia’s DNA tapestry unlocked for genetic equity</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03785-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Nausea and vomiting in pregnancy linked to hormone from fetus</title>
+                <link>https://www.nature.com/articles/d41586-023-03940-4</link>
+                <description>Maternal sensitivity to a hormone produced by the fetus might underlie the risk of severe nausea and vomiting in human pregnancy — a finding that could open up strategies for the treatment of this debilitating condition.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Maternal sensitivity to a hormone produced by the fetus might underlie the risk of severe nausea and vomiting in human pregnancy — a finding that could open up strategies for the treatment of this debilitating condition.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Alice E. Hughes</dc:creator>
+                <dc:creator>Rachel M. Freathy</dc:creator>
+                <dc:date>2023-12-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Nausea and vomiting in pregnancy linked to hormone from fetus</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03940-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Modified messenger-RNA components alter the encoded protein</title>
                 <link>https://www.nature.com/articles/d41586-023-03787-9</link>
                 <description>Modified components of messenger RNA can cause the protein-production machinery to stall during the process of translation. This might change the protein being made, a finding with implications for vaccines or therapies.</description>
@@ -27,16 +96,17 @@
             </item>
         
             <item>
-                <title>Structures of the amphetamine-binding receptor will aid drug discovery</title>
-                <link>https://www.nature.com/articles/d41586-023-03786-w</link>
-                <description>High-resolution structures of TAAR1 — the receptor bound by amphetamines and molecules called trace amines — reveal detailed interactions with ligand molecules that will inform efforts to design antipsychotic drugs.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">High-resolution structures of TAAR1 — the receptor bound by amphetamines and molecules called trace amines — reveal detailed interactions with ligand molecules that will inform efforts to design antipsychotic drugs.</p></div>]]></content:encoded>
-                <pubDate>2023-12-12</pubDate>
-                <dc:creator>Harald H. Sitte</dc:creator>
-                <dc:date>2023-12-12</dc:date>
+                <title>The laser trick that could put an ultraprecise optical clock on a chip</title>
+                <link>https://www.nature.com/articles/d41586-023-03782-0</link>
+                <description>Researchers have made a key breakthrough in how light is used to control time signals from the world’s most precise clocks. The technique marks a crucial step in bringing this technology into everyday life.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have made a key breakthrough in how light is used to control time signals from the world’s most precise clocks. The technique marks a crucial step in bringing this technology into everyday life.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Mengxi Tan</dc:creator>
+                <dc:creator>David J. Moss</dc:creator>
+                <dc:date>2023-12-13</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>Structures of the amphetamine-binding receptor will aid drug discovery</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03786-w</dc:identifier>
+                <dc:title>The laser trick that could put an ultraprecise optical clock on a chip</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03782-0</dc:identifier>
             </item>
         
             <item>
@@ -76,6 +146,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Domestic cats eat whatever they can catch</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03784-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Structures of the amphetamine-binding receptor will aid drug discovery</title>
+                <link>https://www.nature.com/articles/d41586-023-03786-w</link>
+                <description>High-resolution structures of TAAR1 — the receptor bound by amphetamines and molecules called trace amines — reveal detailed interactions with ligand molecules that will inform efforts to design antipsychotic drugs.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">High-resolution structures of TAAR1 — the receptor bound by amphetamines and molecules called trace amines — reveal detailed interactions with ligand molecules that will inform efforts to design antipsychotic drugs.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                <dc:creator>Harald H. Sitte</dc:creator>
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Structures of the amphetamine-binding receptor will aid drug discovery</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03786-w</dc:identifier>
             </item>
         
             <item>
@@ -312,46 +395,6 @@
             </item>
         
             <item>
-                <title>From the archive: renaming the proton, and enthusiasm for sanitary matters</title>
-                <link>https://www.nature.com/articles/d41586-023-03702-2</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-11-28</pubDate>
-                
-                <dc:date>2023-11-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: renaming the proton, and enthusiasm for sanitary matters</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03702-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>15 years after a giant leap for cancer genomics</title>
-                <link>https://www.nature.com/articles/d41586-023-03626-x</link>
-                <description>In 2008, the first comprehensive sequence of a cancer genome was reported, ushering in a new era of molecular diagnostic, prognostic and therapeutic advances informed by an essential framework to understand cancer’s complexities.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In 2008, the first comprehensive sequence of a cancer genome was reported, ushering in a new era of molecular diagnostic, prognostic and therapeutic advances informed by an essential framework to understand cancer’s complexities.</p></div>]]></content:encoded>
-                <pubDate>2023-11-27</pubDate>
-                <dc:creator>Sheng F. Cai</dc:creator>
-                <dc:creator>Ross L. Levine</dc:creator>
-                <dc:date>2023-11-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>15 years after a giant leap for cancer genomics</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03626-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>California wildlife pays the cost of megafires</title>
-                <link>https://www.nature.com/articles/d41586-023-03701-3</link>
-                <description>Increasingly intense wildfires in the United States could have profound impacts on natural habitats — potentially leaving hundreds of animal species struggling to recover.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Increasingly intense wildfires in the United States could have profound impacts on natural habitats — potentially leaving hundreds of animal species struggling to recover.</p></div>]]></content:encoded>
-                <pubDate>2023-11-27</pubDate>
-                <dc:creator>Holly Smith</dc:creator>
-                <dc:date>2023-11-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>California wildlife pays the cost of megafires</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03701-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Teatime for pangenomics</title>
                 <link>https://www.nature.com/articles/s41477-023-01566-y</link>
                 <description>A full pot of diversity is discovered in the tea pangenome.</description>
@@ -377,47 +420,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>COPIng with senescence</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>JWST ends game of hide and seek with methane</title>
-                <link>https://www.nature.com/articles/d41586-023-03500-w</link>
-                <description>The space telescope has helped to determine the atmospheric composition of an exoplanet using the light spectrum of its host star. Spectral changes as the planet orbits the star reveal the long-sought presence of exoplanetary methane.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The space telescope has helped to determine the atmospheric composition of an exoplanet using the light spectrum of its host star. Spectral changes as the planet orbits the star reveal the long-sought presence of exoplanetary methane.</p></div>]]></content:encoded>
-                <pubDate>2023-11-22</pubDate>
-                <dc:creator>Gloria Guilluy</dc:creator>
-                <dc:date>2023-11-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>JWST ends game of hide and seek with methane</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03500-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Magnetic hopfion rings in new era for topology</title>
-                <link>https://www.nature.com/articles/d41586-023-03502-8</link>
-                <description>A curious topological structure known as a hopfion ring has been induced in a magnetic material. The first of its kind in 3D, the ring is a tantalizing prospect for several branches of computing development.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A curious topological structure known as a hopfion ring has been induced in a magnetic material. The first of its kind in 3D, the ring is a tantalizing prospect for several branches of computing development.</p></div>]]></content:encoded>
-                <pubDate>2023-11-22</pubDate>
-                <dc:creator>Hanu Arava</dc:creator>
-                <dc:creator>Charudatta M. Phatak</dc:creator>
-                <dc:date>2023-11-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Magnetic hopfion rings in new era for topology</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03502-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Emissions scenarios and targets aligned to meet climate goals</title>
-                <link>https://www.nature.com/articles/d41586-023-03504-6</link>
-                <description>A mismatch in how carbon emissions are reported could endanger nations’ best efforts to meet targets for curbing climate change. A method for translating between reporting conventions offers a path forward.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A mismatch in how carbon emissions are reported could endanger nations’ best efforts to meet targets for curbing climate change. A method for translating between reporting conventions offers a path forward.</p></div>]]></content:encoded>
-                <pubDate>2023-11-22</pubDate>
-                <dc:creator>Chris D. Jones</dc:creator>
-                <dc:creator>Alexander J. Askew</dc:creator>
-                <dc:date>2023-11-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Emissions scenarios and targets aligned to meet climate goals</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03504-6</dc:identifier>
             </item>
         
             <item>
