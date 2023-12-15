@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Wetlands, neutrinos and warning coloration: kicking off a year of remarkable science</title>
+                <link>https://www.nature.com/articles/d41586-023-03792-y</link>
+                <description>Highlights from News & Views published in early 2023.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highlights from News & Views published in early 2023.</p></div>]]></content:encoded>
+                <pubDate>2023-12-15</pubDate>
+                
+                <dc:date>2023-12-15</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Wetlands, neutrinos and warning coloration: kicking off a year of remarkable science</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03792-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Gene expression of single cells mapped in tissue sections</title>
                 <link>https://www.nature.com/articles/d41586-023-03788-8</link>
                 <description>A tool that tags individual cells in a tissue with a unique barcode means that the gene-expression profile of each cell can be plotted in its original location. This allows spatial information to be captured at single-cell resolution.</description>
@@ -110,19 +123,6 @@
             </item>
         
             <item>
-                <title>MYC protein helps cancer to take its vitamins</title>
-                <link>https://www.nature.com/articles/d41586-023-03764-2</link>
-                <description>Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</p></div>]]></content:encoded>
-                <pubDate>2023-12-12</pubDate>
-                <dc:creator>Martina Wallace</dc:creator>
-                <dc:date>2023-12-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>MYC protein helps cancer to take its vitamins</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03764-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>From the archive: London fog, and an expedition team to envy</title>
                 <link>https://www.nature.com/articles/d41586-023-03780-2</link>
                 <description>Snippets from Nature’s past.</description>
@@ -159,6 +159,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Structures of the amphetamine-binding receptor will aid drug discovery</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03786-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>MYC protein helps cancer to take its vitamins</title>
+                <link>https://www.nature.com/articles/d41586-023-03764-2</link>
+                <description>Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                <dc:creator>Martina Wallace</dc:creator>
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>MYC protein helps cancer to take its vitamins</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03764-2</dc:identifier>
             </item>
         
             <item>
@@ -337,20 +350,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Current approaches to genomic deep learning struggle to fully capture human genetic variation</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01517-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An immune-cell transcription factor tethers DNA together</title>
-                <link>https://www.nature.com/articles/d41586-023-03628-9</link>
-                <description>A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.</p></div>]]></content:encoded>
-                <pubDate>2023-11-29</pubDate>
-                <dc:creator>Zhi Liu</dc:creator>
-                <dc:creator>Ye Zheng</dc:creator>
-                <dc:date>2023-11-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An immune-cell transcription factor tethers DNA together</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03628-9</dc:identifier>
             </item>
         
             <item>
