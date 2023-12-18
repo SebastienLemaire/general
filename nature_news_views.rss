@@ -13,6 +13,46 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Plastic pollution, viral evolution and drowned coasts: wrapping up a year of remarkable science</title>
+                <link>https://www.nature.com/articles/d41586-023-03793-x</link>
+                <description>Highlights from News & Views published in late 2023.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highlights from News & Views published in late 2023.</p></div>]]></content:encoded>
+                <pubDate>2023-12-18</pubDate>
+                
+                <dc:date>2023-12-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Plastic pollution, viral evolution and drowned coasts: wrapping up a year of remarkable science</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03793-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Muscle immune cells protect mitochondrial organelles during exercise</title>
+                <link>https://www.nature.com/articles/d41586-023-03972-w</link>
+                <description>A suppressive type of immune cell called a regulatory T cell has a key role in helping muscles to adapt to exercise — guarding muscle mitochondrial organelles against damage mediated by proinflammatory factors generated during physical activity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A suppressive type of immune cell called a regulatory T cell has a key role in helping muscles to adapt to exercise — guarding muscle mitochondrial organelles against damage mediated by proinflammatory factors generated during physical activity.</p></div>]]></content:encoded>
+                <pubDate>2023-12-18</pubDate>
+                <dc:creator>Gerald Coulis</dc:creator>
+                <dc:creator>S. Armando Villalta</dc:creator>
+                <dc:date>2023-12-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Muscle immune cells protect mitochondrial organelles during exercise</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03972-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How brine shrimps cope with salt</title>
+                <link>https://www.nature.com/articles/d41586-023-03794-w</link>
+                <description>Mutant ion pumps help brine shrimp survive highly saline waters.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mutant ion pumps help brine shrimp survive highly saline waters.</p></div>]]></content:encoded>
+                <pubDate>2023-12-18</pubDate>
+                <dc:creator>Lucia Brunello</dc:creator>
+                <dc:date>2023-12-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How brine shrimps cope with salt</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03794-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Wetlands, neutrinos and warning coloration: kicking off a year of remarkable science</title>
                 <link>https://www.nature.com/articles/d41586-023-03792-y</link>
                 <description>Highlights from News & Views published in early 2023.</description>
@@ -23,19 +63,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Wetlands, neutrinos and warning coloration: kicking off a year of remarkable science</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03792-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Gene expression of single cells mapped in tissue sections</title>
-                <link>https://www.nature.com/articles/d41586-023-03788-8</link>
-                <description>A tool that tags individual cells in a tissue with a unique barcode means that the gene-expression profile of each cell can be plotted in its original location. This allows spatial information to be captured at single-cell resolution.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A tool that tags individual cells in a tissue with a unique barcode means that the gene-expression profile of each cell can be plotted in its original location. This allows spatial information to be captured at single-cell resolution.</p></div>]]></content:encoded>
-                <pubDate>2023-12-13</pubDate>
-                <dc:creator>Patrik L. Ståhl</dc:creator>
-                <dc:date>2023-12-13</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Gene expression of single cells mapped in tissue sections</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03788-8</dc:identifier>
             </item>
         
             <item>
@@ -123,29 +150,16 @@
             </item>
         
             <item>
-                <title>From the archive: London fog, and an expedition team to envy</title>
-                <link>https://www.nature.com/articles/d41586-023-03780-2</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-12-12</pubDate>
-                
-                <dc:date>2023-12-12</dc:date>
+                <title>Gene expression of single cells mapped in tissue sections</title>
+                <link>https://www.nature.com/articles/d41586-023-03788-8</link>
+                <description>A tool that tags individual cells in a tissue with a unique barcode means that the gene-expression profile of each cell can be plotted in its original location. This allows spatial information to be captured at single-cell resolution.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A tool that tags individual cells in a tissue with a unique barcode means that the gene-expression profile of each cell can be plotted in its original location. This allows spatial information to be captured at single-cell resolution.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Patrik L. Ståhl</dc:creator>
+                <dc:date>2023-12-13</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>From the archive: London fog, and an expedition team to envy</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03780-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Domestic cats eat whatever they can catch</title>
-                <link>https://www.nature.com/articles/d41586-023-03784-y</link>
-                <description>A meta-analysis of the diets of domestic cats.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A meta-analysis of the diets of domestic cats.</p></div>]]></content:encoded>
-                <pubDate>2023-12-12</pubDate>
-                <dc:creator>Andrew Mitchinson</dc:creator>
-                <dc:date>2023-12-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Domestic cats eat whatever they can catch</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03784-y</dc:identifier>
+                <dc:title>Gene expression of single cells mapped in tissue sections</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03788-8</dc:identifier>
             </item>
         
             <item>
@@ -172,6 +186,32 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>MYC protein helps cancer to take its vitamins</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03764-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: London fog, and an expedition team to envy</title>
+                <link>https://www.nature.com/articles/d41586-023-03780-2</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: London fog, and an expedition team to envy</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03780-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Domestic cats eat whatever they can catch</title>
+                <link>https://www.nature.com/articles/d41586-023-03784-y</link>
+                <description>A meta-analysis of the diets of domestic cats.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A meta-analysis of the diets of domestic cats.</p></div>]]></content:encoded>
+                <pubDate>2023-12-12</pubDate>
+                <dc:creator>Andrew Mitchinson</dc:creator>
+                <dc:date>2023-12-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Domestic cats eat whatever they can catch</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03784-y</dc:identifier>
             </item>
         
             <item>
@@ -350,47 +390,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Current approaches to genomic deep learning struggle to fully capture human genetic variation</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01517-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The overlooked role of landscape dynamics in steering biodiversity</title>
-                <link>https://www.nature.com/articles/d41586-023-03536-y</link>
-                <description>Scientists have long sought to understand what drives biodiversity changes. A study unifies ideas about marine and terrestrial biodiversity in one explanatory framework, pointing to physical geography as dictating life’s trajectory.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists have long sought to understand what drives biodiversity changes. A study unifies ideas about marine and terrestrial biodiversity in one explanatory framework, pointing to physical geography as dictating life’s trajectory.</p></div>]]></content:encoded>
-                <pubDate>2023-11-29</pubDate>
-                <dc:creator>Alexandre Pohl</dc:creator>
-                <dc:date>2023-11-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The overlooked role of landscape dynamics in steering biodiversity</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03536-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Tackling extreme poverty around the world need not impede climate action</title>
-                <link>https://www.nature.com/articles/d41586-023-03627-w</link>
-                <description>A study has revealed that eliminating extreme poverty would result in a relatively small increase in global greenhouse-gas emissions, dispelling the idea that efforts to combat climate change and poverty are incompatible.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study has revealed that eliminating extreme poverty would result in a relatively small increase in global greenhouse-gas emissions, dispelling the idea that efforts to combat climate change and poverty are incompatible.</p></div>]]></content:encoded>
-                <pubDate>2023-11-29</pubDate>
-                <dc:creator>Katharine L. Ricke</dc:creator>
-                <dc:creator>Gordon C. McCord</dc:creator>
-                <dc:date>2023-11-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Tackling extreme poverty around the world need not impede climate action</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03627-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Carbon rings push limits of chemical theories</title>
-                <link>https://www.nature.com/articles/d41586-023-03575-5</link>
-                <description>Scientists are tantalized by the many forms that carbon could adopt — some of which are predicted to have extraordinary properties. The synthesis of three new all-carbon molecules is therefore a source of excitement.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists are tantalized by the many forms that carbon could adopt — some of which are predicted to have extraordinary properties. The synthesis of three new all-carbon molecules is therefore a source of excitement.</p></div>]]></content:encoded>
-                <pubDate>2023-11-29</pubDate>
-                <dc:creator>Przemysław Gaweł</dc:creator>
-                <dc:creator>Cina Foroutan-Nejad</dc:creator>
-                <dc:date>2023-11-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Carbon rings push limits of chemical theories</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03575-5</dc:identifier>
             </item>
         
             <item>
