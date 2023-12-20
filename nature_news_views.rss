@@ -13,6 +13,21 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Engineered nanopores for exopeptidase protein sequencing</title>
+                <link>https://www.nature.com/articles/s41592-023-02136-y</link>
+                <description>Two studies show that nanopores can identify the 20 proteinogenic amino acids and some of their post-translational modifications. Coupled with an exopeptidase, a bottom-up approach to protein sequencing using nanopores is on the horizon.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two studies show that nanopores can identify the 20 proteinogenic amino acids and some of their post-translational modifications. Coupled with an exopeptidase, a bottom-up approach to protein sequencing using nanopores is on the horizon.</p></div>]]></content:encoded>
+                <pubDate>2023-12-20</pubDate>
+                <dc:creator>Andrea Bonini</dc:creator>
+                <dc:creator>Adina Sauciuc</dc:creator>
+                <dc:creator>Giovanni Maglia</dc:creator>
+                <dc:date>2023-12-20</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Engineered nanopores for exopeptidase protein sequencing</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02136-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Viruses wrap up bacterial defence systems</title>
                 <link>https://www.nature.com/articles/d41586-023-03796-8</link>
                 <description>Bacteria use diverse defences against viral predators called bacteriophages. A method to identify antibacterial counter-defences in viral genomes has revealed striking modes of defence inhibition.</description>
@@ -270,6 +285,19 @@
             </item>
         
             <item>
+                <title>Structural biology in the age of AI</title>
+                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
+                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
+                <pubDate>2023-12-08</pubDate>
+                <dc:creator>Sriram Subramaniam</dc:creator>
+                <dc:date>2023-12-08</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Structural biology in the age of AI</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Assembling neuroactive alkaloids</title>
                 <link>https://www.nature.com/articles/s41477-023-01586-8</link>
                 <description>The Lycopodium alkaloids represent a valuable source of neuroactive compounds. The biosynthesis of these specialized metabolites is now shown to involve three α-carbonic anhydrase-like enzymes that are responsible for constructing the key carbon–carbon bonds within their distinctive polycyclic alkaloid structures.</description>
@@ -284,16 +312,16 @@
             </item>
         
             <item>
-                <title>Structural biology in the age of AI</title>
-                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
-                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
-                <pubDate>2023-12-08</pubDate>
-                <dc:creator>Sriram Subramaniam</dc:creator>
-                <dc:date>2023-12-08</dc:date>
+                <title>Movies tell us how tissues develop a 3D shape</title>
+                <link>https://www.nature.com/articles/s41592-023-02102-8</link>
+                <description>Two new methods enable the study of the mechanics of tissue development.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new methods enable the study of the mechanics of tissue development.</p></div>]]></content:encoded>
+                <pubDate>2023-12-06</pubDate>
+                <dc:creator>François Graner</dc:creator>
+                <dc:date>2023-12-06</dc:date>
                 <dc:source>Nature Methods</dc:source>
-                <dc:title>Structural biology in the age of AI</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
+                <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
             </item>
         
             <item>
@@ -334,19 +362,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Harmful tumour–kidney interactions identified</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03630-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Movies tell us how tissues develop a 3D shape</title>
-                <link>https://www.nature.com/articles/s41592-023-02102-8</link>
-                <description>Two new methods enable the study of the mechanics of tissue development.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new methods enable the study of the mechanics of tissue development.</p></div>]]></content:encoded>
-                <pubDate>2023-12-06</pubDate>
-                <dc:creator>François Graner</dc:creator>
-                <dc:date>2023-12-06</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
             </item>
         
             <item>
@@ -1356,6 +1371,19 @@
             </item>
         
             <item>
+                <title>Transient chromatin compaction in fork restart</title>
+                <link>https://www.nature.com/articles/s41556-023-01181-1</link>
+                <description>The compact state of chromatin induced by the methylation of lysine 9 on histone H3 has long been implicated in a heritable state of transcriptional repression. A study now shows that transient deposition of H3K9me3 helps to stabilize stalled DNA replication forks, while its reversal enables accurate fork restart.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The compact state of chromatin induced by the methylation of lysine 9 on histone H3 has long been implicated in a heritable state of transcriptional repression. A study now shows that transient deposition of H3K9me3 helps to stabilize stalled DNA replication forks, while its reversal enables accurate fork restart.</p></div>]]></content:encoded>
+                <pubDate>2023-07-06</pubDate>
+                <dc:creator>Susan M. Gasser</dc:creator>
+                <dc:date>2023-07-06</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Transient chromatin compaction in fork restart</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01181-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Lighting up action potentials with fast and bright voltage sensors</title>
                 <link>https://www.nature.com/articles/s41592-023-01928-6</link>
                 <description>Three groundbreaking studies have created a new generation of genetically encoded voltage indicators, empowering us to tackle a host of questions on our path toward understanding the brain.</description>
@@ -1367,19 +1395,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Lighting up action potentials with fast and bright voltage sensors</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01928-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Transient chromatin compaction in fork restart</title>
-                <link>https://www.nature.com/articles/s41556-023-01181-1</link>
-                <description>The compact state of chromatin induced by the methylation of lysine 9 on histone H3 has long been implicated in a heritable state of transcriptional repression. A study now shows that transient deposition of H3K9me3 helps to stabilize stalled DNA replication forks, while its reversal enables accurate fork restart.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The compact state of chromatin induced by the methylation of lysine 9 on histone H3 has long been implicated in a heritable state of transcriptional repression. A study now shows that transient deposition of H3K9me3 helps to stabilize stalled DNA replication forks, while its reversal enables accurate fork restart.</p></div>]]></content:encoded>
-                <pubDate>2023-07-06</pubDate>
-                <dc:creator>Susan M. Gasser</dc:creator>
-                <dc:date>2023-07-06</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Transient chromatin compaction in fork restart</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01181-1</dc:identifier>
             </item>
         
             <item>
@@ -1659,19 +1674,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Linking connectome with transcriptome using a self-inactivating rabies virus</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01803-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Controlling cellular activities with light</title>
-                <link>https://www.nature.com/articles/s41592-022-01745-3</link>
-                <description>New red–green optogenetic dimerizers enable the switching on and off of gene expression with high spatiotemporal precision.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New red–green optogenetic dimerizers enable the switching on and off of gene expression with high spatiotemporal precision.</p></div>]]></content:encoded>
-                <pubDate>2023-02-23</pubDate>
-                <dc:creator>Yao-Wen Wu</dc:creator>
-                <dc:date>2023-02-23</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Controlling cellular activities with light</dc:title>
-                <dc:identifier>doi:doi.org/s41592-022-01745-3</dc:identifier>
             </item>
             
         </channel>
