@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Mysterious ultraslow and ordered activity observed in the cortex</title>
+                <link>https://www.nature.com/articles/d41586-023-03795-9</link>
+                <description>Neurons with a role in navigation fire sequentially in mice, forming patterns that repeat every minute or so — but which are neither spatially organized, nor related to any visible behaviour.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Neurons with a role in navigation fire sequentially in mice, forming patterns that repeat every minute or so — but which are neither spatially organized, nor related to any visible behaviour.</p></div>]]></content:encoded>
+                <pubDate>2023-12-20</pubDate>
+                <dc:creator>Gilles Laurent</dc:creator>
+                <dc:date>2023-12-20</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mysterious ultraslow and ordered activity observed in the cortex</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03795-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Engineered nanopores for exopeptidase protein sequencing</title>
                 <link>https://www.nature.com/articles/s41592-023-02136-y</link>
                 <description>Two studies show that nanopores can identify the 20 proteinogenic amino acids and some of their post-translational modifications. Coupled with an exopeptidase, a bottom-up approach to protein sequencing using nanopores is on the horizon.</description>
@@ -38,6 +51,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Shared chromosomal segments connect ancient human societies</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01606-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Large language models direct automated chemistry laboratory</title>
+                <link>https://www.nature.com/articles/d41586-023-03790-0</link>
+                <description>Automation of chemistry research has focused on developing robots to execute jobs. Artificial-intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Automation of chemistry research has focused on developing robots to execute jobs. Artificial-intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts.</p></div>]]></content:encoded>
+                <pubDate>2023-12-20</pubDate>
+                <dc:creator>Ana Laura Dias</dc:creator>
+                <dc:creator>Tiago Rodrigues</dc:creator>
+                <dc:date>2023-12-20</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Large language models direct automated chemistry laboratory</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03790-0</dc:identifier>
             </item>
         
             <item>
@@ -121,34 +148,6 @@
             </item>
         
             <item>
-                <title>Indigenous diversity in Australia’s DNA tapestry unlocked for genetic equity</title>
-                <link>https://www.nature.com/articles/d41586-023-03785-x</link>
-                <description>Diverse genomic sequences might boost equity in areas such as health care. Genomic data from Indigenous Australians, shared through a community-consultation framework, aids efforts to boost genetic representation.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Diverse genomic sequences might boost equity in areas such as health care. Genomic data from Indigenous Australians, shared through a community-consultation framework, aids efforts to boost genetic representation.</p></div>]]></content:encoded>
-                <pubDate>2023-12-13</pubDate>
-                <dc:creator>Katrina G. Claw</dc:creator>
-                <dc:creator>Amber Nashoba</dc:creator>
-                <dc:date>2023-12-13</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Indigenous diversity in Australia’s DNA tapestry unlocked for genetic equity</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03785-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Nausea and vomiting in pregnancy linked to hormone from fetus</title>
-                <link>https://www.nature.com/articles/d41586-023-03940-4</link>
-                <description>Maternal sensitivity to a hormone produced by the fetus might underlie the risk of severe nausea and vomiting in human pregnancy — a finding that could open up strategies for the treatment of this debilitating condition.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Maternal sensitivity to a hormone produced by the fetus might underlie the risk of severe nausea and vomiting in human pregnancy — a finding that could open up strategies for the treatment of this debilitating condition.</p></div>]]></content:encoded>
-                <pubDate>2023-12-13</pubDate>
-                <dc:creator>Alice E. Hughes</dc:creator>
-                <dc:creator>Rachel M. Freathy</dc:creator>
-                <dc:date>2023-12-13</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Nausea and vomiting in pregnancy linked to hormone from fetus</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03940-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Modified messenger-RNA components alter the encoded protein</title>
                 <link>https://www.nature.com/articles/d41586-023-03787-9</link>
                 <description>Modified components of messenger RNA can cause the protein-production machinery to stall during the process of translation. This might change the protein being made, a finding with implications for vaccines or therapies.</description>
@@ -215,6 +214,34 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Twisted system makes nanolasers shine together</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03783-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Indigenous diversity in Australia’s DNA tapestry unlocked for genetic equity</title>
+                <link>https://www.nature.com/articles/d41586-023-03785-x</link>
+                <description>Diverse genomic sequences might boost equity in areas such as health care. Genomic data from Indigenous Australians, shared through a community-consultation framework, aids efforts to boost genetic representation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Diverse genomic sequences might boost equity in areas such as health care. Genomic data from Indigenous Australians, shared through a community-consultation framework, aids efforts to boost genetic representation.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Katrina G. Claw</dc:creator>
+                <dc:creator>Amber Nashoba</dc:creator>
+                <dc:date>2023-12-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Indigenous diversity in Australia’s DNA tapestry unlocked for genetic equity</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03785-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Nausea and vomiting in pregnancy linked to hormone from fetus</title>
+                <link>https://www.nature.com/articles/d41586-023-03940-4</link>
+                <description>Maternal sensitivity to a hormone produced by the fetus might underlie the risk of severe nausea and vomiting in human pregnancy — a finding that could open up strategies for the treatment of this debilitating condition.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Maternal sensitivity to a hormone produced by the fetus might underlie the risk of severe nausea and vomiting in human pregnancy — a finding that could open up strategies for the treatment of this debilitating condition.</p></div>]]></content:encoded>
+                <pubDate>2023-12-13</pubDate>
+                <dc:creator>Alice E. Hughes</dc:creator>
+                <dc:creator>Rachel M. Freathy</dc:creator>
+                <dc:date>2023-12-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Nausea and vomiting in pregnancy linked to hormone from fetus</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03940-4</dc:identifier>
             </item>
         
             <item>
@@ -335,33 +362,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Self-assembling structures close the gap to trap light</title>
-                <link>https://www.nature.com/articles/d41586-023-03685-0</link>
-                <description>An innovative method uses the intrinsic attractive force between silicon surfaces that are separated by a tiny gap to engineer structures that can confine light — offering an ideal set-up for manipulating single photons.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An innovative method uses the intrinsic attractive force between silicon surfaces that are separated by a tiny gap to engineer structures that can confine light — offering an ideal set-up for manipulating single photons.</p></div>]]></content:encoded>
-                <pubDate>2023-12-06</pubDate>
-                <dc:creator>Takashi Asano</dc:creator>
-                <dc:date>2023-12-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Self-assembling structures close the gap to trap light</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03685-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An expanded genomic database for identifying disease-related variants</title>
-                <link>https://www.nature.com/articles/d41586-023-01598-6</link>
-                <description>An expanded version of a human-genome database called gnomAD, containing 76,156 whole-genome sequences, has enabled investigation of how variants in non-protein-coding regions of the genome affect health.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An expanded version of a human-genome database called gnomAD, containing 76,156 whole-genome sequences, has enabled investigation of how variants in non-protein-coding regions of the genome affect health.</p></div>]]></content:encoded>
-                <pubDate>2023-12-06</pubDate>
-                <dc:creator>Ryan S. Dhindsa</dc:creator>
-                <dc:creator>Slavé Petrovski</dc:creator>
-                <dc:date>2023-12-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An expanded genomic database for identifying disease-related variants</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-01598-6</dc:identifier>
             </item>
         
             <item>
