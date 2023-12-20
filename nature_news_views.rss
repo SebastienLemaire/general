@@ -28,6 +28,19 @@
             </item>
         
             <item>
+                <title>Shared chromosomal segments connect ancient human societies</title>
+                <link>https://www.nature.com/articles/s41588-023-01606-5</link>
+                <description>Long segments of the genome that are shared ‘identical by descent’ (IBD) demonstrate recent relatedness between individuals. A new computational method robustly identifies shared IBD segments in human ancient DNA data, providing insights into the mobility and demography of prehistoric human societies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Long segments of the genome that are shared ‘identical by descent’ (IBD) demonstrate recent relatedness between individuals. A new computational method robustly identifies shared IBD segments in human ancient DNA data, providing insights into the mobility and demography of prehistoric human societies.</p></div>]]></content:encoded>
+                <pubDate>2023-12-20</pubDate>
+                <dc:creator>Anders Bergström</dc:creator>
+                <dc:date>2023-12-20</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Shared chromosomal segments connect ancient human societies</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01606-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Viruses wrap up bacterial defence systems</title>
                 <link>https://www.nature.com/articles/d41586-023-03796-8</link>
                 <description>Bacteria use diverse defences against viral predators called bacteriophages. A method to identify antibacterial counter-defences in viral genomes has revealed striking modes of defence inhibition.</description>
@@ -451,20 +464,6 @@
             </item>
         
             <item>
-                <title>Cytosolic transfer of circulating LPS by EVs</title>
-                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
-                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
-                <pubDate>2023-11-16</pubDate>
-                <dc:creator>Yi Huang</dc:creator>
-                <dc:creator>Rongbin Zhou</dc:creator>
-                <dc:date>2023-11-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>New ingredients for old recipes</title>
                 <link>https://www.nature.com/articles/s41588-023-01591-9</link>
                 <description>The pancreas is an essential organ present in all vertebrates, and human pancreatic agenesis is an extremely rare disorder of largely unknown genetic determinants. A study now demonstrates that a primate-specific regulatory network controlled by the KRAB zinc-finger protein ZNF808 is essential for pancreas development.</description>
@@ -477,6 +476,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>New ingredients for old recipes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01591-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Cytosolic transfer of circulating LPS by EVs</title>
+                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
+                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
+                <pubDate>2023-11-16</pubDate>
+                <dc:creator>Yi Huang</dc:creator>
+                <dc:creator>Rongbin Zhou</dc:creator>
+                <dc:date>2023-11-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
             </item>
         
             <item>
@@ -1123,20 +1136,6 @@
             </item>
         
             <item>
-                <title>Opening the gates</title>
-                <link>https://www.nature.com/articles/s41477-023-01493-y</link>
-                <description>A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</p></div>]]></content:encoded>
-                <pubDate>2023-08-10</pubDate>
-                <dc:creator>Aswin Nair</dc:creator>
-                <dc:creator>Rishikesh P. Bhalerao</dc:creator>
-                <dc:date>2023-08-10</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Opening the gates</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01493-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Advancing variant effect prediction using protein language models</title>
                 <link>https://www.nature.com/articles/s41588-023-01470-3</link>
                 <description>A novel pipeline that expands the utility of the protein language model ESM1b has provided variant effect predictions for more than 40,000 protein isoforms. This strategy outperformed several state-of-the-art methods over multiple benchmarks.</description>
@@ -1148,6 +1147,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Advancing variant effect prediction using protein language models</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01470-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Opening the gates</title>
+                <link>https://www.nature.com/articles/s41477-023-01493-y</link>
+                <description>A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</p></div>]]></content:encoded>
+                <pubDate>2023-08-10</pubDate>
+                <dc:creator>Aswin Nair</dc:creator>
+                <dc:creator>Rishikesh P. Bhalerao</dc:creator>
+                <dc:date>2023-08-10</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Opening the gates</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01493-y</dc:identifier>
             </item>
         
             <item>
@@ -1546,20 +1559,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The cutting edge of grass leaves</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01417-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing</title>
-                <link>https://www.nature.com/articles/s41588-023-01363-5</link>
-                <description>Aberrant RNA splicing events resulting from DNA variations are common causes of genetic disorders. Two studies published in Nature Genetics independently describe methods to decipher DNA-variant-associated aberrant splicing using high-throughput RNA sequencing data.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Aberrant RNA splicing events resulting from DNA variations are common causes of genetic disorders. Two studies published in Nature Genetics independently describe methods to decipher DNA-variant-associated aberrant splicing using high-throughput RNA sequencing data.</p></div>]]></content:encoded>
-                <pubDate>2023-05-04</pubDate>
-                <dc:creator>Bin Zhang</dc:creator>
-                <dc:creator>Xin Gao</dc:creator>
-                <dc:date>2023-05-04</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01363-5</dc:identifier>
             </item>
         
             <item>
