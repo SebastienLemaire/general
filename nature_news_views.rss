@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>tRNA flux and consistency in differentiation</title>
+                <link>https://www.nature.com/articles/s41556-023-01323-5</link>
+                <description>tRNA transcriptome composition and regulation are poorly understood. A study reports tRNA transcriptome reprogramming during human cell differentiation, where the abundance of individual tRNA gene transcripts is drastically changed, but each pool of tRNAs containing the same anticodon remains stable.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">tRNA transcriptome composition and regulation are poorly understood. A study reports tRNA transcriptome reprogramming during human cell differentiation, where the abundance of individual tRNA gene transcripts is drastically changed, but each pool of tRNAs containing the same anticodon remains stable.</p></div>]]></content:encoded>
+                <pubDate>2024-01-08</pubDate>
+                <dc:creator>Yichen Hou</dc:creator>
+                <dc:creator>Tao Pan</dc:creator>
+                <dc:date>2024-01-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>tRNA flux and consistency in differentiation</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01323-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Satellite images reveal untracked human activity on the oceans</title>
                 <link>https://www.nature.com/articles/d41586-023-03983-7</link>
                 <description>Machine learning and satellite imagery have been used to map industrial infrastructure at sea — from fishing vessels to wind turbines. The findings provide a more comprehensive picture of maritime activity than ever before.</description>
@@ -27,6 +41,19 @@
             </item>
         
             <item>
+                <title>FUS maintains TAZ fluidity and function</title>
+                <link>https://www.nature.com/articles/s41556-023-01318-2</link>
+                <description>The transcriptional coactivators TAZ and YAP pair with transcriptional enhanced associate domains (TEADs) to regulate transcription. TAZ and YAP nuclear condensates ensure optimal transcription. A new study reports that FUS regulates TAZ condensates by maintaining them in a fluid state to drive transcription of target genes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The transcriptional coactivators TAZ and YAP pair with transcriptional enhanced associate domains (TEADs) to regulate transcription. TAZ and YAP nuclear condensates ensure optimal transcription. A new study reports that FUS regulates TAZ condensates by maintaining them in a fluid state to drive transcription of target genes.</p></div>]]></content:encoded>
+                <pubDate>2024-01-03</pubDate>
+                <dc:creator>Wanjin Hong</dc:creator>
+                <dc:date>2024-01-03</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>FUS maintains TAZ fluidity and function</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01318-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>A new type of antibiotic targets a drug-resistant bacterium</title>
                 <link>https://www.nature.com/articles/d41586-023-03988-2</link>
                 <description>Infections caused by drug-resistant strains of the bacterium Acinetobacter baumannii have been hard to treat in the clinic. A new class of antibiotics has been identified with the potential to tackle these microbes.</description>
@@ -38,19 +65,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>A new type of antibiotic targets a drug-resistant bacterium</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03988-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>FUS maintains TAZ fluidity and function</title>
-                <link>https://www.nature.com/articles/s41556-023-01318-2</link>
-                <description>The transcriptional coactivators TAZ and YAP pair with transcriptional enhanced associate domains (TEADs) to regulate transcription. TAZ and YAP nuclear condensates ensure optimal transcription. A new study reports that FUS regulates TAZ condensates by maintaining them in a fluid state to drive transcription of target genes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The transcriptional coactivators TAZ and YAP pair with transcriptional enhanced associate domains (TEADs) to regulate transcription. TAZ and YAP nuclear condensates ensure optimal transcription. A new study reports that FUS regulates TAZ condensates by maintaining them in a fluid state to drive transcription of target genes.</p></div>]]></content:encoded>
-                <pubDate>2024-01-03</pubDate>
-                <dc:creator>Wanjin Hong</dc:creator>
-                <dc:date>2024-01-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>FUS maintains TAZ fluidity and function</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01318-2</dc:identifier>
             </item>
         
             <item>
@@ -177,19 +191,6 @@
             </item>
         
             <item>
-                <title>Extraordinary collateral mutagenesis induced by CX-5461</title>
-                <link>https://www.nature.com/articles/s41588-023-01611-8</link>
-                <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRAC2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRAC2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</p></div>]]></content:encoded>
-                <pubDate>2023-12-21</pubDate>
-                <dc:creator>Simon J. Boulton</dc:creator>
-                <dc:date>2023-12-21</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Extraordinary collateral mutagenesis induced by CX-5461</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01611-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Dissecting organelle interdependence</title>
                 <link>https://www.nature.com/articles/s41556-023-01285-8</link>
                 <description>The structures and functions of organelles are highly interdependent. Using paired 3D electron microscopy and multi-omics, a study now shows how other organelles affect mitochondrial structure and function: peroxisome-derived lipids reverse mitochondrial stress, highlighting the importance of organelle interconnectivity.</description>
@@ -201,6 +202,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Dissecting organelle interdependence</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01285-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Extraordinary collateral mutagenesis induced by CX-5461</title>
+                <link>https://www.nature.com/articles/s41588-023-01611-8</link>
+                <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRAC2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRAC2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</p></div>]]></content:encoded>
+                <pubDate>2023-12-21</pubDate>
+                <dc:creator>Simon J. Boulton</dc:creator>
+                <dc:date>2023-12-21</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Extraordinary collateral mutagenesis induced by CX-5461</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01611-8</dc:identifier>
             </item>
         
             <item>
@@ -746,6 +760,19 @@
             </item>
         
             <item>
+                <title>The power paradox of detecting disease-associated and gene-expression-associated variants</title>
+                <link>https://www.nature.com/articles/s41588-023-01525-5</link>
+                <description>The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</p></div>]]></content:encoded>
+                <pubDate>2023-10-19</pubDate>
+                <dc:creator>Tiffany Amariuta</dc:creator>
+                <dc:date>2023-10-19</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Hijacking host ribosomes via tRNA mimicry</title>
                 <link>https://www.nature.com/articles/s41556-023-01249-y</link>
                 <description>The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</description>
@@ -757,19 +784,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Hijacking host ribosomes via tRNA mimicry</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01249-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The power paradox of detecting disease-associated and gene-expression-associated variants</title>
-                <link>https://www.nature.com/articles/s41588-023-01525-5</link>
-                <description>The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</p></div>]]></content:encoded>
-                <pubDate>2023-10-19</pubDate>
-                <dc:creator>Tiffany Amariuta</dc:creator>
-                <dc:date>2023-10-19</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
             </item>
         
             <item>
@@ -1067,20 +1081,6 @@
             </item>
         
             <item>
-                <title>Pioneering the path to NASH biomarker approval</title>
-                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
-                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Aleksander Krag</dc:creator>
-                <dc:creator>Mary E. Rinella</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>o8G modifications rewire tumoral microRNAs</title>
                 <link>https://www.nature.com/articles/s41556-023-01179-9</link>
                 <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
@@ -1092,6 +1092,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneering the path to NASH biomarker approval</title>
+                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
+                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Aleksander Krag</dc:creator>
+                <dc:creator>Mary E. Rinella</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
             </item>
         
             <item>
@@ -1329,19 +1343,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Dissecting gene regulation with multimodal sequencing</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01957-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A mother to offspring metabolic link</title>
-                <link>https://www.nature.com/articles/s41556-023-01189-7</link>
-                <description>In many species, a mother’s environment can impact offspring’s metabolism, but the mechanisms that mediate such intergenerational effects are unclear. In this issue, a study finds that the provisioning of a sphingolipid from mothers to offspring drives changes in offspring metabolism that protect against neuronal damage.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In many species, a mother’s environment can impact offspring’s metabolism, but the mechanisms that mediate such intergenerational effects are unclear. In this issue, a study finds that the provisioning of a sphingolipid from mothers to offspring drives changes in offspring metabolism that protect against neuronal damage.</p></div>]]></content:encoded>
-                <pubDate>2023-08-03</pubDate>
-                <dc:creator>Nicholas O. Burton</dc:creator>
-                <dc:date>2023-08-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A mother to offspring metabolic link</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01189-7</dc:identifier>
             </item>
         
             <item>
