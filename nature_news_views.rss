@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The grand challenge of moving cancer whole-genome sequencing into the clinic</title>
+                <link>https://www.nature.com/articles/s41591-023-02697-7</link>
+                <description>The largest whole-genome sequencing study thus far has revealed myriad actionable alterations and potential biomarkers for 33 cancer types, but various logistical, technical and economic challenges must be overcome before this technique can become standard of care.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The largest whole-genome sequencing study thus far has revealed myriad actionable alterations and potential biomarkers for 33 cancer types, but various logistical, technical and economic challenges must be overcome before this technique can become standard of care.</p></div>]]></content:encoded>
+                <pubDate>2024-01-11</pubDate>
+                <dc:creator>Dilara Akhoundova</dc:creator>
+                <dc:creator>Mark A. Rubin</dc:creator>
+                <dc:date>2024-01-11</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The grand challenge of moving cancer whole-genome sequencing into the clinic</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02697-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Prehistoric events might explain European multiple sclerosis risk</title>
                 <link>https://www.nature.com/articles/d41586-023-03977-5</link>
                 <description>An exploration of more than 1,600 ancient Eurasian genomes suggests that genetic changes that increase autoimmune-disease risk in modern Europeans could have protected ancient Europeans from pathogens.</description>
@@ -54,19 +68,6 @@
             </item>
         
             <item>
-                <title>A 2D route to 3D computer chips</title>
-                <link>https://www.nature.com/articles/d41586-023-03992-6</link>
-                <description>Ultrathin materials have long been touted as a solution to the problems faced by the ever-growing semiconductor industry. Evidence that 3D chips can be built from 2D semiconductors suggests that the hype was justified.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ultrathin materials have long been touted as a solution to the problems faced by the ever-growing semiconductor industry. Evidence that 3D chips can be built from 2D semiconductors suggests that the hype was justified.</p></div>]]></content:encoded>
-                <pubDate>2024-01-10</pubDate>
-                <dc:creator>Tania  Roy</dc:creator>
-                <dc:date>2024-01-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>A 2D route to 3D computer chips</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03992-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Integrating vaccines and monoclonal antibodies into malaria prevention</title>
                 <link>https://www.nature.com/articles/s41591-023-02745-2</link>
                 <description>Two malaria vaccines are approved and several prophylactic antibodies are in development, but a combination of strategies tailored to different epidemiological situations will be needed if malaria is to be eliminated.</description>
@@ -78,6 +79,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Integrating vaccines and monoclonal antibodies into malaria prevention</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02745-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A 2D route to 3D computer chips</title>
+                <link>https://www.nature.com/articles/d41586-023-03992-6</link>
+                <description>Ultrathin materials have long been touted as a solution to the problems faced by the ever-growing semiconductor industry. Evidence that 3D chips can be built from 2D semiconductors suggests that the hype was justified.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ultrathin materials have long been touted as a solution to the problems faced by the ever-growing semiconductor industry. Evidence that 3D chips can be built from 2D semiconductors suggests that the hype was justified.</p></div>]]></content:encoded>
+                <pubDate>2024-01-10</pubDate>
+                <dc:creator>Tania  Roy</dc:creator>
+                <dc:date>2024-01-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A 2D route to 3D computer chips</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03992-6</dc:identifier>
             </item>
         
             <item>
@@ -218,19 +232,6 @@
             </item>
         
             <item>
-                <title>From the archive: waltzing mice, and Louis Pasteur’s beer battle</title>
-                <link>https://www.nature.com/articles/d41586-023-04078-z</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-12-27</pubDate>
-                
-                <dc:date>2023-12-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: waltzing mice, and Louis Pasteur’s beer battle</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04078-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Tackling inappropriate antibiotic use in low-and middle-income countries</title>
                 <link>https://www.nature.com/articles/s41591-023-02725-6</link>
                 <description>New data show that electronic clinical decision support systems integrated with point-of-care tests can lead to meaningful reductions in antibiotic use in children in low- and middle-income countries, without compromising health outcomes — but investment in human resources is crucial to their success.</description>
@@ -243,6 +244,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Tackling inappropriate antibiotic use in low-and middle-income countries</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02725-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: waltzing mice, and Louis Pasteur’s beer battle</title>
+                <link>https://www.nature.com/articles/d41586-023-04078-z</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2023-12-27</pubDate>
+                
+                <dc:date>2023-12-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: waltzing mice, and Louis Pasteur’s beer battle</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04078-z</dc:identifier>
             </item>
         
             <item>
@@ -1106,20 +1120,6 @@
             </item>
         
             <item>
-                <title>o8G modifications rewire tumoral microRNAs</title>
-                <link>https://www.nature.com/articles/s41556-023-01179-9</link>
-                <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Marta Montes</dc:creator>
-                <dc:creator>Maite Huarte</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pioneering the path to NASH biomarker approval</title>
                 <link>https://www.nature.com/articles/s41591-023-02527-w</link>
                 <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
@@ -1131,6 +1131,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>o8G modifications rewire tumoral microRNAs</title>
+                <link>https://www.nature.com/articles/s41556-023-01179-9</link>
+                <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Marta Montes</dc:creator>
+                <dc:creator>Maite Huarte</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
             </item>
         
             <item>
@@ -1382,20 +1396,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Precise, pragmatic and inclusive: the modern era of oncology clinical trials</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02466-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Psilocybin for the treatment of anorexia nervosa</title>
-                <link>https://www.nature.com/articles/s41591-023-02458-6</link>
-                <description>In individuals with anorexia nervosa, psilocybin therapy comes with specific risks and concerns; but an encouraging phase 1 trial underscores the necessity for more research into classic psychedelics to address the urgent need for effective treatments.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In individuals with anorexia nervosa, psilocybin therapy comes with specific risks and concerns; but an encouraging phase 1 trial underscores the necessity for more research into classic psychedelics to address the urgent need for effective treatments.</p></div>]]></content:encoded>
-                <pubDate>2023-07-24</pubDate>
-                <dc:creator>Tomislav Majić</dc:creator>
-                <dc:creator>Stefan Ehrlich</dc:creator>
-                <dc:date>2023-07-24</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Psilocybin for the treatment of anorexia nervosa</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02458-6</dc:identifier>
             </item>
         
             <item>
