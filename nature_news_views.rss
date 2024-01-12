@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Cell origin of BRCA2-mutant breast cancer</title>
+                <link>https://www.nature.com/articles/s41556-023-01322-6</link>
+                <description>The different compartments of the mammary stem cell hierarchy develop into distinct breast cancer subtypes as a result of specific genetic lesions. A recent study identifies aberrant ERBB3low luminal progenitors with altered proteostasis and translation as the cell of origin of BRCA2-mutant breast cancer.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The different compartments of the mammary stem cell hierarchy develop into distinct breast cancer subtypes as a result of specific genetic lesions. A recent study identifies aberrant ERBB3low luminal progenitors with altered proteostasis and translation as the cell of origin of BRCA2-mutant breast cancer.</p></div>]]></content:encoded>
+                <pubDate>2024-01-12</pubDate>
+                <dc:creator>Jiahui Xu</dc:creator>
+                <dc:creator>Suling Liu</dc:creator>
+                <dc:date>2024-01-12</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Cell origin of BRCA2-mutant breast cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01322-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Sticky gels designed for tissue-healing therapies and diagnostics</title>
                 <link>https://www.nature.com/articles/d41586-023-03996-2</link>
                 <description>Materials that adhere tightly to human tissues can promote healing and boost the sensitivity of biomedical diagnostic devices. An ‘evolving’ gel has been made that synergizes two strategies for forming interfaces with tissue.</description>
@@ -687,6 +701,19 @@
             </item>
         
             <item>
+                <title>Sperm bud mitochondria to adjust the numbers</title>
+                <link>https://www.nature.com/articles/s41556-023-01255-0</link>
+                <description>Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</p></div>]]></content:encoded>
+                <pubDate>2023-11-09</pubDate>
+                <dc:creator>Diane C. Shakes</dc:creator>
+                <dc:date>2023-11-09</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Sperm bud mitochondria to adjust the numbers</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01255-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</title>
                 <link>https://www.nature.com/articles/s41556-023-01275-w</link>
                 <description>YTHDF family members are ‘readers’ of a common mRNA modification, but their effects on mRNA translation and stability have been disputed. A new study shows that YTHDF1 and YTHDF3 are post-translationally regulated through O-GlcNAcylation, unifying disparate results and pointing to environmental cues that could modulate YTHDF function.</description>
@@ -698,19 +725,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01275-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Sperm bud mitochondria to adjust the numbers</title>
-                <link>https://www.nature.com/articles/s41556-023-01255-0</link>
-                <description>Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</p></div>]]></content:encoded>
-                <pubDate>2023-11-09</pubDate>
-                <dc:creator>Diane C. Shakes</dc:creator>
-                <dc:date>2023-11-09</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Sperm bud mitochondria to adjust the numbers</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01255-0</dc:identifier>
             </item>
         
             <item>
@@ -1120,20 +1134,6 @@
             </item>
         
             <item>
-                <title>Pioneering the path to NASH biomarker approval</title>
-                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
-                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Aleksander Krag</dc:creator>
-                <dc:creator>Mary E. Rinella</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>o8G modifications rewire tumoral microRNAs</title>
                 <link>https://www.nature.com/articles/s41556-023-01179-9</link>
                 <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
@@ -1145,6 +1145,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pioneering the path to NASH biomarker approval</title>
+                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
+                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Aleksander Krag</dc:creator>
+                <dc:creator>Mary E. Rinella</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
             </item>
         
             <item>
@@ -1285,20 +1299,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Epigenetic control of cancer inflammation</title>
-                <link>https://www.nature.com/articles/s41556-023-01183-z</link>
-                <description>The interaction of non-immune and immune cells in the tumour microenvironment (TME) determines the quality of the immune attack on nascent tumour cells. A new study in melanoma cells shows that specific histone variants dampen the expression of cytokine genes in cancer-associated fibroblasts, leading to an immunosuppressive TME.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The interaction of non-immune and immune cells in the tumour microenvironment (TME) determines the quality of the immune attack on nascent tumour cells. A new study in melanoma cells shows that specific histone variants dampen the expression of cytokine genes in cancer-associated fibroblasts, leading to an immunosuppressive TME.</p></div>]]></content:encoded>
-                <pubDate>2023-08-21</pubDate>
-                <dc:creator>David Corujo</dc:creator>
-                <dc:creator>Marcus Buschbeck</dc:creator>
-                <dc:date>2023-08-21</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Epigenetic control of cancer inflammation</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01183-z</dc:identifier>
             </item>
         
             <item>
