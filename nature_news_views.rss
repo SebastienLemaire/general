@@ -28,18 +28,16 @@
             </item>
         
             <item>
-                <title>Reading banned regions of genomes</title>
-                <link>https://www.nature.com/articles/s41477-023-01600-z</link>
-                <description>The effect of DNA methylation on gene expression has been known for decades. However, the mechanism by which DNA methylation functions to repress transcription has remained a major question in the field. Wang et al. now narrow this gap through their examination of the methylation binding protein MBD2 and expose how DNA methylation is read upstream of transcriptional repression.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The effect of DNA methylation on gene expression has been known for decades. However, the mechanism by which DNA methylation functions to repress transcription has remained a major question in the field. Wang et al. now narrow this gap through their examination of the methylation binding protein MBD2 and expose how DNA methylation is read upstream of transcriptional repression.</p></div>]]></content:encoded>
-                <pubDate>2024-01-15</pubDate>
-                <dc:creator>Marianne C. Kramer</dc:creator>
-                <dc:creator>Ryan Swanson</dc:creator>
-                <dc:creator>R. Keith Slotkin</dc:creator>
-                <dc:date>2024-01-15</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Reading banned regions of genomes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01600-z</dc:identifier>
+                <title>From the archive: the royal ‘we’, and an experiment in telegraphy</title>
+                <link>https://www.nature.com/articles/d41586-023-04001-6</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
             </item>
         
             <item>
@@ -53,6 +51,21 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Snapshots of genetic copy-and-paste machinery in action</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00112-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Reading banned regions of genomes</title>
+                <link>https://www.nature.com/articles/s41477-023-01600-z</link>
+                <description>The effect of DNA methylation on gene expression has been known for decades. However, the mechanism by which DNA methylation functions to repress transcription has remained a major question in the field. Wang et al. now narrow this gap through their examination of the methylation binding protein MBD2 and expose how DNA methylation is read upstream of transcriptional repression.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The effect of DNA methylation on gene expression has been known for decades. However, the mechanism by which DNA methylation functions to repress transcription has remained a major question in the field. Wang et al. now narrow this gap through their examination of the methylation binding protein MBD2 and expose how DNA methylation is read upstream of transcriptional repression.</p></div>]]></content:encoded>
+                <pubDate>2024-01-15</pubDate>
+                <dc:creator>Marianne C. Kramer</dc:creator>
+                <dc:creator>Ryan Swanson</dc:creator>
+                <dc:creator>R. Keith Slotkin</dc:creator>
+                <dc:date>2024-01-15</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Reading banned regions of genomes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01600-z</dc:identifier>
             </item>
         
             <item>
@@ -84,6 +97,19 @@
             </item>
         
             <item>
+                <title>Urban youth most isolated in largest cities</title>
+                <link>https://www.nature.com/articles/d41586-023-04083-2</link>
+                <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</p></div>]]></content:encoded>
+                <pubDate>2024-01-11</pubDate>
+                <dc:creator>Victor  Couture</dc:creator>
+                <dc:date>2024-01-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Urban youth most isolated in largest cities</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04083-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The grand challenge of moving cancer whole-genome sequencing into the clinic</title>
                 <link>https://www.nature.com/articles/s41591-023-02697-7</link>
                 <description>The largest whole-genome sequencing study thus far has revealed myriad actionable alterations and potential biomarkers for 33 cancer types, but various logistical, technical and economic challenges must be overcome before this technique can become standard of care.</description>
@@ -95,19 +121,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The grand challenge of moving cancer whole-genome sequencing into the clinic</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02697-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Urban youth most isolated in largest cities</title>
-                <link>https://www.nature.com/articles/d41586-023-04083-2</link>
-                <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</p></div>]]></content:encoded>
-                <pubDate>2024-01-11</pubDate>
-                <dc:creator>Victor  Couture</dc:creator>
-                <dc:date>2024-01-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Urban youth most isolated in largest cities</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04083-2</dc:identifier>
             </item>
         
             <item>
@@ -233,20 +246,6 @@
             </item>
         
             <item>
-                <title>Tailoring graphene for electronics beyond silicon</title>
-                <link>https://www.nature.com/articles/d41586-023-03991-7</link>
-                <description>The integration of non-silicon semiconductors into systems on chips is needed for advanced power and sensing technologies. A semiconducting graphene ‘buffer’ layer grown on silicon carbide is a step on this path.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The integration of non-silicon semiconductors into systems on chips is needed for advanced power and sensing technologies. A semiconducting graphene ‘buffer’ layer grown on silicon carbide is a step on this path.</p></div>]]></content:encoded>
-                <pubDate>2024-01-03</pubDate>
-                <dc:creator>Francesca Iacopi</dc:creator>
-                <dc:creator>Andrea C. Ferrari</dc:creator>
-                <dc:date>2024-01-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Tailoring graphene for electronics beyond silicon</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03991-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>FUS maintains TAZ fluidity and function</title>
                 <link>https://www.nature.com/articles/s41556-023-01318-2</link>
                 <description>The transcriptional coactivators TAZ and YAP pair with transcriptional enhanced associate domains (TEADs) to regulate transcription. TAZ and YAP nuclear condensates ensure optimal transcription. A new study reports that FUS regulates TAZ condensates by maintaining them in a fluid state to drive transcription of target genes.</description>
@@ -285,6 +284,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>A new type of antibiotic targets a drug-resistant bacterium</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03988-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Tailoring graphene for electronics beyond silicon</title>
+                <link>https://www.nature.com/articles/d41586-023-03991-7</link>
+                <description>The integration of non-silicon semiconductors into systems on chips is needed for advanced power and sensing technologies. A semiconducting graphene ‘buffer’ layer grown on silicon carbide is a step on this path.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The integration of non-silicon semiconductors into systems on chips is needed for advanced power and sensing technologies. A semiconducting graphene ‘buffer’ layer grown on silicon carbide is a step on this path.</p></div>]]></content:encoded>
+                <pubDate>2024-01-03</pubDate>
+                <dc:creator>Francesca Iacopi</dc:creator>
+                <dc:creator>Andrea C. Ferrari</dc:creator>
+                <dc:date>2024-01-03</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Tailoring graphene for electronics beyond silicon</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03991-7</dc:identifier>
             </item>
         
             <item>
@@ -490,20 +503,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Engineered nanopores for exopeptidase protein sequencing</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02136-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Viruses wrap up bacterial defence systems</title>
-                <link>https://www.nature.com/articles/d41586-023-03796-8</link>
-                <description>Bacteria use diverse defences against viral predators called bacteriophages. A method to identify antibacterial counter-defences in viral genomes has revealed striking modes of defence inhibition.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bacteria use diverse defences against viral predators called bacteriophages. A method to identify antibacterial counter-defences in viral genomes has revealed striking modes of defence inhibition.</p></div>]]></content:encoded>
-                <pubDate>2023-12-19</pubDate>
-                <dc:creator>Tim R. Blower</dc:creator>
-                <dc:creator>Stineke van Houte</dc:creator>
-                <dc:date>2023-12-19</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Viruses wrap up bacterial defence systems</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03796-8</dc:identifier>
             </item>
         
             <item>
