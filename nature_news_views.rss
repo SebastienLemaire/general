@@ -13,6 +13,21 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The science of falls and how to prevent them</title>
+                <link>https://www.nature.com/articles/s41591-023-02749-y</link>
+                <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Sarah E. Lamb</dc:creator>
+                <dc:creator>Genevieve Williams</dc:creator>
+                <dc:creator>Will Young</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The science of falls and how to prevent them</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Reading banned regions of genomes</title>
                 <link>https://www.nature.com/articles/s41477-023-01600-z</link>
                 <description>The effect of DNA methylation on gene expression has been known for decades. However, the mechanism by which DNA methylation functions to repress transcription has remained a major question in the field. Wang et al. now narrow this gap through their examination of the methylation binding protein MBD2 and expose how DNA methylation is read upstream of transcriptional repression.</description>
@@ -69,19 +84,6 @@
             </item>
         
             <item>
-                <title>Urban youth most isolated in largest cities</title>
-                <link>https://www.nature.com/articles/d41586-023-04083-2</link>
-                <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</p></div>]]></content:encoded>
-                <pubDate>2024-01-11</pubDate>
-                <dc:creator>Victor  Couture</dc:creator>
-                <dc:date>2024-01-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Urban youth most isolated in largest cities</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04083-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The grand challenge of moving cancer whole-genome sequencing into the clinic</title>
                 <link>https://www.nature.com/articles/s41591-023-02697-7</link>
                 <description>The largest whole-genome sequencing study thus far has revealed myriad actionable alterations and potential biomarkers for 33 cancer types, but various logistical, technical and economic challenges must be overcome before this technique can become standard of care.</description>
@@ -93,6 +95,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The grand challenge of moving cancer whole-genome sequencing into the clinic</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02697-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Urban youth most isolated in largest cities</title>
+                <link>https://www.nature.com/articles/d41586-023-04083-2</link>
+                <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</p></div>]]></content:encoded>
+                <pubDate>2024-01-11</pubDate>
+                <dc:creator>Victor  Couture</dc:creator>
+                <dc:date>2024-01-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Urban youth most isolated in largest cities</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04083-2</dc:identifier>
             </item>
         
             <item>
@@ -743,21 +758,6 @@
             </item>
         
             <item>
-                <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
-                <link>https://www.nature.com/articles/s41591-023-02623-x</link>
-                <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Alex Chehrazi-Raffle</dc:creator>
-                <dc:creator>Lihua E. Budde</dc:creator>
-                <dc:creator>Sumanta K. Pal</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Spinal stimulation for unfreezing gait in Parkinson’s disease</title>
                 <link>https://www.nature.com/articles/s41591-023-02604-0</link>
                 <description>Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</description>
@@ -796,6 +796,21 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Keeping membraneless organelles apart</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01265-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
+                <link>https://www.nature.com/articles/s41591-023-02623-x</link>
+                <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Alex Chehrazi-Raffle</dc:creator>
+                <dc:creator>Lihua E. Budde</dc:creator>
+                <dc:creator>Sumanta K. Pal</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
             </item>
         
             <item>
@@ -1149,20 +1164,6 @@
             </item>
         
             <item>
-                <title>o8G modifications rewire tumoral microRNAs</title>
-                <link>https://www.nature.com/articles/s41556-023-01179-9</link>
-                <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Marta Montes</dc:creator>
-                <dc:creator>Maite Huarte</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pioneering the path to NASH biomarker approval</title>
                 <link>https://www.nature.com/articles/s41591-023-02527-w</link>
                 <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
@@ -1174,6 +1175,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>o8G modifications rewire tumoral microRNAs</title>
+                <link>https://www.nature.com/articles/s41556-023-01179-9</link>
+                <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</p></div>]]></content:encoded>
+                <pubDate>2023-09-07</pubDate>
+                <dc:creator>Marta Montes</dc:creator>
+                <dc:creator>Maite Huarte</dc:creator>
+                <dc:date>2023-09-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
             </item>
         
             <item>
@@ -1397,20 +1412,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Our ancestry dictates clonal architecture and skin cancer susceptibility</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01467-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Precise, pragmatic and inclusive: the modern era of oncology clinical trials</title>
-                <link>https://www.nature.com/articles/s41591-023-02466-6</link>
-                <description>Innovative clinical trial designs with a patient-centered mission are crucial to advancing modern cancer care; the adaptive phase 2 umbrella study CTONG1702 provides one model for this new era of trial design.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Innovative clinical trial designs with a patient-centered mission are crucial to advancing modern cancer care; the adaptive phase 2 umbrella study CTONG1702 provides one model for this new era of trial design.</p></div>]]></content:encoded>
-                <pubDate>2023-07-31</pubDate>
-                <dc:creator>Michael J. Grant</dc:creator>
-                <dc:creator>Sarah B. Goldberg</dc:creator>
-                <dc:date>2023-07-31</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Precise, pragmatic and inclusive: the modern era of oncology clinical trials</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02466-6</dc:identifier>
             </item>
         
             <item>
