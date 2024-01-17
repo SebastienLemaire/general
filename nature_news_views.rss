@@ -13,6 +13,74 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Defining the chromatin signature of pluripotency</title>
+                <link>https://www.nature.com/articles/s41556-023-01268-9</link>
+                <description>The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Nathalie Beaujean</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Defining the chromatin signature of pluripotency</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01268-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The rules of the totipotency treasure hunt</title>
+                <link>https://www.nature.com/articles/s41556-023-01282-x</link>
+                <description>Totipotency is the absence of any developmental restriction, a feature naturally found in the early embryo right after fertilization. Generating an in vitro totipotent stem cell model is not a trivial task. For this reason, a set of stringent criteria for the identification of bona fide totipotent stem cells have been proposed.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Totipotency is the absence of any developmental restriction, a feature naturally found in the early embryo right after fertilization. Generating an in vitro totipotent stem cell model is not a trivial task. For this reason, a set of stringent criteria for the identification of bona fide totipotent stem cells have been proposed.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Graziano Martello</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>The rules of the totipotency treasure hunt</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01282-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A milestone in epithelial–mesenchymal transition</title>
+                <link>https://www.nature.com/articles/s41556-023-01228-3</link>
+                <description>Epithelial–mesenchymal transition (EMT) is crucial in embryogenesis and can be exploited by cancer cells to gain metastatic abilities. A hallmark of EMT is E-cadherin loss. In 2000, Snail was reported as the first E-cadherin repressor identified in the context of EMT, advancing our understanding of embryonic development and cancer progression.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epithelial–mesenchymal transition (EMT) is crucial in embryogenesis and can be exploited by cancer cells to gain metastatic abilities. A hallmark of EMT is E-cadherin loss. In 2000, Snail was reported as the first E-cadherin repressor identified in the context of EMT, advancing our understanding of embryonic development and cancer progression.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Yutong Sun</dc:creator>
+                <dc:creator>Li Ma</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A milestone in epithelial–mesenchymal transition</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01228-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Extracellular vesicles, genetic programmers</title>
+                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
+                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Graça Raposo</dc:creator>
+                <dc:creator>Philip D. Stahl</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Talking with force at cell–cell adhesions</title>
+                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
+                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Zoya Mann</dc:creator>
+                <dc:creator>Alpha S. Yap</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Talking with force at cell–cell adhesions</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -397,20 +465,6 @@
             </item>
         
             <item>
-                <title>Dissecting organelle interdependence</title>
-                <link>https://www.nature.com/articles/s41556-023-01285-8</link>
-                <description>The structures and functions of organelles are highly interdependent. Using paired 3D electron microscopy and multi-omics, a study now shows how other organelles affect mitochondrial structure and function: peroxisome-derived lipids reverse mitochondrial stress, highlighting the importance of organelle interconnectivity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The structures and functions of organelles are highly interdependent. Using paired 3D electron microscopy and multi-omics, a study now shows how other organelles affect mitochondrial structure and function: peroxisome-derived lipids reverse mitochondrial stress, highlighting the importance of organelle interconnectivity.</p></div>]]></content:encoded>
-                <pubDate>2023-12-21</pubDate>
-                <dc:creator>Antentor Hinton Jr.</dc:creator>
-                <dc:creator>Andrea G. Marshall</dc:creator>
-                <dc:date>2023-12-21</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Dissecting organelle interdependence</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01285-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Extraordinary collateral mutagenesis induced by CX-5461</title>
                 <link>https://www.nature.com/articles/s41588-023-01611-8</link>
                 <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRAC2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
@@ -448,6 +502,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Contact-tracing app predicts risk of SARS-CoV-2 transmission</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-04063-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dissecting organelle interdependence</title>
+                <link>https://www.nature.com/articles/s41556-023-01285-8</link>
+                <description>The structures and functions of organelles are highly interdependent. Using paired 3D electron microscopy and multi-omics, a study now shows how other organelles affect mitochondrial structure and function: peroxisome-derived lipids reverse mitochondrial stress, highlighting the importance of organelle interconnectivity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The structures and functions of organelles are highly interdependent. Using paired 3D electron microscopy and multi-omics, a study now shows how other organelles affect mitochondrial structure and function: peroxisome-derived lipids reverse mitochondrial stress, highlighting the importance of organelle interconnectivity.</p></div>]]></content:encoded>
+                <pubDate>2023-12-21</pubDate>
+                <dc:creator>Antentor Hinton Jr.</dc:creator>
+                <dc:creator>Andrea G. Marshall</dc:creator>
+                <dc:date>2023-12-21</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Dissecting organelle interdependence</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01285-8</dc:identifier>
             </item>
         
             <item>
@@ -631,20 +699,6 @@
             </item>
         
             <item>
-                <title>COPIng with senescence</title>
-                <link>https://www.nature.com/articles/s41556-023-01276-9</link>
-                <description>There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</p></div>]]></content:encoded>
-                <pubDate>2023-11-27</pubDate>
-                <dc:creator>Stella Victorelli</dc:creator>
-                <dc:creator>João F. Passos</dc:creator>
-                <dc:date>2023-11-27</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>COPIng with senescence</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Teatime for pangenomics</title>
                 <link>https://www.nature.com/articles/s41477-023-01566-y</link>
                 <description>A full pot of diversity is discovered in the tea pangenome.</description>
@@ -656,6 +710,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Teatime for pangenomics</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01566-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>COPIng with senescence</title>
+                <link>https://www.nature.com/articles/s41556-023-01276-9</link>
+                <description>There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</p></div>]]></content:encoded>
+                <pubDate>2023-11-27</pubDate>
+                <dc:creator>Stella Victorelli</dc:creator>
+                <dc:creator>João F. Passos</dc:creator>
+                <dc:date>2023-11-27</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>COPIng with senescence</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
             </item>
         
             <item>
@@ -673,20 +741,6 @@
             </item>
         
             <item>
-                <title>Cytosolic transfer of circulating LPS by EVs</title>
-                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
-                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
-                <pubDate>2023-11-16</pubDate>
-                <dc:creator>Yi Huang</dc:creator>
-                <dc:creator>Rongbin Zhou</dc:creator>
-                <dc:date>2023-11-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>New ingredients for old recipes</title>
                 <link>https://www.nature.com/articles/s41588-023-01591-9</link>
                 <description>The pancreas is an essential organ present in all vertebrates, and human pancreatic agenesis is an extremely rare disorder of largely unknown genetic determinants. A study now demonstrates that a primate-specific regulatory network controlled by the KRAB zinc-finger protein ZNF808 is essential for pancreas development.</description>
@@ -699,6 +753,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>New ingredients for old recipes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01591-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Cytosolic transfer of circulating LPS by EVs</title>
+                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
+                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
+                <pubDate>2023-11-16</pubDate>
+                <dc:creator>Yi Huang</dc:creator>
+                <dc:creator>Rongbin Zhou</dc:creator>
+                <dc:date>2023-11-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
             </item>
         
             <item>
@@ -730,19 +798,6 @@
             </item>
         
             <item>
-                <title>Sperm bud mitochondria to adjust the numbers</title>
-                <link>https://www.nature.com/articles/s41556-023-01255-0</link>
-                <description>Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</p></div>]]></content:encoded>
-                <pubDate>2023-11-09</pubDate>
-                <dc:creator>Diane C. Shakes</dc:creator>
-                <dc:date>2023-11-09</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Sperm bud mitochondria to adjust the numbers</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01255-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</title>
                 <link>https://www.nature.com/articles/s41556-023-01275-w</link>
                 <description>YTHDF family members are ‘readers’ of a common mRNA modification, but their effects on mRNA translation and stability have been disputed. A new study shows that YTHDF1 and YTHDF3 are post-translationally regulated through O-GlcNAcylation, unifying disparate results and pointing to environmental cues that could modulate YTHDF function.</description>
@@ -754,6 +809,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01275-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Sperm bud mitochondria to adjust the numbers</title>
+                <link>https://www.nature.com/articles/s41556-023-01255-0</link>
+                <description>Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</p></div>]]></content:encoded>
+                <pubDate>2023-11-09</pubDate>
+                <dc:creator>Diane C. Shakes</dc:creator>
+                <dc:date>2023-11-09</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Sperm bud mitochondria to adjust the numbers</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01255-0</dc:identifier>
             </item>
         
             <item>
@@ -967,20 +1035,6 @@
             </item>
         
             <item>
-                <title>A diffusion barrier limits nuclear leaks</title>
-                <link>https://www.nature.com/articles/s41556-023-01243-4</link>
-                <description>ESCRT-III seals holes in the nuclear envelope (NE). A study now shows that the Cmp7-directed ESCRT-III cascade that grommets and reseals NE holes after spindle pole body (SPB) extrusion at the end of fission yeast mitosis is complemented by the presence of a proteinaceous diffusion barrier to ensure NE integrity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">ESCRT-III seals holes in the nuclear envelope (NE). A study now shows that the Cmp7-directed ESCRT-III cascade that grommets and reseals NE holes after spindle pole body (SPB) extrusion at the end of fission yeast mitosis is complemented by the presence of a proteinaceous diffusion barrier to ensure NE integrity.</p></div>]]></content:encoded>
-                <pubDate>2023-10-02</pubDate>
-                <dc:creator>Hiral Shah</dc:creator>
-                <dc:creator>Gautam Dey</dc:creator>
-                <dc:date>2023-10-02</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A diffusion barrier limits nuclear leaks</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01243-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Factoring single-cell perturbations</title>
                 <link>https://www.nature.com/articles/s41592-023-02002-x</link>
                 <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
@@ -1106,21 +1160,6 @@
             </item>
         
             <item>
-                <title>DMRT1 drives the human germline forward</title>
-                <link>https://www.nature.com/articles/s41556-023-01196-8</link>
-                <description>The molecular program of human germline commitment remains largely unknown. A new study delineates the multifaceted functions of DMRT1 in human germline development, particularly in the transition from early to late primordial germ cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The molecular program of human germline commitment remains largely unknown. A new study delineates the multifaceted functions of DMRT1 in human germline development, particularly in the transition from early to late primordial germ cells.</p></div>]]></content:encoded>
-                <pubDate>2023-09-14</pubDate>
-                <dc:creator>Yongjie Lu</dc:creator>
-                <dc:creator>Peng Yuan</dc:creator>
-                <dc:creator>Jie Qiao</dc:creator>
-                <dc:date>2023-09-14</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>DMRT1 drives the human germline forward</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01196-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Harnessing medical twitter data for pathology AI</title>
                 <link>https://www.nature.com/articles/s41591-023-02530-1</link>
                 <description>Using pathology data from Twitter, researchers have built a visual-language model for classifying and retrieving histopathology images — representing a milestone in the development of multifunctional foundational artificial intelligence models in computational pathology.</description>
@@ -1149,20 +1188,6 @@
             </item>
         
             <item>
-                <title>Pausing pluripotency via RNA methylation</title>
-                <link>https://www.nature.com/articles/s41556-023-01203-y</link>
-                <description>Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Embryonic diapause in development and paused pluripotency in embryonic stem cells result in a state of hypotranscription through mechanisms that remain unclear. A new study dissects the role of METTL3-deposited global m6A RNA methylation in mediating this transcriptional dormancy.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Xueting Xu</dc:creator>
-                <dc:creator>Baoming Qin</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Pausing pluripotency via RNA methylation</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01203-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pioneering the path to NASH biomarker approval</title>
                 <link>https://www.nature.com/articles/s41591-023-02527-w</link>
                 <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
@@ -1174,20 +1199,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>o8G modifications rewire tumoral microRNAs</title>
-                <link>https://www.nature.com/articles/s41556-023-01179-9</link>
-                <description>RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">RNA modifications have emerged as key gene regulators. A new study shows that increased levels of reactive oxygen species in cancer induce widespread, sequence-specific modifications of guanines in the seed regions of microRNAs, altering the targets of those miRNAs and influencing tumorigenesis.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Marta Montes</dc:creator>
-                <dc:creator>Maite Huarte</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>o8G modifications rewire tumoral microRNAs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01179-9</dc:identifier>
             </item>
         
             <item>
@@ -1286,20 +1297,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Fluorogenic chemically induced dimerization</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A non-coding m6A reader promotes leukaemia</title>
-                <link>https://www.nature.com/articles/s41556-023-01205-w</link>
-                <description>Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pathways linked to the modification of RNA with N6-methyladenosine (m6A) are known to be involved in initiating and maintaining cancer. But many of the key components of these pathways remain undiscovered. The RBFOX2 protein has now been identified as an m6A reader involved in locus-specific chromatin regulation, with therapeutic implications for myeloid leukaemia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>James Russell</dc:creator>
-                <dc:creator>Konstantinos Tzelepis</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A non-coding m6A reader promotes leukaemia</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01205-w</dc:identifier>
             </item>
         
             <item>
