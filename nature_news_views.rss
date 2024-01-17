@@ -13,6 +13,32 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Large language models help computer programs to evolve</title>
+                <link>https://www.nature.com/articles/d41586-023-03998-0</link>
+                <description>A branch of computer science known as genetic programming has been given a boost with the application of large language models that are trained on the combined intuition of the world’s programmers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A branch of computer science known as genetic programming has been given a boost with the application of large language models that are trained on the combined intuition of the world’s programmers.</p></div>]]></content:encoded>
+                <pubDate>2024-01-17</pubDate>
+                <dc:creator>Jean-Baptiste Mouret</dc:creator>
+                <dc:date>2024-01-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Large language models help computer programs to evolve</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03998-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Self-assembling DNA recognizes patterns</title>
+                <link>https://www.nature.com/articles/d41586-023-03997-1</link>
+                <description>Self-assembling DNA can process information, but the computations have been limited to digital algorithms. A self-assembling DNA system has now been designed to perform complex pattern recognition.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Self-assembling DNA can process information, but the computations have been limited to digital algorithms. A self-assembling DNA system has now been designed to perform complex pattern recognition.</p></div>]]></content:encoded>
+                <pubDate>2024-01-17</pubDate>
+                <dc:creator>Andrew Phillips</dc:creator>
+                <dc:date>2024-01-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Self-assembling DNA recognizes patterns</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03997-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Defining the chromatin signature of pluripotency</title>
                 <link>https://www.nature.com/articles/s41556-023-01268-9</link>
                 <description>The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</description>
@@ -50,6 +76,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>A milestone in epithelial–mesenchymal transition</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01228-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: the royal ‘we’, and an experiment in telegraphy</title>
+                <link>https://www.nature.com/articles/d41586-023-04001-6</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
             </item>
         
             <item>
@@ -93,19 +132,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The science of falls and how to prevent them</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: the royal ‘we’, and an experiment in telegraphy</title>
-                <link>https://www.nature.com/articles/d41586-023-04001-6</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
             </item>
         
             <item>
@@ -192,20 +218,6 @@
             </item>
         
             <item>
-                <title>Prehistoric events might explain European multiple sclerosis risk</title>
-                <link>https://www.nature.com/articles/d41586-023-03977-5</link>
-                <description>An exploration of more than 1,600 ancient Eurasian genomes suggests that genetic changes that increase autoimmune-disease risk in modern Europeans could have protected ancient Europeans from pathogens.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An exploration of more than 1,600 ancient Eurasian genomes suggests that genetic changes that increase autoimmune-disease risk in modern Europeans could have protected ancient Europeans from pathogens.</p></div>]]></content:encoded>
-                <pubDate>2024-01-10</pubDate>
-                <dc:creator>Samira  Asgari</dc:creator>
-                <dc:creator>Lionel A.  Pousaz</dc:creator>
-                <dc:date>2024-01-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Prehistoric events might explain European multiple sclerosis risk</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03977-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Snow loss pinned to human-induced emissions</title>
                 <link>https://www.nature.com/articles/d41586-023-03993-5</link>
                 <description>Analysis of a large, varied data set reveals that snow cover in the Northern Hemisphere has undergone marked changes in the past four decades. Evidence that humans caused the shift suggests that snow loss will accelerate in the future.</description>
@@ -274,16 +286,17 @@
             </item>
         
             <item>
-                <title>From the archive: the other Darwin, and illegitimate access to honey</title>
-                <link>https://www.nature.com/articles/d41586-023-04000-7</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-01-09</pubDate>
-                
-                <dc:date>2024-01-09</dc:date>
+                <title>Prehistoric events might explain European multiple sclerosis risk</title>
+                <link>https://www.nature.com/articles/d41586-023-03977-5</link>
+                <description>An exploration of more than 1,600 ancient Eurasian genomes suggests that genetic changes that increase autoimmune-disease risk in modern Europeans could have protected ancient Europeans from pathogens.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An exploration of more than 1,600 ancient Eurasian genomes suggests that genetic changes that increase autoimmune-disease risk in modern Europeans could have protected ancient Europeans from pathogens.</p></div>]]></content:encoded>
+                <pubDate>2024-01-10</pubDate>
+                <dc:creator>Samira  Asgari</dc:creator>
+                <dc:creator>Lionel A.  Pousaz</dc:creator>
+                <dc:date>2024-01-10</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>From the archive: the other Darwin, and illegitimate access to honey</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04000-7</dc:identifier>
+                <dc:title>Prehistoric events might explain European multiple sclerosis risk</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03977-5</dc:identifier>
             </item>
         
             <item>
@@ -297,6 +310,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>EPAC1 boosts thermogenic adipocyte formation</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01304-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: the other Darwin, and illegitimate access to honey</title>
+                <link>https://www.nature.com/articles/d41586-023-04000-7</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-01-09</pubDate>
+                
+                <dc:date>2024-01-09</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: the other Darwin, and illegitimate access to honey</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04000-7</dc:identifier>
             </item>
         
             <item>
@@ -532,19 +558,6 @@
             </item>
         
             <item>
-                <title>Mysterious ultraslow and ordered activity observed in the cortex</title>
-                <link>https://www.nature.com/articles/d41586-023-03795-9</link>
-                <description>Neurons with a role in navigation fire sequentially in mice, forming patterns that repeat every minute or so — but which are neither spatially organized, nor related to any visible behaviour.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Neurons with a role in navigation fire sequentially in mice, forming patterns that repeat every minute or so — but which are neither spatially organized, nor related to any visible behaviour.</p></div>]]></content:encoded>
-                <pubDate>2023-12-20</pubDate>
-                <dc:creator>Gilles Laurent</dc:creator>
-                <dc:date>2023-12-20</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Mysterious ultraslow and ordered activity observed in the cortex</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03795-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Large language models direct automated chemistry laboratory</title>
                 <link>https://www.nature.com/articles/d41586-023-03790-0</link>
                 <description>Automation of chemistry research has focused on developing robots to execute jobs. Artificial-intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts.</description>
@@ -571,19 +584,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Engineered nanopores for exopeptidase protein sequencing</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02136-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: scientific spelling, and ancient Egyptian art</title>
-                <link>https://www.nature.com/articles/d41586-023-03789-7</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-12-19</pubDate>
-                
-                <dc:date>2023-12-19</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: scientific spelling, and ancient Egyptian art</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03789-7</dc:identifier>
             </item>
         
             <item>
