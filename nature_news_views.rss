@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>From the archive: the mechanics of athletics, and the eating habits of jellyfish</title>
+                <link>https://www.nature.com/articles/d41586-024-00157-x</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-01-23</pubDate>
+                
+                <dc:date>2024-01-23</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: the mechanics of athletics, and the eating habits of jellyfish</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00157-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Large language models help computer programs to evolve</title>
                 <link>https://www.nature.com/articles/d41586-023-03998-0</link>
                 <description>A branch of computer science known as genetic programming has been given a boost with the application of large language models that are trained on the combined intuition of the world’s programmers.</description>
@@ -65,6 +78,19 @@
             </item>
         
             <item>
+                <title>From the archive: the royal ‘we’, and an experiment in telegraphy</title>
+                <link>https://www.nature.com/articles/d41586-023-04001-6</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>A milestone in epithelial–mesenchymal transition</title>
                 <link>https://www.nature.com/articles/s41556-023-01228-3</link>
                 <description>Epithelial–mesenchymal transition (EMT) is crucial in embryogenesis and can be exploited by cancer cells to gain metastatic abilities. A hallmark of EMT is E-cadherin loss. In 2000, Snail was reported as the first E-cadherin repressor identified in the context of EMT, advancing our understanding of embryonic development and cancer progression.</description>
@@ -76,19 +102,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>A milestone in epithelial–mesenchymal transition</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01228-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: the royal ‘we’, and an experiment in telegraphy</title>
-                <link>https://www.nature.com/articles/d41586-023-04001-6</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
             </item>
         
             <item>
@@ -218,19 +231,6 @@
             </item>
         
             <item>
-                <title>Snow loss pinned to human-induced emissions</title>
-                <link>https://www.nature.com/articles/d41586-023-03993-5</link>
-                <description>Analysis of a large, varied data set reveals that snow cover in the Northern Hemisphere has undergone marked changes in the past four decades. Evidence that humans caused the shift suggests that snow loss will accelerate in the future.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Analysis of a large, varied data set reveals that snow cover in the Northern Hemisphere has undergone marked changes in the past four decades. Evidence that humans caused the shift suggests that snow loss will accelerate in the future.</p></div>]]></content:encoded>
-                <pubDate>2024-01-10</pubDate>
-                <dc:creator>Jouni  Pulliainen</dc:creator>
-                <dc:date>2024-01-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Snow loss pinned to human-induced emissions</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03993-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>How plants iron out the competing interests of growth and defence</title>
                 <link>https://www.nature.com/articles/d41586-023-03995-3</link>
                 <description>Once a plant recognizes a pathogen, part of its defence strategy is to withhold iron. The mechanism involves suppression of root acquisition of iron by degrading a molecule that activates the iron-uptake pathway.</description>
@@ -297,6 +297,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Prehistoric events might explain European multiple sclerosis risk</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03977-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Snow loss pinned to human-induced emissions</title>
+                <link>https://www.nature.com/articles/d41586-023-03993-5</link>
+                <description>Analysis of a large, varied data set reveals that snow cover in the Northern Hemisphere has undergone marked changes in the past four decades. Evidence that humans caused the shift suggests that snow loss will accelerate in the future.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Analysis of a large, varied data set reveals that snow cover in the Northern Hemisphere has undergone marked changes in the past four decades. Evidence that humans caused the shift suggests that snow loss will accelerate in the future.</p></div>]]></content:encoded>
+                <pubDate>2024-01-10</pubDate>
+                <dc:creator>Jouni  Pulliainen</dc:creator>
+                <dc:date>2024-01-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Snow loss pinned to human-induced emissions</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03993-5</dc:identifier>
             </item>
         
             <item>
@@ -555,20 +568,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Shared chromosomal segments connect ancient human societies</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01606-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Large language models direct automated chemistry laboratory</title>
-                <link>https://www.nature.com/articles/d41586-023-03790-0</link>
-                <description>Automation of chemistry research has focused on developing robots to execute jobs. Artificial-intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Automation of chemistry research has focused on developing robots to execute jobs. Artificial-intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts.</p></div>]]></content:encoded>
-                <pubDate>2023-12-20</pubDate>
-                <dc:creator>Ana Laura Dias</dc:creator>
-                <dc:creator>Tiago Rodrigues</dc:creator>
-                <dc:date>2023-12-20</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Large language models direct automated chemistry laboratory</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03790-0</dc:identifier>
             </item>
         
             <item>
