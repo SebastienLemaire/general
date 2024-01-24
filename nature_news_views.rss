@@ -13,6 +13,32 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Iron extracted from hazardous waste of aluminium production</title>
+                <link>https://www.nature.com/articles/d41586-024-00071-2</link>
+                <description>Millions of tonnes of ‘red mud’, a hazardous waste of aluminium production, are generated annually. A potentially sustainable process for treating this mud shows that it could become a source of iron for making steel.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Millions of tonnes of ‘red mud’, a hazardous waste of aluminium production, are generated annually. A potentially sustainable process for treating this mud shows that it could become a source of iron for making steel.</p></div>]]></content:encoded>
+                <pubDate>2024-01-24</pubDate>
+                <dc:creator>Chenna Rao Borra</dc:creator>
+                <dc:date>2024-01-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Iron extracted from hazardous waste of aluminium production</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00071-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Groundwater decline is global but not universal</title>
+                <link>https://www.nature.com/articles/d41586-024-00070-3</link>
+                <description>Measurements of groundwater levels in 170,000 wells reveal the global extent of groundwater decline. But the data also show that such depletion is not inevitable in a changing climate, providing hope for a resilient water future.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Measurements of groundwater levels in 170,000 wells reveal the global extent of groundwater decline. But the data also show that such depletion is not inevitable in a changing climate, providing hope for a resilient water future.</p></div>]]></content:encoded>
+                <pubDate>2024-01-24</pubDate>
+                <dc:creator>Donald John MacAllister</dc:creator>
+                <dc:date>2024-01-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Groundwater decline is global but not universal</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00070-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: the mechanics of athletics, and the eating habits of jellyfish</title>
                 <link>https://www.nature.com/articles/d41586-024-00157-x</link>
                 <description>Snippets from Nature’s past.</description>
@@ -52,6 +78,19 @@
             </item>
         
             <item>
+                <title>From the archive: the royal ‘we’, and an experiment in telegraphy</title>
+                <link>https://www.nature.com/articles/d41586-023-04001-6</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Defining the chromatin signature of pluripotency</title>
                 <link>https://www.nature.com/articles/s41556-023-01268-9</link>
                 <description>The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</description>
@@ -75,19 +114,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>The rules of the totipotency treasure hunt</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01282-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: the royal ‘we’, and an experiment in telegraphy</title>
-                <link>https://www.nature.com/articles/d41586-023-04001-6</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
             </item>
         
             <item>
@@ -231,33 +257,6 @@
             </item>
         
             <item>
-                <title>How plants iron out the competing interests of growth and defence</title>
-                <link>https://www.nature.com/articles/d41586-023-03995-3</link>
-                <description>Once a plant recognizes a pathogen, part of its defence strategy is to withhold iron. The mechanism involves suppression of root acquisition of iron by degrading a molecule that activates the iron-uptake pathway.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Once a plant recognizes a pathogen, part of its defence strategy is to withhold iron. The mechanism involves suppression of root acquisition of iron by degrading a molecule that activates the iron-uptake pathway.</p></div>]]></content:encoded>
-                <pubDate>2024-01-10</pubDate>
-                <dc:creator>Shanice S.  Webster</dc:creator>
-                <dc:creator>Mary Lou  Guerinot</dc:creator>
-                <dc:date>2024-01-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>How plants iron out the competing interests of growth and defence</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03995-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A 2D route to 3D computer chips</title>
-                <link>https://www.nature.com/articles/d41586-023-03992-6</link>
-                <description>Ultrathin materials have long been touted as a solution to the problems faced by the ever-growing semiconductor industry. Evidence that 3D chips can be built from 2D semiconductors suggests that the hype was justified.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ultrathin materials have long been touted as a solution to the problems faced by the ever-growing semiconductor industry. Evidence that 3D chips can be built from 2D semiconductors suggests that the hype was justified.</p></div>]]></content:encoded>
-                <pubDate>2024-01-10</pubDate>
-                <dc:creator>Tania  Roy</dc:creator>
-                <dc:date>2024-01-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>A 2D route to 3D computer chips</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03992-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>DNA sensing and repair systems unexpectedly team up against cancer</title>
                 <link>https://www.nature.com/articles/d41586-023-03994-4</link>
                 <description>DNA in the cytoplasm can be a sign of abnormalities such as viral infections or cancer. A protein with a role in DNA-damage response was unexpectedly found to activate defences against the threats indicated by cytoplasmic DNA.</description>
@@ -310,6 +309,33 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Snow loss pinned to human-induced emissions</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03993-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How plants iron out the competing interests of growth and defence</title>
+                <link>https://www.nature.com/articles/d41586-023-03995-3</link>
+                <description>Once a plant recognizes a pathogen, part of its defence strategy is to withhold iron. The mechanism involves suppression of root acquisition of iron by degrading a molecule that activates the iron-uptake pathway.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Once a plant recognizes a pathogen, part of its defence strategy is to withhold iron. The mechanism involves suppression of root acquisition of iron by degrading a molecule that activates the iron-uptake pathway.</p></div>]]></content:encoded>
+                <pubDate>2024-01-10</pubDate>
+                <dc:creator>Shanice S.  Webster</dc:creator>
+                <dc:creator>Mary Lou  Guerinot</dc:creator>
+                <dc:date>2024-01-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How plants iron out the competing interests of growth and defence</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03995-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A 2D route to 3D computer chips</title>
+                <link>https://www.nature.com/articles/d41586-023-03992-6</link>
+                <description>Ultrathin materials have long been touted as a solution to the problems faced by the ever-growing semiconductor industry. Evidence that 3D chips can be built from 2D semiconductors suggests that the hype was justified.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ultrathin materials have long been touted as a solution to the problems faced by the ever-growing semiconductor industry. Evidence that 3D chips can be built from 2D semiconductors suggests that the hype was justified.</p></div>]]></content:encoded>
+                <pubDate>2024-01-10</pubDate>
+                <dc:creator>Tania  Roy</dc:creator>
+                <dc:date>2024-01-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A 2D route to 3D computer chips</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03992-6</dc:identifier>
             </item>
         
             <item>
@@ -464,19 +490,6 @@
             </item>
         
             <item>
-                <title>Neutrino secrets could be revealed by Earth’s atmosphere</title>
-                <link>https://www.nature.com/articles/d41586-023-04085-0</link>
-                <description>Scientists typically look at the skies or take to the laboratory to probe the neutrino’s properties. But neutrinos produced in Earth’s atmosphere could reveal this long-sought information — and the experiments are already well under way.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists typically look at the skies or take to the laboratory to probe the neutrino’s properties. But neutrinos produced in Earth’s atmosphere could reveal this long-sought information — and the experiments are already well under way.</p></div>]]></content:encoded>
-                <pubDate>2023-12-22</pubDate>
-                <dc:creator>Josh  Spitz</dc:creator>
-                <dc:date>2023-12-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Neutrino secrets could be revealed by Earth’s atmosphere</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04085-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Cell perturbation and lasers illuminate the genetics of latent blood cell traits</title>
                 <link>https://www.nature.com/articles/s41588-023-01623-4</link>
                 <description>A new study combining experimental treatments of human blood cells from thousands of individuals with flow-cytometry-based phenotyping and then genome-wide association analyses identifies genetic loci associated with non-resting cell states. Integrating the results with disease association signals yields insights into the underlying biology.</description>
@@ -528,19 +541,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>RNA polymerase II promoter-proximal pausing promotes BAF chromatin binding and remodeling</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01628-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Contact-tracing app predicts risk of SARS-CoV-2 transmission</title>
-                <link>https://www.nature.com/articles/d41586-023-04063-6</link>
-                <description>The risk of catching COVID-19 as calculated by a smartphone app scales with the probability of subsequently testing positive for the coronavirus SARS-CoV-2, showing that digital contact tracing is a useful tool for fighting future pandemics.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The risk of catching COVID-19 as calculated by a smartphone app scales with the probability of subsequently testing positive for the coronavirus SARS-CoV-2, showing that digital contact tracing is a useful tool for fighting future pandemics.</p></div>]]></content:encoded>
-                <pubDate>2023-12-21</pubDate>
-                <dc:creator>Justus Benzler</dc:creator>
-                <dc:date>2023-12-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Contact-tracing app predicts risk of SARS-CoV-2 transmission</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04063-6</dc:identifier>
             </item>
         
             <item>
