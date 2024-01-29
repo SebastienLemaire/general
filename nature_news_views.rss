@@ -13,6 +13,46 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Mobile atoms enable efficient computation with logical qubits</title>
+                <link>https://www.nature.com/articles/d41586-024-00075-y</link>
+                <description>Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>Barbara M. Terhal</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mobile atoms enable efficient computation with logical qubits</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00075-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An ancient psychedelic for traumatic brain injury</title>
+                <link>https://www.nature.com/articles/s41591-023-02759-w</link>
+                <description>In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>David L. Brody</dc:creator>
+                <dc:creator>Shan H. Siddiqi</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Bacterial prey turns the tables on predator</title>
+                <link>https://www.nature.com/articles/d41586-024-00228-z</link>
+                <description>A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>Andrew Mitchinson</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Bacterial prey turns the tables on predator</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00228-z</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Iron extracted from hazardous waste of aluminium production</title>
                 <link>https://www.nature.com/articles/d41586-024-00071-2</link>
                 <description>Millions of tonnes of ‘red mud’, a hazardous waste of aluminium production, are generated annually. A potentially sustainable process for treating this mud shows that it could become a source of iron for making steel.</description>
@@ -145,20 +185,6 @@
             </item>
         
             <item>
-                <title>Talking with force at cell–cell adhesions</title>
-                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
-                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Zoya Mann</dc:creator>
-                <dc:creator>Alpha S. Yap</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Talking with force at cell–cell adhesions</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -171,6 +197,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The science of falls and how to prevent them</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Talking with force at cell–cell adhesions</title>
+                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
+                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Zoya Mann</dc:creator>
+                <dc:creator>Alpha S. Yap</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Talking with force at cell–cell adhesions</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
             </item>
         
             <item>
@@ -216,20 +256,6 @@
             </item>
         
             <item>
-                <title>Sticky gels designed for tissue-healing therapies and diagnostics</title>
-                <link>https://www.nature.com/articles/d41586-023-03996-2</link>
-                <description>Materials that adhere tightly to human tissues can promote healing and boost the sensitivity of biomedical diagnostic devices. An ‘evolving’ gel has been made that synergizes two strategies for forming interfaces with tissue.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Materials that adhere tightly to human tissues can promote healing and boost the sensitivity of biomedical diagnostic devices. An ‘evolving’ gel has been made that synergizes two strategies for forming interfaces with tissue.</p></div>]]></content:encoded>
-                <pubDate>2024-01-11</pubDate>
-                <dc:creator>Sophia J. Bailey</dc:creator>
-                <dc:creator>Eric A. Appel</dc:creator>
-                <dc:date>2024-01-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Sticky gels designed for tissue-healing therapies and diagnostics</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03996-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Urban youth most isolated in largest cities</title>
                 <link>https://www.nature.com/articles/d41586-023-04083-2</link>
                 <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</description>
@@ -257,17 +283,17 @@
             </item>
         
             <item>
-                <title>DNA sensing and repair systems unexpectedly team up against cancer</title>
-                <link>https://www.nature.com/articles/d41586-023-03994-4</link>
-                <description>DNA in the cytoplasm can be a sign of abnormalities such as viral infections or cancer. A protein with a role in DNA-damage response was unexpectedly found to activate defences against the threats indicated by cytoplasmic DNA.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA in the cytoplasm can be a sign of abnormalities such as viral infections or cancer. A protein with a role in DNA-damage response was unexpectedly found to activate defences against the threats indicated by cytoplasmic DNA.</p></div>]]></content:encoded>
-                <pubDate>2024-01-10</pubDate>
-                <dc:creator>Silvia  Monticelli</dc:creator>
-                <dc:creator>Petr  Cejka</dc:creator>
-                <dc:date>2024-01-10</dc:date>
+                <title>Sticky gels designed for tissue-healing therapies and diagnostics</title>
+                <link>https://www.nature.com/articles/d41586-023-03996-2</link>
+                <description>Materials that adhere tightly to human tissues can promote healing and boost the sensitivity of biomedical diagnostic devices. An ‘evolving’ gel has been made that synergizes two strategies for forming interfaces with tissue.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Materials that adhere tightly to human tissues can promote healing and boost the sensitivity of biomedical diagnostic devices. An ‘evolving’ gel has been made that synergizes two strategies for forming interfaces with tissue.</p></div>]]></content:encoded>
+                <pubDate>2024-01-11</pubDate>
+                <dc:creator>Sophia J. Bailey</dc:creator>
+                <dc:creator>Eric A. Appel</dc:creator>
+                <dc:date>2024-01-11</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>DNA sensing and repair systems unexpectedly team up against cancer</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03994-4</dc:identifier>
+                <dc:title>Sticky gels designed for tissue-healing therapies and diagnostics</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03996-2</dc:identifier>
             </item>
         
             <item>
@@ -336,6 +362,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>A 2D route to 3D computer chips</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03992-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>DNA sensing and repair systems unexpectedly team up against cancer</title>
+                <link>https://www.nature.com/articles/d41586-023-03994-4</link>
+                <description>DNA in the cytoplasm can be a sign of abnormalities such as viral infections or cancer. A protein with a role in DNA-damage response was unexpectedly found to activate defences against the threats indicated by cytoplasmic DNA.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA in the cytoplasm can be a sign of abnormalities such as viral infections or cancer. A protein with a role in DNA-damage response was unexpectedly found to activate defences against the threats indicated by cytoplasmic DNA.</p></div>]]></content:encoded>
+                <pubDate>2024-01-10</pubDate>
+                <dc:creator>Silvia  Monticelli</dc:creator>
+                <dc:creator>Petr  Cejka</dc:creator>
+                <dc:date>2024-01-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>DNA sensing and repair systems unexpectedly team up against cancer</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03994-4</dc:identifier>
             </item>
         
             <item>
@@ -449,19 +489,6 @@
             </item>
         
             <item>
-                <title>From the archive: a towering legacy, and unseasonal wasps</title>
-                <link>https://www.nature.com/articles/d41586-023-03999-z</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-01-02</pubDate>
-                
-                <dc:date>2024-01-02</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: a towering legacy, and unseasonal wasps</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03999-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Tackling inappropriate antibiotic use in low-and middle-income countries</title>
                 <link>https://www.nature.com/articles/s41591-023-02725-6</link>
                 <description>New data show that electronic clinical decision support systems integrated with point-of-care tests can lead to meaningful reductions in antibiotic use in children in low- and middle-income countries, without compromising health outcomes — but investment in human resources is crucial to their success.</description>
@@ -474,19 +501,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Tackling inappropriate antibiotic use in low-and middle-income countries</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02725-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: waltzing mice, and Louis Pasteur’s beer battle</title>
-                <link>https://www.nature.com/articles/d41586-023-04078-z</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2023-12-27</pubDate>
-                
-                <dc:date>2023-12-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: waltzing mice, and Louis Pasteur’s beer battle</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04078-z</dc:identifier>
             </item>
         
             <item>
@@ -824,20 +838,6 @@
             </item>
         
             <item>
-                <title>Spinal stimulation for unfreezing gait in Parkinson’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02604-0</link>
-                <description>Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Aviv Mizrahi-Kliger</dc:creator>
-                <dc:creator>Karunesh Ganguly</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Spinal stimulation for unfreezing gait in Parkinson’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02604-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Genetically encoded shape probes for cryogenic electron tomography</title>
                 <link>https://www.nature.com/articles/s41592-023-02044-1</link>
                 <description>A class of protein-based molecular shape probes move us closer toward the goal of a general, genetically encoded tagging system for cryogenic electron tomography.</description>
@@ -877,6 +877,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Spinal stimulation for unfreezing gait in Parkinson’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02604-0</link>
+                <description>Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</p></div>]]></content:encoded>
+                <pubDate>2023-11-06</pubDate>
+                <dc:creator>Aviv Mizrahi-Kliger</dc:creator>
+                <dc:creator>Karunesh Ganguly</dc:creator>
+                <dc:date>2023-11-06</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Spinal stimulation for unfreezing gait in Parkinson’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02604-0</dc:identifier>
             </item>
         
             <item>
@@ -1296,21 +1310,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Fluorogenic chemically induced dimerization</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Using the methylome to predict pre-eclampsia</title>
-                <link>https://www.nature.com/articles/s41591-023-02499-x</link>
-                <description>A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A blood test done in early pregnancy that measures cell-free DNA methylation could represent a novel way to predict the risk of preterm pre-eclampsia.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>Tu’uhevaha J. Kaitu’u-Lino</dc:creator>
-                <dc:creator>Lucy A. Bartho</dc:creator>
-                <dc:creator>Stephen Tong</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Using the methylome to predict pre-eclampsia</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02499-x</dc:identifier>
             </item>
         
             <item>
