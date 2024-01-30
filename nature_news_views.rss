@@ -13,17 +13,16 @@
             <ttl>120</ttl>
     
             <item>
-                <title>An ancient psychedelic for traumatic brain injury</title>
-                <link>https://www.nature.com/articles/s41591-023-02759-w</link>
-                <description>In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</p></div>]]></content:encoded>
-                <pubDate>2024-01-29</pubDate>
-                <dc:creator>David L. Brody</dc:creator>
-                <dc:creator>Shan H. Siddiqi</dc:creator>
-                <dc:date>2024-01-29</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
+                <title>From the archive: Mendelian inheritance, and an enigmatic echo</title>
+                <link>https://www.nature.com/articles/d41586-024-00234-1</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-01-30</pubDate>
+                
+                <dc:date>2024-01-30</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: Mendelian inheritance, and an enigmatic echo</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00234-1</dc:identifier>
             </item>
         
             <item>
@@ -40,17 +39,17 @@
             </item>
         
             <item>
-                <title>Evidence for iatrogenic transmission of Alzheimer’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02768-9</link>
-                <description>Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</p></div>]]></content:encoded>
+                <title>An ancient psychedelic for traumatic brain injury</title>
+                <link>https://www.nature.com/articles/s41591-023-02759-w</link>
+                <description>In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</p></div>]]></content:encoded>
                 <pubDate>2024-01-29</pubDate>
-                <dc:creator>Mathias Jucker</dc:creator>
-                <dc:creator>Lary C. Walker</dc:creator>
+                <dc:creator>David L. Brody</dc:creator>
+                <dc:creator>Shan H. Siddiqi</dc:creator>
                 <dc:date>2024-01-29</dc:date>
                 <dc:source>Nature Medicine</dc:source>
-                <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
+                <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
             </item>
         
             <item>
@@ -64,6 +63,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Bacterial prey turns the tables on predator</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00228-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Evidence for iatrogenic transmission of Alzheimer’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02768-9</link>
+                <description>Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>Mathias Jucker</dc:creator>
+                <dc:creator>Lary C. Walker</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
             </item>
         
             <item>
@@ -270,19 +283,6 @@
             </item>
         
             <item>
-                <title>Urban youth most isolated in largest cities</title>
-                <link>https://www.nature.com/articles/d41586-023-04083-2</link>
-                <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</p></div>]]></content:encoded>
-                <pubDate>2024-01-11</pubDate>
-                <dc:creator>Victor  Couture</dc:creator>
-                <dc:date>2024-01-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Urban youth most isolated in largest cities</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04083-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The grand challenge of moving cancer whole-genome sequencing into the clinic</title>
                 <link>https://www.nature.com/articles/s41591-023-02697-7</link>
                 <description>The largest whole-genome sequencing study thus far has revealed myriad actionable alterations and potential biomarkers for 33 cancer types, but various logistical, technical and economic challenges must be overcome before this technique can become standard of care.</description>
@@ -308,6 +308,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Sticky gels designed for tissue-healing therapies and diagnostics</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03996-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Urban youth most isolated in largest cities</title>
+                <link>https://www.nature.com/articles/d41586-023-04083-2</link>
+                <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</p></div>]]></content:encoded>
+                <pubDate>2024-01-11</pubDate>
+                <dc:creator>Victor  Couture</dc:creator>
+                <dc:date>2024-01-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Urban youth most isolated in largest cities</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-04083-2</dc:identifier>
             </item>
         
             <item>
@@ -443,20 +456,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>FUS maintains TAZ fluidity and function</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01318-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Satellite images reveal untracked human activity on the oceans</title>
-                <link>https://www.nature.com/articles/d41586-023-03983-7</link>
-                <description>Machine learning and satellite imagery have been used to map industrial infrastructure at sea — from fishing vessels to wind turbines. The findings provide a more comprehensive picture of maritime activity than ever before.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Machine learning and satellite imagery have been used to map industrial infrastructure at sea — from fishing vessels to wind turbines. The findings provide a more comprehensive picture of maritime activity than ever before.</p></div>]]></content:encoded>
-                <pubDate>2024-01-03</pubDate>
-                <dc:creator>Konstantin Klemmer</dc:creator>
-                <dc:creator>Esther Rolf</dc:creator>
-                <dc:date>2024-01-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Satellite images reveal untracked human activity on the oceans</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03983-7</dc:identifier>
             </item>
         
             <item>
