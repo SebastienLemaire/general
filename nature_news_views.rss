@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>An ancient psychedelic for traumatic brain injury</title>
+                <link>https://www.nature.com/articles/s41591-023-02759-w</link>
+                <description>In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>David L. Brody</dc:creator>
+                <dc:creator>Shan H. Siddiqi</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Mobile atoms enable efficient computation with logical qubits</title>
                 <link>https://www.nature.com/articles/d41586-024-00075-y</link>
                 <description>Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</description>
@@ -26,17 +40,17 @@
             </item>
         
             <item>
-                <title>An ancient psychedelic for traumatic brain injury</title>
-                <link>https://www.nature.com/articles/s41591-023-02759-w</link>
-                <description>In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</p></div>]]></content:encoded>
+                <title>Evidence for iatrogenic transmission of Alzheimer’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02768-9</link>
+                <description>Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</p></div>]]></content:encoded>
                 <pubDate>2024-01-29</pubDate>
-                <dc:creator>David L. Brody</dc:creator>
-                <dc:creator>Shan H. Siddiqi</dc:creator>
+                <dc:creator>Mathias Jucker</dc:creator>
+                <dc:creator>Lary C. Walker</dc:creator>
                 <dc:date>2024-01-29</dc:date>
                 <dc:source>Nature Medicine</dc:source>
-                <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
+                <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
             </item>
         
             <item>
@@ -171,20 +185,6 @@
             </item>
         
             <item>
-                <title>Extracellular vesicles, genetic programmers</title>
-                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
-                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Graça Raposo</dc:creator>
-                <dc:creator>Philip D. Stahl</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -197,6 +197,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The science of falls and how to prevent them</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Extracellular vesicles, genetic programmers</title>
+                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
+                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Graça Raposo</dc:creator>
+                <dc:creator>Philip D. Stahl</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
             </item>
         
             <item>
@@ -783,6 +797,19 @@
             </item>
         
             <item>
+                <title>PROTACs reach clinical development in inflammatory skin disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02622-y</link>
+                <description>A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</p></div>]]></content:encoded>
+                <pubDate>2023-11-13</pubDate>
+                <dc:creator>Fleur M. Ferguson</dc:creator>
+                <dc:date>2023-11-13</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>PROTACs reach clinical development in inflammatory skin disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02622-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Person-centered HIV PrEP for cisgender women</title>
                 <link>https://www.nature.com/articles/s41591-023-02618-8</link>
                 <description>Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.</description>
@@ -795,19 +822,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Person-centered HIV PrEP for cisgender women</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02618-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>PROTACs reach clinical development in inflammatory skin disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02622-y</link>
-                <description>A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</p></div>]]></content:encoded>
-                <pubDate>2023-11-13</pubDate>
-                <dc:creator>Fleur M. Ferguson</dc:creator>
-                <dc:date>2023-11-13</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>PROTACs reach clinical development in inflammatory skin disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02622-y</dc:identifier>
             </item>
         
             <item>
@@ -1198,20 +1212,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Hobbies for mental health</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02508-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Pioneering the path to NASH biomarker approval</title>
-                <link>https://www.nature.com/articles/s41591-023-02527-w</link>
-                <description>Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite an urgent need, approved and clinically usable biomarkers for non-alcoholic steatohepatitis (NASH) remain elusive — but a new study moves the field closer to this goal.</p></div>]]></content:encoded>
-                <pubDate>2023-09-07</pubDate>
-                <dc:creator>Aleksander Krag</dc:creator>
-                <dc:creator>Mary E. Rinella</dc:creator>
-                <dc:date>2023-09-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Pioneering the path to NASH biomarker approval</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02527-w</dc:identifier>
             </item>
         
             <item>
