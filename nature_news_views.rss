@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Lipid remodelling in mammalian development</title>
+                <link>https://www.nature.com/articles/s41556-023-01327-1</link>
+                <description>Lipids have a pivotal role in the growth of oocytes and fertilized eggs. Ultra-sensitive lipidome analysis provides a complete overview of the lipid profile during early embryonic development and brings insights into how dynamic lipid remodelling determines the fate of mammalian embryos.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Lipids have a pivotal role in the growth of oocytes and fertilized eggs. Ultra-sensitive lipidome analysis provides a complete overview of the lipid profile during early embryonic development and brings insights into how dynamic lipid remodelling determines the fate of mammalian embryos.</p></div>]]></content:encoded>
+                <pubDate>2024-02-01</pubDate>
+                <dc:creator>Megumi Ibayashi</dc:creator>
+                <dc:creator>Satoshi Tsukamoto</dc:creator>
+                <dc:date>2024-02-01</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Lipid remodelling in mammalian development</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01327-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Flexible fibres take fabrics into the information age</title>
                 <link>https://www.nature.com/articles/d41586-024-00076-x</link>
                 <description>A technique for embedding fibres with semiconductor devices produces defect-free strands that are hundreds of metres long. Garments woven with these threads offer a tantalizing glimpse of the wearable electronics of the future.</description>
@@ -277,6 +291,20 @@
             </item>
         
             <item>
+                <title>Extracellular vesicles, genetic programmers</title>
+                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
+                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Graça Raposo</dc:creator>
+                <dc:creator>Philip D. Stahl</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -302,20 +330,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Extracellular vesicles, genetic programmers</title>
-                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
-                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Graça Raposo</dc:creator>
-                <dc:creator>Philip D. Stahl</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
             </item>
         
             <item>
@@ -1000,20 +1014,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Polycomb repression of the asexual embryo</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01537-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The epicentre of haematopoiesis and osteogenesis</title>
-                <link>https://www.nature.com/articles/s41556-023-01242-5</link>
-                <description>Bone marrow endothelial cells deliver oxygen and nutrients and regulate bone formation and haematopoiesis in the surrounding microenvironment. A new study identifies a subtype of capillary that occurs exclusively in the epiphysis and displays unique characteristics that have a role in balancing osteogenesis and haematopoiesis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bone marrow endothelial cells deliver oxygen and nutrients and regulate bone formation and haematopoiesis in the surrounding microenvironment. A new study identifies a subtype of capillary that occurs exclusively in the epiphysis and displays unique characteristics that have a role in balancing osteogenesis and haematopoiesis.</p></div>]]></content:encoded>
-                <pubDate>2023-10-05</pubDate>
-                <dc:creator>David Redmond</dc:creator>
-                <dc:creator>Shahin Rafii</dc:creator>
-                <dc:date>2023-10-05</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>The epicentre of haematopoiesis and osteogenesis</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01242-5</dc:identifier>
             </item>
         
             <item>
