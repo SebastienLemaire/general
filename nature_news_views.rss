@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Compositional plasticity of the Atg1 complex</title>
+                <link>https://www.nature.com/articles/s41556-023-01340-4</link>
+                <description>How do metabolic stresses trigger catabolic autophagy for cell survival? A study now reveals that the metabolite sensor Pho81 integrates into and activates the kinase activity of the Atg1 complex for pexophagy triggered by phosphate starvation. This demonstrates the plasticity of the autophagy-initiating Atg1 complex.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How do metabolic stresses trigger catabolic autophagy for cell survival? A study now reveals that the metabolite sensor Pho81 integrates into and activates the kinase activity of the Atg1 complex for pexophagy triggered by phosphate starvation. This demonstrates the plasticity of the autophagy-initiating Atg1 complex.</p></div>]]></content:encoded>
+                <pubDate>2024-02-05</pubDate>
+                <dc:creator>Xiaoli Ma</dc:creator>
+                <dc:creator>Hong Zhang</dc:creator>
+                <dc:date>2024-02-05</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Compositional plasticity of the Atg1 complex</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01340-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Lipid remodelling in mammalian development</title>
                 <link>https://www.nature.com/articles/s41556-023-01327-1</link>
                 <description>Lipids have a pivotal role in the growth of oocytes and fertilized eggs. Ultra-sensitive lipidome analysis provides a complete overview of the lipid profile during early embryonic development and brings insights into how dynamic lipid remodelling determines the fate of mammalian embryos.</description>
@@ -305,6 +319,20 @@
             </item>
         
             <item>
+                <title>Talking with force at cell–cell adhesions</title>
+                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
+                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Zoya Mann</dc:creator>
+                <dc:creator>Alpha S. Yap</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Talking with force at cell–cell adhesions</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -330,20 +358,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Talking with force at cell–cell adhesions</title>
-                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
-                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Zoya Mann</dc:creator>
-                <dc:creator>Alpha S. Yap</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Talking with force at cell–cell adhesions</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
             </item>
         
             <item>
@@ -971,20 +985,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Hijacking host ribosomes via tRNA mimicry</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01249-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Saving ribosomal proteins for later</title>
-                <link>https://www.nature.com/articles/s41556-023-01251-4</link>
-                <description>Disruption of ribosome assembly results in the accumulation of aggregation-prone ‘orphaned’ ribosomal proteins that are toxic to cells if left unchecked. A study finds that cells store such ribosomal proteins during heat shock to enable a quick recovery of ribosome assembly after the removal of this stress.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Disruption of ribosome assembly results in the accumulation of aggregation-prone ‘orphaned’ ribosomal proteins that are toxic to cells if left unchecked. A study finds that cells store such ribosomal proteins during heat shock to enable a quick recovery of ribosome assembly after the removal of this stress.</p></div>]]></content:encoded>
-                <pubDate>2023-10-16</pubDate>
-                <dc:creator>Joshua J. Black</dc:creator>
-                <dc:creator>Rachel Green</dc:creator>
-                <dc:date>2023-10-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Saving ribosomal proteins for later</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01251-4</dc:identifier>
             </item>
         
             <item>
