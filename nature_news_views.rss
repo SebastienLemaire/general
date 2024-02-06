@@ -13,6 +13,47 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Single-cell probing of RNA structure</title>
+                <link>https://www.nature.com/articles/s41592-024-02178-w</link>
+                <description>sc-SPORT offers a way to probe RNA structure at the single-cell level. It reveals cell-to-cell heterogeneity in RNA folding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">sc-SPORT offers a way to probe RNA structure at the single-cell level. It reveals cell-to-cell heterogeneity in RNA folding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                <dc:creator>Elizabeth A. Jolley</dc:creator>
+                <dc:creator>Philip C. Bevilacqua</dc:creator>
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Single-cell probing of RNA structure</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02178-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Connecting clinical and genetic heterogeneity in ADHD</title>
+                <link>https://www.nature.com/articles/s41588-024-01652-7</link>
+                <description>Understanding clinical heterogeneity in attention deficit hyperactivity disorder (ADHD) is important for improving personalized care and long-term outcomes. A study exploits the large scale and breadth of phenotyping of the iPSYCH cohort to link clinical heterogeneity to genetic heterogeneity in ADHD.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Understanding clinical heterogeneity in attention deficit hyperactivity disorder (ADHD) is important for improving personalized care and long-term outcomes. A study exploits the large scale and breadth of phenotyping of the iPSYCH cohort to link clinical heterogeneity to genetic heterogeneity in ADHD.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                <dc:creator>Chloe X. Yap</dc:creator>
+                <dc:creator>Jacob Gratten</dc:creator>
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Connecting clinical and genetic heterogeneity in ADHD</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01652-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: lonely cells, and Thomas Henry Huxley backs evolution</title>
+                <link>https://www.nature.com/articles/d41586-024-00235-0</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: lonely cells, and Thomas Henry Huxley backs evolution</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00235-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Compositional plasticity of the Atg1 complex</title>
                 <link>https://www.nature.com/articles/s41556-023-01340-4</link>
                 <description>How do metabolic stresses trigger catabolic autophagy for cell survival? A study now reveals that the metabolite sensor Pho81 integrates into and activates the kinase activity of the Atg1 complex for pexophagy triggered by phosphate starvation. This demonstrates the plasticity of the autophagy-initiating Atg1 complex.</description>
@@ -159,19 +200,6 @@
             </item>
         
             <item>
-                <title>Mobile atoms enable efficient computation with logical qubits</title>
-                <link>https://www.nature.com/articles/d41586-024-00075-y</link>
-                <description>Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</p></div>]]></content:encoded>
-                <pubDate>2024-01-29</pubDate>
-                <dc:creator>Barbara M. Terhal</dc:creator>
-                <dc:date>2024-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Mobile atoms enable efficient computation with logical qubits</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00075-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Bacterial prey turns the tables on predator</title>
                 <link>https://www.nature.com/articles/d41586-024-00228-z</link>
                 <description>A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</description>
@@ -196,6 +224,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mobile atoms enable efficient computation with logical qubits</title>
+                <link>https://www.nature.com/articles/d41586-024-00075-y</link>
+                <description>Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>Barbara M. Terhal</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mobile atoms enable efficient computation with logical qubits</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00075-y</dc:identifier>
             </item>
         
             <item>
@@ -471,20 +512,6 @@
             </item>
         
             <item>
-                <title>DNA sensing and repair systems unexpectedly team up against cancer</title>
-                <link>https://www.nature.com/articles/d41586-023-03994-4</link>
-                <description>DNA in the cytoplasm can be a sign of abnormalities such as viral infections or cancer. A protein with a role in DNA-damage response was unexpectedly found to activate defences against the threats indicated by cytoplasmic DNA.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA in the cytoplasm can be a sign of abnormalities such as viral infections or cancer. A protein with a role in DNA-damage response was unexpectedly found to activate defences against the threats indicated by cytoplasmic DNA.</p></div>]]></content:encoded>
-                <pubDate>2024-01-10</pubDate>
-                <dc:creator>Silvia  Monticelli</dc:creator>
-                <dc:creator>Petr  Cejka</dc:creator>
-                <dc:date>2024-01-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>DNA sensing and repair systems unexpectedly team up against cancer</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03994-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>EPAC1 boosts thermogenic adipocyte formation</title>
                 <link>https://www.nature.com/articles/s41556-023-01304-8</link>
                 <description>β-adrenergic signalling induces thermogenesis in mature brown adipocytes through a well-known cAMP–protein kinase A (PKA) pathway and also promotes the growth and differentiation of new thermogenic adipocytes. A study now demonstrates that β-adrenergic agonists drive this pathway through a PKA-independent mechanism involving cAMP–EPAC1.</description>
@@ -679,6 +706,19 @@
             </item>
         
             <item>
+                <title>Structural biology in the age of AI</title>
+                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
+                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
+                <pubDate>2023-12-08</pubDate>
+                <dc:creator>Sriram Subramaniam</dc:creator>
+                <dc:date>2023-12-08</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Structural biology in the age of AI</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Assembling neuroactive alkaloids</title>
                 <link>https://www.nature.com/articles/s41477-023-01586-8</link>
                 <description>The Lycopodium alkaloids represent a valuable source of neuroactive compounds. The biosynthesis of these specialized metabolites is now shown to involve three α-carbonic anhydrase-like enzymes that are responsible for constructing the key carbon–carbon bonds within their distinctive polycyclic alkaloid structures.</description>
@@ -690,19 +730,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Assembling neuroactive alkaloids</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01586-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Structural biology in the age of AI</title>
-                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
-                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
-                <pubDate>2023-12-08</pubDate>
-                <dc:creator>Sriram Subramaniam</dc:creator>
-                <dc:date>2023-12-08</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Structural biology in the age of AI</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
             </item>
         
             <item>
@@ -974,19 +1001,6 @@
             </item>
         
             <item>
-                <title>The power paradox of detecting disease-associated and gene-expression-associated variants</title>
-                <link>https://www.nature.com/articles/s41588-023-01525-5</link>
-                <description>The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</p></div>]]></content:encoded>
-                <pubDate>2023-10-19</pubDate>
-                <dc:creator>Tiffany Amariuta</dc:creator>
-                <dc:date>2023-10-19</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Hijacking host ribosomes via tRNA mimicry</title>
                 <link>https://www.nature.com/articles/s41556-023-01249-y</link>
                 <description>The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</description>
@@ -998,6 +1012,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Hijacking host ribosomes via tRNA mimicry</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01249-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The power paradox of detecting disease-associated and gene-expression-associated variants</title>
+                <link>https://www.nature.com/articles/s41588-023-01525-5</link>
+                <description>The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</p></div>]]></content:encoded>
+                <pubDate>2023-10-19</pubDate>
+                <dc:creator>Tiffany Amariuta</dc:creator>
+                <dc:date>2023-10-19</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
             </item>
         
             <item>
@@ -1378,19 +1405,6 @@
             </item>
         
             <item>
-                <title>Dissecting gene regulation with multimodal sequencing</title>
-                <link>https://www.nature.com/articles/s41592-023-01957-1</link>
-                <description>Recently proposed computational approaches explore casual links between chromatin and transcriptional changes that are provided by single-cell multimodal sequencing to bridge the knowledge gap in transcriptional regulatory control.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Recently proposed computational approaches explore casual links between chromatin and transcriptional changes that are provided by single-cell multimodal sequencing to bridge the knowledge gap in transcriptional regulatory control.</p></div>]]></content:encoded>
-                <pubDate>2023-08-03</pubDate>
-                <dc:creator>Ivan G. Costa</dc:creator>
-                <dc:date>2023-08-03</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Dissecting gene regulation with multimodal sequencing</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01957-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Our ancestry dictates clonal architecture and skin cancer susceptibility</title>
                 <link>https://www.nature.com/articles/s41588-023-01467-y</link>
                 <description>Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</description>
@@ -1402,6 +1416,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Our ancestry dictates clonal architecture and skin cancer susceptibility</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01467-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dissecting gene regulation with multimodal sequencing</title>
+                <link>https://www.nature.com/articles/s41592-023-01957-1</link>
+                <description>Recently proposed computational approaches explore casual links between chromatin and transcriptional changes that are provided by single-cell multimodal sequencing to bridge the knowledge gap in transcriptional regulatory control.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Recently proposed computational approaches explore casual links between chromatin and transcriptional changes that are provided by single-cell multimodal sequencing to bridge the knowledge gap in transcriptional regulatory control.</p></div>]]></content:encoded>
+                <pubDate>2023-08-03</pubDate>
+                <dc:creator>Ivan G. Costa</dc:creator>
+                <dc:date>2023-08-03</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Dissecting gene regulation with multimodal sequencing</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01957-1</dc:identifier>
             </item>
         
             <item>
@@ -1429,19 +1456,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>RNA Pol II enters the ring of cohesin-mediated loop extrusion</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01463-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Leveraging family relatedness to detect participation bias in genetic studies</title>
-                <link>https://www.nature.com/articles/s41588-023-01440-9</link>
-                <description>Identifying the ways that a study sample is not representative is essential for maximizing the generalizability of findings to the population. A new method proposes discerning non-representativeness in large-scale genetic studies by comparing the genotypes of closely related participants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying the ways that a study sample is not representative is essential for maximizing the generalizability of findings to the population. A new method proposes discerning non-representativeness in large-scale genetic studies by comparing the genotypes of closely related participants.</p></div>]]></content:encoded>
-                <pubDate>2023-07-13</pubDate>
-                <dc:creator>Mark J. Adams</dc:creator>
-                <dc:date>2023-07-13</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Leveraging family relatedness to detect participation bias in genetic studies</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01440-9</dc:identifier>
             </item>
         
             <item>
@@ -1637,21 +1651,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Deep brain imaging on the move</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01808-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Designing spatial transcriptomic experiments</title>
-                <link>https://www.nature.com/articles/s41592-023-01801-6</link>
-                <description>Optimal design of spatial transcriptomic experiments allows statistical evaluation of the impact of various biological and technological features on the discovery of cell phenotypes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Optimal design of spatial transcriptomic experiments allows statistical evaluation of the impact of various biological and technological features on the discovery of cell phenotypes.</p></div>]]></content:encoded>
-                <pubDate>2023-03-02</pubDate>
-                <dc:creator>Dario Righelli</dc:creator>
-                <dc:creator>Andrea Sottosanti</dc:creator>
-                <dc:creator>Davide Risso</dc:creator>
-                <dc:date>2023-03-02</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Designing spatial transcriptomic experiments</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01801-6</dc:identifier>
             </item>
         
             <item>
