@@ -27,6 +27,19 @@
             </item>
         
             <item>
+                <title>An AI chatbot for talking therapy referrals</title>
+                <link>https://www.nature.com/articles/s41591-023-02773-y</link>
+                <description>An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</p></div>]]></content:encoded>
+                <pubDate>2024-02-05</pubDate>
+                <dc:creator>Jacqueline Sin</dc:creator>
+                <dc:date>2024-02-05</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>An AI chatbot for talking therapy referrals</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02773-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Lipid remodelling in mammalian development</title>
                 <link>https://www.nature.com/articles/s41556-023-01327-1</link>
                 <description>Lipids have a pivotal role in the growth of oocytes and fertilized eggs. Ultra-sensitive lipidome analysis provides a complete overview of the lipid profile during early embryonic development and brings insights into how dynamic lipid remodelling determines the fate of mammalian embryos.</description>
@@ -319,20 +332,6 @@
             </item>
         
             <item>
-                <title>Talking with force at cell–cell adhesions</title>
-                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
-                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Zoya Mann</dc:creator>
-                <dc:creator>Alpha S. Yap</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Talking with force at cell–cell adhesions</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -345,6 +344,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The science of falls and how to prevent them</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Talking with force at cell–cell adhesions</title>
+                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
+                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Zoya Mann</dc:creator>
+                <dc:creator>Alpha S. Yap</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Talking with force at cell–cell adhesions</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
             </item>
         
             <item>
@@ -821,19 +834,6 @@
             </item>
         
             <item>
-                <title>PROTACs reach clinical development in inflammatory skin disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02622-y</link>
-                <description>A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</p></div>]]></content:encoded>
-                <pubDate>2023-11-13</pubDate>
-                <dc:creator>Fleur M. Ferguson</dc:creator>
-                <dc:date>2023-11-13</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>PROTACs reach clinical development in inflammatory skin disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02622-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Person-centered HIV PrEP for cisgender women</title>
                 <link>https://www.nature.com/articles/s41591-023-02618-8</link>
                 <description>Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.</description>
@@ -846,6 +846,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Person-centered HIV PrEP for cisgender women</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02618-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>PROTACs reach clinical development in inflammatory skin disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02622-y</link>
+                <description>A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</p></div>]]></content:encoded>
+                <pubDate>2023-11-13</pubDate>
+                <dc:creator>Fleur M. Ferguson</dc:creator>
+                <dc:date>2023-11-13</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>PROTACs reach clinical development in inflammatory skin disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02622-y</dc:identifier>
             </item>
         
             <item>
@@ -1195,19 +1208,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Harnessing medical twitter data for pathology AI</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02530-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Hobbies for mental health</title>
-                <link>https://www.nature.com/articles/s41591-023-02508-z</link>
-                <description>At a time when global mental health is in crisis, new data support the promotion of hobby engagement at the policy level in all countries.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">At a time when global mental health is in crisis, new data support the promotion of hobby engagement at the policy level in all countries.</p></div>]]></content:encoded>
-                <pubDate>2023-09-11</pubDate>
-                <dc:creator>Sophie Wickham</dc:creator>
-                <dc:date>2023-09-11</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Hobbies for mental health</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02508-z</dc:identifier>
             </item>
         
             <item>
