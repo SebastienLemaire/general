@@ -13,6 +13,46 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Absence of female partners can explain the dawn chorus of birds</title>
+                <link>https://www.nature.com/articles/d41586-024-00264-9</link>
+                <description>Why birds sing intensely in a dawn chorus during the early morning has long been debated. Evidence gathered from observing birds in the wild offers a fresh perspective on what might drive this phenomenon.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Why birds sing intensely in a dawn chorus during the early morning has long been debated. Evidence gathered from observing birds in the wild offers a fresh perspective on what might drive this phenomenon.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                <dc:creator>Diego Gil</dc:creator>
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Absence of female partners can explain the dawn chorus of birds</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00264-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How population size shapes the evolution of guppy fish</title>
+                <link>https://www.nature.com/articles/d41586-024-00276-5</link>
+                <description>A long-term fish experiment reveals how a mechanism called density dependence, in which the population growth rate slows as the number of individuals rises, affects population dynamics on time scales relevant for ecology and evolution.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A long-term fish experiment reveals how a mechanism called density dependence, in which the population growth rate slows as the number of individuals rises, affects population dynamics on time scales relevant for ecology and evolution.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                <dc:creator>Bernt-Erik Sæther</dc:creator>
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How population size shapes the evolution of guppy fish</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00276-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Active fluids navigate networks by solving sudoku-like problems</title>
+                <link>https://www.nature.com/articles/d41586-024-00277-4</link>
+                <description>Networks filled with self-propelled fluids display meandering patterns that have been shown to follow rules similar to those of sudoku puzzles — offering design principles for microfluidic devices, and the possibility of ‘active fluid’ logic.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Networks filled with self-propelled fluids display meandering patterns that have been shown to follow rules similar to those of sudoku puzzles — offering design principles for microfluidic devices, and the possibility of ‘active fluid’ logic.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                <dc:creator>Mathieu Le Verge-Serandour</dc:creator>
+                <dc:creator>Karen Alim</dc:creator>
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Active fluids navigate networks by solving sudoku-like problems</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00277-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Single-cell probing of RNA structure</title>
                 <link>https://www.nature.com/articles/s41592-024-02178-w</link>
                 <description>sc-SPORT offers a way to probe RNA structure at the single-cell level. It reveals cell-to-cell heterogeneity in RNA folding.</description>
@@ -95,20 +135,6 @@
             </item>
         
             <item>
-                <title>Flexible fibres take fabrics into the information age</title>
-                <link>https://www.nature.com/articles/d41586-024-00076-x</link>
-                <description>A technique for embedding fibres with semiconductor devices produces defect-free strands that are hundreds of metres long. Garments woven with these threads offer a tantalizing glimpse of the wearable electronics of the future.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A technique for embedding fibres with semiconductor devices produces defect-free strands that are hundreds of metres long. Garments woven with these threads offer a tantalizing glimpse of the wearable electronics of the future.</p></div>]]></content:encoded>
-                <pubDate>2024-01-31</pubDate>
-                <dc:creator>Xiaoting Jia</dc:creator>
-                <dc:creator>Alex Parrott</dc:creator>
-                <dc:date>2024-01-31</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Flexible fibres take fabrics into the information age</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00076-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>How speech is produced and perceived in the human cortex</title>
                 <link>https://www.nature.com/articles/d41586-024-00078-9</link>
                 <description>A neural probe has been used to capture the activity of large populations of single neurons as people are speaking or listening, providing detailed insights into how the brain encodes specific features of speech.</description>
@@ -187,6 +213,20 @@
             </item>
         
             <item>
+                <title>Flexible fibres take fabrics into the information age</title>
+                <link>https://www.nature.com/articles/d41586-024-00076-x</link>
+                <description>A technique for embedding fibres with semiconductor devices produces defect-free strands that are hundreds of metres long. Garments woven with these threads offer a tantalizing glimpse of the wearable electronics of the future.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A technique for embedding fibres with semiconductor devices produces defect-free strands that are hundreds of metres long. Garments woven with these threads offer a tantalizing glimpse of the wearable electronics of the future.</p></div>]]></content:encoded>
+                <pubDate>2024-01-31</pubDate>
+                <dc:creator>Xiaoting Jia</dc:creator>
+                <dc:creator>Alex Parrott</dc:creator>
+                <dc:date>2024-01-31</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Flexible fibres take fabrics into the information age</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00076-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: Mendelian inheritance, and an enigmatic echo</title>
                 <link>https://www.nature.com/articles/d41586-024-00234-1</link>
                 <description>Snippets from Nature’s past.</description>
@@ -197,19 +237,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: Mendelian inheritance, and an enigmatic echo</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00234-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Bacterial prey turns the tables on predator</title>
-                <link>https://www.nature.com/articles/d41586-024-00228-z</link>
-                <description>A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</p></div>]]></content:encoded>
-                <pubDate>2024-01-29</pubDate>
-                <dc:creator>Andrew Mitchinson</dc:creator>
-                <dc:date>2024-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Bacterial prey turns the tables on predator</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00228-z</dc:identifier>
             </item>
         
             <item>
@@ -237,6 +264,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Mobile atoms enable efficient computation with logical qubits</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00075-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Bacterial prey turns the tables on predator</title>
+                <link>https://www.nature.com/articles/d41586-024-00228-z</link>
+                <description>A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>Andrew Mitchinson</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Bacterial prey turns the tables on predator</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00228-z</dc:identifier>
             </item>
         
             <item>
@@ -415,19 +455,6 @@
             </item>
         
             <item>
-                <title>Snapshots of genetic copy-and-paste machinery in action</title>
-                <link>https://www.nature.com/articles/d41586-024-00112-w</link>
-                <description>LINE-1 DNA elements self-duplicate, inserting the copy into new regions of the genome — a key process in chromosome evolution. Structures of the machinery that performs this process in humans are now reported.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">LINE-1 DNA elements self-duplicate, inserting the copy into new regions of the genome — a key process in chromosome evolution. Structures of the machinery that performs this process in humans are now reported.</p></div>]]></content:encoded>
-                <pubDate>2024-01-15</pubDate>
-                <dc:creator>Gael Cristofari</dc:creator>
-                <dc:date>2024-01-15</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Snapshots of genetic copy-and-paste machinery in action</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00112-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Reading banned regions of genomes</title>
                 <link>https://www.nature.com/articles/s41477-023-01600-z</link>
                 <description>The effect of DNA methylation on gene expression has been known for decades. However, the mechanism by which DNA methylation functions to repress transcription has remained a major question in the field. Wang et al. now narrow this gap through their examination of the methylation binding protein MBD2 and expose how DNA methylation is read upstream of transcriptional repression.</description>
@@ -468,33 +495,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The grand challenge of moving cancer whole-genome sequencing into the clinic</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02697-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Sticky gels designed for tissue-healing therapies and diagnostics</title>
-                <link>https://www.nature.com/articles/d41586-023-03996-2</link>
-                <description>Materials that adhere tightly to human tissues can promote healing and boost the sensitivity of biomedical diagnostic devices. An ‘evolving’ gel has been made that synergizes two strategies for forming interfaces with tissue.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Materials that adhere tightly to human tissues can promote healing and boost the sensitivity of biomedical diagnostic devices. An ‘evolving’ gel has been made that synergizes two strategies for forming interfaces with tissue.</p></div>]]></content:encoded>
-                <pubDate>2024-01-11</pubDate>
-                <dc:creator>Sophia J. Bailey</dc:creator>
-                <dc:creator>Eric A. Appel</dc:creator>
-                <dc:date>2024-01-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Sticky gels designed for tissue-healing therapies and diagnostics</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03996-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Urban youth most isolated in largest cities</title>
-                <link>https://www.nature.com/articles/d41586-023-04083-2</link>
-                <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.</p></div>]]></content:encoded>
-                <pubDate>2024-01-11</pubDate>
-                <dc:creator>Victor  Couture</dc:creator>
-                <dc:date>2024-01-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Urban youth most isolated in largest cities</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04083-2</dc:identifier>
             </item>
         
             <item>
@@ -611,8 +611,8 @@
             <item>
                 <title>Extraordinary collateral mutagenesis induced by CX-5461</title>
                 <link>https://www.nature.com/articles/s41588-023-01611-8</link>
-                <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRAC2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRAC2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</p></div>]]></content:encoded>
+                <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</p></div>]]></content:encoded>
                 <pubDate>2023-12-21</pubDate>
                 <dc:creator>Simon J. Boulton</dc:creator>
                 <dc:date>2023-12-21</dc:date>
