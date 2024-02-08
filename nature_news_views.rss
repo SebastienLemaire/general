@@ -13,6 +13,49 @@
             <ttl>120</ttl>
     
             <item>
+                <title>mtDNA caught in the act again</title>
+                <link>https://www.nature.com/articles/s41556-024-01345-7</link>
+                <description>Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Kate McArthur</dc:creator>
+                <dc:creator>Benjamin T. Kile</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>mtDNA caught in the act again</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01345-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Rejuvenation of diabetic macular edema with senolytic therapy</title>
+                <link>https://www.nature.com/articles/s41591-024-02804-2</link>
+                <description>Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Tomoaki Murakami</dc:creator>
+                <dc:creator>Thomas W. Gardner</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Rejuvenation of diabetic macular edema with senolytic therapy</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02804-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</title>
+                <link>https://www.nature.com/articles/s41588-023-01650-1</link>
+                <description>An open-source automated algorithm called DeepFlow enables large-scale derivation of aortic flow measurements, and genetic analysis of aortic flow, structural and functional traits demonstrates a causal relationship between aortic size and aortic valve regurgitation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An open-source automated algorithm called DeepFlow enables large-scale derivation of aortic flow measurements, and genetic analysis of aortic flow, structural and functional traits demonstrates a causal relationship between aortic size and aortic valve regurgitation.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Patricia B. Munroe</dc:creator>
+                <dc:creator>Nay Aung</dc:creator>
+                <dc:creator>Julia Ramírez</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01650-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Resting restores performance of discharged lithium-metal batteries</title>
                 <link>https://www.nature.com/articles/d41586-024-00229-y</link>
                 <description>In lithium-metal batteries, grains of lithium can become electrically isolated from the anode, lowering battery performance. Experiments reveal that rest periods after battery discharge might help to solve this problem.</description>
@@ -106,20 +149,6 @@
             </item>
         
             <item>
-                <title>Single-cell probing of RNA structure</title>
-                <link>https://www.nature.com/articles/s41592-024-02178-w</link>
-                <description>sc-SPORT offers a way to probe RNA structure at the single-cell level. It reveals cell-to-cell heterogeneity in RNA folding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">sc-SPORT offers a way to probe RNA structure at the single-cell level. It reveals cell-to-cell heterogeneity in RNA folding.</p></div>]]></content:encoded>
-                <pubDate>2024-02-06</pubDate>
-                <dc:creator>Elizabeth A. Jolley</dc:creator>
-                <dc:creator>Philip C. Bevilacqua</dc:creator>
-                <dc:date>2024-02-06</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Single-cell probing of RNA structure</dc:title>
-                <dc:identifier>doi:doi.org/s41592-024-02178-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Connecting clinical and genetic heterogeneity in ADHD</title>
                 <link>https://www.nature.com/articles/s41588-024-01652-7</link>
                 <description>Understanding clinical heterogeneity in attention deficit hyperactivity disorder (ADHD) is important for improving personalized care and long-term outcomes. A study exploits the large scale and breadth of phenotyping of the iPSYCH cohort to link clinical heterogeneity to genetic heterogeneity in ADHD.</description>
@@ -131,6 +160,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Connecting clinical and genetic heterogeneity in ADHD</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01652-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Single-cell probing of RNA structure</title>
+                <link>https://www.nature.com/articles/s41592-024-02178-w</link>
+                <description>sc-SPORT offers a way to probe RNA structure at the single-cell level. It reveals cell-to-cell heterogeneity in RNA folding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">sc-SPORT offers a way to probe RNA structure at the single-cell level. It reveals cell-to-cell heterogeneity in RNA folding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                <dc:creator>Elizabeth A. Jolley</dc:creator>
+                <dc:creator>Philip C. Bevilacqua</dc:creator>
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Single-cell probing of RNA structure</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02178-w</dc:identifier>
             </item>
         
             <item>
@@ -294,6 +337,20 @@
             </item>
         
             <item>
+                <title>Evidence for iatrogenic transmission of Alzheimer’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02768-9</link>
+                <description>Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>Mathias Jucker</dc:creator>
+                <dc:creator>Lary C. Walker</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Mobile atoms enable efficient computation with logical qubits</title>
                 <link>https://www.nature.com/articles/d41586-024-00075-y</link>
                 <description>Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</description>
@@ -317,20 +374,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Bacterial prey turns the tables on predator</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00228-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Evidence for iatrogenic transmission of Alzheimer’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02768-9</link>
-                <description>Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</p></div>]]></content:encoded>
-                <pubDate>2024-01-29</pubDate>
-                <dc:creator>Mathias Jucker</dc:creator>
-                <dc:creator>Lary C. Walker</dc:creator>
-                <dc:date>2024-01-29</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
             </item>
         
             <item>
@@ -1002,20 +1045,6 @@
             </item>
         
             <item>
-                <title>Hijacking host ribosomes via tRNA mimicry</title>
-                <link>https://www.nature.com/articles/s41556-023-01249-y</link>
-                <description>The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The bacterial pathogen Legionella pneumophila uses effectors — toxins — to facilitate pathogenesis within host cells. A recent study identifies dual mechanisms of the effector SidI as an inhibitor of translation elongation. The N-terminal domain mimics tRNA, whereas the C-terminal domain glycosylates the ribosome.</p></div>]]></content:encoded>
-                <pubDate>2023-10-19</pubDate>
-                <dc:creator>Saori Uematsu</dc:creator>
-                <dc:creator>Shu-Bing Qian</dc:creator>
-                <dc:date>2023-10-19</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Hijacking host ribosomes via tRNA mimicry</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01249-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The power paradox of detecting disease-associated and gene-expression-associated variants</title>
                 <link>https://www.nature.com/articles/s41588-023-01525-5</link>
                 <description>The mechanisms of many disease-associated variants are uncertain because of limited power to detect their modest effects on gene expression. This study finds that natural selection leads to preferential detection of disease-associated versus expression-associated variants.</description>
@@ -1224,21 +1253,6 @@
             </item>
         
             <item>
-                <title>Harnessing medical twitter data for pathology AI</title>
-                <link>https://www.nature.com/articles/s41591-023-02530-1</link>
-                <description>Using pathology data from Twitter, researchers have built a visual-language model for classifying and retrieving histopathology images — representing a milestone in the development of multifunctional foundational artificial intelligence models in computational pathology.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Using pathology data from Twitter, researchers have built a visual-language model for classifying and retrieving histopathology images — representing a milestone in the development of multifunctional foundational artificial intelligence models in computational pathology.</p></div>]]></content:encoded>
-                <pubDate>2023-09-13</pubDate>
-                <dc:creator>Ming Y. Lu</dc:creator>
-                <dc:creator>Bowen Chen</dc:creator>
-                <dc:creator>Faisal Mahmood</dc:creator>
-                <dc:date>2023-09-13</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Harnessing medical twitter data for pathology AI</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02530-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>A fork in the road to differentiation</title>
                 <link>https://www.nature.com/articles/s41588-023-01489-6</link>
                 <description>The symmetric inheritance of histone modifications by the nascent chromatin fibers during DNA replication is essential for proper developmental progression. Two new studies using mouse embryonic stem cells further illuminate the role of histone inheritance in early cell fate decisions.</description>
@@ -1444,19 +1458,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>A light switch for DNA break repair</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>RNA Pol II enters the ring of cohesin-mediated loop extrusion</title>
-                <link>https://www.nature.com/articles/s41588-023-01463-2</link>
-                <description>The three-dimensional organization of mammalian chromosomes can regulate transcription. Whether transcription itself influences genome structure has remained a source of debate. Using sensitive genome-wide readouts, two recent studies describe the involvement of transcription on genome architecture by different mechanisms.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The three-dimensional organization of mammalian chromosomes can regulate transcription. Whether transcription itself influences genome structure has remained a source of debate. Using sensitive genome-wide readouts, two recent studies describe the involvement of transcription on genome architecture by different mechanisms.</p></div>]]></content:encoded>
-                <pubDate>2023-07-14</pubDate>
-                <dc:creator>Daan Noordermeer</dc:creator>
-                <dc:date>2023-07-14</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>RNA Pol II enters the ring of cohesin-mediated loop extrusion</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01463-2</dc:identifier>
             </item>
         
             <item>
