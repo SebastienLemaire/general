@@ -13,6 +13,46 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Resting restores performance of discharged lithium-metal batteries</title>
+                <link>https://www.nature.com/articles/d41586-024-00229-y</link>
+                <description>In lithium-metal batteries, grains of lithium can become electrically isolated from the anode, lowering battery performance. Experiments reveal that rest periods after battery discharge might help to solve this problem.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In lithium-metal batteries, grains of lithium can become electrically isolated from the anode, lowering battery performance. Experiments reveal that rest periods after battery discharge might help to solve this problem.</p></div>]]></content:encoded>
+                <pubDate>2024-02-07</pubDate>
+                <dc:creator>Laura C. Merrill</dc:creator>
+                <dc:date>2024-02-07</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Resting restores performance of discharged lithium-metal batteries</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00229-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A neural circuit for navigation keeps flies on target</title>
+                <link>https://www.nature.com/articles/d41586-024-00230-5</link>
+                <description>Studies reveal how neuronal populations in the fruit fly brain work together to compare the direction of a goal with the direction that the fly is facing, and convert this into a signal that steers the fly towards its target.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Studies reveal how neuronal populations in the fruit fly brain work together to compare the direction of a goal with the direction that the fly is facing, and convert this into a signal that steers the fly towards its target.</p></div>]]></content:encoded>
+                <pubDate>2024-02-07</pubDate>
+                <dc:creator>Katherine Nagel</dc:creator>
+                <dc:date>2024-02-07</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A neural circuit for navigation keeps flies on target</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00230-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mimas’s surprise ocean prompts an update of the rule book for moons</title>
+                <link>https://www.nature.com/articles/d41586-024-00194-6</link>
+                <description>The shifting orbit of one of Saturn’s moons indicates that the satellite has a subsurface ocean, contradicting theories that its interior is entirely solid. The finding calls for a fresh take on what constitutes an ocean moon.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The shifting orbit of one of Saturn’s moons indicates that the satellite has a subsurface ocean, contradicting theories that its interior is entirely solid. The finding calls for a fresh take on what constitutes an ocean moon.</p></div>]]></content:encoded>
+                <pubDate>2024-02-07</pubDate>
+                <dc:creator>Matija Ćuk</dc:creator>
+                <dc:creator>Alyssa Rose Rhoden</dc:creator>
+                <dc:date>2024-02-07</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mimas’s surprise ocean prompts an update of the rule book for moons</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00194-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Absence of female partners can explain the dawn chorus of birds</title>
                 <link>https://www.nature.com/articles/d41586-024-00264-9</link>
                 <description>Why birds sing intensely in a dawn chorus during the early morning has long been debated. Evidence gathered from observing birds in the wild offers a fresh perspective on what might drive this phenomenon.</description>
@@ -53,6 +93,19 @@
             </item>
         
             <item>
+                <title>From the archive: lonely cells, and Thomas Henry Huxley backs evolution</title>
+                <link>https://www.nature.com/articles/d41586-024-00235-0</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: lonely cells, and Thomas Henry Huxley backs evolution</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00235-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Single-cell probing of RNA structure</title>
                 <link>https://www.nature.com/articles/s41592-024-02178-w</link>
                 <description>sc-SPORT offers a way to probe RNA structure at the single-cell level. It reveals cell-to-cell heterogeneity in RNA folding.</description>
@@ -78,19 +131,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Connecting clinical and genetic heterogeneity in ADHD</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01652-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: lonely cells, and Thomas Henry Huxley backs evolution</title>
-                <link>https://www.nature.com/articles/d41586-024-00235-0</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-02-06</pubDate>
-                
-                <dc:date>2024-02-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: lonely cells, and Thomas Henry Huxley backs evolution</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00235-0</dc:identifier>
             </item>
         
             <item>
@@ -132,45 +172,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Lipid remodelling in mammalian development</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01327-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>How speech is produced and perceived in the human cortex</title>
-                <link>https://www.nature.com/articles/d41586-024-00078-9</link>
-                <description>A neural probe has been used to capture the activity of large populations of single neurons as people are speaking or listening, providing detailed insights into how the brain encodes specific features of speech.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A neural probe has been used to capture the activity of large populations of single neurons as people are speaking or listening, providing detailed insights into how the brain encodes specific features of speech.</p></div>]]></content:encoded>
-                <pubDate>2024-01-31</pubDate>
-                <dc:creator>Yves Boubenec</dc:creator>
-                <dc:date>2024-01-31</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>How speech is produced and perceived in the human cortex</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00078-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Natural inhibitor found for cell death by ferroptosis</title>
-                <link>https://www.nature.com/articles/d41586-024-00080-1</link>
-                <description>The discovery that an evolutionarily conserved molecule used to make cholesterol also acts as a defence against a cell-death mechanism called ferroptosis might lead to new ways to treat cancer and other clinical conditions.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery that an evolutionarily conserved molecule used to make cholesterol also acts as a defence against a cell-death mechanism called ferroptosis might lead to new ways to treat cancer and other clinical conditions.</p></div>]]></content:encoded>
-                <pubDate>2024-01-31</pubDate>
-                <dc:creator>Donna D. Zhang</dc:creator>
-                <dc:date>2024-01-31</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Natural inhibitor found for cell death by ferroptosis</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00080-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Ecosystem effects of sea otters limit coastal erosion</title>
-                <link>https://www.nature.com/articles/d41586-024-00073-0</link>
-                <description>Conservation is bringing back certain predators that are high in the food chain, but how this affects an ecosystem overall is debated. Rigorous fieldwork provides strong evidence that sea otters help to mitigate coastal erosion.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Conservation is bringing back certain predators that are high in the food chain, but how this affects an ecosystem overall is debated. Rigorous fieldwork provides strong evidence that sea otters help to mitigate coastal erosion.</p></div>]]></content:encoded>
-                <pubDate>2024-01-31</pubDate>
-                <dc:creator>Johan S. Eklöf</dc:creator>
-                <dc:date>2024-01-31</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ecosystem effects of sea otters limit coastal erosion</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00073-0</dc:identifier>
             </item>
         
             <item>
@@ -224,6 +225,45 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Flexible fibres take fabrics into the information age</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00076-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How speech is produced and perceived in the human cortex</title>
+                <link>https://www.nature.com/articles/d41586-024-00078-9</link>
+                <description>A neural probe has been used to capture the activity of large populations of single neurons as people are speaking or listening, providing detailed insights into how the brain encodes specific features of speech.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A neural probe has been used to capture the activity of large populations of single neurons as people are speaking or listening, providing detailed insights into how the brain encodes specific features of speech.</p></div>]]></content:encoded>
+                <pubDate>2024-01-31</pubDate>
+                <dc:creator>Yves Boubenec</dc:creator>
+                <dc:date>2024-01-31</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How speech is produced and perceived in the human cortex</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00078-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Natural inhibitor found for cell death by ferroptosis</title>
+                <link>https://www.nature.com/articles/d41586-024-00080-1</link>
+                <description>The discovery that an evolutionarily conserved molecule used to make cholesterol also acts as a defence against a cell-death mechanism called ferroptosis might lead to new ways to treat cancer and other clinical conditions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery that an evolutionarily conserved molecule used to make cholesterol also acts as a defence against a cell-death mechanism called ferroptosis might lead to new ways to treat cancer and other clinical conditions.</p></div>]]></content:encoded>
+                <pubDate>2024-01-31</pubDate>
+                <dc:creator>Donna D. Zhang</dc:creator>
+                <dc:date>2024-01-31</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Natural inhibitor found for cell death by ferroptosis</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00080-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Ecosystem effects of sea otters limit coastal erosion</title>
+                <link>https://www.nature.com/articles/d41586-024-00073-0</link>
+                <description>Conservation is bringing back certain predators that are high in the food chain, but how this affects an ecosystem overall is debated. Rigorous fieldwork provides strong evidence that sea otters help to mitigate coastal erosion.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Conservation is bringing back certain predators that are high in the food chain, but how this affects an ecosystem overall is debated. Rigorous fieldwork provides strong evidence that sea otters help to mitigate coastal erosion.</p></div>]]></content:encoded>
+                <pubDate>2024-01-31</pubDate>
+                <dc:creator>Johan S. Eklöf</dc:creator>
+                <dc:date>2024-01-31</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Ecosystem effects of sea otters limit coastal erosion</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00073-0</dc:identifier>
             </item>
         
             <item>
@@ -333,32 +373,6 @@
             </item>
         
             <item>
-                <title>Large language models help computer programs to evolve</title>
-                <link>https://www.nature.com/articles/d41586-023-03998-0</link>
-                <description>A branch of computer science known as genetic programming has been given a boost with the application of large language models that are trained on the combined intuition of the world’s programmers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A branch of computer science known as genetic programming has been given a boost with the application of large language models that are trained on the combined intuition of the world’s programmers.</p></div>]]></content:encoded>
-                <pubDate>2024-01-17</pubDate>
-                <dc:creator>Jean-Baptiste Mouret</dc:creator>
-                <dc:date>2024-01-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Large language models help computer programs to evolve</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03998-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Self-assembling DNA recognizes patterns</title>
-                <link>https://www.nature.com/articles/d41586-023-03997-1</link>
-                <description>Self-assembling DNA can process information, but the computations have been limited to digital algorithms. A self-assembling DNA system has now been designed to perform complex pattern recognition.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Self-assembling DNA can process information, but the computations have been limited to digital algorithms. A self-assembling DNA system has now been designed to perform complex pattern recognition.</p></div>]]></content:encoded>
-                <pubDate>2024-01-17</pubDate>
-                <dc:creator>Andrew Phillips</dc:creator>
-                <dc:date>2024-01-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Self-assembling DNA recognizes patterns</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-03997-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Defining the chromatin signature of pluripotency</title>
                 <link>https://www.nature.com/articles/s41556-023-01268-9</link>
                 <description>The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</description>
@@ -439,19 +453,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Talking with force at cell–cell adhesions</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: the royal ‘we’, and an experiment in telegraphy</title>
-                <link>https://www.nature.com/articles/d41586-023-04001-6</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: the royal ‘we’, and an experiment in telegraphy</dc:title>
-                <dc:identifier>doi:doi.org/d41586-023-04001-6</dc:identifier>
             </item>
         
             <item>
