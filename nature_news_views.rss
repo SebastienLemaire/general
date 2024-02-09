@@ -13,17 +13,17 @@
             <ttl>120</ttl>
     
             <item>
-                <title>mtDNA caught in the act again</title>
-                <link>https://www.nature.com/articles/s41556-024-01345-7</link>
-                <description>Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</p></div>]]></content:encoded>
-                <pubDate>2024-02-08</pubDate>
-                <dc:creator>Kate McArthur</dc:creator>
-                <dc:creator>Benjamin T. Kile</dc:creator>
-                <dc:date>2024-02-08</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>mtDNA caught in the act again</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01345-7</dc:identifier>
+                <title>Delivering high-quality childbirth care</title>
+                <link>https://www.nature.com/articles/s41591-024-02812-2</link>
+                <description>A pilot trial of the WHO’s Labour Care Guide reveals important considerations for implementation and for future trials aimed at reducing the inappropriate use of cesarean section, particularly in low- and middle-income countries.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A pilot trial of the WHO’s Labour Care Guide reveals important considerations for implementation and for future trials aimed at reducing the inappropriate use of cesarean section, particularly in low- and middle-income countries.</p></div>]]></content:encoded>
+                <pubDate>2024-02-09</pubDate>
+                <dc:creator>Cristina Fernandez-Turienzo</dc:creator>
+                <dc:creator>Jane Sandall</dc:creator>
+                <dc:date>2024-02-09</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Delivering high-quality childbirth care</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02812-2</dc:identifier>
             </item>
         
             <item>
@@ -38,6 +38,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Rejuvenation of diabetic macular edema with senolytic therapy</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-02804-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>mtDNA caught in the act again</title>
+                <link>https://www.nature.com/articles/s41556-024-01345-7</link>
+                <description>Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Kate McArthur</dc:creator>
+                <dc:creator>Benjamin T. Kile</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>mtDNA caught in the act again</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01345-7</dc:identifier>
             </item>
         
             <item>
@@ -177,6 +191,19 @@
             </item>
         
             <item>
+                <title>An AI chatbot for talking therapy referrals</title>
+                <link>https://www.nature.com/articles/s41591-023-02773-y</link>
+                <description>An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</p></div>]]></content:encoded>
+                <pubDate>2024-02-05</pubDate>
+                <dc:creator>Jacqueline Sin</dc:creator>
+                <dc:date>2024-02-05</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>An AI chatbot for talking therapy referrals</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02773-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Compositional plasticity of the Atg1 complex</title>
                 <link>https://www.nature.com/articles/s41556-023-01340-4</link>
                 <description>How do metabolic stresses trigger catabolic autophagy for cell survival? A study now reveals that the metabolite sensor Pho81 integrates into and activates the kinase activity of the Atg1 complex for pexophagy triggered by phosphate starvation. This demonstrates the plasticity of the autophagy-initiating Atg1 complex.</description>
@@ -188,19 +215,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Compositional plasticity of the Atg1 complex</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01340-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An AI chatbot for talking therapy referrals</title>
-                <link>https://www.nature.com/articles/s41591-023-02773-y</link>
-                <description>An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</p></div>]]></content:encoded>
-                <pubDate>2024-02-05</pubDate>
-                <dc:creator>Jacqueline Sin</dc:creator>
-                <dc:date>2024-02-05</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>An AI chatbot for talking therapy referrals</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02773-y</dc:identifier>
             </item>
         
             <item>
@@ -456,20 +470,6 @@
             </item>
         
             <item>
-                <title>Extracellular vesicles, genetic programmers</title>
-                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
-                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Graça Raposo</dc:creator>
-                <dc:creator>Philip D. Stahl</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -482,6 +482,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The science of falls and how to prevent them</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Extracellular vesicles, genetic programmers</title>
+                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
+                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Graça Raposo</dc:creator>
+                <dc:creator>Philip D. Stahl</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
             </item>
         
             <item>
@@ -1208,20 +1222,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01493-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A revolution in obesity treatment</title>
-                <link>https://www.nature.com/articles/s41591-023-02538-7</link>
-                <description>Mounting evidence, including the recent (and unprecedented) phase 2 data on retatrutide, supports a role for incretin hormone agonists in treating obesity. But with great power comes great responsibility.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mounting evidence, including the recent (and unprecedented) phase 2 data on retatrutide, supports a role for incretin hormone agonists in treating obesity. But with great power comes great responsibility.</p></div>]]></content:encoded>
-                <pubDate>2023-09-21</pubDate>
-                <dc:creator>Ildiko Lingvay</dc:creator>
-                <dc:creator>Shubham Agarwal</dc:creator>
-                <dc:date>2023-09-21</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>A revolution in obesity treatment</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02538-7</dc:identifier>
             </item>
         
             <item>
