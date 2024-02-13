@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Building chromatin from the ground up</title>
+                <link>https://www.nature.com/articles/s41588-024-01666-1</link>
+                <description>A common architectural feature of the genome in many organisms is chromatin domains. A synthetic biology approach now builds chromatin domains from scratch and identifies some of the minimal components needed for their formation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A common architectural feature of the genome in many organisms is chromatin domains. A synthetic biology approach now builds chromatin domains from scratch and identifies some of the minimal components needed for their formation.</p></div>]]></content:encoded>
+                <pubDate>2024-02-13</pubDate>
+                <dc:creator>Theodore Busby III</dc:creator>
+                <dc:creator>Tom Misteli</dc:creator>
+                <dc:date>2024-02-13</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Building chromatin from the ground up</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01666-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: river pollution, and a minister for science</title>
+                <link>https://www.nature.com/articles/d41586-024-00236-z</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-02-13</pubDate>
+                
+                <dc:date>2024-02-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: river pollution, and a minister for science</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00236-z</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Delivering high-quality childbirth care</title>
                 <link>https://www.nature.com/articles/s41591-024-02812-2</link>
                 <description>A pilot trial of the WHO’s Labour Care Guide reveals important considerations for implementation and for future trials aimed at reducing the inappropriate use of cesarean section, particularly in low- and middle-income countries.</description>
@@ -41,20 +68,6 @@
             </item>
         
             <item>
-                <title>mtDNA caught in the act again</title>
-                <link>https://www.nature.com/articles/s41556-024-01345-7</link>
-                <description>Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</p></div>]]></content:encoded>
-                <pubDate>2024-02-08</pubDate>
-                <dc:creator>Kate McArthur</dc:creator>
-                <dc:creator>Benjamin T. Kile</dc:creator>
-                <dc:date>2024-02-08</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>mtDNA caught in the act again</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01345-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</title>
                 <link>https://www.nature.com/articles/s41588-023-01650-1</link>
                 <description>An open-source automated algorithm called DeepFlow enables large-scale derivation of aortic flow measurements, and genetic analysis of aortic flow, structural and functional traits demonstrates a causal relationship between aortic size and aortic valve regurgitation.</description>
@@ -67,6 +80,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01650-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>mtDNA caught in the act again</title>
+                <link>https://www.nature.com/articles/s41556-024-01345-7</link>
+                <description>Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Kate McArthur</dc:creator>
+                <dc:creator>Benjamin T. Kile</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>mtDNA caught in the act again</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01345-7</dc:identifier>
             </item>
         
             <item>
@@ -232,19 +259,6 @@
             </item>
         
             <item>
-                <title>Unravelling how plant cells divide and differ</title>
-                <link>https://www.nature.com/articles/d41586-024-00041-8</link>
-                <description>In a multicellular organism, normal growth requires control of cell division to generate cells that are similar to or different from their parents. Analysis of this process in plant roots reveals how this mechanism is regulated.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In a multicellular organism, normal growth requires control of cell division to generate cells that are similar to or different from their parents. Analysis of this process in plant roots reveals how this mechanism is regulated.</p></div>]]></content:encoded>
-                <pubDate>2024-01-31</pubDate>
-                <dc:creator>Ikram Blilou</dc:creator>
-                <dc:date>2024-01-31</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Unravelling how plant cells divide and differ</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00041-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Stone tools in northern Europe made by Homo sapiens 45,000 years ago</title>
                 <link>https://www.nature.com/articles/d41586-024-00072-1</link>
                 <description>DNA analyses of skeletal fragments from a site in Germany provide evidence that humans, rather than Neanderthals, were responsible for a particular stone-tool industry called the Lincombian–Ranisian–Jerzmanowician.</description>
@@ -321,6 +335,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Ecosystem effects of sea otters limit coastal erosion</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00073-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Unravelling how plant cells divide and differ</title>
+                <link>https://www.nature.com/articles/d41586-024-00041-8</link>
+                <description>In a multicellular organism, normal growth requires control of cell division to generate cells that are similar to or different from their parents. Analysis of this process in plant roots reveals how this mechanism is regulated.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In a multicellular organism, normal growth requires control of cell division to generate cells that are similar to or different from their parents. Analysis of this process in plant roots reveals how this mechanism is regulated.</p></div>]]></content:encoded>
+                <pubDate>2024-01-31</pubDate>
+                <dc:creator>Ikram Blilou</dc:creator>
+                <dc:date>2024-01-31</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Unravelling how plant cells divide and differ</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00041-8</dc:identifier>
             </item>
         
             <item>
@@ -414,19 +441,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Groundwater decline is global but not universal</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00070-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: the mechanics of athletics, and the eating habits of jellyfish</title>
-                <link>https://www.nature.com/articles/d41586-024-00157-x</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-01-23</pubDate>
-                
-                <dc:date>2024-01-23</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: the mechanics of athletics, and the eating habits of jellyfish</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00157-x</dc:identifier>
             </item>
         
             <item>
@@ -890,6 +904,20 @@
             </item>
         
             <item>
+                <title>Cytosolic transfer of circulating LPS by EVs</title>
+                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
+                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
+                <pubDate>2023-11-16</pubDate>
+                <dc:creator>Yi Huang</dc:creator>
+                <dc:creator>Rongbin Zhou</dc:creator>
+                <dc:date>2023-11-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>New ingredients for old recipes</title>
                 <link>https://www.nature.com/articles/s41588-023-01591-9</link>
                 <description>The pancreas is an essential organ present in all vertebrates, and human pancreatic agenesis is an extremely rare disorder of largely unknown genetic determinants. A study now demonstrates that a primate-specific regulatory network controlled by the KRAB zinc-finger protein ZNF808 is essential for pancreas development.</description>
@@ -902,20 +930,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>New ingredients for old recipes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01591-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Cytosolic transfer of circulating LPS by EVs</title>
-                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
-                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
-                <pubDate>2023-11-16</pubDate>
-                <dc:creator>Yi Huang</dc:creator>
-                <dc:creator>Rongbin Zhou</dc:creator>
-                <dc:date>2023-11-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
             </item>
         
             <item>
@@ -1417,20 +1431,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Machine learning drives genetic discovery for binge eating disorder</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01473-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Our ancestry dictates clonal architecture and skin cancer susceptibility</title>
-                <link>https://www.nature.com/articles/s41588-023-01467-y</link>
-                <description>Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Incidence of keratinocyte skin cancer varies markedly between populations living in different areas of the world. A detailed analysis of somatic mutations in the normal skin of individuals from the UK and Singapore reveals different patterns of clonal mutational landscapes that could contribute to differential risk.</p></div>]]></content:encoded>
-                <pubDate>2023-08-03</pubDate>
-                <dc:creator>Marco De Dominici</dc:creator>
-                <dc:creator>James DeGregori</dc:creator>
-                <dc:date>2023-08-03</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Our ancestry dictates clonal architecture and skin cancer susceptibility</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01467-y</dc:identifier>
             </item>
         
             <item>
