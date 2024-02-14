@@ -13,17 +13,57 @@
             <ttl>120</ttl>
     
             <item>
-                <title>Building chromatin from the ground up</title>
-                <link>https://www.nature.com/articles/s41588-024-01666-1</link>
-                <description>A common architectural feature of the genome in many organisms is chromatin domains. A synthetic biology approach now builds chromatin domains from scratch and identifies some of the minimal components needed for their formation.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A common architectural feature of the genome in many organisms is chromatin domains. A synthetic biology approach now builds chromatin domains from scratch and identifies some of the minimal components needed for their formation.</p></div>]]></content:encoded>
-                <pubDate>2024-02-13</pubDate>
-                <dc:creator>Theodore Busby III</dc:creator>
-                <dc:creator>Tom Misteli</dc:creator>
-                <dc:date>2024-02-13</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Building chromatin from the ground up</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01666-1</dc:identifier>
+                <title>Layered ferroelectric materials make waves — and vortices</title>
+                <link>https://www.nature.com/articles/d41586-024-00231-4</link>
+                <description>By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.</p></div>]]></content:encoded>
+                <pubDate>2024-02-14</pubDate>
+                <dc:creator>Berit H. Goodge</dc:creator>
+                <dc:date>2024-02-14</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Layered ferroelectric materials make waves — and vortices</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00231-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>New type of magnetism splits from convention</title>
+                <link>https://www.nature.com/articles/d41586-024-00190-w</link>
+                <description>Magnetic materials with zero net magnetization fall into two classes: conventional antiferromagnets and altermagnets. Physicists have identified a property in altermagnets that widens the divide between the two groups.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Magnetic materials with zero net magnetization fall into two classes: conventional antiferromagnets and altermagnets. Physicists have identified a property in altermagnets that widens the divide between the two groups.</p></div>]]></content:encoded>
+                <pubDate>2024-02-14</pubDate>
+                <dc:creator>Carmine Autieri</dc:creator>
+                <dc:date>2024-02-14</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>New type of magnetism splits from convention</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00190-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Gender bias is more exaggerated in online images than in text</title>
+                <link>https://www.nature.com/articles/d41586-024-00291-6</link>
+                <description>A big-data analysis shows that men are starkly over-represented in online images, and that gender bias is stronger in images compared with text. Such images could influence enduring gender biases in our offline lives.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A big-data analysis shows that men are starkly over-represented in online images, and that gender bias is stronger in images compared with text. Such images could influence enduring gender biases in our offline lives.</p></div>]]></content:encoded>
+                <pubDate>2024-02-14</pubDate>
+                <dc:creator>Bas Hofstra</dc:creator>
+                <dc:creator>Anne Maaike Mulders</dc:creator>
+                <dc:date>2024-02-14</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Gender bias is more exaggerated in online images than in text</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00291-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Smoking’s lasting effect on the immune system</title>
+                <link>https://www.nature.com/articles/d41586-024-00232-3</link>
+                <description>It emerges from a study of human cells that smoking can influence certain immune responses to the same extent as can age or genetics. Smoking can alter the immune system in ways that persist long after quitting the habit.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">It emerges from a study of human cells that smoking can influence certain immune responses to the same extent as can age or genetics. Smoking can alter the immune system in ways that persist long after quitting the habit.</p></div>]]></content:encoded>
+                <pubDate>2024-02-14</pubDate>
+                <dc:creator>Yang Luo</dc:creator>
+                <dc:creator>Simon Stent</dc:creator>
+                <dc:date>2024-02-14</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Smoking’s lasting effect on the immune system</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00232-3</dc:identifier>
             </item>
         
             <item>
@@ -37,6 +77,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: river pollution, and a minister for science</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00236-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Building chromatin from the ground up</title>
+                <link>https://www.nature.com/articles/s41588-024-01666-1</link>
+                <description>A common architectural feature of the genome in many organisms is chromatin domains. A synthetic biology approach now builds chromatin domains from scratch and identifies some of the minimal components needed for their formation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A common architectural feature of the genome in many organisms is chromatin domains. A synthetic biology approach now builds chromatin domains from scratch and identifies some of the minimal components needed for their formation.</p></div>]]></content:encoded>
+                <pubDate>2024-02-13</pubDate>
+                <dc:creator>Theodore Busby III</dc:creator>
+                <dc:creator>Tom Misteli</dc:creator>
+                <dc:date>2024-02-13</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Building chromatin from the ground up</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01666-1</dc:identifier>
             </item>
         
             <item>
@@ -137,32 +191,6 @@
             </item>
         
             <item>
-                <title>Absence of female partners can explain the dawn chorus of birds</title>
-                <link>https://www.nature.com/articles/d41586-024-00264-9</link>
-                <description>Why birds sing intensely in a dawn chorus during the early morning has long been debated. Evidence gathered from observing birds in the wild offers a fresh perspective on what might drive this phenomenon.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Why birds sing intensely in a dawn chorus during the early morning has long been debated. Evidence gathered from observing birds in the wild offers a fresh perspective on what might drive this phenomenon.</p></div>]]></content:encoded>
-                <pubDate>2024-02-06</pubDate>
-                <dc:creator>Diego Gil</dc:creator>
-                <dc:date>2024-02-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Absence of female partners can explain the dawn chorus of birds</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00264-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>How population size shapes the evolution of guppy fish</title>
-                <link>https://www.nature.com/articles/d41586-024-00276-5</link>
-                <description>A long-term fish experiment reveals how a mechanism called density dependence, in which the population growth rate slows as the number of individuals rises, affects population dynamics on time scales relevant for ecology and evolution.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A long-term fish experiment reveals how a mechanism called density dependence, in which the population growth rate slows as the number of individuals rises, affects population dynamics on time scales relevant for ecology and evolution.</p></div>]]></content:encoded>
-                <pubDate>2024-02-06</pubDate>
-                <dc:creator>Bernt-Erik Sæther</dc:creator>
-                <dc:date>2024-02-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>How population size shapes the evolution of guppy fish</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00276-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Active fluids navigate networks by solving sudoku-like problems</title>
                 <link>https://www.nature.com/articles/d41586-024-00277-4</link>
                 <description>Networks filled with self-propelled fluids display meandering patterns that have been shown to follow rules similar to those of sudoku puzzles — offering design principles for microfluidic devices, and the possibility of ‘active fluid’ logic.</description>
@@ -201,6 +229,32 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Connecting clinical and genetic heterogeneity in ADHD</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01652-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Absence of female partners can explain the dawn chorus of birds</title>
+                <link>https://www.nature.com/articles/d41586-024-00264-9</link>
+                <description>Why birds sing intensely in a dawn chorus during the early morning has long been debated. Evidence gathered from observing birds in the wild offers a fresh perspective on what might drive this phenomenon.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Why birds sing intensely in a dawn chorus during the early morning has long been debated. Evidence gathered from observing birds in the wild offers a fresh perspective on what might drive this phenomenon.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                <dc:creator>Diego Gil</dc:creator>
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Absence of female partners can explain the dawn chorus of birds</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00264-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How population size shapes the evolution of guppy fish</title>
+                <link>https://www.nature.com/articles/d41586-024-00276-5</link>
+                <description>A long-term fish experiment reveals how a mechanism called density dependence, in which the population growth rate slows as the number of individuals rises, affects population dynamics on time scales relevant for ecology and evolution.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A long-term fish experiment reveals how a mechanism called density dependence, in which the population growth rate slows as the number of individuals rises, affects population dynamics on time scales relevant for ecology and evolution.</p></div>]]></content:encoded>
+                <pubDate>2024-02-06</pubDate>
+                <dc:creator>Bernt-Erik Sæther</dc:creator>
+                <dc:date>2024-02-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How population size shapes the evolution of guppy fish</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00276-5</dc:identifier>
             </item>
         
             <item>
@@ -256,32 +310,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Lipid remodelling in mammalian development</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01327-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Stone tools in northern Europe made by Homo sapiens 45,000 years ago</title>
-                <link>https://www.nature.com/articles/d41586-024-00072-1</link>
-                <description>DNA analyses of skeletal fragments from a site in Germany provide evidence that humans, rather than Neanderthals, were responsible for a particular stone-tool industry called the Lincombian–Ranisian–Jerzmanowician.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA analyses of skeletal fragments from a site in Germany provide evidence that humans, rather than Neanderthals, were responsible for a particular stone-tool industry called the Lincombian–Ranisian–Jerzmanowician.</p></div>]]></content:encoded>
-                <pubDate>2024-01-31</pubDate>
-                <dc:creator>William E. Banks</dc:creator>
-                <dc:date>2024-01-31</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Stone tools in northern Europe made by Homo sapiens 45,000 years ago</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00072-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An early look at birth cohort genetics in China</title>
-                <link>https://www.nature.com/articles/d41586-024-00079-8</link>
-                <description>Genetic sequencing data from more than 4,000 Chinese participants in the Born in Guangzhou Cohort Study provide insights into the population, and a snapshot of what is to come in future phases of the project.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genetic sequencing data from more than 4,000 Chinese participants in the Born in Guangzhou Cohort Study provide insights into the population, and a snapshot of what is to come in future phases of the project.</p></div>]]></content:encoded>
-                <pubDate>2024-01-31</pubDate>
-                <dc:creator>Nicholas John Timpson</dc:creator>
-                <dc:date>2024-01-31</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An early look at birth cohort genetics in China</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00079-8</dc:identifier>
             </item>
         
             <item>
@@ -351,6 +379,32 @@
             </item>
         
             <item>
+                <title>Stone tools in northern Europe made by Homo sapiens 45,000 years ago</title>
+                <link>https://www.nature.com/articles/d41586-024-00072-1</link>
+                <description>DNA analyses of skeletal fragments from a site in Germany provide evidence that humans, rather than Neanderthals, were responsible for a particular stone-tool industry called the Lincombian–Ranisian–Jerzmanowician.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA analyses of skeletal fragments from a site in Germany provide evidence that humans, rather than Neanderthals, were responsible for a particular stone-tool industry called the Lincombian–Ranisian–Jerzmanowician.</p></div>]]></content:encoded>
+                <pubDate>2024-01-31</pubDate>
+                <dc:creator>William E. Banks</dc:creator>
+                <dc:date>2024-01-31</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Stone tools in northern Europe made by Homo sapiens 45,000 years ago</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00072-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An early look at birth cohort genetics in China</title>
+                <link>https://www.nature.com/articles/d41586-024-00079-8</link>
+                <description>Genetic sequencing data from more than 4,000 Chinese participants in the Born in Guangzhou Cohort Study provide insights into the population, and a snapshot of what is to come in future phases of the project.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genetic sequencing data from more than 4,000 Chinese participants in the Born in Guangzhou Cohort Study provide insights into the population, and a snapshot of what is to come in future phases of the project.</p></div>]]></content:encoded>
+                <pubDate>2024-01-31</pubDate>
+                <dc:creator>Nicholas John Timpson</dc:creator>
+                <dc:date>2024-01-31</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>An early look at birth cohort genetics in China</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00079-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: Mendelian inheritance, and an enigmatic echo</title>
                 <link>https://www.nature.com/articles/d41586-024-00234-1</link>
                 <description>Snippets from Nature’s past.</description>
@@ -389,58 +443,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Mobile atoms enable efficient computation with logical qubits</title>
-                <link>https://www.nature.com/articles/d41586-024-00075-y</link>
-                <description>Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.</p></div>]]></content:encoded>
-                <pubDate>2024-01-29</pubDate>
-                <dc:creator>Barbara M. Terhal</dc:creator>
-                <dc:date>2024-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Mobile atoms enable efficient computation with logical qubits</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00075-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Bacterial prey turns the tables on predator</title>
-                <link>https://www.nature.com/articles/d41586-024-00228-z</link>
-                <description>A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.</p></div>]]></content:encoded>
-                <pubDate>2024-01-29</pubDate>
-                <dc:creator>Andrew Mitchinson</dc:creator>
-                <dc:date>2024-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Bacterial prey turns the tables on predator</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00228-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Iron extracted from hazardous waste of aluminium production</title>
-                <link>https://www.nature.com/articles/d41586-024-00071-2</link>
-                <description>Millions of tonnes of ‘red mud’, a hazardous waste of aluminium production, are generated annually. A potentially sustainable process for treating this mud shows that it could become a source of iron for making steel.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Millions of tonnes of ‘red mud’, a hazardous waste of aluminium production, are generated annually. A potentially sustainable process for treating this mud shows that it could become a source of iron for making steel.</p></div>]]></content:encoded>
-                <pubDate>2024-01-24</pubDate>
-                <dc:creator>Chenna Rao Borra</dc:creator>
-                <dc:date>2024-01-24</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Iron extracted from hazardous waste of aluminium production</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00071-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Groundwater decline is global but not universal</title>
-                <link>https://www.nature.com/articles/d41586-024-00070-3</link>
-                <description>Measurements of groundwater levels in 170,000 wells reveal the global extent of groundwater decline. But the data also show that such depletion is not inevitable in a changing climate, providing hope for a resilient water future.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Measurements of groundwater levels in 170,000 wells reveal the global extent of groundwater decline. But the data also show that such depletion is not inevitable in a changing climate, providing hope for a resilient water future.</p></div>]]></content:encoded>
-                <pubDate>2024-01-24</pubDate>
-                <dc:creator>Donald John MacAllister</dc:creator>
-                <dc:date>2024-01-24</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Groundwater decline is global but not universal</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00070-3</dc:identifier>
             </item>
         
             <item>
