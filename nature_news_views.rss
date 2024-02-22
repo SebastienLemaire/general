@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Lysosomal channels sensing forces</title>
+                <link>https://www.nature.com/articles/s41556-024-01347-5</link>
+                <description>Mechanical forces are ubiquitously present in biology. In recent years, it has become clear how plasma membranes detect these forces — but how do intracellular organelles such as lysosomes do the same, and what might be the functions of such intracellular mechanosensing? Answers may come through a report of a lysosomal mechanosensitive ion channel, TMEM63.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mechanical forces are ubiquitously present in biology. In recent years, it has become clear how plasma membranes detect these forces — but how do intracellular organelles such as lysosomes do the same, and what might be the functions of such intracellular mechanosensing? Answers may come through a report of a lysosomal mechanosensitive ion channel, TMEM63.</p></div>]]></content:encoded>
+                <pubDate>2024-02-22</pubDate>
+                <dc:creator>Erika Riederer</dc:creator>
+                <dc:creator>Dejian Ren</dc:creator>
+                <dc:date>2024-02-22</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Lysosomal channels sensing forces</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01347-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>An innovative way for whales to sing</title>
                 <link>https://www.nature.com/articles/d41586-024-00307-1</link>
                 <description>Mammals make sounds when air flow causes paired tissue folds in their voice box to oscillate. However, such air flow in the baleen group of whales takes an unusual path, enabling them to make sounds in a previously unknown way.</description>
@@ -512,6 +526,20 @@
             </item>
         
             <item>
+                <title>Talking with force at cell–cell adhesions</title>
+                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
+                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Zoya Mann</dc:creator>
+                <dc:creator>Alpha S. Yap</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Talking with force at cell–cell adhesions</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -524,20 +552,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The science of falls and how to prevent them</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Talking with force at cell–cell adhesions</title>
-                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
-                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Zoya Mann</dc:creator>
-                <dc:creator>Alpha S. Yap</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Talking with force at cell–cell adhesions</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
             </item>
         
             <item>
@@ -972,20 +986,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>PROTACs reach clinical development in inflammatory skin disease</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02622-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</title>
-                <link>https://www.nature.com/articles/s41556-023-01275-w</link>
-                <description>YTHDF family members are ‘readers’ of a common mRNA modification, but their effects on mRNA translation and stability have been disputed. A new study shows that YTHDF1 and YTHDF3 are post-translationally regulated through O-GlcNAcylation, unifying disparate results and pointing to environmental cues that could modulate YTHDF function.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">YTHDF family members are ‘readers’ of a common mRNA modification, but their effects on mRNA translation and stability have been disputed. A new study shows that YTHDF1 and YTHDF3 are post-translationally regulated through O-GlcNAcylation, unifying disparate results and pointing to environmental cues that could modulate YTHDF function.</p></div>]]></content:encoded>
-                <pubDate>2023-11-09</pubDate>
-                <dc:creator>Mary W. N. Burns</dc:creator>
-                <dc:creator>Jennifer J. Kohler</dc:creator>
-                <dc:date>2023-11-09</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>O-GlcNAc regulates YTHDF1 and YTHDF3 activity</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01275-w</dc:identifier>
             </item>
         
             <item>
