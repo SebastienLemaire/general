@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>METTL3 restrains autoimmunity in β-cells</title>
+                <link>https://www.nature.com/articles/s41556-024-01352-8</link>
+                <description>Activation of innate immunity has been linked to the progression of type 1 diabetes. A study now shows that overexpression of METTL3, a writer protein of the m6A machinery that modifies mRNA, restrains interferon-stimulated genes when expressed in pancreatic β-cells, identifying it as a promising therapeutic target.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Activation of innate immunity has been linked to the progression of type 1 diabetes. A study now shows that overexpression of METTL3, a writer protein of the m6A machinery that modifies mRNA, restrains interferon-stimulated genes when expressed in pancreatic β-cells, identifying it as a promising therapeutic target.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Balasubramanian Krishnamurthy</dc:creator>
+                <dc:creator>Helen E. Thomas</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>METTL3 restrains autoimmunity in β-cells</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01352-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Lysosomal channels sensing forces</title>
                 <link>https://www.nature.com/articles/s41556-024-01347-5</link>
                 <description>Mechanical forces are ubiquitously present in biology. In recent years, it has become clear how plasma membranes detect these forces — but how do intracellular organelles such as lysosomes do the same, and what might be the functions of such intracellular mechanosensing? Answers may come through a report of a lysosomal mechanosensitive ion channel, TMEM63.</description>
@@ -472,19 +486,6 @@
             </item>
         
             <item>
-                <title>Defining the chromatin signature of pluripotency</title>
-                <link>https://www.nature.com/articles/s41556-023-01268-9</link>
-                <description>The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Nathalie Beaujean</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Defining the chromatin signature of pluripotency</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01268-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The rules of the totipotency treasure hunt</title>
                 <link>https://www.nature.com/articles/s41556-023-01282-x</link>
                 <description>Totipotency is the absence of any developmental restriction, a feature naturally found in the early embryo right after fertilization. Generating an in vitro totipotent stem cell model is not a trivial task. For this reason, a set of stringent criteria for the identification of bona fide totipotent stem cells have been proposed.</description>
@@ -552,6 +553,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The science of falls and how to prevent them</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Defining the chromatin signature of pluripotency</title>
+                <link>https://www.nature.com/articles/s41556-023-01268-9</link>
+                <description>The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Nathalie Beaujean</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Defining the chromatin signature of pluripotency</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01268-9</dc:identifier>
             </item>
         
             <item>
@@ -986,19 +1000,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>PROTACs reach clinical development in inflammatory skin disease</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02622-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Sperm bud mitochondria to adjust the numbers</title>
-                <link>https://www.nature.com/articles/s41556-023-01255-0</link>
-                <description>Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cells use diverse mechanisms to rid themselves of dysfunctional or excess mitochondria. A study now shows that C. elegans sperm use a previously undescribed mechanism to rapidly expel single healthy mitochondria in membrane-bound structures called mitophers.</p></div>]]></content:encoded>
-                <pubDate>2023-11-09</pubDate>
-                <dc:creator>Diane C. Shakes</dc:creator>
-                <dc:date>2023-11-09</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Sperm bud mitochondria to adjust the numbers</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01255-0</dc:identifier>
             </item>
         
             <item>
