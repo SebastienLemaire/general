@@ -13,6 +13,35 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
+                <link>https://www.nature.com/articles/s41591-024-02828-8</link>
+                <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>David J. Pinato</dc:creator>
+                <dc:creator>Claudia A. M. Fulgenzi</dc:creator>
+                <dc:creator>Antonio D’Alessio</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Immunotherapy at all stages of hepatocellular carcinoma</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02828-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Disease resistance through M genes</title>
+                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
+                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Chengfang Zhan</dc:creator>
+                <dc:creator>Mengcen Wang</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Disease resistance through M genes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>METTL3 restrains autoimmunity in β-cells</title>
                 <link>https://www.nature.com/articles/s41556-024-01352-8</link>
                 <description>Activation of innate immunity has been linked to the progression of type 1 diabetes. A study now shows that overexpression of METTL3, a writer protein of the m6A machinery that modifies mRNA, restrains interferon-stimulated genes when expressed in pancreatic β-cells, identifying it as a promising therapeutic target.</description>
@@ -24,6 +53,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>METTL3 restrains autoimmunity in β-cells</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01352-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Expanding the reach and scalability of perinatal mental health interventions</title>
+                <link>https://www.nature.com/articles/s41591-024-02825-x</link>
+                <description>A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Daisy R. Singla</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Expanding the reach and scalability of perinatal mental health interventions</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02825-x</dc:identifier>
             </item>
         
             <item>
@@ -527,20 +569,6 @@
             </item>
         
             <item>
-                <title>Talking with force at cell–cell adhesions</title>
-                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
-                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Zoya Mann</dc:creator>
-                <dc:creator>Alpha S. Yap</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Talking with force at cell–cell adhesions</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -553,6 +581,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The science of falls and how to prevent them</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Talking with force at cell–cell adhesions</title>
+                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
+                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Zoya Mann</dc:creator>
+                <dc:creator>Alpha S. Yap</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Talking with force at cell–cell adhesions</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
             </item>
         
             <item>
@@ -820,19 +862,6 @@
             </item>
         
             <item>
-                <title>Structural biology in the age of AI</title>
-                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
-                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
-                <pubDate>2023-12-08</pubDate>
-                <dc:creator>Sriram Subramaniam</dc:creator>
-                <dc:date>2023-12-08</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Structural biology in the age of AI</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Assembling neuroactive alkaloids</title>
                 <link>https://www.nature.com/articles/s41477-023-01586-8</link>
                 <description>The Lycopodium alkaloids represent a valuable source of neuroactive compounds. The biosynthesis of these specialized metabolites is now shown to involve three α-carbonic anhydrase-like enzymes that are responsible for constructing the key carbon–carbon bonds within their distinctive polycyclic alkaloid structures.</description>
@@ -844,6 +873,19 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Assembling neuroactive alkaloids</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01586-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Structural biology in the age of AI</title>
+                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
+                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
+                <pubDate>2023-12-08</pubDate>
+                <dc:creator>Sriram Subramaniam</dc:creator>
+                <dc:date>2023-12-08</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Structural biology in the age of AI</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
             </item>
         
             <item>
@@ -1144,19 +1186,6 @@
             </item>
         
             <item>
-                <title>Organ-sparing precision treatment for muscle-invasive bladder cancer</title>
-                <link>https://www.nature.com/articles/s41591-023-02575-2</link>
-                <description>The response to neoadjuvant treatment can be used to stratify individuals with muscle-invasive bladder cancer according to their risk of progression, enabling bladder-sparing approaches for some — and heralding a shift from the existing one-size-fits-all approach.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The response to neoadjuvant treatment can be used to stratify individuals with muscle-invasive bladder cancer according to their risk of progression, enabling bladder-sparing approaches for some — and heralding a shift from the existing one-size-fits-all approach.</p></div>]]></content:encoded>
-                <pubDate>2023-10-04</pubDate>
-                <dc:creator>Roger Li</dc:creator>
-                <dc:date>2023-10-04</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Organ-sparing precision treatment for muscle-invasive bladder cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02575-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Factoring single-cell perturbations</title>
                 <link>https://www.nature.com/articles/s41592-023-02002-x</link>
                 <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
@@ -1182,20 +1211,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The changing colour of carrot</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Senolytic therapy for Alzheimer’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02541-y</link>
-                <description>As the search for new and better treatments for Alzheimer’s disease continues, a phase 1 proof-of-concept study evaluating senolytic therapy breaks new ground.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As the search for new and better treatments for Alzheimer’s disease continues, a phase 1 proof-of-concept study evaluating senolytic therapy breaks new ground.</p></div>]]></content:encoded>
-                <pubDate>2023-09-27</pubDate>
-                <dc:creator>Frank M. Longo</dc:creator>
-                <dc:creator>Stephen M. Massa</dc:creator>
-                <dc:date>2023-09-27</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Senolytic therapy for Alzheimer’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02541-y</dc:identifier>
             </item>
         
             <item>
@@ -1337,21 +1352,6 @@
             </item>
         
             <item>
-                <title>Silencing translation with phenolic acids</title>
-                <link>https://www.nature.com/articles/s41477-023-01497-8</link>
-                <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>Venkatesh P. Thirumalaikumar</dc:creator>
-                <dc:creator>Monika Chodasiewicz</dc:creator>
-                <dc:creator>Aleksandra Skirycz</dc:creator>
-                <dc:date>2023-08-28</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Silencing translation with phenolic acids</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Fluorogenic chemically induced dimerization</title>
                 <link>https://www.nature.com/articles/s41592-023-01989-7</link>
                 <description>A new chemically induced dimerization (CID) pair exhibits fluorescence upon dimerization for the first time. Moreover, the CID pair is small and offers easily reversible dimerization that can be repeated multiple times.</description>
@@ -1376,6 +1376,21 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Measuring open chromatin and DNA methylation in repeat arrays</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01512-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Silencing translation with phenolic acids</title>
+                <link>https://www.nature.com/articles/s41477-023-01497-8</link>
+                <description>Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Phenolic acids, such as salicylic acid, are part of a mechanism that helps to suppress the growth of neighbouring plants. New work shows that phenolic acids inhibit global translation by promoting the sequestration of ribosomal subunits into stress granules.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Venkatesh P. Thirumalaikumar</dc:creator>
+                <dc:creator>Monika Chodasiewicz</dc:creator>
+                <dc:creator>Aleksandra Skirycz</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Silencing translation with phenolic acids</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
             </item>
         
             <item>
@@ -1555,20 +1570,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Breaking transformation barriers</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01420-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>ATG8 keeps Golgi in shape after the heat</title>
-                <link>https://www.nature.com/articles/s41477-023-01414-z</link>
-                <description>Short-term heat stress affects the morphology and function of the plant Golgi apparatus in a reversible manner. The autophagy component AUTOPHAGY 8 relocalizes to heat stress-induced vacuolated Golgi cisternae and contributes to their restoration, revealing a role of this protein outside of the canonical autophagy pathway.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Short-term heat stress affects the morphology and function of the plant Golgi apparatus in a reversible manner. The autophagy component AUTOPHAGY 8 relocalizes to heat stress-induced vacuolated Golgi cisternae and contributes to their restoration, revealing a role of this protein outside of the canonical autophagy pathway.</p></div>]]></content:encoded>
-                <pubDate>2023-05-09</pubDate>
-                <dc:creator>Manuel González-Fuente</dc:creator>
-                <dc:creator>Suayib Üstün</dc:creator>
-                <dc:date>2023-05-09</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>ATG8 keeps Golgi in shape after the heat</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01414-z</dc:identifier>
             </item>
         
             <item>
