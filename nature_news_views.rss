@@ -13,6 +13,47 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Cellular neighborhood analysis in spatial omics reveals new tissue domains and cell subtypes</title>
+                <link>https://www.nature.com/articles/s41588-023-01646-x</link>
+                <description>Spatial omics enables the molecular profiling of cells with the tissue context preserved. A new analytic approach shows how cellular neighborhood analysis and feature augmentation can spatially connect and cluster millions of cells into higher-order functional units.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Spatial omics enables the molecular profiling of cells with the tissue context preserved. A new analytic approach shows how cellular neighborhood analysis and feature augmentation can spatially connect and cluster millions of cells into higher-order functional units.</p></div>]]></content:encoded>
+                <pubDate>2024-02-27</pubDate>
+                <dc:creator>Marc J. Ruitenberg</dc:creator>
+                <dc:creator>Quan H. Nguyen</dc:creator>
+                <dc:date>2024-02-27</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Cellular neighborhood analysis in spatial omics reveals new tissue domains and cell subtypes</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01646-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>New insights into the genetics of diabetes in pregnancy</title>
+                <link>https://www.nature.com/articles/s41588-024-01675-0</link>
+                <description>Gestational diabetes is a complex metabolic condition thought to have a strong genetic predisposition. A large genome-wide association study of participants from Finland sheds light on the genetic contributors, opening avenues for research into mechanisms that underlie glucose regulation in pregnancy to improve the health of mothers and babies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Gestational diabetes is a complex metabolic condition thought to have a strong genetic predisposition. A large genome-wide association study of participants from Finland sheds light on the genetic contributors, opening avenues for research into mechanisms that underlie glucose regulation in pregnancy to improve the health of mothers and babies.</p></div>]]></content:encoded>
+                <pubDate>2024-02-27</pubDate>
+                <dc:creator>Aminata Hallimat Cissé</dc:creator>
+                <dc:creator>Rachel M. Freathy</dc:creator>
+                <dc:date>2024-02-27</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>New insights into the genetics of diabetes in pregnancy</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01675-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: Stephen Hawking’s explosive idea, and scientific spirit</title>
+                <link>https://www.nature.com/articles/d41586-024-00429-6</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-02-27</pubDate>
+                
+                <dc:date>2024-02-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: Stephen Hawking’s explosive idea, and scientific spirit</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00429-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -174,19 +215,6 @@
             </item>
         
             <item>
-                <title>Layered ferroelectric materials make waves — and vortices</title>
-                <link>https://www.nature.com/articles/d41586-024-00231-4</link>
-                <description>By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.</p></div>]]></content:encoded>
-                <pubDate>2024-02-14</pubDate>
-                <dc:creator>Berit H. Goodge</dc:creator>
-                <dc:date>2024-02-14</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Layered ferroelectric materials make waves — and vortices</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00231-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>New type of magnetism splits from convention</title>
                 <link>https://www.nature.com/articles/d41586-024-00190-w</link>
                 <description>Magnetic materials with zero net magnetization fall into two classes: conventional antiferromagnets and altermagnets. Physicists have identified a property in altermagnets that widens the divide between the two groups.</description>
@@ -228,16 +256,16 @@
             </item>
         
             <item>
-                <title>From the archive: river pollution, and a minister for science</title>
-                <link>https://www.nature.com/articles/d41586-024-00236-z</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-02-13</pubDate>
-                
-                <dc:date>2024-02-13</dc:date>
+                <title>Layered ferroelectric materials make waves — and vortices</title>
+                <link>https://www.nature.com/articles/d41586-024-00231-4</link>
+                <description>By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.</p></div>]]></content:encoded>
+                <pubDate>2024-02-14</pubDate>
+                <dc:creator>Berit H. Goodge</dc:creator>
+                <dc:date>2024-02-14</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>From the archive: river pollution, and a minister for science</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00236-z</dc:identifier>
+                <dc:title>Layered ferroelectric materials make waves — and vortices</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00231-4</dc:identifier>
             </item>
         
             <item>
@@ -252,6 +280,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Building chromatin from the ground up</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01666-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: river pollution, and a minister for science</title>
+                <link>https://www.nature.com/articles/d41586-024-00236-z</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-02-13</pubDate>
+                
+                <dc:date>2024-02-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: river pollution, and a minister for science</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00236-z</dc:identifier>
             </item>
         
             <item>
@@ -471,19 +512,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Lipid remodelling in mammalian development</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01327-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Stone tools in northern Europe made by Homo sapiens 45,000 years ago</title>
-                <link>https://www.nature.com/articles/d41586-024-00072-1</link>
-                <description>DNA analyses of skeletal fragments from a site in Germany provide evidence that humans, rather than Neanderthals, were responsible for a particular stone-tool industry called the Lincombian–Ranisian–Jerzmanowician.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA analyses of skeletal fragments from a site in Germany provide evidence that humans, rather than Neanderthals, were responsible for a particular stone-tool industry called the Lincombian–Ranisian–Jerzmanowician.</p></div>]]></content:encoded>
-                <pubDate>2024-01-31</pubDate>
-                <dc:creator>William E. Banks</dc:creator>
-                <dc:date>2024-01-31</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Stone tools in northern Europe made by Homo sapiens 45,000 years ago</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00072-1</dc:identifier>
             </item>
         
             <item>
@@ -1394,20 +1422,6 @@
             </item>
         
             <item>
-                <title>Advancing variant effect prediction using protein language models</title>
-                <link>https://www.nature.com/articles/s41588-023-01470-3</link>
-                <description>A novel pipeline that expands the utility of the protein language model ESM1b has provided variant effect predictions for more than 40,000 protein isoforms. This strategy outperformed several state-of-the-art methods over multiple benchmarks.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A novel pipeline that expands the utility of the protein language model ESM1b has provided variant effect predictions for more than 40,000 protein isoforms. This strategy outperformed several state-of-the-art methods over multiple benchmarks.</p></div>]]></content:encoded>
-                <pubDate>2023-08-10</pubDate>
-                <dc:creator>Benjamin J. Livesey</dc:creator>
-                <dc:creator>Joseph A. Marsh</dc:creator>
-                <dc:date>2023-08-10</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Advancing variant effect prediction using protein language models</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01470-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Opening the gates</title>
                 <link>https://www.nature.com/articles/s41477-023-01493-y</link>
                 <description>A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</description>
@@ -1432,21 +1446,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>On the origin of strawberries</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01488-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Machine learning drives genetic discovery for binge eating disorder</title>
-                <link>https://www.nature.com/articles/s41588-023-01473-0</link>
-                <description>Identifying genetic risk factors for binge-eating disorder (BED) is vital to understand its etiology and develop effective prevention and intervention strategies. To overcome under-reporting of clinical BED diagnosis, a new study uses machine learning to identify genetic variants associated with quantitative BED risk scores and finds evidence for a pathological role of heme metabolism.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identifying genetic risk factors for binge-eating disorder (BED) is vital to understand its etiology and develop effective prevention and intervention strategies. To overcome under-reporting of clinical BED diagnosis, a new study uses machine learning to identify genetic variants associated with quantitative BED risk scores and finds evidence for a pathological role of heme metabolism.</p></div>]]></content:encoded>
-                <pubDate>2023-08-07</pubDate>
-                <dc:creator>Jackson G. Thorp</dc:creator>
-                <dc:creator>Zachary F. Gerring</dc:creator>
-                <dc:creator>Eske M. Derks</dc:creator>
-                <dc:date>2023-08-07</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Machine learning drives genetic discovery for binge eating disorder</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01473-0</dc:identifier>
             </item>
         
             <item>
