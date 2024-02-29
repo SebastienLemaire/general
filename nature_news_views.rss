@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Mesoscale condensates organize the cytoplasm</title>
+                <link>https://www.nature.com/articles/s41556-023-01331-5</link>
+                <description>Biomolecular condensates are recognized for their ability to compartmentalize the cytoplasm without bounding membranes, but the degree to which they organize the cytoplasm has not been clear. A new study reveals that condensates at a scale of 100 nm are responsible for the organization of at least 18% of the cytoplasmic proteome.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Biomolecular condensates are recognized for their ability to compartmentalize the cytoplasm without bounding membranes, but the degree to which they organize the cytoplasm has not been clear. A new study reveals that condensates at a scale of 100 nm are responsible for the organization of at least 18% of the cytoplasmic proteome.</p></div>]]></content:encoded>
+                <pubDate>2024-02-29</pubDate>
+                <dc:creator>Leshani Ahangama Liyanage</dc:creator>
+                <dc:creator>Jonathon A. Ditlev</dc:creator>
+                <dc:date>2024-02-29</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Mesoscale condensates organize the cytoplasm</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01331-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Synchronized neuronal activity drives waste fluid flow</title>
                 <link>https://www.nature.com/articles/d41586-024-00422-z</link>
                 <description>Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.</description>
@@ -136,6 +150,20 @@
             </item>
         
             <item>
+                <title>METTL3 restrains autoimmunity in β-cells</title>
+                <link>https://www.nature.com/articles/s41556-024-01352-8</link>
+                <description>Activation of innate immunity has been linked to the progression of type 1 diabetes. A study now shows that overexpression of METTL3, a writer protein of the m6A machinery that modifies mRNA, restrains interferon-stimulated genes when expressed in pancreatic β-cells, identifying it as a promising therapeutic target.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Activation of innate immunity has been linked to the progression of type 1 diabetes. A study now shows that overexpression of METTL3, a writer protein of the m6A machinery that modifies mRNA, restrains interferon-stimulated genes when expressed in pancreatic β-cells, identifying it as a promising therapeutic target.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Balasubramanian Krishnamurthy</dc:creator>
+                <dc:creator>Helen E. Thomas</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>METTL3 restrains autoimmunity in β-cells</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01352-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -162,20 +190,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Disease resistance through M genes</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>METTL3 restrains autoimmunity in β-cells</title>
-                <link>https://www.nature.com/articles/s41556-024-01352-8</link>
-                <description>Activation of innate immunity has been linked to the progression of type 1 diabetes. A study now shows that overexpression of METTL3, a writer protein of the m6A machinery that modifies mRNA, restrains interferon-stimulated genes when expressed in pancreatic β-cells, identifying it as a promising therapeutic target.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Activation of innate immunity has been linked to the progression of type 1 diabetes. A study now shows that overexpression of METTL3, a writer protein of the m6A machinery that modifies mRNA, restrains interferon-stimulated genes when expressed in pancreatic β-cells, identifying it as a promising therapeutic target.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Balasubramanian Krishnamurthy</dc:creator>
-                <dc:creator>Helen E. Thomas</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>METTL3 restrains autoimmunity in β-cells</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01352-8</dc:identifier>
             </item>
         
             <item>
@@ -559,19 +573,6 @@
             </item>
         
             <item>
-                <title>The rules of the totipotency treasure hunt</title>
-                <link>https://www.nature.com/articles/s41556-023-01282-x</link>
-                <description>Totipotency is the absence of any developmental restriction, a feature naturally found in the early embryo right after fertilization. Generating an in vitro totipotent stem cell model is not a trivial task. For this reason, a set of stringent criteria for the identification of bona fide totipotent stem cells have been proposed.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Totipotency is the absence of any developmental restriction, a feature naturally found in the early embryo right after fertilization. Generating an in vitro totipotent stem cell model is not a trivial task. For this reason, a set of stringent criteria for the identification of bona fide totipotent stem cells have been proposed.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Graziano Martello</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>The rules of the totipotency treasure hunt</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01282-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>A milestone in epithelial–mesenchymal transition</title>
                 <link>https://www.nature.com/articles/s41556-023-01228-3</link>
                 <description>Epithelial–mesenchymal transition (EMT) is crucial in embryogenesis and can be exploited by cancer cells to gain metastatic abilities. A hallmark of EMT is E-cadherin loss. In 2000, Snail was reported as the first E-cadherin repressor identified in the context of EMT, advancing our understanding of embryonic development and cancer progression.</description>
@@ -600,6 +601,20 @@
             </item>
         
             <item>
+                <title>Talking with force at cell–cell adhesions</title>
+                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
+                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Zoya Mann</dc:creator>
+                <dc:creator>Alpha S. Yap</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Talking with force at cell–cell adhesions</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -615,20 +630,6 @@
             </item>
         
             <item>
-                <title>Talking with force at cell–cell adhesions</title>
-                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
-                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Zoya Mann</dc:creator>
-                <dc:creator>Alpha S. Yap</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Talking with force at cell–cell adhesions</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Defining the chromatin signature of pluripotency</title>
                 <link>https://www.nature.com/articles/s41556-023-01268-9</link>
                 <description>The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</description>
@@ -639,6 +640,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Defining the chromatin signature of pluripotency</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01268-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The rules of the totipotency treasure hunt</title>
+                <link>https://www.nature.com/articles/s41556-023-01282-x</link>
+                <description>Totipotency is the absence of any developmental restriction, a feature naturally found in the early embryo right after fertilization. Generating an in vitro totipotent stem cell model is not a trivial task. For this reason, a set of stringent criteria for the identification of bona fide totipotent stem cells have been proposed.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Totipotency is the absence of any developmental restriction, a feature naturally found in the early embryo right after fertilization. Generating an in vitro totipotent stem cell model is not a trivial task. For this reason, a set of stringent criteria for the identification of bona fide totipotent stem cells have been proposed.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Graziano Martello</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>The rules of the totipotency treasure hunt</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01282-x</dc:identifier>
             </item>
         
             <item>
@@ -1016,20 +1030,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>AI and imaging-based cancer screening: getting ready for prime time</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02630-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Cytosolic transfer of circulating LPS by EVs</title>
-                <link>https://www.nature.com/articles/s41556-023-01283-w</link>
-                <description>The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The main barriers for intracellular receptors to sense circulating pathogen-associated molecular patterns (PAMPs) is how these PAMPs enter the cells. A study reveals that extracellular vesicles (EVs) bind lipopolysaccharide (LPS) via the lipid bilayer and mediates LPS intracellular transfer in a CD14-dependent endocytosis to activate noncanonical NLRP3 inflammasome and pyroptosis.</p></div>]]></content:encoded>
-                <pubDate>2023-11-16</pubDate>
-                <dc:creator>Yi Huang</dc:creator>
-                <dc:creator>Rongbin Zhou</dc:creator>
-                <dc:date>2023-11-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Cytosolic transfer of circulating LPS by EVs</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01283-w</dc:identifier>
             </item>
         
             <item>
