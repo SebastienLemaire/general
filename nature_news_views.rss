@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>ER remodelling by ER-phagy in neurogenesis</title>
+                <link>https://www.nature.com/articles/s41556-024-01362-6</link>
+                <description>The endoplasmic reticulum (ER) controls the synthesis of lipids and proteins and Ca2+ homeostasis, as well as contacting other organelles and the plasma membrane. A study now looks at a process by which this compartment is remodelled in axons during neurogenesis: the lysosomal clearance of ER subdomains, driven by FAM134 and CCPG1 proteins.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The endoplasmic reticulum (ER) controls the synthesis of lipids and proteins and Ca2+ homeostasis, as well as contacting other organelles and the plasma membrane. A study now looks at a process by which this compartment is remodelled in axons during neurogenesis: the lysosomal clearance of ER subdomains, driven by FAM134 and CCPG1 proteins.</p></div>]]></content:encoded>
+                <pubDate>2024-03-01</pubDate>
+                <dc:creator>Maurizio Molinari</dc:creator>
+                <dc:date>2024-03-01</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>ER remodelling by ER-phagy in neurogenesis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01362-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Targeting stromal metabolism in pancreatic ductal adenocarcinoma</title>
+                <link>https://www.nature.com/articles/s41556-023-01330-6</link>
+                <description>The tumour microenvironment produces nutrients that propel cancer development. New work finds that pancreatic ductal adenocarcinoma cells use one such nutrient, acetate, to alter protein acetylation, rerouting polyamine metabolism and promoting cell growth under acidosis—a finding with potential implications for treating this cancer.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The tumour microenvironment produces nutrients that propel cancer development. New work finds that pancreatic ductal adenocarcinoma cells use one such nutrient, acetate, to alter protein acetylation, rerouting polyamine metabolism and promoting cell growth under acidosis—a finding with potential implications for treating this cancer.</p></div>]]></content:encoded>
+                <pubDate>2024-03-01</pubDate>
+                <dc:creator>Miao Yin</dc:creator>
+                <dc:creator>Qun-Ying Lei</dc:creator>
+                <dc:date>2024-03-01</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Targeting stromal metabolism in pancreatic ductal adenocarcinoma</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01330-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Mesoscale condensates organize the cytoplasm</title>
                 <link>https://www.nature.com/articles/s41556-023-01331-5</link>
                 <description>Biomolecular condensates are recognized for their ability to compartmentalize the cytoplasm without bounding membranes, but the degree to which they organize the cytoplasm has not been clear. A new study reveals that condensates at a scale of 100 nm are responsible for the organization of at least 18% of the cytoplasmic proteome.</description>
@@ -573,34 +600,6 @@
             </item>
         
             <item>
-                <title>A milestone in epithelial–mesenchymal transition</title>
-                <link>https://www.nature.com/articles/s41556-023-01228-3</link>
-                <description>Epithelial–mesenchymal transition (EMT) is crucial in embryogenesis and can be exploited by cancer cells to gain metastatic abilities. A hallmark of EMT is E-cadherin loss. In 2000, Snail was reported as the first E-cadherin repressor identified in the context of EMT, advancing our understanding of embryonic development and cancer progression.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epithelial–mesenchymal transition (EMT) is crucial in embryogenesis and can be exploited by cancer cells to gain metastatic abilities. A hallmark of EMT is E-cadherin loss. In 2000, Snail was reported as the first E-cadherin repressor identified in the context of EMT, advancing our understanding of embryonic development and cancer progression.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Yutong Sun</dc:creator>
-                <dc:creator>Li Ma</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A milestone in epithelial–mesenchymal transition</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01228-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Extracellular vesicles, genetic programmers</title>
-                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
-                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Graça Raposo</dc:creator>
-                <dc:creator>Philip D. Stahl</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Talking with force at cell–cell adhesions</title>
                 <link>https://www.nature.com/articles/s41556-023-01263-0</link>
                 <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
@@ -653,6 +652,34 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>The rules of the totipotency treasure hunt</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01282-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A milestone in epithelial–mesenchymal transition</title>
+                <link>https://www.nature.com/articles/s41556-023-01228-3</link>
+                <description>Epithelial–mesenchymal transition (EMT) is crucial in embryogenesis and can be exploited by cancer cells to gain metastatic abilities. A hallmark of EMT is E-cadherin loss. In 2000, Snail was reported as the first E-cadherin repressor identified in the context of EMT, advancing our understanding of embryonic development and cancer progression.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epithelial–mesenchymal transition (EMT) is crucial in embryogenesis and can be exploited by cancer cells to gain metastatic abilities. A hallmark of EMT is E-cadherin loss. In 2000, Snail was reported as the first E-cadherin repressor identified in the context of EMT, advancing our understanding of embryonic development and cancer progression.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Yutong Sun</dc:creator>
+                <dc:creator>Li Ma</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>A milestone in epithelial–mesenchymal transition</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01228-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Extracellular vesicles, genetic programmers</title>
+                <link>https://www.nature.com/articles/s41556-023-01277-8</link>
+                <description>Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Extracellular vesicles carry proteins and lipids between cells. In a giant step forward for the field, a 2007 study published in Nature Cell Biology showed that secreted vesicles contain genetic material that is active within acceptor cells, reviving interest in extracellular vesicle-based communication in plant and animal biology.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Graça Raposo</dc:creator>
+                <dc:creator>Philip D. Stahl</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Extracellular vesicles, genetic programmers</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
             </item>
         
             <item>
@@ -947,20 +974,6 @@
             </item>
         
             <item>
-                <title>Metabolically regulated lineages in prostate cancer</title>
-                <link>https://www.nature.com/articles/s41556-023-01298-3</link>
-                <description>Lineage plasticity and epigenetic changes underlie prostate development and cancer evolution. A new study shows that basal and luminal prostate cells have distinct metabolic profiles, with a basal-to-luminal shift intensifying pyruvate oxidation. Metabolic changes in turn influence chromatin architecture, lineage reprogramming and treatment sensitivity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Lineage plasticity and epigenetic changes underlie prostate development and cancer evolution. A new study shows that basal and luminal prostate cells have distinct metabolic profiles, with a basal-to-luminal shift intensifying pyruvate oxidation. Metabolic changes in turn influence chromatin architecture, lineage reprogramming and treatment sensitivity.</p></div>]]></content:encoded>
-                <pubDate>2023-12-04</pubDate>
-                <dc:creator>Martin K. Bakht</dc:creator>
-                <dc:creator>Himisha Beltran</dc:creator>
-                <dc:date>2023-12-04</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Metabolically regulated lineages in prostate cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01298-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Taming the HLA for single-cell genomics</title>
                 <link>https://www.nature.com/articles/s41588-023-01590-w</link>
                 <description>Variants in the HLA region on chromosome 6 are strongly associated with many immune-related diseases. A method to construct personalized HLA genomes from single-cell RNA sequencing data, coupled with single-cell HLA expression quantitative trait loci modeling, identifies how genetic variants influence HLA gene expression across cell states.</description>
@@ -1002,20 +1015,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Teatime for pangenomics</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01566-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>COPIng with senescence</title>
-                <link>https://www.nature.com/articles/s41556-023-01276-9</link>
-                <description>There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">There is increasing interest in approaches that target and eliminate senescent cells. A study reports that the coatomer complex I (COPI) pathway is important for the survival of senescent cells, and suggests that targeting this pathway could hold therapeutic promise in the context of senescence-associated diseases.</p></div>]]></content:encoded>
-                <pubDate>2023-11-27</pubDate>
-                <dc:creator>Stella Victorelli</dc:creator>
-                <dc:creator>João F. Passos</dc:creator>
-                <dc:date>2023-11-27</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>COPIng with senescence</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01276-9</dc:identifier>
             </item>
         
             <item>
