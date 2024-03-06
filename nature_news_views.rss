@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Bees and chimpanzees learn from others what they cannot learn alone</title>
+                <link>https://www.nature.com/articles/d41586-024-00427-8</link>
+                <description>It has been argued that human culture rests on a unique ability to learn from others more than we could possibly learn alone in a lifetime. Two studies show that we share this ability with bumblebees and chimpanzees.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">It has been argued that human culture rests on a unique ability to learn from others more than we could possibly learn alone in a lifetime. Two studies show that we share this ability with bumblebees and chimpanzees.</p></div>]]></content:encoded>
+                <pubDate>2024-03-06</pubDate>
+                <dc:creator>Alex Thornton</dc:creator>
+                <dc:date>2024-03-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Bees and chimpanzees learn from others what they cannot learn alone</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00427-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Ancient skin sported intricately patterned scales</title>
                 <link>https://www.nature.com/articles/d41586-024-00587-7</link>
                 <description>The discovery of 285-million-year-old fossils of intricately patterned animal scales indicates that evolutionary tinkering of armoured skin started at the dawn of life on dry land as aquatic vertebrates adapted for terrestrial survival.</description>
@@ -23,6 +36,32 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Ancient skin sported intricately patterned scales</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00587-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mammalian cells repress random DNA that yeast transcribes</title>
+                <link>https://www.nature.com/articles/d41586-024-00575-x</link>
+                <description>In experiments dubbed the Random Genome Project, researchers have integrated DNA strands with random sequences into yeast and mouse cells to find the default transcriptional state of their genomes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In experiments dubbed the Random Genome Project, researchers have integrated DNA strands with random sequences into yeast and mouse cells to find the default transcriptional state of their genomes.</p></div>]]></content:encoded>
+                <pubDate>2024-03-06</pubDate>
+                <dc:creator>Sean R. Eddy</dc:creator>
+                <dc:date>2024-03-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mammalian cells repress random DNA that yeast transcribes</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00575-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Interactions between immune cells recorded</title>
+                <link>https://www.nature.com/articles/d41586-024-00426-9</link>
+                <description>Direct interactions between cells in tissue are incompletely understood because the advanced technologies required to examine them are still in their infancy. A new method can decipher cell–cell interactions on a large scale.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Direct interactions between cells in tissue are incompletely understood because the advanced technologies required to examine them are still in their infancy. A new method can decipher cell–cell interactions on a large scale.</p></div>]]></content:encoded>
+                <pubDate>2024-03-06</pubDate>
+                <dc:creator>Michael A. Wheeler</dc:creator>
+                <dc:date>2024-03-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Interactions between immune cells recorded</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00426-9</dc:identifier>
             </item>
         
             <item>
@@ -93,34 +132,6 @@
             </item>
         
             <item>
-                <title>Synchronized neuronal activity drives waste fluid flow</title>
-                <link>https://www.nature.com/articles/d41586-024-00422-z</link>
-                <description>Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.</p></div>]]></content:encoded>
-                <pubDate>2024-02-28</pubDate>
-                <dc:creator>Lauren  Hablitz</dc:creator>
-                <dc:creator>Maiken  Nedergaard</dc:creator>
-                <dc:date>2024-02-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Synchronized neuronal activity drives waste fluid flow</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00422-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Tiny sheaths of solvent boost battery performance</title>
-                <link>https://www.nature.com/articles/d41586-024-00378-0</link>
-                <description>Small solvent molecules have been found to enable a previously unknown ion-transport mechanism in battery electrolytes, speeding up charging and increasing performance at low temperatures.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Small solvent molecules have been found to enable a previously unknown ion-transport mechanism in battery electrolytes, speeding up charging and increasing performance at low temperatures.</p></div>]]></content:encoded>
-                <pubDate>2024-02-28</pubDate>
-                <dc:creator>Chong Yan</dc:creator>
-                <dc:creator>Jia-Qi Huang</dc:creator>
-                <dc:date>2024-02-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Tiny sheaths of solvent boost battery performance</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00378-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>A mobile DNA sequence could explain tail loss in humans and apes</title>
                 <link>https://www.nature.com/articles/d41586-024-00309-z</link>
                 <description>The lack of a tail is one thing that separates apes — including humans — from other primates. Insertion of a short DNA sequence into a gene that controls tail development could explain tail loss in the common ancestor of apes.</description>
@@ -172,6 +183,34 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Non-neuronal brain cells modulate behaviour</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00425-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Synchronized neuronal activity drives waste fluid flow</title>
+                <link>https://www.nature.com/articles/d41586-024-00422-z</link>
+                <description>Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.</p></div>]]></content:encoded>
+                <pubDate>2024-02-28</pubDate>
+                <dc:creator>Lauren  Hablitz</dc:creator>
+                <dc:creator>Maiken  Nedergaard</dc:creator>
+                <dc:date>2024-02-28</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Synchronized neuronal activity drives waste fluid flow</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00422-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Tiny sheaths of solvent boost battery performance</title>
+                <link>https://www.nature.com/articles/d41586-024-00378-0</link>
+                <description>Small solvent molecules have been found to enable a previously unknown ion-transport mechanism in battery electrolytes, speeding up charging and increasing performance at low temperatures.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Small solvent molecules have been found to enable a previously unknown ion-transport mechanism in battery electrolytes, speeding up charging and increasing performance at low temperatures.</p></div>]]></content:encoded>
+                <pubDate>2024-02-28</pubDate>
+                <dc:creator>Chong Yan</dc:creator>
+                <dc:creator>Jia-Qi Huang</dc:creator>
+                <dc:date>2024-02-28</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Tiny sheaths of solvent boost battery performance</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00378-0</dc:identifier>
             </item>
         
             <item>
@@ -374,46 +413,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>From the archive: Tutankhamun’s coffin, and Darwin shares a letter</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00428-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Layered ferroelectric materials make waves — and vortices</title>
-                <link>https://www.nature.com/articles/d41586-024-00231-4</link>
-                <description>By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.</p></div>]]></content:encoded>
-                <pubDate>2024-02-14</pubDate>
-                <dc:creator>Berit H. Goodge</dc:creator>
-                <dc:date>2024-02-14</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Layered ferroelectric materials make waves — and vortices</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00231-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>New type of magnetism splits from convention</title>
-                <link>https://www.nature.com/articles/d41586-024-00190-w</link>
-                <description>Magnetic materials with zero net magnetization fall into two classes: conventional antiferromagnets and altermagnets. Physicists have identified a property in altermagnets that widens the divide between the two groups.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Magnetic materials with zero net magnetization fall into two classes: conventional antiferromagnets and altermagnets. Physicists have identified a property in altermagnets that widens the divide between the two groups.</p></div>]]></content:encoded>
-                <pubDate>2024-02-14</pubDate>
-                <dc:creator>Carmine Autieri</dc:creator>
-                <dc:date>2024-02-14</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>New type of magnetism splits from convention</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00190-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Gender bias is more exaggerated in online images than in text</title>
-                <link>https://www.nature.com/articles/d41586-024-00291-6</link>
-                <description>A big-data analysis shows that men are starkly over-represented in online images, and that gender bias is stronger in images compared with text. Such images could influence enduring gender biases in our offline lives.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A big-data analysis shows that men are starkly over-represented in online images, and that gender bias is stronger in images compared with text. Such images could influence enduring gender biases in our offline lives.</p></div>]]></content:encoded>
-                <pubDate>2024-02-14</pubDate>
-                <dc:creator>Bas Hofstra</dc:creator>
-                <dc:creator>Anne Maaike Mulders</dc:creator>
-                <dc:date>2024-02-14</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Gender bias is more exaggerated in online images than in text</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00291-6</dc:identifier>
             </item>
         
             <item>
