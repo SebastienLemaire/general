@@ -13,6 +13,48 @@
             <ttl>120</ttl>
     
             <item>
+                <title>On the edge — how plant cells monitor growth</title>
+                <link>https://www.nature.com/articles/s41477-024-01632-z</link>
+                <description>Cell edges are part of a coordinate system used by the cell to direct three-dimensional growth in an organized manner. They emerge as signalling hubs with unique composition, capable of sensing mechanical stresses derived from neighbouring cells, to negotiate and harmonize individual cellular growth rates, therefore avoiding mechanical conflict.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell edges are part of a coordinate system used by the cell to direct three-dimensional growth in an organized manner. They emerge as signalling hubs with unique composition, capable of sensing mechanical stresses derived from neighbouring cells, to negotiate and harmonize individual cellular growth rates, therefore avoiding mechanical conflict.</p></div>]]></content:encoded>
+                <pubDate>2024-03-07</pubDate>
+                <dc:creator>Choy Kriechbaum</dc:creator>
+                <dc:creator>Sabine Müller</dc:creator>
+                <dc:date>2024-03-07</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>On the edge — how plant cells monitor growth</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01632-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>WIPI4 loss linked to ferroptosis</title>
+                <link>https://www.nature.com/articles/s41556-024-01359-1</link>
+                <description>β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</p></div>]]></content:encoded>
+                <pubDate>2024-03-07</pubDate>
+                <dc:creator>Yang Liu</dc:creator>
+                <dc:creator>Hongyuan Yang</dc:creator>
+                <dc:date>2024-03-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>WIPI4 loss linked to ferroptosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01359-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Improved identification of cancer mutational processes</title>
+                <link>https://www.nature.com/articles/s41588-024-01679-w</link>
+                <description>Mutational signatures help to deconvolve the different processes that shape cancer genomes. A new tool now alleviates some of the persistent challenges in the field.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mutational signatures help to deconvolve the different processes that shape cancer genomes. A new tool now alleviates some of the persistent challenges in the field.</p></div>]]></content:encoded>
+                <pubDate>2024-03-07</pubDate>
+                <dc:creator>Tom L. Kaufmann</dc:creator>
+                <dc:creator>Roland F. Schwarz</dc:creator>
+                <dc:date>2024-03-07</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Improved identification of cancer mutational processes</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01679-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Bees and chimpanzees learn from others what they cannot learn alone</title>
                 <link>https://www.nature.com/articles/d41586-024-00427-8</link>
                 <description>It has been argued that human culture rests on a unique ability to learn from others more than we could possibly learn alone in a lifetime. Two studies show that we share this ability with bumblebees and chimpanzees.</description>
@@ -214,19 +256,6 @@
             </item>
         
             <item>
-                <title>From the archive: Stephen Hawking’s explosive idea, and scientific spirit</title>
-                <link>https://www.nature.com/articles/d41586-024-00429-6</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-02-27</pubDate>
-                
-                <dc:date>2024-02-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: Stephen Hawking’s explosive idea, and scientific spirit</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00429-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Cellular neighborhood analysis in spatial omics reveals new tissue domains and cell subtypes</title>
                 <link>https://www.nature.com/articles/s41588-023-01646-x</link>
                 <description>Spatial omics enables the molecular profiling of cells with the tissue context preserved. A new analytic approach shows how cellular neighborhood analysis and feature augmentation can spatially connect and cluster millions of cells into higher-order functional units.</description>
@@ -238,6 +267,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Cellular neighborhood analysis in spatial omics reveals new tissue domains and cell subtypes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01646-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: Stephen Hawking’s explosive idea, and scientific spirit</title>
+                <link>https://www.nature.com/articles/d41586-024-00429-6</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-02-27</pubDate>
+                
+                <dc:date>2024-02-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: Stephen Hawking’s explosive idea, and scientific spirit</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00429-6</dc:identifier>
             </item>
         
             <item>
@@ -269,6 +311,20 @@
             </item>
         
             <item>
+                <title>Disease resistance through M genes</title>
+                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
+                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Chengfang Zhan</dc:creator>
+                <dc:creator>Mengcen Wang</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Disease resistance through M genes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -281,20 +337,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Immunotherapy at all stages of hepatocellular carcinoma</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-02828-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Disease resistance through M genes</title>
-                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
-                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Chengfang Zhan</dc:creator>
-                <dc:creator>Mengcen Wang</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Disease resistance through M genes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
             </item>
         
             <item>
@@ -472,20 +514,6 @@
             </item>
         
             <item>
-                <title>Rejuvenation of diabetic macular edema with senolytic therapy</title>
-                <link>https://www.nature.com/articles/s41591-024-02804-2</link>
-                <description>Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</p></div>]]></content:encoded>
-                <pubDate>2024-02-08</pubDate>
-                <dc:creator>Tomoaki Murakami</dc:creator>
-                <dc:creator>Thomas W. Gardner</dc:creator>
-                <dc:date>2024-02-08</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Rejuvenation of diabetic macular edema with senolytic therapy</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-02804-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</title>
                 <link>https://www.nature.com/articles/s41588-023-01650-1</link>
                 <description>An open-source automated algorithm called DeepFlow enables large-scale derivation of aortic flow measurements, and genetic analysis of aortic flow, structural and functional traits demonstrates a causal relationship between aortic size and aortic valve regurgitation.</description>
@@ -498,6 +526,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01650-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Rejuvenation of diabetic macular edema with senolytic therapy</title>
+                <link>https://www.nature.com/articles/s41591-024-02804-2</link>
+                <description>Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Tomoaki Murakami</dc:creator>
+                <dc:creator>Thomas W. Gardner</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Rejuvenation of diabetic macular edema with senolytic therapy</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02804-2</dc:identifier>
             </item>
         
             <item>
@@ -598,20 +640,6 @@
             </item>
         
             <item>
-                <title>Talking with force at cell–cell adhesions</title>
-                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
-                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Zoya Mann</dc:creator>
-                <dc:creator>Alpha S. Yap</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Talking with force at cell–cell adhesions</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The science of falls and how to prevent them</title>
                 <link>https://www.nature.com/articles/s41591-023-02749-y</link>
                 <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
@@ -678,6 +706,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Extracellular vesicles, genetic programmers</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01277-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Talking with force at cell–cell adhesions</title>
+                <link>https://www.nature.com/articles/s41556-023-01263-0</link>
+                <description>Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell–cell adhesions are inevitably exposed to mechanical forces. A landmark paper by Yonemura et al. identified how tension alters molecular function of the cadherin adhesion apparatus. Its legacy lies in the many on-going efforts to understand how mechanical force is used in cell–cell communication.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Zoya Mann</dc:creator>
+                <dc:creator>Alpha S. Yap</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Talking with force at cell–cell adhesions</dc:title>
+                <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
             </item>
         
             <item>
@@ -859,20 +901,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>RNA polymerase II promoter-proximal pausing promotes BAF chromatin binding and remodeling</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01628-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Dissecting organelle interdependence</title>
-                <link>https://www.nature.com/articles/s41556-023-01285-8</link>
-                <description>The structures and functions of organelles are highly interdependent. Using paired 3D electron microscopy and multi-omics, a study now shows how other organelles affect mitochondrial structure and function: peroxisome-derived lipids reverse mitochondrial stress, highlighting the importance of organelle interconnectivity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The structures and functions of organelles are highly interdependent. Using paired 3D electron microscopy and multi-omics, a study now shows how other organelles affect mitochondrial structure and function: peroxisome-derived lipids reverse mitochondrial stress, highlighting the importance of organelle interconnectivity.</p></div>]]></content:encoded>
-                <pubDate>2023-12-21</pubDate>
-                <dc:creator>Antentor Hinton Jr.</dc:creator>
-                <dc:creator>Andrea G. Marshall</dc:creator>
-                <dc:date>2023-12-21</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Dissecting organelle interdependence</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01285-8</dc:identifier>
             </item>
         
             <item>
@@ -1339,17 +1367,17 @@
             </item>
         
             <item>
-                <title>Systematic perturbation of chromatin factors identifies regulatory networks during healthy and malignant hematopoiesis</title>
-                <link>https://www.nature.com/articles/s41588-023-01478-9</link>
-                <description>In this issue of Nature Genetics, Lara-Astiaso et al. systematically characterized the functional roles of several chromatin factors in hematopoiesis by combining functional CRISPR screens with single-cell transcriptomics and chromatin accessibility profiling, revealing lineage biases and relationships with important transcription factors.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In this issue of Nature Genetics, Lara-Astiaso et al. systematically characterized the functional roles of several chromatin factors in hematopoiesis by combining functional CRISPR screens with single-cell transcriptomics and chromatin accessibility profiling, revealing lineage biases and relationships with important transcription factors.</p></div>]]></content:encoded>
-                <pubDate>2023-09-01</pubDate>
-                <dc:creator>Llorenç Solé-Boldo</dc:creator>
-                <dc:creator>Simon Haas</dc:creator>
-                <dc:date>2023-09-01</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Systematic perturbation of chromatin factors identifies regulatory networks during healthy and malignant hematopoiesis</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01478-9</dc:identifier>
+                <title>Advancing multiplexed imaging for enhanced tissue complexity analysis</title>
+                <link>https://www.nature.com/articles/s41592-023-01935-7</link>
+                <description>Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</p></div>]]></content:encoded>
+                <pubDate>2023-08-31</pubDate>
+                <dc:creator>Marieke E. Ijsselsteijn</dc:creator>
+                <dc:creator>Noel F. C. C. de Miranda</dc:creator>
+                <dc:date>2023-08-31</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Advancing multiplexed imaging for enhanced tissue complexity analysis</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01935-7</dc:identifier>
             </item>
         
             <item>
@@ -1363,20 +1391,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The power of repetition</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01496-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Advancing multiplexed imaging for enhanced tissue complexity analysis</title>
-                <link>https://www.nature.com/articles/s41592-023-01935-7</link>
-                <description>Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</p></div>]]></content:encoded>
-                <pubDate>2023-08-31</pubDate>
-                <dc:creator>Marieke E. Ijsselsteijn</dc:creator>
-                <dc:creator>Noel F. C. C. de Miranda</dc:creator>
-                <dc:date>2023-08-31</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Advancing multiplexed imaging for enhanced tissue complexity analysis</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01935-7</dc:identifier>
             </item>
         
             <item>
@@ -1556,19 +1570,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Identifying the structures of individual RNA isoforms inside cells</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01904-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Breaking transformation barriers</title>
-                <link>https://www.nature.com/articles/s41477-023-01420-1</link>
-                <description>The regulatory networks that underlie the regeneration capacity of wheat reveal new opportunities for overcoming barriers to highly efficient and genotype-independent transformation.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The regulatory networks that underlie the regeneration capacity of wheat reveal new opportunities for overcoming barriers to highly efficient and genotype-independent transformation.</p></div>]]></content:encoded>
-                <pubDate>2023-05-16</pubDate>
-                <dc:creator>Wendy Harwood</dc:creator>
-                <dc:date>2023-05-16</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Breaking transformation barriers</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01420-1</dc:identifier>
             </item>
         
             <item>
