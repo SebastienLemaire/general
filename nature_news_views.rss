@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Restocking the tuberculosis drug arsenal</title>
+                <link>https://www.nature.com/articles/s41591-024-02840-y</link>
+                <description>After many lean years, important progress has been made in updating the anti-tuberculosis drug armamentarium; a new drug that targets bacterial protein synthesis is one of several that could help transform the treatment of this neglected and deadly disease.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">After many lean years, important progress has been made in updating the anti-tuberculosis drug armamentarium; a new drug that targets bacterial protein synthesis is one of several that could help transform the treatment of this neglected and deadly disease.</p></div>]]></content:encoded>
+                <pubDate>2024-03-08</pubDate>
+                <dc:creator>Eric L. Nuermberger</dc:creator>
+                <dc:creator>Richard E. Chaisson</dc:creator>
+                <dc:date>2024-03-08</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Restocking the tuberculosis drug arsenal</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02840-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>On the edge — how plant cells monitor growth</title>
                 <link>https://www.nature.com/articles/s41477-024-01632-z</link>
                 <description>Cell edges are part of a coordinate system used by the cell to direct three-dimensional growth in an organized manner. They emerge as signalling hubs with unique composition, capable of sensing mechanical stresses derived from neighbouring cells, to negotiate and harmonize individual cellular growth rates, therefore avoiding mechanical conflict.</description>
@@ -311,20 +325,6 @@
             </item>
         
             <item>
-                <title>Disease resistance through M genes</title>
-                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
-                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Chengfang Zhan</dc:creator>
-                <dc:creator>Mengcen Wang</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Disease resistance through M genes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -337,6 +337,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Immunotherapy at all stages of hepatocellular carcinoma</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-02828-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Disease resistance through M genes</title>
+                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
+                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Chengfang Zhan</dc:creator>
+                <dc:creator>Mengcen Wang</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Disease resistance through M genes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
             </item>
         
             <item>
@@ -514,6 +528,20 @@
             </item>
         
             <item>
+                <title>Rejuvenation of diabetic macular edema with senolytic therapy</title>
+                <link>https://www.nature.com/articles/s41591-024-02804-2</link>
+                <description>Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Tomoaki Murakami</dc:creator>
+                <dc:creator>Thomas W. Gardner</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Rejuvenation of diabetic macular edema with senolytic therapy</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02804-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</title>
                 <link>https://www.nature.com/articles/s41588-023-01650-1</link>
                 <description>An open-source automated algorithm called DeepFlow enables large-scale derivation of aortic flow measurements, and genetic analysis of aortic flow, structural and functional traits demonstrates a causal relationship between aortic size and aortic valve regurgitation.</description>
@@ -526,20 +554,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01650-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Rejuvenation of diabetic macular edema with senolytic therapy</title>
-                <link>https://www.nature.com/articles/s41591-024-02804-2</link>
-                <description>Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</p></div>]]></content:encoded>
-                <pubDate>2024-02-08</pubDate>
-                <dc:creator>Tomoaki Murakami</dc:creator>
-                <dc:creator>Thomas W. Gardner</dc:creator>
-                <dc:date>2024-02-08</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Rejuvenation of diabetic macular edema with senolytic therapy</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-02804-2</dc:identifier>
             </item>
         
             <item>
@@ -1211,20 +1225,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Polycomb repression of the asexual embryo</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01537-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Digital phenotyping could help detect autism</title>
-                <link>https://www.nature.com/articles/s41591-023-02557-4</link>
-                <description>Researchers have developed a screening tool for autism that uses computer vision and machine learning to analyze autism-related behaviors — but greater reliability and robust validation will be needed if such tools are to be used in primary care settings.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have developed a screening tool for autism that uses computer vision and machine learning to analyze autism-related behaviors — but greater reliability and robust validation will be needed if such tools are to be used in primary care settings.</p></div>]]></content:encoded>
-                <pubDate>2023-10-05</pubDate>
-                <dc:creator>Catherine Lord</dc:creator>
-                <dc:creator>Rujuta B. Wilson</dc:creator>
-                <dc:date>2023-10-05</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Digital phenotyping could help detect autism</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02557-4</dc:identifier>
             </item>
         
             <item>
