@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Whales make waves in the quest to discover why menopause evolved</title>
+                <link>https://www.nature.com/articles/d41586-024-00658-9</link>
+                <description>Why do several species of whale experience menopause, and why does the phenomenon occur at all? Analysing whale data might help to answer these questions and shed light on why menopause evolved in humans.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Why do several species of whale experience menopause, and why does the phenomenon occur at all? Analysing whale data might help to answer these questions and shed light on why menopause evolved in humans.</p></div>]]></content:encoded>
+                <pubDate>2024-03-13</pubDate>
+                <dc:creator>Rebecca Sear</dc:creator>
+                <dc:date>2024-03-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Whales make waves in the quest to discover why menopause evolved</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00658-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Epstein–Barr virus at 60</title>
                 <link>https://www.nature.com/articles/d41586-024-00653-0</link>
                 <description>The 1964 discovery of Epstein–Barr virus shed light on factors that contribute to human cancer. Subsequent studies set the stage for finding ways to diagnose and treat cancer, and revealed how immune defences control viral infection.</description>
@@ -23,6 +36,48 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Epstein–Barr virus at 60</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00653-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>3D printing enables mass production of microcomponents</title>
+                <link>https://www.nature.com/articles/d41586-024-00492-z</link>
+                <description>Combining a high-throughput technique with 3D printing offers a way of fabricating micrometre-sized particles for use in electronics and biotechnology. The versatile method can produce one million intricate shapes in a single day.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Combining a high-throughput technique with 3D printing offers a way of fabricating micrometre-sized particles for use in electronics and biotechnology. The versatile method can produce one million intricate shapes in a single day.</p></div>]]></content:encoded>
+                <pubDate>2024-03-13</pubDate>
+                <dc:creator>Christoph A. Spiegel</dc:creator>
+                <dc:creator>Eva Blasco</dc:creator>
+                <dc:date>2024-03-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>3D printing enables mass production of microcomponents</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00492-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mobile delivery of COVID-19 vaccines improved uptake in rural Sierra Leone</title>
+                <link>https://www.nature.com/articles/d41586-023-03186-0</link>
+                <description>A trial that took mobile health services to rural Sierra Leone finds that this initiative increased COVID-19 vaccine uptake. But more must be done to expand the coverage of health services in low-income countries.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A trial that took mobile health services to rural Sierra Leone finds that this initiative increased COVID-19 vaccine uptake. But more must be done to expand the coverage of health services in low-income countries.</p></div>]]></content:encoded>
+                <pubDate>2024-03-13</pubDate>
+                <dc:creator>Alison Buttenheim</dc:creator>
+                <dc:creator>Harsha Thirumurthy</dc:creator>
+                <dc:date>2024-03-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mobile delivery of COVID-19 vaccines improved uptake in rural Sierra Leone</dc:title>
+                <dc:identifier>doi:doi.org/d41586-023-03186-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Drought-fuelled overnight burning propels large fires in North America</title>
+                <link>https://www.nature.com/articles/d41586-024-00536-4</link>
+                <description>Burning events that occur at night have been revealed as a driver of large wildfires. Prolonged drought conditions are to blame, making it easier for fires to spread at night when they would ordinarily slow or extinguish completely.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Burning events that occur at night have been revealed as a driver of large wildfires. Prolonged drought conditions are to blame, making it easier for fires to spread at night when they would ordinarily slow or extinguish completely.</p></div>]]></content:encoded>
+                <pubDate>2024-03-13</pubDate>
+                <dc:creator>Jennifer K. Balch</dc:creator>
+                <dc:creator>Adam L. Mahood</dc:creator>
+                <dc:date>2024-03-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Drought-fuelled overnight burning propels large fires in North America</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00536-4</dc:identifier>
             </item>
         
             <item>
@@ -214,33 +269,6 @@
             </item>
         
             <item>
-                <title>Quantum sensor settles debate about superconductivity in hydrides</title>
-                <link>https://www.nature.com/articles/d41586-024-00423-y</link>
-                <description>By adapting a device designed to create extremely high pressures into one that can sense magnetic fields, researchers have obtained evidence that a hydrogen-rich material is a superconductor, eliminating long-standing doubts.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By adapting a device designed to create extremely high pressures into one that can sense magnetic fields, researchers have obtained evidence that a hydrogen-rich material is a superconductor, eliminating long-standing doubts.</p></div>]]></content:encoded>
-                <pubDate>2024-02-28</pubDate>
-                <dc:creator>Kin On  Ho</dc:creator>
-                <dc:creator>Sen  Yang</dc:creator>
-                <dc:date>2024-02-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Quantum sensor settles debate about superconductivity in hydrides</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00423-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Non-neuronal brain cells modulate behaviour</title>
-                <link>https://www.nature.com/articles/d41586-024-00425-w</link>
-                <description>A single gene in astrocytes can constrain repetitive behaviours, indicating that these cells are regulators of behavioural disruption in conditions such as Huntington’s disease and obsessive–compulsive disorder.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A single gene in astrocytes can constrain repetitive behaviours, indicating that these cells are regulators of behavioural disruption in conditions such as Huntington’s disease and obsessive–compulsive disorder.</p></div>]]></content:encoded>
-                <pubDate>2024-02-28</pubDate>
-                <dc:creator>Anna  Kruyer</dc:creator>
-                <dc:date>2024-02-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Non-neuronal brain cells modulate behaviour</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00425-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Synchronized neuronal activity drives waste fluid flow</title>
                 <link>https://www.nature.com/articles/d41586-024-00422-z</link>
                 <description>Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.</description>
@@ -293,6 +321,33 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Self-assembling synthetic polymer forms liquid-like droplets</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00421-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Quantum sensor settles debate about superconductivity in hydrides</title>
+                <link>https://www.nature.com/articles/d41586-024-00423-y</link>
+                <description>By adapting a device designed to create extremely high pressures into one that can sense magnetic fields, researchers have obtained evidence that a hydrogen-rich material is a superconductor, eliminating long-standing doubts.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By adapting a device designed to create extremely high pressures into one that can sense magnetic fields, researchers have obtained evidence that a hydrogen-rich material is a superconductor, eliminating long-standing doubts.</p></div>]]></content:encoded>
+                <pubDate>2024-02-28</pubDate>
+                <dc:creator>Kin On  Ho</dc:creator>
+                <dc:creator>Sen  Yang</dc:creator>
+                <dc:date>2024-02-28</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Quantum sensor settles debate about superconductivity in hydrides</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00423-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Non-neuronal brain cells modulate behaviour</title>
+                <link>https://www.nature.com/articles/d41586-024-00425-w</link>
+                <description>A single gene in astrocytes can constrain repetitive behaviours, indicating that these cells are regulators of behavioural disruption in conditions such as Huntington’s disease and obsessive–compulsive disorder.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A single gene in astrocytes can constrain repetitive behaviours, indicating that these cells are regulators of behavioural disruption in conditions such as Huntington’s disease and obsessive–compulsive disorder.</p></div>]]></content:encoded>
+                <pubDate>2024-02-28</pubDate>
+                <dc:creator>Anna  Kruyer</dc:creator>
+                <dc:date>2024-02-28</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Non-neuronal brain cells modulate behaviour</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00425-w</dc:identifier>
             </item>
         
             <item>
@@ -404,58 +459,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Lysosomal channels sensing forces</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01347-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An innovative way for whales to sing</title>
-                <link>https://www.nature.com/articles/d41586-024-00307-1</link>
-                <description>Mammals make sounds when air flow causes paired tissue folds in their voice box to oscillate. However, such air flow in the baleen group of whales takes an unusual path, enabling them to make sounds in a previously unknown way.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mammals make sounds when air flow causes paired tissue folds in their voice box to oscillate. However, such air flow in the baleen group of whales takes an unusual path, enabling them to make sounds in a previously unknown way.</p></div>]]></content:encoded>
-                <pubDate>2024-02-21</pubDate>
-                <dc:creator>Joy S. Reidenberg</dc:creator>
-                <dc:date>2024-02-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An innovative way for whales to sing</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00307-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Nanotraps boost light intensity for future optical devices</title>
-                <link>https://www.nature.com/articles/d41586-024-00311-5</link>
-                <description>A method for configuring light-trapping devices promises better optical nanodevices by amplifying light and enhancing the emission efficiency of luminescent nanomaterials — without the need for complex technology upgrades.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A method for configuring light-trapping devices promises better optical nanodevices by amplifying light and enhancing the emission efficiency of luminescent nanomaterials — without the need for complex technology upgrades.</p></div>]]></content:encoded>
-                <pubDate>2024-02-21</pubDate>
-                <dc:creator>Kirill Koshelev</dc:creator>
-                <dc:date>2024-02-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Nanotraps boost light intensity for future optical devices</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00311-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Rare isotopes formed in prelude to γ-ray burst</title>
-                <link>https://www.nature.com/articles/d41586-024-00310-6</link>
-                <description>The afterglow of a long burst of γ-rays suggests that the events leading to these explosions can be sizeable sources of some of the Universe’s rare isotopes — and that classifications of γ-ray bursts are too simplistic.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The afterglow of a long burst of γ-rays suggests that the events leading to these explosions can be sizeable sources of some of the Universe’s rare isotopes — and that classifications of γ-ray bursts are too simplistic.</p></div>]]></content:encoded>
-                <pubDate>2024-02-21</pubDate>
-                <dc:creator>Daniel Kasen</dc:creator>
-                <dc:date>2024-02-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Rare isotopes formed in prelude to γ-ray burst</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00310-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Light can restore a heart’s rhythm</title>
-                <link>https://www.nature.com/articles/d41586-024-00303-5</link>
-                <description>Implantable electric pacemakers save millions of lives worldwide, but they aren’t perfect. A proof-of-concept study shows that using light to regulate a heartbeat might be a better option than existing strategies.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Implantable electric pacemakers save millions of lives worldwide, but they aren’t perfect. A proof-of-concept study shows that using light to regulate a heartbeat might be a better option than existing strategies.</p></div>]]></content:encoded>
-                <pubDate>2024-02-21</pubDate>
-                <dc:creator>Igor R. Efimov</dc:creator>
-                <dc:date>2024-02-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Light can restore a heart’s rhythm</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00303-5</dc:identifier>
             </item>
         
             <item>
