@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Epstein–Barr virus at 60</title>
+                <link>https://www.nature.com/articles/d41586-024-00653-0</link>
+                <description>The 1964 discovery of Epstein–Barr virus shed light on factors that contribute to human cancer. Subsequent studies set the stage for finding ways to diagnose and treat cancer, and revealed how immune defences control viral infection.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The 1964 discovery of Epstein–Barr virus shed light on factors that contribute to human cancer. Subsequent studies set the stage for finding ways to diagnose and treat cancer, and revealed how immune defences control viral infection.</p></div>]]></content:encoded>
+                <pubDate>2024-03-13</pubDate>
+                <dc:creator>Lawrence S. Young</dc:creator>
+                <dc:date>2024-03-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Epstein–Barr virus at 60</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00653-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>From the archive: Brain–body connection, and cuttlefish ink distracts predators</title>
                 <link>https://www.nature.com/articles/d41586-024-00682-9</link>
                 <description>Snippets from Nature’s past.</description>
@@ -201,19 +214,6 @@
             </item>
         
             <item>
-                <title>Self-assembling synthetic polymer forms liquid-like droplets</title>
-                <link>https://www.nature.com/articles/d41586-024-00421-0</link>
-                <description>The molecules of liquid crystals and proteins can form liquid-like condensates, but such a phenomenon had not been observed for supramolecular polymers, which are held together by non-covalent bonds — until now.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The molecules of liquid crystals and proteins can form liquid-like condensates, but such a phenomenon had not been observed for supramolecular polymers, which are held together by non-covalent bonds — until now.</p></div>]]></content:encoded>
-                <pubDate>2024-02-28</pubDate>
-                <dc:creator>Jennifer L. Ross</dc:creator>
-                <dc:date>2024-02-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Self-assembling synthetic polymer forms liquid-like droplets</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00421-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Quantum sensor settles debate about superconductivity in hydrides</title>
                 <link>https://www.nature.com/articles/d41586-024-00423-y</link>
                 <description>By adapting a device designed to create extremely high pressures into one that can sense magnetic fields, researchers have obtained evidence that a hydrogen-rich material is a superconductor, eliminating long-standing doubts.</description>
@@ -280,6 +280,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>A mobile DNA sequence could explain tail loss in humans and apes</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00309-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Self-assembling synthetic polymer forms liquid-like droplets</title>
+                <link>https://www.nature.com/articles/d41586-024-00421-0</link>
+                <description>The molecules of liquid crystals and proteins can form liquid-like condensates, but such a phenomenon had not been observed for supramolecular polymers, which are held together by non-covalent bonds — until now.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The molecules of liquid crystals and proteins can form liquid-like condensates, but such a phenomenon had not been observed for supramolecular polymers, which are held together by non-covalent bonds — until now.</p></div>]]></content:encoded>
+                <pubDate>2024-02-28</pubDate>
+                <dc:creator>Jennifer L. Ross</dc:creator>
+                <dc:date>2024-02-28</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Self-assembling synthetic polymer forms liquid-like droplets</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00421-0</dc:identifier>
             </item>
         
             <item>
@@ -469,19 +482,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Mapping T cell landscapes in B cell lymphomas</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01333-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: Tutankhamun’s coffin, and Darwin shares a letter</title>
-                <link>https://www.nature.com/articles/d41586-024-00428-7</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-02-20</pubDate>
-                
-                <dc:date>2024-02-20</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: Tutankhamun’s coffin, and Darwin shares a letter</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00428-7</dc:identifier>
             </item>
         
             <item>
