@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Unlocking cryo-EM’s multishot potential with square or rectangular beams</title>
+                <link>https://www.nature.com/articles/s41592-024-02224-7</link>
+                <description>New condenser aperture designs form square or rectangular beams that match the camera dimensions, which efficiently expands the data acquisition area in cryogenic electron microscopy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New condenser aperture designs form square or rectangular beams that match the camera dimensions, which efficiently expands the data acquisition area in cryogenic electron microscopy.</p></div>]]></content:encoded>
+                <pubDate>2024-03-14</pubDate>
+                <dc:creator>Xiaowei Zhao</dc:creator>
+                <dc:date>2024-03-14</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Unlocking cryo-EM’s multishot potential with square or rectangular beams</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02224-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Breaking up the StayGold dimer yields three photostable monomers</title>
+                <link>https://www.nature.com/articles/s41592-024-02223-8</link>
+                <description>The exceptionally photostable green fluorescent protein StayGold has been monomerized in different laboratories, which has generated three unique monomeric variants that will enable new imaging applications.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The exceptionally photostable green fluorescent protein StayGold has been monomerized in different laboratories, which has generated three unique monomeric variants that will enable new imaging applications.</p></div>]]></content:encoded>
+                <pubDate>2024-03-14</pubDate>
+                <dc:creator>Joachim Goedhart</dc:creator>
+                <dc:creator>Theodorus W. J. Gadella Jr</dc:creator>
+                <dc:date>2024-03-14</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Breaking up the StayGold dimer yields three photostable monomers</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02223-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Whales make waves in the quest to discover why menopause evolved</title>
                 <link>https://www.nature.com/articles/d41586-024-00658-9</link>
                 <description>Why do several species of whale experience menopause, and why does the phenomenon occur at all? Analysing whale data might help to answer these questions and shed light on why menopause evolved in humans.</description>
@@ -920,19 +947,6 @@
             </item>
         
             <item>
-                <title>Shared chromosomal segments connect ancient human societies</title>
-                <link>https://www.nature.com/articles/s41588-023-01606-5</link>
-                <description>Long segments of the genome that are shared ‘identical by descent’ (IBD) demonstrate recent relatedness between individuals. A new computational method robustly identifies shared IBD segments in human ancient DNA data, providing insights into the mobility and demography of prehistoric human societies.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Long segments of the genome that are shared ‘identical by descent’ (IBD) demonstrate recent relatedness between individuals. A new computational method robustly identifies shared IBD segments in human ancient DNA data, providing insights into the mobility and demography of prehistoric human societies.</p></div>]]></content:encoded>
-                <pubDate>2023-12-20</pubDate>
-                <dc:creator>Anders Bergström</dc:creator>
-                <dc:date>2023-12-20</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Shared chromosomal segments connect ancient human societies</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01606-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Engineered nanopores for exopeptidase protein sequencing</title>
                 <link>https://www.nature.com/articles/s41592-023-02136-y</link>
                 <description>Two studies show that nanopores can identify the 20 proteinogenic amino acids and some of their post-translational modifications. Coupled with an exopeptidase, a bottom-up approach to protein sequencing using nanopores is on the horizon.</description>
@@ -945,6 +959,19 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Engineered nanopores for exopeptidase protein sequencing</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02136-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Shared chromosomal segments connect ancient human societies</title>
+                <link>https://www.nature.com/articles/s41588-023-01606-5</link>
+                <description>Long segments of the genome that are shared ‘identical by descent’ (IBD) demonstrate recent relatedness between individuals. A new computational method robustly identifies shared IBD segments in human ancient DNA data, providing insights into the mobility and demography of prehistoric human societies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Long segments of the genome that are shared ‘identical by descent’ (IBD) demonstrate recent relatedness between individuals. A new computational method robustly identifies shared IBD segments in human ancient DNA data, providing insights into the mobility and demography of prehistoric human societies.</p></div>]]></content:encoded>
+                <pubDate>2023-12-20</pubDate>
+                <dc:creator>Anders Bergström</dc:creator>
+                <dc:date>2023-12-20</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Shared chromosomal segments connect ancient human societies</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01606-5</dc:identifier>
             </item>
         
             <item>
@@ -976,6 +1003,19 @@
             </item>
         
             <item>
+                <title>Structural biology in the age of AI</title>
+                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
+                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
+                <pubDate>2023-12-08</pubDate>
+                <dc:creator>Sriram Subramaniam</dc:creator>
+                <dc:date>2023-12-08</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Structural biology in the age of AI</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Assembling neuroactive alkaloids</title>
                 <link>https://www.nature.com/articles/s41477-023-01586-8</link>
                 <description>The Lycopodium alkaloids represent a valuable source of neuroactive compounds. The biosynthesis of these specialized metabolites is now shown to involve three α-carbonic anhydrase-like enzymes that are responsible for constructing the key carbon–carbon bonds within their distinctive polycyclic alkaloid structures.</description>
@@ -987,19 +1027,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Assembling neuroactive alkaloids</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01586-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Structural biology in the age of AI</title>
-                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
-                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
-                <pubDate>2023-12-08</pubDate>
-                <dc:creator>Sriram Subramaniam</dc:creator>
-                <dc:date>2023-12-08</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Structural biology in the age of AI</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
             </item>
         
             <item>
@@ -1369,20 +1396,6 @@
             </item>
         
             <item>
-                <title>Advancing multiplexed imaging for enhanced tissue complexity analysis</title>
-                <link>https://www.nature.com/articles/s41592-023-01935-7</link>
-                <description>Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</p></div>]]></content:encoded>
-                <pubDate>2023-08-31</pubDate>
-                <dc:creator>Marieke E. Ijsselsteijn</dc:creator>
-                <dc:creator>Noel F. C. C. de Miranda</dc:creator>
-                <dc:date>2023-08-31</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Advancing multiplexed imaging for enhanced tissue complexity analysis</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01935-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The power of repetition</title>
                 <link>https://www.nature.com/articles/s41477-023-01496-9</link>
                 <description>The inclusion of retrotransposon long terminal repeats — and of other repeated sequences — enhances transfer DNA copy numbers in plant cells during transformation. Gene editing and homologous recombination-mediated gene targeting can therefore be improved by these means: however, the mechanism remains a mystery.</description>
@@ -1396,17 +1409,17 @@
             </item>
         
             <item>
-                <title>Fluorogenic chemically induced dimerization</title>
-                <link>https://www.nature.com/articles/s41592-023-01989-7</link>
-                <description>A new chemically induced dimerization (CID) pair exhibits fluorescence upon dimerization for the first time. Moreover, the CID pair is small and offers easily reversible dimerization that can be repeated multiple times.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new chemically induced dimerization (CID) pair exhibits fluorescence upon dimerization for the first time. Moreover, the CID pair is small and offers easily reversible dimerization that can be repeated multiple times.</p></div>]]></content:encoded>
-                <pubDate>2023-08-28</pubDate>
-                <dc:creator>Wenjing Wang</dc:creator>
-                <dc:creator>Jiaqi Shen</dc:creator>
-                <dc:date>2023-08-28</dc:date>
+                <title>Advancing multiplexed imaging for enhanced tissue complexity analysis</title>
+                <link>https://www.nature.com/articles/s41592-023-01935-7</link>
+                <description>Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Multiplexed spatial immunophenotyping has advanced our understanding of tissues in the context of homeostasis and disease. Two studies now provide additional tools to overcome challenges with multiplexed imaging: one procedure amplifies the detection of low-abundance antigens by integrating SABER and IMC technologies, and the other is an X-ray-based method that enables the non-destructive multiplexed detection of antigens in tissues at scalable resolution and speed.</p></div>]]></content:encoded>
+                <pubDate>2023-08-31</pubDate>
+                <dc:creator>Marieke E. Ijsselsteijn</dc:creator>
+                <dc:creator>Noel F. C. C. de Miranda</dc:creator>
+                <dc:date>2023-08-31</dc:date>
                 <dc:source>Nature Methods</dc:source>
-                <dc:title>Fluorogenic chemically induced dimerization</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
+                <dc:title>Advancing multiplexed imaging for enhanced tissue complexity analysis</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01935-7</dc:identifier>
             </item>
         
             <item>
@@ -1435,6 +1448,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Silencing translation with phenolic acids</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01497-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Fluorogenic chemically induced dimerization</title>
+                <link>https://www.nature.com/articles/s41592-023-01989-7</link>
+                <description>A new chemically induced dimerization (CID) pair exhibits fluorescence upon dimerization for the first time. Moreover, the CID pair is small and offers easily reversible dimerization that can be repeated multiple times.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new chemically induced dimerization (CID) pair exhibits fluorescence upon dimerization for the first time. Moreover, the CID pair is small and offers easily reversible dimerization that can be repeated multiple times.</p></div>]]></content:encoded>
+                <pubDate>2023-08-28</pubDate>
+                <dc:creator>Wenjing Wang</dc:creator>
+                <dc:creator>Jiaqi Shen</dc:creator>
+                <dc:date>2023-08-28</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Fluorogenic chemically induced dimerization</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
             </item>
         
             <item>
@@ -1642,35 +1669,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Tracking SARS-CoV-2 variants and resources</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01833-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Deep brain imaging on the move</title>
-                <link>https://www.nature.com/articles/s41592-023-01808-z</link>
-                <description>New three-photon miniature microscopes open the study of neuronal networks to those deep in the brains of behaving animals.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New three-photon miniature microscopes open the study of neuronal networks to those deep in the brains of behaving animals.</p></div>]]></content:encoded>
-                <pubDate>2023-03-03</pubDate>
-                <dc:creator>Jérôme A. Lecoq</dc:creator>
-                <dc:creator>Roman Boehringer</dc:creator>
-                <dc:creator>Benjamin F. Grewe</dc:creator>
-                <dc:date>2023-03-03</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Deep brain imaging on the move</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01808-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Linking connectome with transcriptome using a self-inactivating rabies virus</title>
-                <link>https://www.nature.com/articles/s41592-023-01803-4</link>
-                <description>A self-inactivating rabies virus tracer allows long-term monitoring and transcriptomic profiling of synaptically connected cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A self-inactivating rabies virus tracer allows long-term monitoring and transcriptomic profiling of synaptically connected cells.</p></div>]]></content:encoded>
-                <pubDate>2023-03-02</pubDate>
-                <dc:creator>Shenqin Yao</dc:creator>
-                <dc:creator>Boaz P. Levi</dc:creator>
-                <dc:date>2023-03-02</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Linking connectome with transcriptome using a self-inactivating rabies virus</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01803-4</dc:identifier>
             </item>
             
         </channel>
