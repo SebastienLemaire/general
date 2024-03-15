@@ -13,6 +13,21 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Telehealth enables safe medication abortion in shifting health and legal contexts</title>
+                <link>https://www.nature.com/articles/s41591-024-02876-0</link>
+                <description>Telehealth provision of medication abortion is safe and effective, but ensuring equitable access is challenging in the USA — and further compounded by an upcoming Supreme Court case.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Telehealth provision of medication abortion is safe and effective, but ensuring equitable access is challenging in the USA — and further compounded by an upcoming Supreme Court case.</p></div>]]></content:encoded>
+                <pubDate>2024-03-15</pubDate>
+                <dc:creator>Dana M. Johnson</dc:creator>
+                <dc:creator>Abigail R. A. Aiken</dc:creator>
+                <dc:creator>Terri-Ann Thompson</dc:creator>
+                <dc:date>2024-03-15</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Telehealth enables safe medication abortion in shifting health and legal contexts</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02876-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Unlocking cryo-EM’s multishot potential with square or rectangular beams</title>
                 <link>https://www.nature.com/articles/s41592-024-02224-7</link>
                 <description>New condenser aperture designs form square or rectangular beams that match the camera dimensions, which efficiently expands the data acquisition area in cryogenic electron microscopy.</description>
@@ -448,6 +463,19 @@
             </item>
         
             <item>
+                <title>Expanding the reach and scalability of perinatal mental health interventions</title>
+                <link>https://www.nature.com/articles/s41591-024-02825-x</link>
+                <description>A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Daisy R. Singla</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Expanding the reach and scalability of perinatal mental health interventions</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02825-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Disease resistance through M genes</title>
                 <link>https://www.nature.com/articles/s41477-024-01644-9</link>
                 <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
@@ -459,19 +487,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Disease resistance through M genes</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Expanding the reach and scalability of perinatal mental health interventions</title>
-                <link>https://www.nature.com/articles/s41591-024-02825-x</link>
-                <description>A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Daisy R. Singla</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Expanding the reach and scalability of perinatal mental health interventions</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-02825-x</dc:identifier>
             </item>
         
             <item>
@@ -1225,21 +1240,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>The power paradox of detecting disease-associated and gene-expression-associated variants</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01525-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>AI-supported insulin dosing for type 2 diabetes</title>
-                <link>https://www.nature.com/articles/s41591-023-02573-4</link>
-                <description>A novel AI-based decision support system for insulin titration in type 2 diabetes reveals important considerations surrounding the feasibility of clinical implementation.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A novel AI-based decision support system for insulin titration in type 2 diabetes reveals important considerations surrounding the feasibility of clinical implementation.</p></div>]]></content:encoded>
-                <pubDate>2023-10-11</pubDate>
-                <dc:creator>Georgia M. Davis</dc:creator>
-                <dc:creator>Hui Shao</dc:creator>
-                <dc:creator>Francisco J. Pasquel</dc:creator>
-                <dc:date>2023-10-11</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>AI-supported insulin dosing for type 2 diabetes</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02573-4</dc:identifier>
             </item>
         
             <item>
