@@ -13,16 +13,29 @@
             <ttl>120</ttl>
     
             <item>
-                <title>Haploids fast-track hybrid plant breeding</title>
-                <link>https://www.nature.com/articles/s41477-024-01656-5</link>
-                <description>Two studies report the use of paternal haploids to enable one-step transfer of cytoplasmic male sterility in maize and broccoli, which resolves a key technical bottleneck in hybrid crop breeding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two studies report the use of paternal haploids to enable one-step transfer of cytoplasmic male sterility in maize and broccoli, which resolves a key technical bottleneck in hybrid crop breeding.</p></div>]]></content:encoded>
-                <pubDate>2024-03-18</pubDate>
-                <dc:creator>Ravi Maruthachalam</dc:creator>
-                <dc:date>2024-03-18</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Haploids fast-track hybrid plant breeding</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01656-5</dc:identifier>
+                <title>The 50th anniversary of a key paper on how bird flight evolved</title>
+                <link>https://www.nature.com/articles/d41586-024-00746-w</link>
+                <description>For a century, scientists pondered whether bird flight evolved by animals gliding down from trees or by creatures running and flapping from the ground up. A landmark 1974 paper reset the debate to focus on the evolution of the flight stroke instead.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">For a century, scientists pondered whether bird flight evolved by animals gliding down from trees or by creatures running and flapping from the ground up. A landmark 1974 paper reset the debate to focus on the evolution of the flight stroke instead.</p></div>]]></content:encoded>
+                <pubDate>2024-03-19</pubDate>
+                <dc:creator>Kevin Padian</dc:creator>
+                <dc:date>2024-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The 50th anniversary of a key paper on how bird flight evolved</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00746-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>From the archive: constantly quivering eyes, and chemistry troubles</title>
+                <link>https://www.nature.com/articles/d41586-024-00683-8</link>
+                <description>Snippets from Nature’s past.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
+                <pubDate>2024-03-19</pubDate>
+                
+                <dc:date>2024-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>From the archive: constantly quivering eyes, and chemistry troubles</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00683-8</dc:identifier>
             </item>
         
             <item>
@@ -36,6 +49,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Can lessons from infants solve the problems of data-greedy AI?</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00713-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Haploids fast-track hybrid plant breeding</title>
+                <link>https://www.nature.com/articles/s41477-024-01656-5</link>
+                <description>Two studies report the use of paternal haploids to enable one-step transfer of cytoplasmic male sterility in maize and broccoli, which resolves a key technical bottleneck in hybrid crop breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two studies report the use of paternal haploids to enable one-step transfer of cytoplasmic male sterility in maize and broccoli, which resolves a key technical bottleneck in hybrid crop breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-03-18</pubDate>
+                <dc:creator>Ravi Maruthachalam</dc:creator>
+                <dc:date>2024-03-18</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Haploids fast-track hybrid plant breeding</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01656-5</dc:identifier>
             </item>
         
             <item>
@@ -218,32 +244,6 @@
             </item>
         
             <item>
-                <title>Ancient skin sported intricately patterned scales</title>
-                <link>https://www.nature.com/articles/d41586-024-00587-7</link>
-                <description>The discovery of 285-million-year-old fossils of intricately patterned animal scales indicates that evolutionary tinkering of armoured skin started at the dawn of life on dry land as aquatic vertebrates adapted for terrestrial survival.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery of 285-million-year-old fossils of intricately patterned animal scales indicates that evolutionary tinkering of armoured skin started at the dawn of life on dry land as aquatic vertebrates adapted for terrestrial survival.</p></div>]]></content:encoded>
-                <pubDate>2024-03-06</pubDate>
-                <dc:creator>Maksim V. Plikus</dc:creator>
-                <dc:date>2024-03-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ancient skin sported intricately patterned scales</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00587-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Mammalian cells repress random DNA that yeast transcribes</title>
-                <link>https://www.nature.com/articles/d41586-024-00575-x</link>
-                <description>In experiments dubbed the Random Genome Project, researchers have integrated DNA strands with random sequences into yeast and mouse cells to find the default transcriptional state of their genomes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In experiments dubbed the Random Genome Project, researchers have integrated DNA strands with random sequences into yeast and mouse cells to find the default transcriptional state of their genomes.</p></div>]]></content:encoded>
-                <pubDate>2024-03-06</pubDate>
-                <dc:creator>Sean R. Eddy</dc:creator>
-                <dc:date>2024-03-06</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Mammalian cells repress random DNA that yeast transcribes</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00575-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Interactions between immune cells recorded</title>
                 <link>https://www.nature.com/articles/d41586-024-00426-9</link>
                 <description>Direct interactions between cells in tissue are incompletely understood because the advanced technologies required to examine them are still in their infancy. A new method can decipher cell–cell interactions on a large scale.</description>
@@ -267,6 +267,32 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Bees and chimpanzees learn from others what they cannot learn alone</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00427-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Ancient skin sported intricately patterned scales</title>
+                <link>https://www.nature.com/articles/d41586-024-00587-7</link>
+                <description>The discovery of 285-million-year-old fossils of intricately patterned animal scales indicates that evolutionary tinkering of armoured skin started at the dawn of life on dry land as aquatic vertebrates adapted for terrestrial survival.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery of 285-million-year-old fossils of intricately patterned animal scales indicates that evolutionary tinkering of armoured skin started at the dawn of life on dry land as aquatic vertebrates adapted for terrestrial survival.</p></div>]]></content:encoded>
+                <pubDate>2024-03-06</pubDate>
+                <dc:creator>Maksim V. Plikus</dc:creator>
+                <dc:date>2024-03-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Ancient skin sported intricately patterned scales</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00587-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mammalian cells repress random DNA that yeast transcribes</title>
+                <link>https://www.nature.com/articles/d41586-024-00575-x</link>
+                <description>In experiments dubbed the Random Genome Project, researchers have integrated DNA strands with random sequences into yeast and mouse cells to find the default transcriptional state of their genomes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In experiments dubbed the Random Genome Project, researchers have integrated DNA strands with random sequences into yeast and mouse cells to find the default transcriptional state of their genomes.</p></div>]]></content:encoded>
+                <pubDate>2024-03-06</pubDate>
+                <dc:creator>Sean R. Eddy</dc:creator>
+                <dc:date>2024-03-06</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mammalian cells repress random DNA that yeast transcribes</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00575-x</dc:identifier>
             </item>
         
             <item>
@@ -334,20 +360,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Mesoscale condensates organize the cytoplasm</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01331-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Synchronized neuronal activity drives waste fluid flow</title>
-                <link>https://www.nature.com/articles/d41586-024-00422-z</link>
-                <description>Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.</p></div>]]></content:encoded>
-                <pubDate>2024-02-28</pubDate>
-                <dc:creator>Lauren  Hablitz</dc:creator>
-                <dc:creator>Maiken  Nedergaard</dc:creator>
-                <dc:date>2024-02-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Synchronized neuronal activity drives waste fluid flow</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00422-z</dc:identifier>
             </item>
         
             <item>
@@ -430,19 +442,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Cellular neighborhood analysis in spatial omics reveals new tissue domains and cell subtypes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01646-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: Stephen Hawking’s explosive idea, and scientific spirit</title>
-                <link>https://www.nature.com/articles/d41586-024-00429-6</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-02-27</pubDate>
-                
-                <dc:date>2024-02-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: Stephen Hawking’s explosive idea, and scientific spirit</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00429-6</dc:identifier>
             </item>
         
             <item>
