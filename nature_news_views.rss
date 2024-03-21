@@ -13,6 +13,21 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Exploitation of the microbiome for crop breeding</title>
+                <link>https://www.nature.com/articles/s41477-024-01657-4</link>
+                <description>Rhizosphere microbiomes are shaped by both the environment and the host. A recent study of the maize microbiome reveals how plants recruit a specific microbiome to alleviate abiotic stress, and provides clues for precision microbiome engineering in agriculture.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Rhizosphere microbiomes are shaped by both the environment and the host. A recent study of the maize microbiome reveals how plants recruit a specific microbiome to alleviate abiotic stress, and provides clues for precision microbiome engineering in agriculture.</p></div>]]></content:encoded>
+                <pubDate>2024-03-21</pubDate>
+                <dc:creator>Jiayong Shen</dc:creator>
+                <dc:creator>Mingxing Wang</dc:creator>
+                <dc:creator>Ertao Wang</dc:creator>
+                <dc:date>2024-03-21</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Exploitation of the microbiome for crop breeding</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01657-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Birds convey complex signals in simple songs</title>
                 <link>https://www.nature.com/articles/d41586-024-00677-6</link>
                 <description>The quality of a bird’s song during courtship can influence whether a male is selected as a mate. An innovative approach using machine learning offers a way to analyse the characteristics of birdsong.</description>
@@ -473,6 +488,20 @@
             </item>
         
             <item>
+                <title>Disease resistance through M genes</title>
+                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
+                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Chengfang Zhan</dc:creator>
+                <dc:creator>Mengcen Wang</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Disease resistance through M genes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -485,20 +514,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Immunotherapy at all stages of hepatocellular carcinoma</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-02828-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Disease resistance through M genes</title>
-                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
-                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Chengfang Zhan</dc:creator>
-                <dc:creator>Mengcen Wang</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Disease resistance through M genes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
             </item>
         
             <item>
@@ -1352,20 +1367,6 @@
             </item>
         
             <item>
-                <title>How to establish a GAPLESS Casparian strip</title>
-                <link>https://www.nature.com/articles/s41477-023-01525-7</link>
-                <description>To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</p></div>]]></content:encoded>
-                <pubDate>2023-09-18</pubDate>
-                <dc:creator>Milica Nenadić</dc:creator>
-                <dc:creator>Joop E. M. Vermeer</dc:creator>
-                <dc:date>2023-09-18</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>How to establish a GAPLESS Casparian strip</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01525-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Blueprint for non-transgenic edited plants</title>
                 <link>https://www.nature.com/articles/s41477-023-01532-8</link>
                 <description>A robust strategy to obtain edited crops without integration of a transgene is developed based on co-editing the ALS gene and a gene of interest.</description>
@@ -1377,6 +1378,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Blueprint for non-transgenic edited plants</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01532-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How to establish a GAPLESS Casparian strip</title>
+                <link>https://www.nature.com/articles/s41477-023-01525-7</link>
+                <description>To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">To control the movement of water and nutrients, vascular plants seal the paracellular space between adjacent endodermal cells with a tight junction-like complex comprising the Casparian strip and Casparian strip membrane domain. In rice, GAPLESS proteins mediate the attachment of these two components and enable nutrient homeostasis.</p></div>]]></content:encoded>
+                <pubDate>2023-09-18</pubDate>
+                <dc:creator>Milica Nenadić</dc:creator>
+                <dc:creator>Joop E. M. Vermeer</dc:creator>
+                <dc:date>2023-09-18</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>How to establish a GAPLESS Casparian strip</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01525-7</dc:identifier>
             </item>
         
             <item>
@@ -1570,19 +1585,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Dynamic nucleoskeleton in stress</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Intimacy stabilizes symbiotic nodulation</title>
-                <link>https://www.nature.com/articles/s41477-023-01438-5</link>
-                <description>Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transcriptomics of nitrogen-fixing plants and their symbionts reveals the origins of root-nodulating symbiosis and how it has endured more in some groups than others</p></div>]]></content:encoded>
-                <pubDate>2023-06-15</pubDate>
-                <dc:creator>Euan K. James</dc:creator>
-                <dc:date>2023-06-15</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Intimacy stabilizes symbiotic nodulation</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01438-5</dc:identifier>
             </item>
         
             <item>
