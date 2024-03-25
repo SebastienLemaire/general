@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Enhancer contacts during embryonic development show diverse interaction modes and modest yet significant increases upon gene activation</title>
+                <link>https://www.nature.com/articles/s41588-024-01700-2</link>
+                <description>The exact relationship between 3D chromatin interactions and enhancer function is unclear. By probing three-dimensional enhancer interactions in developing embryos, two studies now show nuanced dynamics in tissue-specific contexts and reveal how moderately increased enhancer–promoter interactions coincide with functionality.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The exact relationship between 3D chromatin interactions and enhancer function is unclear. By probing three-dimensional enhancer interactions in developing embryos, two studies now show nuanced dynamics in tissue-specific contexts and reveal how moderately increased enhancer–promoter interactions coincide with functionality.</p></div>]]></content:encoded>
+                <pubDate>2024-03-25</pubDate>
+                <dc:creator>Daniel M. Ibrahim</dc:creator>
+                <dc:date>2024-03-25</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Enhancer contacts during embryonic development show diverse interaction modes and modest yet significant increases upon gene activation</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01700-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Exploitation of the microbiome for crop breeding</title>
                 <link>https://www.nature.com/articles/s41477-024-01657-4</link>
                 <description>Rhizosphere microbiomes are shaped by both the environment and the host. A recent study of the maize microbiome reveals how plants recruit a specific microbiome to alleviate abiotic stress, and provides clues for precision microbiome engineering in agriculture.</description>
@@ -312,20 +325,6 @@
             </item>
         
             <item>
-                <title>WIPI4 loss linked to ferroptosis</title>
-                <link>https://www.nature.com/articles/s41556-024-01359-1</link>
-                <description>β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</p></div>]]></content:encoded>
-                <pubDate>2024-03-07</pubDate>
-                <dc:creator>Yang Liu</dc:creator>
-                <dc:creator>Hongyuan Yang</dc:creator>
-                <dc:date>2024-03-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>WIPI4 loss linked to ferroptosis</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01359-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Improved identification of cancer mutational processes</title>
                 <link>https://www.nature.com/articles/s41588-024-01679-w</link>
                 <description>Mutational signatures help to deconvolve the different processes that shape cancer genomes. A new tool now alleviates some of the persistent challenges in the field.</description>
@@ -337,6 +336,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Improved identification of cancer mutational processes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01679-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>WIPI4 loss linked to ferroptosis</title>
+                <link>https://www.nature.com/articles/s41556-024-01359-1</link>
+                <description>β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</p></div>]]></content:encoded>
+                <pubDate>2024-03-07</pubDate>
+                <dc:creator>Yang Liu</dc:creator>
+                <dc:creator>Hongyuan Yang</dc:creator>
+                <dc:date>2024-03-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>WIPI4 loss linked to ferroptosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01359-1</dc:identifier>
             </item>
         
             <item>
@@ -962,19 +975,6 @@
             </item>
         
             <item>
-                <title>Extraordinary collateral mutagenesis induced by CX-5461</title>
-                <link>https://www.nature.com/articles/s41588-023-01611-8</link>
-                <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</p></div>]]></content:encoded>
-                <pubDate>2023-12-21</pubDate>
-                <dc:creator>Simon J. Boulton</dc:creator>
-                <dc:date>2023-12-21</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Extraordinary collateral mutagenesis induced by CX-5461</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01611-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>RNA polymerase II promoter-proximal pausing promotes BAF chromatin binding and remodeling</title>
                 <link>https://www.nature.com/articles/s41588-023-01628-z</link>
                 <description>New research reports that paused RNA polymerase II (RNAPII) enhances the targeting and activity of BAF chromatin remodelers. These findings suggest a new paradigm for understanding how the collaborative action of chromatin remodelers and the transcriptional machinery govern cell-type-specific chromatin accessibility.</description>
@@ -986,6 +986,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>RNA polymerase II promoter-proximal pausing promotes BAF chromatin binding and remodeling</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01628-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Extraordinary collateral mutagenesis induced by CX-5461</title>
+                <link>https://www.nature.com/articles/s41588-023-01611-8</link>
+                <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</p></div>]]></content:encoded>
+                <pubDate>2023-12-21</pubDate>
+                <dc:creator>Simon J. Boulton</dc:creator>
+                <dc:date>2023-12-21</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Extraordinary collateral mutagenesis induced by CX-5461</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01611-8</dc:identifier>
             </item>
         
             <item>
@@ -1392,20 +1405,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>How to establish a GAPLESS Casparian strip</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01525-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A fork in the road to differentiation</title>
-                <link>https://www.nature.com/articles/s41588-023-01489-6</link>
-                <description>The symmetric inheritance of histone modifications by the nascent chromatin fibers during DNA replication is essential for proper developmental progression. Two new studies using mouse embryonic stem cells further illuminate the role of histone inheritance in early cell fate decisions.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The symmetric inheritance of histone modifications by the nascent chromatin fibers during DNA replication is essential for proper developmental progression. Two new studies using mouse embryonic stem cells further illuminate the role of histone inheritance in early cell fate decisions.</p></div>]]></content:encoded>
-                <pubDate>2023-09-04</pubDate>
-                <dc:creator>Luis Altamirano-Pacheco</dc:creator>
-                <dc:creator>Pablo Navarro</dc:creator>
-                <dc:date>2023-09-04</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>A fork in the road to differentiation</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01489-6</dc:identifier>
             </item>
         
             <item>
