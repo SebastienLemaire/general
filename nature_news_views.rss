@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>How Sydney Harbour Bridge was shaping up 100 years ago</title>
+                <link>https://www.nature.com/articles/d41586-024-00684-7</link>
+                <description>Plans for Sydney’s iconic landmark become concrete, plus a ‘Michelin Guide’ to superconductive tunnelling, in the weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plans for Sydney’s iconic landmark become concrete, plus a ‘Michelin Guide’ to superconductive tunnelling, in the weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2024-03-26</pubDate>
+                
+                <dc:date>2024-03-26</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How Sydney Harbour Bridge was shaping up 100 years ago</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00684-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Enhancer contacts during embryonic development show diverse interaction modes and modest yet significant increases upon gene activation</title>
                 <link>https://www.nature.com/articles/s41588-024-01700-2</link>
                 <description>The exact relationship between 3D chromatin interactions and enhancer function is unclear. By probing three-dimensional enhancer interactions in developing embryos, two studies now show nuanced dynamics in tissue-specific contexts and reveal how moderately increased enhancer–promoter interactions coincide with functionality.</description>
@@ -216,20 +229,6 @@
             </item>
         
             <item>
-                <title>Drought-fuelled overnight burning propels large fires in North America</title>
-                <link>https://www.nature.com/articles/d41586-024-00536-4</link>
-                <description>Burning events that occur at night have been revealed as a driver of large wildfires. Prolonged drought conditions are to blame, making it easier for fires to spread at night when they would ordinarily slow or extinguish completely.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Burning events that occur at night have been revealed as a driver of large wildfires. Prolonged drought conditions are to blame, making it easier for fires to spread at night when they would ordinarily slow or extinguish completely.</p></div>]]></content:encoded>
-                <pubDate>2024-03-13</pubDate>
-                <dc:creator>Jennifer K. Balch</dc:creator>
-                <dc:creator>Adam L. Mahood</dc:creator>
-                <dc:date>2024-03-13</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Drought-fuelled overnight burning propels large fires in North America</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00536-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Whales make waves in the quest to discover why menopause evolved</title>
                 <link>https://www.nature.com/articles/d41586-024-00658-9</link>
                 <description>Why do several species of whale experience menopause, and why does the phenomenon occur at all? Analysing whale data might help to answer these questions and shed light on why menopause evolved in humans.</description>
@@ -281,6 +280,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Mobile delivery of COVID-19 vaccines improved uptake in rural Sierra Leone</dc:title>
                 <dc:identifier>doi:doi.org/d41586-023-03186-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Drought-fuelled overnight burning propels large fires in North America</title>
+                <link>https://www.nature.com/articles/d41586-024-00536-4</link>
+                <description>Burning events that occur at night have been revealed as a driver of large wildfires. Prolonged drought conditions are to blame, making it easier for fires to spread at night when they would ordinarily slow or extinguish completely.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Burning events that occur at night have been revealed as a driver of large wildfires. Prolonged drought conditions are to blame, making it easier for fires to spread at night when they would ordinarily slow or extinguish completely.</p></div>]]></content:encoded>
+                <pubDate>2024-03-13</pubDate>
+                <dc:creator>Jennifer K. Balch</dc:creator>
+                <dc:creator>Adam L. Mahood</dc:creator>
+                <dc:date>2024-03-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Drought-fuelled overnight burning propels large fires in North America</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00536-4</dc:identifier>
             </item>
         
             <item>
@@ -402,19 +415,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Interactions between immune cells recorded</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00426-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>From the archive: New Mexico’s prehistoric pottery, and traces of the Ice Age</title>
-                <link>https://www.nature.com/articles/d41586-024-00430-z</link>
-                <description>Snippets from Nature’s past.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Snippets from Nature’s past.</p></div>]]></content:encoded>
-                <pubDate>2024-03-05</pubDate>
-                
-                <dc:date>2024-03-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>From the archive: New Mexico’s prehistoric pottery, and traces of the Ice Age</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00430-z</dc:identifier>
             </item>
         
             <item>
