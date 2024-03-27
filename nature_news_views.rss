@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>RIPK1 and necroptosis role in premature ageing</title>
+                <link>https://www.nature.com/articles/s41556-024-01390-2</link>
+                <description>Progeria, or premature ageing, is a devastating condition caused by defects in the nuclear envelope and is associated with systemic inflammation. A study now shows in animal models that inhibiting necroptosis, and particularly activity of the RIPK1 kinase, reduces inflammation and results in a meaningful extension in lifespan1.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Progeria, or premature ageing, is a devastating condition caused by defects in the nuclear envelope and is associated with systemic inflammation. A study now shows in animal models that inhibiting necroptosis, and particularly activity of the RIPK1 kinase, reduces inflammation and results in a meaningful extension in lifespan1.</p></div>]]></content:encoded>
+                <pubDate>2024-03-27</pubDate>
+                <dc:creator>Panxue Wang</dc:creator>
+                <dc:creator>John Silke</dc:creator>
+                <dc:date>2024-03-27</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>RIPK1 and necroptosis role in premature ageing</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01390-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>How Sydney Harbour Bridge was shaping up 100 years ago</title>
                 <link>https://www.nature.com/articles/d41586-024-00684-7</link>
                 <description>Plans for Sydney’s iconic landmark become concrete, plus a ‘Michelin Guide’ to superconductive tunnelling, in the weekly dip into Nature’s archive.</description>
@@ -338,20 +352,6 @@
             </item>
         
             <item>
-                <title>Improved identification of cancer mutational processes</title>
-                <link>https://www.nature.com/articles/s41588-024-01679-w</link>
-                <description>Mutational signatures help to deconvolve the different processes that shape cancer genomes. A new tool now alleviates some of the persistent challenges in the field.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mutational signatures help to deconvolve the different processes that shape cancer genomes. A new tool now alleviates some of the persistent challenges in the field.</p></div>]]></content:encoded>
-                <pubDate>2024-03-07</pubDate>
-                <dc:creator>Tom L. Kaufmann</dc:creator>
-                <dc:creator>Roland F. Schwarz</dc:creator>
-                <dc:date>2024-03-07</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Improved identification of cancer mutational processes</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01679-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>WIPI4 loss linked to ferroptosis</title>
                 <link>https://www.nature.com/articles/s41556-024-01359-1</link>
                 <description>β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</description>
@@ -363,6 +363,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>WIPI4 loss linked to ferroptosis</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01359-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Improved identification of cancer mutational processes</title>
+                <link>https://www.nature.com/articles/s41588-024-01679-w</link>
+                <description>Mutational signatures help to deconvolve the different processes that shape cancer genomes. A new tool now alleviates some of the persistent challenges in the field.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mutational signatures help to deconvolve the different processes that shape cancer genomes. A new tool now alleviates some of the persistent challenges in the field.</p></div>]]></content:encoded>
+                <pubDate>2024-03-07</pubDate>
+                <dc:creator>Tom L. Kaufmann</dc:creator>
+                <dc:creator>Roland F. Schwarz</dc:creator>
+                <dc:date>2024-03-07</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Improved identification of cancer mutational processes</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01679-w</dc:identifier>
             </item>
         
             <item>
@@ -915,21 +929,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>FUS maintains TAZ fluidity and function</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01318-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Microbial regulation of ferroptosis in cancer</title>
-                <link>https://www.nature.com/articles/s41556-023-01321-7</link>
-                <description>Different gut microbial metabolites have the potential to promote and protect against colorectal cancer (CRC). A study now links trans-3-indoleacrylic acid (IDA), a metabolite derived from Peptostreptococcus anaerobius, with colorectal carcinogenesis through a distinct ferroptosis pathway AHR–ALDH1A3–FSP1–CoQ10.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Different gut microbial metabolites have the potential to promote and protect against colorectal cancer (CRC). A study now links trans-3-indoleacrylic acid (IDA), a metabolite derived from Peptostreptococcus anaerobius, with colorectal carcinogenesis through a distinct ferroptosis pathway AHR–ALDH1A3–FSP1–CoQ10.</p></div>]]></content:encoded>
-                <pubDate>2024-01-02</pubDate>
-                <dc:creator>Qiming Zhang</dc:creator>
-                <dc:creator>Swagata Goswami</dc:creator>
-                <dc:creator>Omer Yilmaz</dc:creator>
-                <dc:date>2024-01-02</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Microbial regulation of ferroptosis in cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01321-7</dc:identifier>
             </item>
         
             <item>
