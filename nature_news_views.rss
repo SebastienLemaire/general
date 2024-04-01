@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Large language models for reducing clinicians’ documentation burden</title>
+                <link>https://www.nature.com/articles/s41591-024-02888-w</link>
+                <description>Evaluation of a clinical summarization method based on GPT-4 suggests that such models might reduce the documentation burden on clinicians — but prospective evaluation with high-priority tasks will be the true test of its potential.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Evaluation of a clinical summarization method based on GPT-4 suggests that such models might reduce the documentation burden on clinicians — but prospective evaluation with high-priority tasks will be the true test of its potential.</p></div>]]></content:encoded>
+                <pubDate>2024-04-01</pubDate>
+                <dc:creator>Kirk Roberts</dc:creator>
+                <dc:date>2024-04-01</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Large language models for reducing clinicians’ documentation burden</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02888-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The race to uncover fission factors for lysosomal organelles heats up</title>
                 <link>https://www.nature.com/articles/d41586-024-00851-w</link>
                 <description>Organelles called lysosomes fuse with cargo-carrying vesicles and degrade the cargo molecules. How lysosomes maintain their size despite constant vesicle fusion was unclear, but now factors that aid organelle fission have been found.</description>
@@ -519,20 +532,6 @@
             </item>
         
             <item>
-                <title>Disease resistance through M genes</title>
-                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
-                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Chengfang Zhan</dc:creator>
-                <dc:creator>Mengcen Wang</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Disease resistance through M genes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -545,6 +544,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Immunotherapy at all stages of hepatocellular carcinoma</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-02828-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Disease resistance through M genes</title>
+                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
+                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Chengfang Zhan</dc:creator>
+                <dc:creator>Mengcen Wang</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Disease resistance through M genes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
             </item>
         
             <item>
@@ -756,21 +769,6 @@
             </item>
         
             <item>
-                <title>The science of falls and how to prevent them</title>
-                <link>https://www.nature.com/articles/s41591-023-02749-y</link>
-                <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</p></div>]]></content:encoded>
-                <pubDate>2024-01-16</pubDate>
-                <dc:creator>Sarah E. Lamb</dc:creator>
-                <dc:creator>Genevieve Williams</dc:creator>
-                <dc:creator>Will Young</dc:creator>
-                <dc:date>2024-01-16</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>The science of falls and how to prevent them</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Defining the chromatin signature of pluripotency</title>
                 <link>https://www.nature.com/articles/s41556-023-01268-9</link>
                 <description>The interplay between DNA and its associated proteins has a crucial role in regulating gene expression and determining cellular identity. Here we revisit an earlier Nature Cell Biology study that established the chromatin signature associated with pluripotency.</description>
@@ -836,6 +834,21 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Talking with force at cell–cell adhesions</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01263-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The science of falls and how to prevent them</title>
+                <link>https://www.nature.com/articles/s41591-023-02749-y</link>
+                <description>As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As populations age, falls are an increasing public health problem; strategies to prevent them should incorporate new technologies and insights into the sensory, perceptual and motor systems controlling balance.</p></div>]]></content:encoded>
+                <pubDate>2024-01-16</pubDate>
+                <dc:creator>Sarah E. Lamb</dc:creator>
+                <dc:creator>Genevieve Williams</dc:creator>
+                <dc:creator>Will Young</dc:creator>
+                <dc:date>2024-01-16</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The science of falls and how to prevent them</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02749-y</dc:identifier>
             </item>
         
             <item>
@@ -1212,21 +1225,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Genetically encoded shape probes for cryogenic electron tomography</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02044-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Boosting CAR T cells with anti-tumor mRNA vaccines</title>
-                <link>https://www.nature.com/articles/s41591-023-02623-x</link>
-                <description>A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new approach that combines CAR T cells with serial mRNA vaccine injections facilitates robust anti-neoplastic activity in patients with genitourinary cancers, which will pave the way for a promising new targeted treatment strategy.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Alex Chehrazi-Raffle</dc:creator>
-                <dc:creator>Lihua E. Budde</dc:creator>
-                <dc:creator>Sumanta K. Pal</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Boosting CAR T cells with anti-tumor mRNA vaccines</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02623-x</dc:identifier>
             </item>
         
             <item>
