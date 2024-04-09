@@ -13,6 +13,62 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Lipidomes define immune cell identity</title>
+                <link>https://www.nature.com/articles/s41556-024-01398-8</link>
+                <description>Diverse, specialized immune cells defend against pathogens and cancer cells. A new study reveals the comprehensive lipid compositions of these cells, with unique lipidomes associated with various immune cell types. They show that cell-specific lipid compositions determine a key functional phenotype: their susceptibility to ferroptosis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Diverse, specialized immune cells defend against pathogens and cancer cells. A new study reveals the comprehensive lipid compositions of these cells, with unique lipidomes associated with various immune cell types. They show that cell-specific lipid compositions determine a key functional phenotype: their susceptibility to ferroptosis.</p></div>]]></content:encoded>
+                <pubDate>2024-04-08</pubDate>
+                <dc:creator>Kandice R. Levental</dc:creator>
+                <dc:creator>Whitney S. Henry</dc:creator>
+                <dc:date>2024-04-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Lipidomes define immune cell identity</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01398-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Lignin strips in glandular trichomes</title>
+                <link>https://www.nature.com/articles/s41477-024-01676-1</link>
+                <description>Compartmentalization of specialized compounds in glandular trichomes is essential for plant protection against stresses and attraction of pollinators. This compartmentalization is achieved by the establishment of a lignin-based apoplastic barrier named ‘neck strip’, which is present in trichomes of diverse plant species.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Compartmentalization of specialized compounds in glandular trichomes is essential for plant protection against stresses and attraction of pollinators. This compartmentalization is achieved by the establishment of a lignin-based apoplastic barrier named ‘neck strip’, which is present in trichomes of diverse plant species.</p></div>]]></content:encoded>
+                <pubDate>2024-04-08</pubDate>
+                <dc:creator>Igor Cesarino</dc:creator>
+                <dc:creator>Dyoni M. Oliveira</dc:creator>
+                <dc:date>2024-04-08</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Lignin strips in glandular trichomes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01676-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Transcriptional bodies manage tight resources</title>
+                <link>https://www.nature.com/articles/s41556-024-01395-x</link>
+                <description>Eukaryotic transcriptional machinery often shows local enrichment in dynamic clusters at sites of high expression. A study of zebrafish embryos shows that such clusters can fine-tune the timing of zygotic genome activation by sequestering a component required for productive transcription, thus limiting its availability to other genes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Eukaryotic transcriptional machinery often shows local enrichment in dynamic clusters at sites of high expression. A study of zebrafish embryos shows that such clusters can fine-tune the timing of zygotic genome activation by sequestering a component required for productive transcription, thus limiting its availability to other genes.</p></div>]]></content:encoded>
+                <pubDate>2024-04-08</pubDate>
+                <dc:creator>Natalia Stec</dc:creator>
+                <dc:creator>Adam Klosin</dc:creator>
+                <dc:date>2024-04-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Transcriptional bodies manage tight resources</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01395-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Tackling heat-related mortality in aging populations</title>
+                <link>https://www.nature.com/articles/s41591-024-02919-6</link>
+                <description>A large study of older adults in China points to physical and cognitive function — not age — as key predictors of heat-related mortality, highlighting the need for climate adaptation policies to prioritize accessibility across all age groups.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A large study of older adults in China points to physical and cognitive function — not age — as key predictors of heat-related mortality, highlighting the need for climate adaptation policies to prioritize accessibility across all age groups.</p></div>]]></content:encoded>
+                <pubDate>2024-04-08</pubDate>
+                <dc:creator>Josiah L. Kephart</dc:creator>
+                <dc:creator>Safiyyah M. Okoye</dc:creator>
+                <dc:date>2024-04-08</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Tackling heat-related mortality in aging populations</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02919-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Trio of radicals choreographed for versatile chemical reaction</title>
                 <link>https://www.nature.com/articles/d41586-024-00735-z</link>
                 <description>The idea that three different free radicals could be used together to carry out specific steps in a chemical reaction has long been implausible. A ‘radical sorting’ strategy now achieves this feat to make organic molecules.</description>
@@ -323,19 +379,6 @@
             </item>
         
             <item>
-                <title>Can lessons from infants solve the problems of data-greedy AI?</title>
-                <link>https://www.nature.com/articles/d41586-024-00713-5</link>
-                <description>Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.</p></div>]]></content:encoded>
-                <pubDate>2024-03-18</pubDate>
-                <dc:creator>Linda B. Smith</dc:creator>
-                <dc:date>2024-03-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Can lessons from infants solve the problems of data-greedy AI?</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00713-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Haploids fast-track hybrid plant breeding</title>
                 <link>https://www.nature.com/articles/s41477-024-01656-5</link>
                 <description>Two studies report the use of paternal haploids to enable one-step transfer of cytoplasmic male sterility in maize and broccoli, which resolves a key technical bottleneck in hybrid crop breeding.</description>
@@ -346,6 +389,19 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Haploids fast-track hybrid plant breeding</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01656-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Can lessons from infants solve the problems of data-greedy AI?</title>
+                <link>https://www.nature.com/articles/d41586-024-00713-5</link>
+                <description>Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.</p></div>]]></content:encoded>
+                <pubDate>2024-03-18</pubDate>
+                <dc:creator>Linda B. Smith</dc:creator>
+                <dc:date>2024-03-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Can lessons from infants solve the problems of data-greedy AI?</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00713-5</dc:identifier>
             </item>
         
             <item>
@@ -627,20 +683,6 @@
             </item>
         
             <item>
-                <title>mtDNA caught in the act again</title>
-                <link>https://www.nature.com/articles/s41556-024-01345-7</link>
-                <description>Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</p></div>]]></content:encoded>
-                <pubDate>2024-02-08</pubDate>
-                <dc:creator>Kate McArthur</dc:creator>
-                <dc:creator>Benjamin T. Kile</dc:creator>
-                <dc:date>2024-02-08</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>mtDNA caught in the act again</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01345-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Rejuvenation of diabetic macular edema with senolytic therapy</title>
                 <link>https://www.nature.com/articles/s41591-024-02804-2</link>
                 <description>Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</description>
@@ -667,6 +709,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01650-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>mtDNA caught in the act again</title>
+                <link>https://www.nature.com/articles/s41556-024-01345-7</link>
+                <description>Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite a growing understanding of the immunostimulatory properties of mitochondrial DNA (mtDNA), little is known about how and why mtDNA escapes its mitochondrial confines. A study now describes an endosomal trafficking pathway that facilitates mtDNA egress and provides an additional mechanism of mtDNA release in vitro.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Kate McArthur</dc:creator>
+                <dc:creator>Benjamin T. Kile</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>mtDNA caught in the act again</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01345-7</dc:identifier>
             </item>
         
             <item>
@@ -698,6 +754,19 @@
             </item>
         
             <item>
+                <title>An AI chatbot for talking therapy referrals</title>
+                <link>https://www.nature.com/articles/s41591-023-02773-y</link>
+                <description>An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</p></div>]]></content:encoded>
+                <pubDate>2024-02-05</pubDate>
+                <dc:creator>Jacqueline Sin</dc:creator>
+                <dc:date>2024-02-05</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>An AI chatbot for talking therapy referrals</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02773-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Compositional plasticity of the Atg1 complex</title>
                 <link>https://www.nature.com/articles/s41556-023-01340-4</link>
                 <description>How do metabolic stresses trigger catabolic autophagy for cell survival? A study now reveals that the metabolite sensor Pho81 integrates into and activates the kinase activity of the Atg1 complex for pexophagy triggered by phosphate starvation. This demonstrates the plasticity of the autophagy-initiating Atg1 complex.</description>
@@ -709,19 +778,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Compositional plasticity of the Atg1 complex</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01340-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An AI chatbot for talking therapy referrals</title>
-                <link>https://www.nature.com/articles/s41591-023-02773-y</link>
-                <description>An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</p></div>]]></content:encoded>
-                <pubDate>2024-02-05</pubDate>
-                <dc:creator>Jacqueline Sin</dc:creator>
-                <dc:date>2024-02-05</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>An AI chatbot for talking therapy referrals</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02773-y</dc:identifier>
             </item>
         
             <item>
@@ -739,20 +795,6 @@
             </item>
         
             <item>
-                <title>An ancient psychedelic for traumatic brain injury</title>
-                <link>https://www.nature.com/articles/s41591-023-02759-w</link>
-                <description>In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</p></div>]]></content:encoded>
-                <pubDate>2024-01-29</pubDate>
-                <dc:creator>David L. Brody</dc:creator>
-                <dc:creator>Shan H. Siddiqi</dc:creator>
-                <dc:date>2024-01-29</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Evidence for iatrogenic transmission of Alzheimer’s disease</title>
                 <link>https://www.nature.com/articles/s41591-023-02768-9</link>
                 <description>Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</description>
@@ -764,6 +806,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An ancient psychedelic for traumatic brain injury</title>
+                <link>https://www.nature.com/articles/s41591-023-02759-w</link>
+                <description>In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>David L. Brody</dc:creator>
+                <dc:creator>Shan H. Siddiqi</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
             </item>
         
             <item>
@@ -917,33 +973,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>EPAC1 boosts thermogenic adipocyte formation</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01304-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>tRNA flux and consistency in differentiation</title>
-                <link>https://www.nature.com/articles/s41556-023-01323-5</link>
-                <description>tRNA transcriptome composition and regulation are poorly understood. A study reports tRNA transcriptome reprogramming during human cell differentiation, where the abundance of individual tRNA gene transcripts is drastically changed, but each pool of tRNAs containing the same anticodon remains stable.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">tRNA transcriptome composition and regulation are poorly understood. A study reports tRNA transcriptome reprogramming during human cell differentiation, where the abundance of individual tRNA gene transcripts is drastically changed, but each pool of tRNAs containing the same anticodon remains stable.</p></div>]]></content:encoded>
-                <pubDate>2024-01-08</pubDate>
-                <dc:creator>Yichen Hou</dc:creator>
-                <dc:creator>Tao Pan</dc:creator>
-                <dc:date>2024-01-08</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>tRNA flux and consistency in differentiation</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01323-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>FUS maintains TAZ fluidity and function</title>
-                <link>https://www.nature.com/articles/s41556-023-01318-2</link>
-                <description>The transcriptional coactivators TAZ and YAP pair with transcriptional enhanced associate domains (TEADs) to regulate transcription. TAZ and YAP nuclear condensates ensure optimal transcription. A new study reports that FUS regulates TAZ condensates by maintaining them in a fluid state to drive transcription of target genes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The transcriptional coactivators TAZ and YAP pair with transcriptional enhanced associate domains (TEADs) to regulate transcription. TAZ and YAP nuclear condensates ensure optimal transcription. A new study reports that FUS regulates TAZ condensates by maintaining them in a fluid state to drive transcription of target genes.</p></div>]]></content:encoded>
-                <pubDate>2024-01-03</pubDate>
-                <dc:creator>Wanjin Hong</dc:creator>
-                <dc:date>2024-01-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>FUS maintains TAZ fluidity and function</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01318-2</dc:identifier>
             </item>
         
             <item>
@@ -1226,20 +1255,6 @@
             </item>
         
             <item>
-                <title>Spinal stimulation for unfreezing gait in Parkinson’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02604-0</link>
-                <description>Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Epidural electrical stimulation of the spinal cord alleviated freezing-of-gait and other postural impairments in a patient with Parkinson’s disease, potentially addressing an unmet need and offering an exciting new avenue for therapy.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Aviv Mizrahi-Kliger</dc:creator>
-                <dc:creator>Karunesh Ganguly</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Spinal stimulation for unfreezing gait in Parkinson’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02604-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Modeling the complexity of mammary gland in vitro</title>
                 <link>https://www.nature.com/articles/s41592-023-02064-x</link>
                 <description>A new method models mammary gland in vitro during physiological and pathological conditions.</description>
@@ -1310,20 +1325,6 @@
             </item>
         
             <item>
-                <title>Factoring single-cell perturbations</title>
-                <link>https://www.nature.com/articles/s41592-023-02002-x</link>
-                <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</p></div>]]></content:encoded>
-                <pubDate>2023-09-28</pubDate>
-                <dc:creator>Bicna Song</dc:creator>
-                <dc:creator>Wei Li</dc:creator>
-                <dc:date>2023-09-28</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Factoring single-cell perturbations</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The changing colour of carrot</title>
                 <link>https://www.nature.com/articles/s41477-023-01523-9</link>
                 <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
@@ -1335,6 +1336,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The changing colour of carrot</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Factoring single-cell perturbations</title>
+                <link>https://www.nature.com/articles/s41592-023-02002-x</link>
+                <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</p></div>]]></content:encoded>
+                <pubDate>2023-09-28</pubDate>
+                <dc:creator>Bicna Song</dc:creator>
+                <dc:creator>Wei Li</dc:creator>
+                <dc:date>2023-09-28</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Factoring single-cell perturbations</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
             </item>
         
             <item>
@@ -1353,19 +1368,6 @@
             </item>
         
             <item>
-                <title>FER meets the Nod factor pathway</title>
-                <link>https://www.nature.com/articles/s41477-023-01531-9</link>
-                <description>Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</p></div>]]></content:encoded>
-                <pubDate>2023-09-25</pubDate>
-                <dc:creator>María Eugenia Zanetti</dc:creator>
-                <dc:date>2023-09-25</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>FER meets the Nod factor pathway</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01531-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</title>
                 <link>https://www.nature.com/articles/s41588-023-01493-w</link>
                 <description>Many precision cancer therapies function by inhibiting oncogenic signaling pathways. A new study describes the counterintuitive finding that forced hyperactivation of the same pathways can also enable selective tumor targeting.</description>
@@ -1376,6 +1378,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Hyperactivation of oncogenic driver pathways as a precision therapeutic strategy</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01493-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>FER meets the Nod factor pathway</title>
+                <link>https://www.nature.com/articles/s41477-023-01531-9</link>
+                <description>Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Single-nucleus transcriptomic analysis of Medicago roots reveals dynamic cell-specific responses to the Nod factor — a bacterially secreted chito-lipopolysaccharide with a key role in the root nodule symbiosis between legumes and rhizobia — and identifies the receptor-like kinase FERONIA as a phosphorylation target of the Nod factor receptor LYK3, which together function to control nodule formation and bacterial infection.</p></div>]]></content:encoded>
+                <pubDate>2023-09-25</pubDate>
+                <dc:creator>María Eugenia Zanetti</dc:creator>
+                <dc:date>2023-09-25</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>FER meets the Nod factor pathway</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01531-9</dc:identifier>
             </item>
         
             <item>
@@ -1569,20 +1584,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Lighting up action potentials with fast and bright voltage sensors</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01928-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Dynamic nucleoskeleton in stress</title>
-                <link>https://www.nature.com/articles/s41477-023-01458-1</link>
-                <description>The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nucleoskeleton maintains nuclear integrity and chromatin organization at the inner nuclear surface. Here, Wang et al. revealed a disassociation of nuclear skeleton proteins from the nuclear periphery upon heat stress, which affects genome architecture and alters gene expression.</p></div>]]></content:encoded>
-                <pubDate>2023-07-03</pubDate>
-                <dc:creator>Yiling Fang</dc:creator>
-                <dc:creator>Yangnan Gu</dc:creator>
-                <dc:date>2023-07-03</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Dynamic nucleoskeleton in stress</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01458-1</dc:identifier>
             </item>
         
             <item>
