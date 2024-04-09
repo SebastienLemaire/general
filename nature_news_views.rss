@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The biologist who built a Faraday cage for a crab</title>
+                <link>https://www.nature.com/articles/d41586-024-00919-7</link>
+                <description>What every biologist should know about electronics, plus a disturbing outbreak of volcanism in North Carolina, in the weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">What every biologist should know about electronics, plus a disturbing outbreak of volcanism in North Carolina, in the weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2024-04-09</pubDate>
+                
+                <dc:date>2024-04-09</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The biologist who built a Faraday cage for a crab</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00919-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Lipidomes define immune cell identity</title>
                 <link>https://www.nature.com/articles/s41556-024-01398-8</link>
                 <description>Diverse, specialized immune cells defend against pathogens and cancer cells. A new study reveals the comprehensive lipid compositions of these cells, with unique lipidomes associated with various immune cell types. They show that cell-specific lipid compositions determine a key functional phenotype: their susceptibility to ferroptosis.</description>
@@ -122,20 +135,6 @@
             </item>
         
             <item>
-                <title>The race to uncover fission factors for lysosomal organelles heats up</title>
-                <link>https://www.nature.com/articles/d41586-024-00851-w</link>
-                <description>Organelles called lysosomes fuse with cargo-carrying vesicles and degrade the cargo molecules. How lysosomes maintain their size despite constant vesicle fusion was unclear, but now factors that aid organelle fission have been found.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organelles called lysosomes fuse with cargo-carrying vesicles and degrade the cargo molecules. How lysosomes maintain their size despite constant vesicle fusion was unclear, but now factors that aid organelle fission have been found.</p></div>]]></content:encoded>
-                <pubDate>2024-03-27</pubDate>
-                <dc:creator>Shilpa Gopan</dc:creator>
-                <dc:creator>Thomas J. Pucadyil</dc:creator>
-                <dc:date>2024-03-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The race to uncover fission factors for lysosomal organelles heats up</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00851-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Climate change predicted to exacerbate declines in bee populations</title>
                 <link>https://www.nature.com/articles/d41586-024-00681-w</link>
                 <description>What effects will climate change have on insect communities? Analyses of data collected over decades robustly document consequences specific to bee populations, and this evidence might aid future conservation efforts.</description>
@@ -228,6 +227,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>RIPK1 and necroptosis role in premature ageing</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01390-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The race to uncover fission factors for lysosomal organelles heats up</title>
+                <link>https://www.nature.com/articles/d41586-024-00851-w</link>
+                <description>Organelles called lysosomes fuse with cargo-carrying vesicles and degrade the cargo molecules. How lysosomes maintain their size despite constant vesicle fusion was unclear, but now factors that aid organelle fission have been found.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organelles called lysosomes fuse with cargo-carrying vesicles and degrade the cargo molecules. How lysosomes maintain their size despite constant vesicle fusion was unclear, but now factors that aid organelle fission have been found.</p></div>]]></content:encoded>
+                <pubDate>2024-03-27</pubDate>
+                <dc:creator>Shilpa Gopan</dc:creator>
+                <dc:creator>Thomas J. Pucadyil</dc:creator>
+                <dc:date>2024-03-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The race to uncover fission factors for lysosomal organelles heats up</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00851-w</dc:identifier>
             </item>
         
             <item>
@@ -389,19 +402,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Haploids fast-track hybrid plant breeding</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01656-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Can lessons from infants solve the problems of data-greedy AI?</title>
-                <link>https://www.nature.com/articles/d41586-024-00713-5</link>
-                <description>Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.</p></div>]]></content:encoded>
-                <pubDate>2024-03-18</pubDate>
-                <dc:creator>Linda B. Smith</dc:creator>
-                <dc:date>2024-03-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Can lessons from infants solve the problems of data-greedy AI?</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00713-5</dc:identifier>
             </item>
         
             <item>
