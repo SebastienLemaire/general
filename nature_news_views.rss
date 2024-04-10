@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Tissue pressure and YAP during organogenesis</title>
+                <link>https://www.nature.com/articles/s41556-024-01392-0</link>
+                <description>Organ morphogenesis begins with proliferation, which results in tissue pressures and site-specific YAP expression, nuclear translocation and signalling. A study now reports the involvement of anisotropy, localized pressure and YAP signalling in organizer-forming cascades, introducing a new chapter of molecular mechanobiology of organogenesis.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organ morphogenesis begins with proliferation, which results in tissue pressures and site-specific YAP expression, nuclear translocation and signalling. A study now reports the involvement of anisotropy, localized pressure and YAP signalling in organizer-forming cascades, introducing a new chapter of molecular mechanobiology of organogenesis.</p></div>]]></content:encoded>
+                <pubDate>2024-04-10</pubDate>
+                <dc:creator>Qian Xu</dc:creator>
+                <dc:creator>Thomas G. H. Diekwisch</dc:creator>
+                <dc:date>2024-04-10</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Tissue pressure and YAP during organogenesis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01392-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Adding a transcription-coupled repair pathway</title>
+                <link>https://www.nature.com/articles/s41556-024-01399-7</link>
+                <description>When transcription by RNA polymerase II is stalled by ultraviolet-induced DNA damage, it recruits repair factors, leading to excision of the damaged site and DNA synthesis to fill the gap. Three new studies show that, for aldehyde-induced DNA crosslinks, repair is activated by the same factors, but without base excision and gap filling.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">When transcription by RNA polymerase II is stalled by ultraviolet-induced DNA damage, it recruits repair factors, leading to excision of the damaged site and DNA synthesis to fill the gap. Three new studies show that, for aldehyde-induced DNA crosslinks, repair is activated by the same factors, but without base excision and gap filling.</p></div>]]></content:encoded>
+                <pubDate>2024-04-10</pubDate>
+                <dc:creator>Marco Saponaro</dc:creator>
+                <dc:date>2024-04-10</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Adding a transcription-coupled repair pathway</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01399-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The biologist who built a Faraday cage for a crab</title>
                 <link>https://www.nature.com/articles/d41586-024-00919-7</link>
                 <description>What every biologist should know about electronics, plus a disturbing outbreak of volcanism in North Carolina, in the weekly dip into Nature’s archive.</description>
@@ -40,20 +67,6 @@
             </item>
         
             <item>
-                <title>Lignin strips in glandular trichomes</title>
-                <link>https://www.nature.com/articles/s41477-024-01676-1</link>
-                <description>Compartmentalization of specialized compounds in glandular trichomes is essential for plant protection against stresses and attraction of pollinators. This compartmentalization is achieved by the establishment of a lignin-based apoplastic barrier named ‘neck strip’, which is present in trichomes of diverse plant species.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Compartmentalization of specialized compounds in glandular trichomes is essential for plant protection against stresses and attraction of pollinators. This compartmentalization is achieved by the establishment of a lignin-based apoplastic barrier named ‘neck strip’, which is present in trichomes of diverse plant species.</p></div>]]></content:encoded>
-                <pubDate>2024-04-08</pubDate>
-                <dc:creator>Igor Cesarino</dc:creator>
-                <dc:creator>Dyoni M. Oliveira</dc:creator>
-                <dc:date>2024-04-08</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Lignin strips in glandular trichomes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01676-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Transcriptional bodies manage tight resources</title>
                 <link>https://www.nature.com/articles/s41556-024-01395-x</link>
                 <description>Eukaryotic transcriptional machinery often shows local enrichment in dynamic clusters at sites of high expression. A study of zebrafish embryos shows that such clusters can fine-tune the timing of zygotic genome activation by sequestering a component required for productive transcription, thus limiting its availability to other genes.</description>
@@ -65,6 +78,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Transcriptional bodies manage tight resources</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01395-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Lignin strips in glandular trichomes</title>
+                <link>https://www.nature.com/articles/s41477-024-01676-1</link>
+                <description>Compartmentalization of specialized compounds in glandular trichomes is essential for plant protection against stresses and attraction of pollinators. This compartmentalization is achieved by the establishment of a lignin-based apoplastic barrier named ‘neck strip’, which is present in trichomes of diverse plant species.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Compartmentalization of specialized compounds in glandular trichomes is essential for plant protection against stresses and attraction of pollinators. This compartmentalization is achieved by the establishment of a lignin-based apoplastic barrier named ‘neck strip’, which is present in trichomes of diverse plant species.</p></div>]]></content:encoded>
+                <pubDate>2024-04-08</pubDate>
+                <dc:creator>Igor Cesarino</dc:creator>
+                <dc:creator>Dyoni M. Oliveira</dc:creator>
+                <dc:date>2024-04-08</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Lignin strips in glandular trichomes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01676-1</dc:identifier>
             </item>
         
             <item>
@@ -203,19 +230,6 @@
             </item>
         
             <item>
-                <title>Electrons flip a switch on optical communications</title>
-                <link>https://www.nature.com/articles/d41586-024-00663-y</link>
-                <description>Clever manipulation of electrons has enabled scientists to change a key property of light emitted by a device using electrically controlled magnetization. The method could lead to stable and energy-efficient information transfer.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Clever manipulation of electrons has enabled scientists to change a key property of light emitted by a device using electrically controlled magnetization. The method could lead to stable and energy-efficient information transfer.</p></div>]]></content:encoded>
-                <pubDate>2024-03-27</pubDate>
-                <dc:creator>Satoshi Hiura</dc:creator>
-                <dc:date>2024-03-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Electrons flip a switch on optical communications</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00663-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>RIPK1 and necroptosis role in premature ageing</title>
                 <link>https://www.nature.com/articles/s41556-024-01390-2</link>
                 <description>Progeria, or premature ageing, is a devastating condition caused by defects in the nuclear envelope and is associated with systemic inflammation. A study now shows in animal models that inhibiting necroptosis, and particularly activity of the RIPK1 kinase, reduces inflammation and results in a meaningful extension in lifespan1.</description>
@@ -227,6 +241,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>RIPK1 and necroptosis role in premature ageing</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01390-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Electrons flip a switch on optical communications</title>
+                <link>https://www.nature.com/articles/d41586-024-00663-y</link>
+                <description>Clever manipulation of electrons has enabled scientists to change a key property of light emitted by a device using electrically controlled magnetization. The method could lead to stable and energy-efficient information transfer.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Clever manipulation of electrons has enabled scientists to change a key property of light emitted by a device using electrically controlled magnetization. The method could lead to stable and energy-efficient information transfer.</p></div>]]></content:encoded>
+                <pubDate>2024-03-27</pubDate>
+                <dc:creator>Satoshi Hiura</dc:creator>
+                <dc:date>2024-03-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Electrons flip a switch on optical communications</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00663-y</dc:identifier>
             </item>
         
             <item>
@@ -461,20 +488,6 @@
             </item>
         
             <item>
-                <title>On the edge — how plant cells monitor growth</title>
-                <link>https://www.nature.com/articles/s41477-024-01632-z</link>
-                <description>Cell edges are part of a coordinate system used by the cell to direct three-dimensional growth in an organized manner. They emerge as signalling hubs with unique composition, capable of sensing mechanical stresses derived from neighbouring cells, to negotiate and harmonize individual cellular growth rates, therefore avoiding mechanical conflict.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell edges are part of a coordinate system used by the cell to direct three-dimensional growth in an organized manner. They emerge as signalling hubs with unique composition, capable of sensing mechanical stresses derived from neighbouring cells, to negotiate and harmonize individual cellular growth rates, therefore avoiding mechanical conflict.</p></div>]]></content:encoded>
-                <pubDate>2024-03-07</pubDate>
-                <dc:creator>Choy Kriechbaum</dc:creator>
-                <dc:creator>Sabine Müller</dc:creator>
-                <dc:date>2024-03-07</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>On the edge — how plant cells monitor growth</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01632-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>WIPI4 loss linked to ferroptosis</title>
                 <link>https://www.nature.com/articles/s41556-024-01359-1</link>
                 <description>β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</description>
@@ -486,6 +499,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>WIPI4 loss linked to ferroptosis</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01359-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>On the edge — how plant cells monitor growth</title>
+                <link>https://www.nature.com/articles/s41477-024-01632-z</link>
+                <description>Cell edges are part of a coordinate system used by the cell to direct three-dimensional growth in an organized manner. They emerge as signalling hubs with unique composition, capable of sensing mechanical stresses derived from neighbouring cells, to negotiate and harmonize individual cellular growth rates, therefore avoiding mechanical conflict.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell edges are part of a coordinate system used by the cell to direct three-dimensional growth in an organized manner. They emerge as signalling hubs with unique composition, capable of sensing mechanical stresses derived from neighbouring cells, to negotiate and harmonize individual cellular growth rates, therefore avoiding mechanical conflict.</p></div>]]></content:encoded>
+                <pubDate>2024-03-07</pubDate>
+                <dc:creator>Choy Kriechbaum</dc:creator>
+                <dc:creator>Sabine Müller</dc:creator>
+                <dc:date>2024-03-07</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>On the edge — how plant cells monitor growth</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01632-z</dc:identifier>
             </item>
         
             <item>
@@ -921,20 +948,6 @@
             </item>
         
             <item>
-                <title>Cell origin of BRCA2-mutant breast cancer</title>
-                <link>https://www.nature.com/articles/s41556-023-01322-6</link>
-                <description>The different compartments of the mammary stem cell hierarchy develop into distinct breast cancer subtypes as a result of specific genetic lesions. A recent study identifies aberrant ERBB3low luminal progenitors with altered proteostasis and translation as the cell of origin of BRCA2-mutant breast cancer.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The different compartments of the mammary stem cell hierarchy develop into distinct breast cancer subtypes as a result of specific genetic lesions. A recent study identifies aberrant ERBB3low luminal progenitors with altered proteostasis and translation as the cell of origin of BRCA2-mutant breast cancer.</p></div>]]></content:encoded>
-                <pubDate>2024-01-12</pubDate>
-                <dc:creator>Jiahui Xu</dc:creator>
-                <dc:creator>Suling Liu</dc:creator>
-                <dc:date>2024-01-12</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Cell origin of BRCA2-mutant breast cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01322-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The grand challenge of moving cancer whole-genome sequencing into the clinic</title>
                 <link>https://www.nature.com/articles/s41591-023-02697-7</link>
                 <description>The largest whole-genome sequencing study thus far has revealed myriad actionable alterations and potential biomarkers for 33 cancer types, but various logistical, technical and economic challenges must be overcome before this technique can become standard of care.</description>
@@ -960,19 +973,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Integrating vaccines and monoclonal antibodies into malaria prevention</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02745-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>EPAC1 boosts thermogenic adipocyte formation</title>
-                <link>https://www.nature.com/articles/s41556-023-01304-8</link>
-                <description>β-adrenergic signalling induces thermogenesis in mature brown adipocytes through a well-known cAMP–protein kinase A (PKA) pathway and also promotes the growth and differentiation of new thermogenic adipocytes. A study now demonstrates that β-adrenergic agonists drive this pathway through a PKA-independent mechanism involving cAMP–EPAC1.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">β-adrenergic signalling induces thermogenesis in mature brown adipocytes through a well-known cAMP–protein kinase A (PKA) pathway and also promotes the growth and differentiation of new thermogenic adipocytes. A study now demonstrates that β-adrenergic agonists drive this pathway through a PKA-independent mechanism involving cAMP–EPAC1.</p></div>]]></content:encoded>
-                <pubDate>2024-01-09</pubDate>
-                <dc:creator>Evan D. Rosen</dc:creator>
-                <dc:date>2024-01-09</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>EPAC1 boosts thermogenic adipocyte formation</dc:title>
-                <dc:identifier>doi:doi.org/s41556-023-01304-8</dc:identifier>
             </item>
         
             <item>
