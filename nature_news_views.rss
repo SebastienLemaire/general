@@ -13,7 +13,47 @@
             <ttl>120</ttl>
     
             <item>
-                <title>A bitter-taste receptor activated in a surprising way</title>
+                <title>An old mission revealed for BZRs</title>
+                <link>https://www.nature.com/articles/s41477-024-01671-6</link>
+                <description>BZR/BES transcription factors are widely recognized as mediators of brassinosteroid (BR)-responsive gene expression in seed plants, but details of how they act in species that lack BR perception are unclear. A study now uncovers an ancient mission of a BZR/BES transcription factor in sexual organ development in the liverwort Marchantia polymorpha.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">BZR/BES transcription factors are widely recognized as mediators of brassinosteroid (BR)-responsive gene expression in seed plants, but details of how they act in species that lack BR perception are unclear. A study now uncovers an ancient mission of a BZR/BES transcription factor in sexual organ development in the liverwort Marchantia polymorpha.</p></div>]]></content:encoded>
+                <pubDate>2024-04-11</pubDate>
+                <dc:creator>Keiji Nakajima</dc:creator>
+                <dc:date>2024-04-11</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>An old mission revealed for BZRs</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01671-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Accessible computing platforms democratize neuroimaging data analysis</title>
+                <link>https://www.nature.com/articles/s41592-024-02238-1</link>
+                <description>Several research groups are making it easier for other neuroscientists to analyze large datasets by providing tools that can be accessed and used from anywhere in the world.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Several research groups are making it easier for other neuroscientists to analyze large datasets by providing tools that can be accessed and used from anywhere in the world.</p></div>]]></content:encoded>
+                <pubDate>2024-04-11</pubDate>
+                <dc:creator>Lucina Q. Uddin</dc:creator>
+                <dc:date>2024-04-11</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Accessible computing platforms democratize neuroimaging data analysis</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02238-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Functional precision medicine for pediatric cancers</title>
+                <link>https://www.nature.com/articles/s41591-024-02863-5</link>
+                <description>A small, prospective clinical study shows that ex vivo drug screening of pediatric cancer samples can identify effective therapeutic options. If validated, these findings could herald a new approach to precision medicine in this setting.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A small, prospective clinical study shows that ex vivo drug screening of pediatric cancer samples can identify effective therapeutic options. If validated, these findings could herald a new approach to precision medicine in this setting.</p></div>]]></content:encoded>
+                <pubDate>2024-04-11</pubDate>
+                <dc:creator>M. Emmy M. Dolman</dc:creator>
+                <dc:creator>Paul G. Ekert</dc:creator>
+                <dc:date>2024-04-11</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Functional precision medicine for pediatric cancers</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02863-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A bitter taste receptor activated in a surprising way</title>
                 <link>https://www.nature.com/articles/d41586-024-00712-6</link>
                 <description>The sensing of bitter taste results from the complex interplay of many chemical cues and a range of receptors. It emerges that this complexity might be built-in even at the level of individual receptors.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">The sensing of bitter taste results from the complex interplay of many chemical cues and a range of receptors. It emerges that this complexity might be built-in even at the level of individual receptors.</p></div>]]></content:encoded>
@@ -21,7 +61,7 @@
                 <dc:creator>Antonella Di Pizio</dc:creator>
                 <dc:date>2024-04-10</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>A bitter-taste receptor activated in a surprising way</dc:title>
+                <dc:title>A bitter taste receptor activated in a surprising way</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00712-6</dc:identifier>
             </item>
         
@@ -821,20 +861,6 @@
             </item>
         
             <item>
-                <title>Evidence for iatrogenic transmission of Alzheimer’s disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02768-9</link>
-                <description>Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</p></div>]]></content:encoded>
-                <pubDate>2024-01-29</pubDate>
-                <dc:creator>Mathias Jucker</dc:creator>
-                <dc:creator>Lary C. Walker</dc:creator>
-                <dc:date>2024-01-29</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>An ancient psychedelic for traumatic brain injury</title>
                 <link>https://www.nature.com/articles/s41591-023-02759-w</link>
                 <description>In military veterans with traumatic brain injury, treatment with ibogaine plus magnesium led to dramatic clinical improvements and a favorable safety profile; further studies with state-of-the art safety monitoring will be crucial to unlocking the potential benefits of this psychedelic compound.</description>
@@ -846,6 +872,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>An ancient psychedelic for traumatic brain injury</dc:title>
                 <dc:identifier>doi:doi.org/s41591-023-02759-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Evidence for iatrogenic transmission of Alzheimer’s disease</title>
+                <link>https://www.nature.com/articles/s41591-023-02768-9</link>
+                <description>Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Credible evidence suggests that, under extraordinary circumstances, Alzheimer’s disease may be transmitted by a prion-like mechanism — yielding insights into both the basic biology of this neurodegenerative disorder and strategies for early prevention.</p></div>]]></content:encoded>
+                <pubDate>2024-01-29</pubDate>
+                <dc:creator>Mathias Jucker</dc:creator>
+                <dc:creator>Lary C. Walker</dc:creator>
+                <dc:date>2024-01-29</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Evidence for iatrogenic transmission of Alzheimer’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02768-9</dc:identifier>
             </item>
         
             <item>
@@ -1213,21 +1253,6 @@
             </item>
         
             <item>
-                <title>Person-centered HIV PrEP for cisgender women</title>
-                <link>https://www.nature.com/articles/s41591-023-02618-8</link>
-                <description>Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.</p></div>]]></content:encoded>
-                <pubDate>2023-11-13</pubDate>
-                <dc:creator>Maryam Shahmanesh</dc:creator>
-                <dc:creator>Natsayi Chimbindi</dc:creator>
-                <dc:creator>Frances M. Cowan</dc:creator>
-                <dc:date>2023-11-13</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Person-centered HIV PrEP for cisgender women</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02618-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>PROTACs reach clinical development in inflammatory skin disease</title>
                 <link>https://www.nature.com/articles/s41591-023-02622-y</link>
                 <description>A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</description>
@@ -1558,20 +1583,6 @@
             </item>
         
             <item>
-                <title>Microbiome-mediated metabolic defence</title>
-                <link>https://www.nature.com/articles/s41477-023-01470-5</link>
-                <description>The destructive panicle disease rice false smut is caused by the biotrophic fungus Ustilaginoidea virens. Disease-suppressive microorganisms present in rice panicles have now been found to mediate fungal resistance by modulating the metabolism of the host plant.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The destructive panicle disease rice false smut is caused by the biotrophic fungus Ustilaginoidea virens. Disease-suppressive microorganisms present in rice panicles have now been found to mediate fungal resistance by modulating the metabolism of the host plant.</p></div>]]></content:encoded>
-                <pubDate>2023-07-11</pubDate>
-                <dc:creator>Daniela Paula de Toledo Thomazella</dc:creator>
-                <dc:creator>Paulo José Pereira Lima Teixeira</dc:creator>
-                <dc:date>2023-07-11</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Microbiome-mediated metabolic defence</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01470-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Lighting up action potentials with fast and bright voltage sensors</title>
                 <link>https://www.nature.com/articles/s41592-023-01928-6</link>
                 <description>Three groundbreaking studies have created a new generation of genetically encoded voltage indicators, empowering us to tackle a host of questions on our path toward understanding the brain.</description>
@@ -1653,20 +1664,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Facilitating genome structural variation analysis</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01767-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Tracking SARS-CoV-2 variants and resources</title>
-                <link>https://www.nature.com/articles/s41592-023-01833-y</link>
-                <description>Outbreak.info empowers real-time variant monitoring and tracing of associated publications and resources during the ‘infodemic’ of SARS-CoV-2.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Outbreak.info empowers real-time variant monitoring and tracing of associated publications and resources during the ‘infodemic’ of SARS-CoV-2.</p></div>]]></content:encoded>
-                <pubDate>2023-03-15</pubDate>
-                <dc:creator>Bas B. Oude Munnink</dc:creator>
-                <dc:creator>Marion Koopmans</dc:creator>
-                <dc:date>2023-03-15</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Tracking SARS-CoV-2 variants and resources</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01833-y</dc:identifier>
             </item>
             
         </channel>
