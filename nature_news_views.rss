@@ -13,16 +13,17 @@
             <ttl>120</ttl>
     
             <item>
-                <title>An old mission revealed for BZRs</title>
-                <link>https://www.nature.com/articles/s41477-024-01671-6</link>
-                <description>BZR/BES transcription factors are widely recognized as mediators of brassinosteroid (BR)-responsive gene expression in seed plants, but details of how they act in species that lack BR perception are unclear. A study now uncovers an ancient mission of a BZR/BES transcription factor in sexual organ development in the liverwort Marchantia polymorpha.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">BZR/BES transcription factors are widely recognized as mediators of brassinosteroid (BR)-responsive gene expression in seed plants, but details of how they act in species that lack BR perception are unclear. A study now uncovers an ancient mission of a BZR/BES transcription factor in sexual organ development in the liverwort Marchantia polymorpha.</p></div>]]></content:encoded>
-                <pubDate>2024-04-11</pubDate>
-                <dc:creator>Keiji Nakajima</dc:creator>
-                <dc:date>2024-04-11</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>An old mission revealed for BZRs</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01671-6</dc:identifier>
+                <title>LiMCA: Hi-C gets an RNA twist</title>
+                <link>https://www.nature.com/articles/s41592-024-02205-w</link>
+                <description>A multiomics method measures both the cellular three-dimensional genome and transcriptome at the single-cell level.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A multiomics method measures both the cellular three-dimensional genome and transcriptome at the single-cell level.</p></div>]]></content:encoded>
+                <pubDate>2024-04-15</pubDate>
+                <dc:creator>Jane Kawaoka</dc:creator>
+                <dc:creator>Stavros Lomvardas</dc:creator>
+                <dc:date>2024-04-15</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>LiMCA: Hi-C gets an RNA twist</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02205-w</dc:identifier>
             </item>
         
             <item>
@@ -36,6 +37,19 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Accessible computing platforms democratize neuroimaging data analysis</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02238-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An old mission revealed for BZRs</title>
+                <link>https://www.nature.com/articles/s41477-024-01671-6</link>
+                <description>BZR/BES transcription factors are widely recognized as mediators of brassinosteroid (BR)-responsive gene expression in seed plants, but details of how they act in species that lack BR perception are unclear. A study now uncovers an ancient mission of a BZR/BES transcription factor in sexual organ development in the liverwort Marchantia polymorpha.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">BZR/BES transcription factors are widely recognized as mediators of brassinosteroid (BR)-responsive gene expression in seed plants, but details of how they act in species that lack BR perception are unclear. A study now uncovers an ancient mission of a BZR/BES transcription factor in sexual organ development in the liverwort Marchantia polymorpha.</p></div>]]></content:encoded>
+                <pubDate>2024-04-11</pubDate>
+                <dc:creator>Keiji Nakajima</dc:creator>
+                <dc:date>2024-04-11</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>An old mission revealed for BZRs</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01671-6</dc:identifier>
             </item>
         
             <item>
@@ -1349,20 +1363,6 @@
             </item>
         
             <item>
-                <title>The changing colour of carrot</title>
-                <link>https://www.nature.com/articles/s41477-023-01523-9</link>
-                <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</p></div>]]></content:encoded>
-                <pubDate>2023-09-28</pubDate>
-                <dc:creator>Yafei Guo</dc:creator>
-                <dc:creator>Fei Lu</dc:creator>
-                <dc:date>2023-09-28</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>The changing colour of carrot</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Factoring single-cell perturbations</title>
                 <link>https://www.nature.com/articles/s41592-023-02002-x</link>
                 <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
@@ -1374,6 +1374,20 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Factoring single-cell perturbations</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The changing colour of carrot</title>
+                <link>https://www.nature.com/articles/s41477-023-01523-9</link>
+                <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</p></div>]]></content:encoded>
+                <pubDate>2023-09-28</pubDate>
+                <dc:creator>Yafei Guo</dc:creator>
+                <dc:creator>Fei Lu</dc:creator>
+                <dc:date>2023-09-28</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>The changing colour of carrot</dc:title>
+                <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
             </item>
         
             <item>
@@ -1651,19 +1665,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>IMAGE-seq and you shall find</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01835-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Facilitating genome structural variation analysis</title>
-                <link>https://www.nature.com/articles/s41592-023-01767-5</link>
-                <description>Although structural variation is less explored than single-nucleotide variation, recent studies have shown it to be associated with several human diseases. Three fresh computational methods might help to elucidate this inadequately understood part of our genetic makeup.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Although structural variation is less explored than single-nucleotide variation, recent studies have shown it to be associated with several human diseases. Three fresh computational methods might help to elucidate this inadequately understood part of our genetic makeup.</p></div>]]></content:encoded>
-                <pubDate>2023-03-23</pubDate>
-                <dc:creator>Mile Sikic</dc:creator>
-                <dc:date>2023-03-23</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Facilitating genome structural variation analysis</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-01767-5</dc:identifier>
             </item>
             
         </channel>
