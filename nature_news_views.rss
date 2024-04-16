@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>A step along the path towards AlphaFold — 50 years ago</title>
+                <link>https://www.nature.com/articles/d41586-024-01094-5</link>
+                <description>Paring down the astronomical complexity of the protein-folding problem, plus Isaac Newton’s ambiguous use of the word ‘axiom’, in the weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Paring down the astronomical complexity of the protein-folding problem, plus Isaac Newton’s ambiguous use of the word ‘axiom’, in the weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2024-04-16</pubDate>
+                
+                <dc:date>2024-04-16</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A step along the path towards AlphaFold — 50 years ago</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-01094-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>LiMCA: Hi-C gets an RNA twist</title>
                 <link>https://www.nature.com/articles/s41592-024-02205-w</link>
                 <description>A multiomics method measures both the cellular three-dimensional genome and transcriptome at the single-cell level.</description>
@@ -108,6 +121,19 @@
             </item>
         
             <item>
+                <title>Nanoscale scythe cuts molecular tethers using mechanical forces</title>
+                <link>https://www.nature.com/articles/d41586-024-00909-9</link>
+                <description>Nanoscale systems that release small molecules have potential therapeutic and industrial uses, but can result in low numbers of molecules reaching their target. A release system triggered by mechanical force offers a fresh approach.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nanoscale systems that release small molecules have potential therapeutic and industrial uses, but can result in low numbers of molecules reaching their target. A release system triggered by mechanical force offers a fresh approach.</p></div>]]></content:encoded>
+                <pubDate>2024-04-10</pubDate>
+                <dc:creator>Iwona Nierengarten</dc:creator>
+                <dc:date>2024-04-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Nanoscale scythe cuts molecular tethers using mechanical forces</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00909-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Tissue pressure and YAP during organogenesis</title>
                 <link>https://www.nature.com/articles/s41556-024-01392-0</link>
                 <description>Organ morphogenesis begins with proliferation, which results in tissue pressures and site-specific YAP expression, nuclear translocation and signalling. A study now reports the involvement of anisotropy, localized pressure and YAP signalling in organizer-forming cascades, introducing a new chapter of molecular mechanobiology of organogenesis.</description>
@@ -122,16 +148,16 @@
             </item>
         
             <item>
-                <title>Nanoscale scythe cuts molecular tethers using mechanical forces</title>
-                <link>https://www.nature.com/articles/d41586-024-00909-9</link>
-                <description>Nanoscale systems that release small molecules have potential therapeutic and industrial uses, but can result in low numbers of molecules reaching their target. A release system triggered by mechanical force offers a fresh approach.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nanoscale systems that release small molecules have potential therapeutic and industrial uses, but can result in low numbers of molecules reaching their target. A release system triggered by mechanical force offers a fresh approach.</p></div>]]></content:encoded>
+                <title>Wildlife boost in African forests certified for sustainable logging</title>
+                <link>https://www.nature.com/articles/d41586-024-00878-z</link>
+                <description>Is there a conservation benefit if tropical forests that are affected by logging gain certification from the Forest Stewardship Council? An analysis of the biodiversity outcomes in such tropical forests provides answers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Is there a conservation benefit if tropical forests that are affected by logging gain certification from the Forest Stewardship Council? An analysis of the biodiversity outcomes in such tropical forests provides answers.</p></div>]]></content:encoded>
                 <pubDate>2024-04-10</pubDate>
-                <dc:creator>Iwona Nierengarten</dc:creator>
+                <dc:creator>Julia E. Fa</dc:creator>
                 <dc:date>2024-04-10</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>Nanoscale scythe cuts molecular tethers using mechanical forces</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00909-9</dc:identifier>
+                <dc:title>Wildlife boost in African forests certified for sustainable logging</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00878-z</dc:identifier>
             </item>
         
             <item>
@@ -145,19 +171,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Adding a transcription-coupled repair pathway</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01399-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Wildlife boost in African forests certified for sustainable logging</title>
-                <link>https://www.nature.com/articles/d41586-024-00878-z</link>
-                <description>Is there a conservation benefit if tropical forests that are affected by logging gain certification from the Forest Stewardship Council? An analysis of the biodiversity outcomes in such tropical forests provides answers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Is there a conservation benefit if tropical forests that are affected by logging gain certification from the Forest Stewardship Council? An analysis of the biodiversity outcomes in such tropical forests provides answers.</p></div>]]></content:encoded>
-                <pubDate>2024-04-10</pubDate>
-                <dc:creator>Julia E. Fa</dc:creator>
-                <dc:date>2024-04-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Wildlife boost in African forests certified for sustainable logging</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00878-z</dc:identifier>
             </item>
         
             <item>
@@ -283,19 +296,6 @@
             </item>
         
             <item>
-                <title>Electrons flip a switch on optical communications</title>
-                <link>https://www.nature.com/articles/d41586-024-00663-y</link>
-                <description>Clever manipulation of electrons has enabled scientists to change a key property of light emitted by a device using electrically controlled magnetization. The method could lead to stable and energy-efficient information transfer.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Clever manipulation of electrons has enabled scientists to change a key property of light emitted by a device using electrically controlled magnetization. The method could lead to stable and energy-efficient information transfer.</p></div>]]></content:encoded>
-                <pubDate>2024-03-27</pubDate>
-                <dc:creator>Satoshi Hiura</dc:creator>
-                <dc:date>2024-03-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Electrons flip a switch on optical communications</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00663-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>RIPK1 and necroptosis role in premature ageing</title>
                 <link>https://www.nature.com/articles/s41556-024-01390-2</link>
                 <description>Progeria, or premature ageing, is a devastating condition caused by defects in the nuclear envelope and is associated with systemic inflammation. A study now shows in animal models that inhibiting necroptosis, and particularly activity of the RIPK1 kinase, reduces inflammation and results in a meaningful extension in lifespan1.</description>
@@ -392,6 +392,19 @@
             </item>
         
             <item>
+                <title>Electrons flip a switch on optical communications</title>
+                <link>https://www.nature.com/articles/d41586-024-00663-y</link>
+                <description>Clever manipulation of electrons has enabled scientists to change a key property of light emitted by a device using electrically controlled magnetization. The method could lead to stable and energy-efficient information transfer.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Clever manipulation of electrons has enabled scientists to change a key property of light emitted by a device using electrically controlled magnetization. The method could lead to stable and energy-efficient information transfer.</p></div>]]></content:encoded>
+                <pubDate>2024-03-27</pubDate>
+                <dc:creator>Satoshi Hiura</dc:creator>
+                <dc:date>2024-03-27</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Electrons flip a switch on optical communications</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00663-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>How Sydney Harbour Bridge was shaping up 100 years ago</title>
                 <link>https://www.nature.com/articles/d41586-024-00684-7</link>
                 <description>Plans for Sydney’s iconic landmark become concrete, plus a ‘Michelin Guide’ to superconductive tunnelling, in the weekly dip into Nature’s archive.</description>
@@ -430,19 +443,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Exploitation of the microbiome for crop breeding</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01657-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Powerful microscopy reveals blood-cell production in bone marrow</title>
-                <link>https://www.nature.com/articles/d41586-024-00504-y</link>
-                <description>A method for imaging the production of blood cells in the bones of mice has revealed the organization of cell lineages, both in a steady state and in response to stressors, such as bleeding and infection.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A method for imaging the production of blood cells in the bones of mice has revealed the organization of cell lineages, both in a steady state and in response to stressors, such as bleeding and infection.</p></div>]]></content:encoded>
-                <pubDate>2024-03-20</pubDate>
-                <dc:creator>M. Carolina Florian</dc:creator>
-                <dc:date>2024-03-20</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Powerful microscopy reveals blood-cell production in bone marrow</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00504-y</dc:identifier>
             </item>
         
             <item>
