@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Uncovering drivers of global tree diversity</title>
+                <link>https://www.nature.com/articles/s41477-024-01695-y</link>
+                <description>Plant species diversity declines from tropical to temperate latitudes. Local neighbourhood interactions among species that favour heterospecifics over conspecifics may have a role in shaping this latitudinal diversity gradient, but perhaps not as traditionally thought.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plant species diversity declines from tropical to temperate latitudes. Local neighbourhood interactions among species that favour heterospecifics over conspecifics may have a role in shaping this latitudinal diversity gradient, but perhaps not as traditionally thought.</p></div>]]></content:encoded>
+                <pubDate>2024-04-18</pubDate>
+                <dc:creator>Joseph A. LaManna</dc:creator>
+                <dc:date>2024-04-18</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Uncovering drivers of global tree diversity</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01695-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The sympathetic nervous system arose in the earliest vertebrates</title>
                 <link>https://www.nature.com/articles/d41586-024-01017-4</link>
                 <description>The sympathetic nervous system, which enables the fight-or-flight response, was thought to be present only in jawed vertebrates. Analysis of a jawless vertebrate suggests that this system might be a feature of all animals with a spine.</description>
@@ -120,19 +133,6 @@
             </item>
         
             <item>
-                <title>Accessible computing platforms democratize neuroimaging data analysis</title>
-                <link>https://www.nature.com/articles/s41592-024-02238-1</link>
-                <description>Several research groups are making it easier for other neuroscientists to analyze large datasets by providing tools that can be accessed and used from anywhere in the world.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Several research groups are making it easier for other neuroscientists to analyze large datasets by providing tools that can be accessed and used from anywhere in the world.</p></div>]]></content:encoded>
-                <pubDate>2024-04-11</pubDate>
-                <dc:creator>Lucina Q. Uddin</dc:creator>
-                <dc:date>2024-04-11</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Accessible computing platforms democratize neuroimaging data analysis</dc:title>
-                <dc:identifier>doi:doi.org/s41592-024-02238-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>An old mission revealed for BZRs</title>
                 <link>https://www.nature.com/articles/s41477-024-01671-6</link>
                 <description>BZR/BES transcription factors are widely recognized as mediators of brassinosteroid (BR)-responsive gene expression in seed plants, but details of how they act in species that lack BR perception are unclear. A study now uncovers an ancient mission of a BZR/BES transcription factor in sexual organ development in the liverwort Marchantia polymorpha.</description>
@@ -143,6 +143,19 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>An old mission revealed for BZRs</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01671-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Accessible computing platforms democratize neuroimaging data analysis</title>
+                <link>https://www.nature.com/articles/s41592-024-02238-1</link>
+                <description>Several research groups are making it easier for other neuroscientists to analyze large datasets by providing tools that can be accessed and used from anywhere in the world.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Several research groups are making it easier for other neuroscientists to analyze large datasets by providing tools that can be accessed and used from anywhere in the world.</p></div>]]></content:encoded>
+                <pubDate>2024-04-11</pubDate>
+                <dc:creator>Lucina Q. Uddin</dc:creator>
+                <dc:date>2024-04-11</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Accessible computing platforms democratize neuroimaging data analysis</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02238-1</dc:identifier>
             </item>
         
             <item>
@@ -281,20 +294,6 @@
             </item>
         
             <item>
-                <title>Transcriptional bodies manage tight resources</title>
-                <link>https://www.nature.com/articles/s41556-024-01395-x</link>
-                <description>Eukaryotic transcriptional machinery often shows local enrichment in dynamic clusters at sites of high expression. A study of zebrafish embryos shows that such clusters can fine-tune the timing of zygotic genome activation by sequestering a component required for productive transcription, thus limiting its availability to other genes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Eukaryotic transcriptional machinery often shows local enrichment in dynamic clusters at sites of high expression. A study of zebrafish embryos shows that such clusters can fine-tune the timing of zygotic genome activation by sequestering a component required for productive transcription, thus limiting its availability to other genes.</p></div>]]></content:encoded>
-                <pubDate>2024-04-08</pubDate>
-                <dc:creator>Natalia Stec</dc:creator>
-                <dc:creator>Adam Klosin</dc:creator>
-                <dc:date>2024-04-08</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Transcriptional bodies manage tight resources</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01395-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Lignin strips in glandular trichomes</title>
                 <link>https://www.nature.com/articles/s41477-024-01676-1</link>
                 <description>Compartmentalization of specialized compounds in glandular trichomes is essential for plant protection against stresses and attraction of pollinators. This compartmentalization is achieved by the establishment of a lignin-based apoplastic barrier named ‘neck strip’, which is present in trichomes of diverse plant species.</description>
@@ -306,6 +305,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Lignin strips in glandular trichomes</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01676-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Transcriptional bodies manage tight resources</title>
+                <link>https://www.nature.com/articles/s41556-024-01395-x</link>
+                <description>Eukaryotic transcriptional machinery often shows local enrichment in dynamic clusters at sites of high expression. A study of zebrafish embryos shows that such clusters can fine-tune the timing of zygotic genome activation by sequestering a component required for productive transcription, thus limiting its availability to other genes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Eukaryotic transcriptional machinery often shows local enrichment in dynamic clusters at sites of high expression. A study of zebrafish embryos shows that such clusters can fine-tune the timing of zygotic genome activation by sequestering a component required for productive transcription, thus limiting its availability to other genes.</p></div>]]></content:encoded>
+                <pubDate>2024-04-08</pubDate>
+                <dc:creator>Natalia Stec</dc:creator>
+                <dc:creator>Adam Klosin</dc:creator>
+                <dc:date>2024-04-08</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Transcriptional bodies manage tight resources</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01395-x</dc:identifier>
             </item>
         
             <item>
@@ -541,20 +554,6 @@
             </item>
         
             <item>
-                <title>WIPI4 loss linked to ferroptosis</title>
-                <link>https://www.nature.com/articles/s41556-024-01359-1</link>
-                <description>β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</p></div>]]></content:encoded>
-                <pubDate>2024-03-07</pubDate>
-                <dc:creator>Yang Liu</dc:creator>
-                <dc:creator>Hongyuan Yang</dc:creator>
-                <dc:date>2024-03-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>WIPI4 loss linked to ferroptosis</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01359-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>On the edge — how plant cells monitor growth</title>
                 <link>https://www.nature.com/articles/s41477-024-01632-z</link>
                 <description>Cell edges are part of a coordinate system used by the cell to direct three-dimensional growth in an organized manner. They emerge as signalling hubs with unique composition, capable of sensing mechanical stresses derived from neighbouring cells, to negotiate and harmonize individual cellular growth rates, therefore avoiding mechanical conflict.</description>
@@ -566,6 +565,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>On the edge — how plant cells monitor growth</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01632-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>WIPI4 loss linked to ferroptosis</title>
+                <link>https://www.nature.com/articles/s41556-024-01359-1</link>
+                <description>β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">β-propeller protein-associated neurodegeneration (BPAN) is caused by loss of functional WIPI4. A new study reports that depletion of WIPI4 induces ferroptosis via changes in mitochondrial membrane lipids, independently of the role of WIPI4 in autophagy, providing insights into the cause of neurodegeneration in BPAN.</p></div>]]></content:encoded>
+                <pubDate>2024-03-07</pubDate>
+                <dc:creator>Yang Liu</dc:creator>
+                <dc:creator>Hongyuan Yang</dc:creator>
+                <dc:date>2024-03-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>WIPI4 loss linked to ferroptosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01359-1</dc:identifier>
             </item>
         
             <item>
@@ -666,6 +679,20 @@
             </item>
         
             <item>
+                <title>Disease resistance through M genes</title>
+                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
+                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Chengfang Zhan</dc:creator>
+                <dc:creator>Mengcen Wang</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Disease resistance through M genes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -678,20 +705,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Immunotherapy at all stages of hepatocellular carcinoma</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-02828-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Disease resistance through M genes</title>
-                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
-                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Chengfang Zhan</dc:creator>
-                <dc:creator>Mengcen Wang</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Disease resistance through M genes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
             </item>
         
             <item>
@@ -1363,20 +1376,6 @@
             </item>
         
             <item>
-                <title>Factoring single-cell perturbations</title>
-                <link>https://www.nature.com/articles/s41592-023-02002-x</link>
-                <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</p></div>]]></content:encoded>
-                <pubDate>2023-09-28</pubDate>
-                <dc:creator>Bicna Song</dc:creator>
-                <dc:creator>Wei Li</dc:creator>
-                <dc:date>2023-09-28</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Factoring single-cell perturbations</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The changing colour of carrot</title>
                 <link>https://www.nature.com/articles/s41477-023-01523-9</link>
                 <description>By assembling a high-quality carrot reference genome and resequencing 630 accessions, a study by Coe et al. reveals the transformative journey of carrot from wild progenitor to modern cultivar and the concomitant accumulation of carotenoids in its taproot.</description>
@@ -1388,6 +1387,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The changing colour of carrot</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01523-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Factoring single-cell perturbations</title>
+                <link>https://www.nature.com/articles/s41592-023-02002-x</link>
+                <description>GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">GSFA is a statistical model to automatically detect latent factors (or gene modules) in single-cell CRISPR screening.</p></div>]]></content:encoded>
+                <pubDate>2023-09-28</pubDate>
+                <dc:creator>Bicna Song</dc:creator>
+                <dc:creator>Wei Li</dc:creator>
+                <dc:date>2023-09-28</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Factoring single-cell perturbations</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02002-x</dc:identifier>
             </item>
         
             <item>
@@ -1580,20 +1593,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Dissecting gene regulation with multimodal sequencing</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01957-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A light switch for DNA break repair</title>
-                <link>https://www.nature.com/articles/s41477-023-01462-5</link>
-                <description>Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Organisms have developed specialized and intricate mechanisms to cope with environmental threats that depend on their natural habitat and ability to move. Arabidopsis demonstrates an impressive adaptation using cryptochrome 1 to maintain genomic stability through a blue-light-mediated process that involves the recruitment of repair proteins to double-strand breaks.</p></div>]]></content:encoded>
-                <pubDate>2023-07-24</pubDate>
-                <dc:creator>Lejon E. M. Kralemann</dc:creator>
-                <dc:creator>Marcel Tijsterman</dc:creator>
-                <dc:date>2023-07-24</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A light switch for DNA break repair</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01462-5</dc:identifier>
             </item>
         
             <item>
