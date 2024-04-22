@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The hype and hope of new food allergy treatments</title>
+                <link>https://www.nature.com/articles/s41591-024-02952-5</link>
+                <description>Food allergy treatment is undergoing a paradigm shift with new therapies emerging, including the recent FDA approval of omalizumab — but without evidence of disease modification and with uncertain quality-of-life improvement, it may not be a panacea for all.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Food allergy treatment is undergoing a paradigm shift with new therapies emerging, including the recent FDA approval of omalizumab — but without evidence of disease modification and with uncertain quality-of-life improvement, it may not be a panacea for all.</p></div>]]></content:encoded>
+                <pubDate>2024-04-22</pubDate>
+                <dc:creator>Kirsten P. Perrett</dc:creator>
+                <dc:date>2024-04-22</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The hype and hope of new food allergy treatments</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02952-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Using unlabeled data to enhance fairness of medical AI</title>
                 <link>https://www.nature.com/articles/s41591-024-02892-0</link>
                 <description>AI models for tasks such as pathology and dermatology struggle to generalize to new patient groups or hospitals that they were not trained on; learning more robust features from unlabeled data could prevent overfitting to the training distribution and thereby increase fairness.</description>
@@ -148,6 +161,20 @@
             </item>
         
             <item>
+                <title>Functional precision medicine for pediatric cancers</title>
+                <link>https://www.nature.com/articles/s41591-024-02863-5</link>
+                <description>A small, prospective clinical study shows that ex vivo drug screening of pediatric cancer samples can identify effective therapeutic options. If validated, these findings could herald a new approach to precision medicine in this setting.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A small, prospective clinical study shows that ex vivo drug screening of pediatric cancer samples can identify effective therapeutic options. If validated, these findings could herald a new approach to precision medicine in this setting.</p></div>]]></content:encoded>
+                <pubDate>2024-04-11</pubDate>
+                <dc:creator>M. Emmy M. Dolman</dc:creator>
+                <dc:creator>Paul G. Ekert</dc:creator>
+                <dc:date>2024-04-11</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Functional precision medicine for pediatric cancers</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02863-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>An old mission revealed for BZRs</title>
                 <link>https://www.nature.com/articles/s41477-024-01671-6</link>
                 <description>BZR/BES transcription factors are widely recognized as mediators of brassinosteroid (BR)-responsive gene expression in seed plants, but details of how they act in species that lack BR perception are unclear. A study now uncovers an ancient mission of a BZR/BES transcription factor in sexual organ development in the liverwort Marchantia polymorpha.</description>
@@ -171,20 +198,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Accessible computing platforms democratize neuroimaging data analysis</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02238-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Functional precision medicine for pediatric cancers</title>
-                <link>https://www.nature.com/articles/s41591-024-02863-5</link>
-                <description>A small, prospective clinical study shows that ex vivo drug screening of pediatric cancer samples can identify effective therapeutic options. If validated, these findings could herald a new approach to precision medicine in this setting.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A small, prospective clinical study shows that ex vivo drug screening of pediatric cancer samples can identify effective therapeutic options. If validated, these findings could herald a new approach to precision medicine in this setting.</p></div>]]></content:encoded>
-                <pubDate>2024-04-11</pubDate>
-                <dc:creator>M. Emmy M. Dolman</dc:creator>
-                <dc:creator>Paul G. Ekert</dc:creator>
-                <dc:date>2024-04-11</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Functional precision medicine for pediatric cancers</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-02863-5</dc:identifier>
             </item>
         
             <item>
@@ -309,6 +322,20 @@
             </item>
         
             <item>
+                <title>Tackling heat-related mortality in aging populations</title>
+                <link>https://www.nature.com/articles/s41591-024-02919-6</link>
+                <description>A large study of older adults in China points to physical and cognitive function — not age — as key predictors of heat-related mortality, highlighting the need for climate adaptation policies to prioritize accessibility across all age groups.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A large study of older adults in China points to physical and cognitive function — not age — as key predictors of heat-related mortality, highlighting the need for climate adaptation policies to prioritize accessibility across all age groups.</p></div>]]></content:encoded>
+                <pubDate>2024-04-08</pubDate>
+                <dc:creator>Josiah L. Kephart</dc:creator>
+                <dc:creator>Safiyyah M. Okoye</dc:creator>
+                <dc:date>2024-04-08</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Tackling heat-related mortality in aging populations</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02919-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Lignin strips in glandular trichomes</title>
                 <link>https://www.nature.com/articles/s41477-024-01676-1</link>
                 <description>Compartmentalization of specialized compounds in glandular trichomes is essential for plant protection against stresses and attraction of pollinators. This compartmentalization is achieved by the establishment of a lignin-based apoplastic barrier named ‘neck strip’, which is present in trichomes of diverse plant species.</description>
@@ -334,20 +361,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Transcriptional bodies manage tight resources</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01395-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Tackling heat-related mortality in aging populations</title>
-                <link>https://www.nature.com/articles/s41591-024-02919-6</link>
-                <description>A large study of older adults in China points to physical and cognitive function — not age — as key predictors of heat-related mortality, highlighting the need for climate adaptation policies to prioritize accessibility across all age groups.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A large study of older adults in China points to physical and cognitive function — not age — as key predictors of heat-related mortality, highlighting the need for climate adaptation policies to prioritize accessibility across all age groups.</p></div>]]></content:encoded>
-                <pubDate>2024-04-08</pubDate>
-                <dc:creator>Josiah L. Kephart</dc:creator>
-                <dc:creator>Safiyyah M. Okoye</dc:creator>
-                <dc:date>2024-04-08</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Tackling heat-related mortality in aging populations</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-02919-6</dc:identifier>
             </item>
         
             <item>
@@ -709,6 +722,19 @@
             </item>
         
             <item>
+                <title>Expanding the reach and scalability of perinatal mental health interventions</title>
+                <link>https://www.nature.com/articles/s41591-024-02825-x</link>
+                <description>A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Daisy R. Singla</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Expanding the reach and scalability of perinatal mental health interventions</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02825-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Disease resistance through M genes</title>
                 <link>https://www.nature.com/articles/s41477-024-01644-9</link>
                 <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
@@ -720,19 +746,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Disease resistance through M genes</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Expanding the reach and scalability of perinatal mental health interventions</title>
-                <link>https://www.nature.com/articles/s41591-024-02825-x</link>
-                <description>A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Daisy R. Singla</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Expanding the reach and scalability of perinatal mental health interventions</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-02825-x</dc:identifier>
             </item>
         
             <item>
@@ -791,20 +804,6 @@
             </item>
         
             <item>
-                <title>Rejuvenation of diabetic macular edema with senolytic therapy</title>
-                <link>https://www.nature.com/articles/s41591-024-02804-2</link>
-                <description>Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</p></div>]]></content:encoded>
-                <pubDate>2024-02-08</pubDate>
-                <dc:creator>Tomoaki Murakami</dc:creator>
-                <dc:creator>Thomas W. Gardner</dc:creator>
-                <dc:date>2024-02-08</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Rejuvenation of diabetic macular edema with senolytic therapy</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-02804-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Genetic analysis of cardiac dynamic flow volumes identifies loci mapping aortic root size</title>
                 <link>https://www.nature.com/articles/s41588-023-01650-1</link>
                 <description>An open-source automated algorithm called DeepFlow enables large-scale derivation of aortic flow measurements, and genetic analysis of aortic flow, structural and functional traits demonstrates a causal relationship between aortic size and aortic valve regurgitation.</description>
@@ -831,6 +830,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>mtDNA caught in the act again</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01345-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Rejuvenation of diabetic macular edema with senolytic therapy</title>
+                <link>https://www.nature.com/articles/s41591-024-02804-2</link>
+                <description>Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Senolytic therapy for diabetic macular edema (DME) refractory to anti-VEGF treatment appears safe, and preliminary data suggest a therapeutic effect on visual acuity and macular thickness.</p></div>]]></content:encoded>
+                <pubDate>2024-02-08</pubDate>
+                <dc:creator>Tomoaki Murakami</dc:creator>
+                <dc:creator>Thomas W. Gardner</dc:creator>
+                <dc:date>2024-02-08</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Rejuvenation of diabetic macular edema with senolytic therapy</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02804-2</dc:identifier>
             </item>
         
             <item>
@@ -1263,20 +1276,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Teatime for pangenomics</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01566-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>AI and imaging-based cancer screening: getting ready for prime time</title>
-                <link>https://www.nature.com/articles/s41591-023-02630-y</link>
-                <description>New data show that AI could enhance imaging-based screening for pancreatic cancer; however, its evaluation must be rigorous and adhere to the same standards used for conventional screening.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New data show that AI could enhance imaging-based screening for pancreatic cancer; however, its evaluation must be rigorous and adhere to the same standards used for conventional screening.</p></div>]]></content:encoded>
-                <pubDate>2023-11-20</pubDate>
-                <dc:creator>Jörg Kleeff</dc:creator>
-                <dc:creator>Ulrich Ronellenfitsch</dc:creator>
-                <dc:date>2023-11-20</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>AI and imaging-based cancer screening: getting ready for prime time</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02630-y</dc:identifier>
             </item>
         
             <item>
