@@ -13,6 +13,21 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Using unlabeled data to enhance fairness of medical AI</title>
+                <link>https://www.nature.com/articles/s41591-024-02892-0</link>
+                <description>AI models for tasks such as pathology and dermatology struggle to generalize to new patient groups or hospitals that they were not trained on; learning more robust features from unlabeled data could prevent overfitting to the training distribution and thereby increase fairness.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">AI models for tasks such as pathology and dermatology struggle to generalize to new patient groups or hospitals that they were not trained on; learning more robust features from unlabeled data could prevent overfitting to the training distribution and thereby increase fairness.</p></div>]]></content:encoded>
+                <pubDate>2024-04-19</pubDate>
+                <dc:creator>Rajiv Movva</dc:creator>
+                <dc:creator>Pang Wei Koh</dc:creator>
+                <dc:creator>Emma Pierson</dc:creator>
+                <dc:date>2024-04-19</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Using unlabeled data to enhance fairness of medical AI</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-02892-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Uncovering drivers of global tree diversity</title>
                 <link>https://www.nature.com/articles/s41477-024-01695-y</link>
                 <description>Plant species diversity declines from tropical to temperate latitudes. Local neighbourhood interactions among species that favour heterospecifics over conspecifics may have a role in shaping this latitudinal diversity gradient, but perhaps not as traditionally thought.</description>
@@ -679,20 +694,6 @@
             </item>
         
             <item>
-                <title>Disease resistance through M genes</title>
-                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
-                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Chengfang Zhan</dc:creator>
-                <dc:creator>Mengcen Wang</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Disease resistance through M genes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -705,6 +706,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Immunotherapy at all stages of hepatocellular carcinoma</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-02828-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Disease resistance through M genes</title>
+                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
+                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Chengfang Zhan</dc:creator>
+                <dc:creator>Mengcen Wang</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Disease resistance through M genes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
             </item>
         
             <item>
@@ -847,19 +862,6 @@
             </item>
         
             <item>
-                <title>An AI chatbot for talking therapy referrals</title>
-                <link>https://www.nature.com/articles/s41591-023-02773-y</link>
-                <description>An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</p></div>]]></content:encoded>
-                <pubDate>2024-02-05</pubDate>
-                <dc:creator>Jacqueline Sin</dc:creator>
-                <dc:date>2024-02-05</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>An AI chatbot for talking therapy referrals</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02773-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Compositional plasticity of the Atg1 complex</title>
                 <link>https://www.nature.com/articles/s41556-023-01340-4</link>
                 <description>How do metabolic stresses trigger catabolic autophagy for cell survival? A study now reveals that the metabolite sensor Pho81 integrates into and activates the kinase activity of the Atg1 complex for pexophagy triggered by phosphate starvation. This demonstrates the plasticity of the autophagy-initiating Atg1 complex.</description>
@@ -871,6 +873,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Compositional plasticity of the Atg1 complex</dc:title>
                 <dc:identifier>doi:doi.org/s41556-023-01340-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An AI chatbot for talking therapy referrals</title>
+                <link>https://www.nature.com/articles/s41591-023-02773-y</link>
+                <description>An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-enabled chatbot increased self-referrals to psychological therapies for common mental health disorders; but further research is needed to ensure that better access translates into high-quality treatment experiences and outcomes for everyone.</p></div>]]></content:encoded>
+                <pubDate>2024-02-05</pubDate>
+                <dc:creator>Jacqueline Sin</dc:creator>
+                <dc:date>2024-02-05</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>An AI chatbot for talking therapy referrals</dc:title>
+                <dc:identifier>doi:doi.org/s41591-023-02773-y</dc:identifier>
             </item>
         
             <item>
@@ -1277,19 +1292,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>New ingredients for old recipes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01591-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>PROTACs reach clinical development in inflammatory skin disease</title>
-                <link>https://www.nature.com/articles/s41591-023-02622-y</link>
-                <description>A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A phase 1 trial of an IRAK4-targeted protein degrader in patients with chronic inflammatory skin diseases hits an important milestone for the safe application of this drug class beyond oncology.</p></div>]]></content:encoded>
-                <pubDate>2023-11-13</pubDate>
-                <dc:creator>Fleur M. Ferguson</dc:creator>
-                <dc:date>2023-11-13</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>PROTACs reach clinical development in inflammatory skin disease</dc:title>
-                <dc:identifier>doi:doi.org/s41591-023-02622-y</dc:identifier>
             </item>
         
             <item>
