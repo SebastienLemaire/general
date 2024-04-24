@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Charles Darwin investigates: the curious case of primrose punishment</title>
+                <link>https://www.nature.com/articles/d41586-024-01180-8</link>
+                <description>Birds emerge as top suspects for unexplained flower mutilation, and reflections from 1974 mark the 21st anniversary of the discovery of the DNA double helix, in the weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Birds emerge as top suspects for unexplained flower mutilation, and reflections from 1974 mark the 21st anniversary of the discovery of the DNA double helix, in the weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2024-04-23</pubDate>
+                
+                <dc:date>2024-04-23</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Charles Darwin investigates: the curious case of primrose punishment</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-01180-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The hype and hope of new food allergy treatments</title>
                 <link>https://www.nature.com/articles/s41591-024-02952-5</link>
                 <description>Food allergy treatment is undergoing a paradigm shift with new therapies emerging, including the recent FDA approval of omalizumab — but without evidence of disease modification and with uncertain quality-of-life improvement, it may not be a panacea for all.</description>
@@ -201,20 +214,6 @@
             </item>
         
             <item>
-                <title>Light makes atoms behave like electromagnetic coils</title>
-                <link>https://www.nature.com/articles/d41586-024-00889-w</link>
-                <description>Microscopic magnetic fields form in non-magnetic materials when light makes the atoms rotate. A similar macroscopic effect has long been known, but proof of its atomic equivalent could give rise to ultrafast data processing.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Microscopic magnetic fields form in non-magnetic materials when light makes the atoms rotate. A similar macroscopic effect has long been known, but proof of its atomic equivalent could give rise to ultrafast data processing.</p></div>]]></content:encoded>
-                <pubDate>2024-04-10</pubDate>
-                <dc:creator>Carl P. Romao</dc:creator>
-                <dc:creator>Dominik M. Juraschek</dc:creator>
-                <dc:date>2024-04-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Light makes atoms behave like electromagnetic coils</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00889-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Nanoscale scythe cuts molecular tethers using mechanical forces</title>
                 <link>https://www.nature.com/articles/d41586-024-00909-9</link>
                 <description>Nanoscale systems that release small molecules have potential therapeutic and industrial uses, but can result in low numbers of molecules reaching their target. A release system triggered by mechanical force offers a fresh approach.</description>
@@ -265,6 +264,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Blocking cell death limits lung damage and inflammation from influenza</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-00910-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Light makes atoms behave like electromagnetic coils</title>
+                <link>https://www.nature.com/articles/d41586-024-00889-w</link>
+                <description>Microscopic magnetic fields form in non-magnetic materials when light makes the atoms rotate. A similar macroscopic effect has long been known, but proof of its atomic equivalent could give rise to ultrafast data processing.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Microscopic magnetic fields form in non-magnetic materials when light makes the atoms rotate. A similar macroscopic effect has long been known, but proof of its atomic equivalent could give rise to ultrafast data processing.</p></div>]]></content:encoded>
+                <pubDate>2024-04-10</pubDate>
+                <dc:creator>Carl P. Romao</dc:creator>
+                <dc:creator>Dominik M. Juraschek</dc:creator>
+                <dc:date>2024-04-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Light makes atoms behave like electromagnetic coils</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00889-w</dc:identifier>
             </item>
         
             <item>
@@ -428,20 +441,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>RIPK1 and necroptosis role in premature ageing</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01390-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The wearable electronic patch that’s impervious to sweat</title>
-                <link>https://www.nature.com/articles/d41586-024-00789-z</link>
-                <description>A smart adhesive patch that wicks sweat away from electronics embedded in its centre offers comfortable and reliable sensing of the wearer’s biometrics or environment without the risk of perspiration damaging the devices.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A smart adhesive patch that wicks sweat away from electronics embedded in its centre offers comfortable and reliable sensing of the wearer’s biometrics or environment without the risk of perspiration damaging the devices.</p></div>]]></content:encoded>
-                <pubDate>2024-03-27</pubDate>
-                <dc:creator>Yifan Rao</dc:creator>
-                <dc:creator>Nanshu Lu</dc:creator>
-                <dc:date>2024-03-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The wearable electronic patch that’s impervious to sweat</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00789-z</dc:identifier>
             </item>
         
             <item>
