@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>A sweet victory for sugarcane genomics</title>
+                <link>https://www.nature.com/articles/s41477-024-01691-2</link>
+                <description>Owing to its size and complexity, the genome of modern sugarcane has never been previously assembled in its entirety, which leaves it as one of the last remaining major crop species without a reference genome. The newly completed polyploid assembly of an archetypal modern hybrid reveals the complexities of sugarcane’s genetic past, and presents new opportunities for the researchers and breeders invested in its future.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Owing to its size and complexity, the genome of modern sugarcane has never been previously assembled in its entirety, which leaves it as one of the last remaining major crop species without a reference genome. The newly completed polyploid assembly of an archetypal modern hybrid reveals the complexities of sugarcane’s genetic past, and presents new opportunities for the researchers and breeders invested in its future.</p></div>]]></content:encoded>
+                <pubDate>2024-04-26</pubDate>
+                <dc:creator>Elizabeth A. Cooper</dc:creator>
+                <dc:date>2024-04-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A sweet victory for sugarcane genomics</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01691-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Marsupial genomes reveal how a skin membrane for gliding evolved</title>
                 <link>https://www.nature.com/articles/d41586-024-01021-8</link>
                 <description>A parachute-like skin membrane, the patagium, evolved independently in several marsupial species. Genomic analysis suggests that this trait came about through different changes to the regulation of the same gene.</description>
@@ -79,19 +92,6 @@
             </item>
         
             <item>
-                <title>Targeting RNA opens therapeutic avenues for Timothy syndrome</title>
-                <link>https://www.nature.com/articles/d41586-024-00911-1</link>
-                <description>A therapeutic strategy that alters gene expression in a rare and severe neurodevelopmental condition has been tested in stem-cell-based models of the disease, and has been shown to correct genetic and cellular defects.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A therapeutic strategy that alters gene expression in a rare and severe neurodevelopmental condition has been tested in stem-cell-based models of the disease, and has been shown to correct genetic and cellular defects.</p></div>]]></content:encoded>
-                <pubDate>2024-04-24</pubDate>
-                <dc:creator>Silvia Velasco</dc:creator>
-                <dc:date>2024-04-24</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Targeting RNA opens therapeutic avenues for Timothy syndrome</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-00911-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>IRON MAN is a jack of all trades</title>
                 <link>https://www.nature.com/articles/s41477-024-01688-x</link>
                 <description>The functions of a small family of non-secreted peptides, originally identified as critical communicators of the plant’s iron status, have expanded. The involvement of these effectors in disparate signalling cascades underlines the pivotal role peptides have in responses to the environment.</description>
@@ -103,6 +103,19 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>IRON MAN is a jack of all trades</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01688-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Targeting RNA opens therapeutic avenues for Timothy syndrome</title>
+                <link>https://www.nature.com/articles/d41586-024-00911-1</link>
+                <description>A therapeutic strategy that alters gene expression in a rare and severe neurodevelopmental condition has been tested in stem-cell-based models of the disease, and has been shown to correct genetic and cellular defects.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A therapeutic strategy that alters gene expression in a rare and severe neurodevelopmental condition has been tested in stem-cell-based models of the disease, and has been shown to correct genetic and cellular defects.</p></div>]]></content:encoded>
+                <pubDate>2024-04-24</pubDate>
+                <dc:creator>Silvia Velasco</dc:creator>
+                <dc:date>2024-04-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Targeting RNA opens therapeutic avenues for Timothy syndrome</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-00911-1</dc:identifier>
             </item>
         
             <item>
@@ -720,6 +733,20 @@
             </item>
         
             <item>
+                <title>Disease resistance through M genes</title>
+                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
+                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
+                <pubDate>2024-02-26</pubDate>
+                <dc:creator>Chengfang Zhan</dc:creator>
+                <dc:creator>Mengcen Wang</dc:creator>
+                <dc:date>2024-02-26</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Disease resistance through M genes</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Immunotherapy at all stages of hepatocellular carcinoma</title>
                 <link>https://www.nature.com/articles/s41591-024-02828-8</link>
                 <description>A flurry of emerging treatment options is transforming the therapeutic landscape of hepatocellular carcinoma; two new studies highlight the complexities and gaps in knowledge, but also hint at a greater understanding of how to apply immunotherapy in early and advanced disease.</description>
@@ -732,20 +759,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Immunotherapy at all stages of hepatocellular carcinoma</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-02828-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Disease resistance through M genes</title>
-                <link>https://www.nature.com/articles/s41477-024-01644-9</link>
-                <description>Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants regulate their microbiota to cope with diverse stresses. A recent study shows that rice maintains homeostasis of its phyllosphere microbiome through a secondary metabolite biosynthetic gene, which offers potential for harnessing microbiome-shaping genes in disease-resistance breeding.</p></div>]]></content:encoded>
-                <pubDate>2024-02-26</pubDate>
-                <dc:creator>Chengfang Zhan</dc:creator>
-                <dc:creator>Mengcen Wang</dc:creator>
-                <dc:date>2024-02-26</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Disease resistance through M genes</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01644-9</dc:identifier>
             </item>
         
             <item>
@@ -1208,6 +1221,19 @@
             </item>
         
             <item>
+                <title>Structural biology in the age of AI</title>
+                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
+                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
+                <pubDate>2023-12-08</pubDate>
+                <dc:creator>Sriram Subramaniam</dc:creator>
+                <dc:date>2023-12-08</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Structural biology in the age of AI</dc:title>
+                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Assembling neuroactive alkaloids</title>
                 <link>https://www.nature.com/articles/s41477-023-01586-8</link>
                 <description>The Lycopodium alkaloids represent a valuable source of neuroactive compounds. The biosynthesis of these specialized metabolites is now shown to involve three α-carbonic anhydrase-like enzymes that are responsible for constructing the key carbon–carbon bonds within their distinctive polycyclic alkaloid structures.</description>
@@ -1219,19 +1245,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Assembling neuroactive alkaloids</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01586-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Structural biology in the age of AI</title>
-                <link>https://www.nature.com/articles/s41592-023-02123-3</link>
-                <description>How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How accurate is the prediction of protein structure by AlphaFold? Terwilliger et al. address this question with a rigorous assessment of the accuracy of AlphaFold-predicted structures by comparing them with experimentally determined X-ray crystallographic data.</p></div>]]></content:encoded>
-                <pubDate>2023-12-08</pubDate>
-                <dc:creator>Sriram Subramaniam</dc:creator>
-                <dc:date>2023-12-08</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Structural biology in the age of AI</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02123-3</dc:identifier>
             </item>
         
             <item>
@@ -1567,20 +1580,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Fluorogenic chemically induced dimerization</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-01989-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Opening the gates</title>
-                <link>https://www.nature.com/articles/s41477-023-01493-y</link>
-                <description>A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new study reveals that epigenetic mechanism mediates temperature control of callose synthase expression to regulate opening of plasmodesmata and facilitate bud sprouting in lilies.</p></div>]]></content:encoded>
-                <pubDate>2023-08-10</pubDate>
-                <dc:creator>Aswin Nair</dc:creator>
-                <dc:creator>Rishikesh P. Bhalerao</dc:creator>
-                <dc:date>2023-08-10</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Opening the gates</dc:title>
-                <dc:identifier>doi:doi.org/s41477-023-01493-y</dc:identifier>
             </item>
         
             <item>
