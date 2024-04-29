@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Experimental evolution of cancer chromosomal changes</title>
+                <link>https://www.nature.com/articles/s41588-024-01742-6</link>
+                <description>Experimental genome evolution of normal human cells reveals an intrinsic propensity to develop cancer-associated chromosomal alterations.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Experimental genome evolution of normal human cells reveals an intrinsic propensity to develop cancer-associated chromosomal alterations.</p></div>]]></content:encoded>
+                <pubDate>2024-04-29</pubDate>
+                <dc:creator>Molly A. Guscott</dc:creator>
+                <dc:creator>Sarah E. McClelland</dc:creator>
+                <dc:date>2024-04-29</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Experimental evolution of cancer chromosomal changes</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01742-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>A sweet victory for sugarcane genomics</title>
                 <link>https://www.nature.com/articles/s41477-024-01691-2</link>
                 <description>Owing to its size and complexity, the genome of modern sugarcane has never been previously assembled in its entirety, which leaves it as one of the last remaining major crop species without a reference genome. The newly completed polyploid assembly of an archetypal modern hybrid reveals the complexities of sugarcane’s genetic past, and presents new opportunities for the researchers and breeders invested in its future.</description>
@@ -1138,6 +1152,19 @@
             </item>
         
             <item>
+                <title>Extraordinary collateral mutagenesis induced by CX-5461</title>
+                <link>https://www.nature.com/articles/s41588-023-01611-8</link>
+                <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</p></div>]]></content:encoded>
+                <pubDate>2023-12-21</pubDate>
+                <dc:creator>Simon J. Boulton</dc:creator>
+                <dc:date>2023-12-21</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Extraordinary collateral mutagenesis induced by CX-5461</dc:title>
+                <dc:identifier>doi:doi.org/s41588-023-01611-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>RNA polymerase II promoter-proximal pausing promotes BAF chromatin binding and remodeling</title>
                 <link>https://www.nature.com/articles/s41588-023-01628-z</link>
                 <description>New research reports that paused RNA polymerase II (RNAPII) enhances the targeting and activity of BAF chromatin remodelers. These findings suggest a new paradigm for understanding how the collaborative action of chromatin remodelers and the transcriptional machinery govern cell-type-specific chromatin accessibility.</description>
@@ -1149,19 +1176,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>RNA polymerase II promoter-proximal pausing promotes BAF chromatin binding and remodeling</dc:title>
                 <dc:identifier>doi:doi.org/s41588-023-01628-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Extraordinary collateral mutagenesis induced by CX-5461</title>
-                <link>https://www.nature.com/articles/s41588-023-01611-8</link>
-                <description>CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">CX-5461 (also known as pidnarulex), currently in phase 1/2 trials, induces selective killing of homologous-recombination-deficient or BRCA1- or BRCA2-mutated tumors in preclinical models. New work confirms these findings but shows it to be a remarkably potent mutagen that induces extensive genetic changes in cultured human cells with or without BRCA1/2 mutations, raising substantial safety issues.</p></div>]]></content:encoded>
-                <pubDate>2023-12-21</pubDate>
-                <dc:creator>Simon J. Boulton</dc:creator>
-                <dc:date>2023-12-21</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Extraordinary collateral mutagenesis induced by CX-5461</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01611-8</dc:identifier>
             </item>
         
             <item>
@@ -1497,20 +1511,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>How to establish a GAPLESS Casparian strip</dc:title>
                 <dc:identifier>doi:doi.org/s41477-023-01525-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Inflammation drives pressure on TP53 mutant clones in myeloproliferative neoplasms</title>
-                <link>https://www.nature.com/articles/s41588-023-01479-8</link>
-                <description>Transformation of a myeloproliferative neoplasm to a secondary acute myeloid leukemia is rare but devastating. Single-cell, multi-omic characterization of hematopoietic stem and progenitor cells now shows the role of inflammation in transformation driven by mutations in TP53, with effects on the mutant clone but also non-mutant counterparts.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transformation of a myeloproliferative neoplasm to a secondary acute myeloid leukemia is rare but devastating. Single-cell, multi-omic characterization of hematopoietic stem and progenitor cells now shows the role of inflammation in transformation driven by mutations in TP53, with effects on the mutant clone but also non-mutant counterparts.</p></div>]]></content:encoded>
-                <pubDate>2023-09-04</pubDate>
-                <dc:creator>Adam Benabid</dc:creator>
-                <dc:creator>Rebekka K. Schneider</dc:creator>
-                <dc:date>2023-09-04</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Inflammation drives pressure on TP53 mutant clones in myeloproliferative neoplasms</dc:title>
-                <dc:identifier>doi:doi.org/s41588-023-01479-8</dc:identifier>
             </item>
         
             <item>
