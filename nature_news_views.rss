@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Single-molecule DNA dynamics with graphene energy transfer</title>
+                <link>https://www.nature.com/articles/s41592-024-02560-8</link>
+                <description>Graphene energy transfer (GET) can be used to measure the distance between a graphene surface and a fluorescent dye. A new strategy for attaching DNA in a controlled orientation onto graphene now makes it possible to use GET to track the dynamics of DNA and protein–DNA interactions with base-pair resolution.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Graphene energy transfer (GET) can be used to measure the distance between a graphene surface and a fluorescent dye. A new strategy for attaching DNA in a controlled orientation onto graphene now makes it possible to use GET to track the dynamics of DNA and protein–DNA interactions with base-pair resolution.</p></div>]]></content:encoded>
+                <pubDate>2024-12-10</pubDate>
+                <dc:creator>Pallav Kosuri</dc:creator>
+                <dc:date>2024-12-10</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Single-molecule DNA dynamics with graphene energy transfer</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02560-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Spatial biology captures the effects of neoadjuvant chemo-immunotherapy in lung cancer</title>
+                <link>https://www.nature.com/articles/s41588-024-01992-4</link>
+                <description>PD-1 pathway blockade in combination with chemotherapy has emerged as a treatment paradigm for patients with resectable lung cancer, but insights into predictive biomarkers and mechanisms of immune responses are lacking. A study uses spatial transcriptomic methods to identify patterns within the tumor microenvironment associated with response.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">PD-1 pathway blockade in combination with chemotherapy has emerged as a treatment paradigm for patients with resectable lung cancer, but insights into predictive biomarkers and mechanisms of immune responses are lacking. A study uses spatial transcriptomic methods to identify patterns within the tumor microenvironment associated with response.</p></div>]]></content:encoded>
+                <pubDate>2024-12-10</pubDate>
+                <dc:creator>Jonathan H. Chen</dc:creator>
+                <dc:creator>Justin F. Gainor</dc:creator>
+                <dc:date>2024-12-10</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Spatial biology captures the effects of neoadjuvant chemo-immunotherapy in lung cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01992-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Pregnancy restructures the brain to prepare for childbirth and parenthood</title>
                 <link>https://www.nature.com/articles/d41586-024-03942-w</link>
                 <description>A case study has revealed widespread changes to the maternal brain during pregnancy. This is a milestone in the emerging neuroscience of ‘matrescence’ — the idea that pregnancy is a developmental stage in adulthood.</description>
@@ -807,6 +834,19 @@
             </item>
         
             <item>
+                <title>The practical longevity of stockpiled A(H5N1) influenza vaccine</title>
+                <link>https://www.nature.com/articles/s41591-024-03256-4</link>
+                <description>Stockpiled A(H5N1) influenza vaccines made using viruses from the mid-2000s stimulate antibodies that cross-react with current strains, despite being separated by 20 years of viral evolution — supporting investment in vaccine stockpiling for pandemic preparedness.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Stockpiled A(H5N1) influenza vaccines made using viruses from the mid-2000s stimulate antibodies that cross-react with current strains, despite being separated by 20 years of viral evolution — supporting investment in vaccine stockpiling for pandemic preparedness.</p></div>]]></content:encoded>
+                <pubDate>2024-09-26</pubDate>
+                <dc:creator>Richard J. Webby</dc:creator>
+                <dc:date>2024-09-26</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The practical longevity of stockpiled A(H5N1) influenza vaccine</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03256-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Host physiology shapes the mutational landscape of normal and carcinogenic tissue</title>
                 <link>https://www.nature.com/articles/s41588-024-01922-4</link>
                 <description>Somatic mutations accrue with age as patches of mutant clones arise in otherwise histologically normal tissue. The clones’ persistence, expansion and roles in physiology and tumorigenesis are unclear. New work on the behavior of Pik3caH1047R mutant esophageal clones shows that host-dependent metabolic features underpin their expansion.</description>
@@ -818,19 +858,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Host physiology shapes the mutational landscape of normal and carcinogenic tissue</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01922-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The practical longevity of stockpiled A(H5N1) influenza vaccine</title>
-                <link>https://www.nature.com/articles/s41591-024-03256-4</link>
-                <description>Stockpiled A(H5N1) influenza vaccines made using viruses from the mid-2000s stimulate antibodies that cross-react with current strains, despite being separated by 20 years of viral evolution — supporting investment in vaccine stockpiling for pandemic preparedness.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Stockpiled A(H5N1) influenza vaccines made using viruses from the mid-2000s stimulate antibodies that cross-react with current strains, despite being separated by 20 years of viral evolution — supporting investment in vaccine stockpiling for pandemic preparedness.</p></div>]]></content:encoded>
-                <pubDate>2024-09-26</pubDate>
-                <dc:creator>Richard J. Webby</dc:creator>
-                <dc:date>2024-09-26</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>The practical longevity of stockpiled A(H5N1) influenza vaccine</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03256-4</dc:identifier>
             </item>
         
             <item>
@@ -1408,21 +1435,6 @@
             </item>
         
             <item>
-                <title>Understanding liver repair through space and time</title>
-                <link>https://www.nature.com/articles/s41588-024-01741-7</link>
-                <description>By integrating spatially resolved single-cell RNA sequencing (scRNA-seq) and Stereo-seq data, two studies in this issue characterize molecular signatures of liver cell types and their interactions in homeostasis, damage, repair and regeneration.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By integrating spatially resolved single-cell RNA sequencing (scRNA-seq) and Stereo-seq data, two studies in this issue characterize molecular signatures of liver cell types and their interactions in homeostasis, damage, repair and regeneration.</p></div>]]></content:encoded>
-                <pubDate>2024-05-10</pubDate>
-                <dc:creator>Lenka Belicova</dc:creator>
-                <dc:creator>Noemi Van Hul</dc:creator>
-                <dc:creator>Emma R. Andersson</dc:creator>
-                <dc:date>2024-05-10</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Understanding liver repair through space and time</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01741-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>It takes two to expand the cortex</title>
                 <link>https://www.nature.com/articles/s41556-024-01416-9</link>
                 <description>Two new landmark studies use innovative and complementary lineage tracing approaches in human cerebral organoids to reveal symmetric stem cell division and direct neurogenesis of basal radial glial cells to enable cortical growth, expansion and differentiation.</description>
@@ -1649,20 +1661,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Modeling the complexity of mammary gland in vitro</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02064-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Real-time imaging of dynamic tissues</title>
-                <link>https://www.nature.com/articles/s41592-023-02047-y</link>
-                <description>A combined modality enables real-time imaging of mouse lungs and spans whole-organ to cellular scales.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A combined modality enables real-time imaging of mouse lungs and spans whole-organ to cellular scales.</p></div>]]></content:encoded>
-                <pubDate>2023-10-04</pubDate>
-                <dc:creator>Joan E. Nichols</dc:creator>
-                <dc:creator>Sasha R. Azar</dc:creator>
-                <dc:date>2023-10-04</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Real-time imaging of dynamic tissues</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02047-y</dc:identifier>
             </item>
             
         </channel>
