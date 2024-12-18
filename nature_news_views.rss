@@ -13,6 +13,21 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Misshapen chromosomes in check by mechanics</title>
+                <link>https://www.nature.com/articles/s41556-024-01573-x</link>
+                <description>Errors in chromosome segregation during cell division lead to changes in nuclear features. A study now shows that a mechanosensitive nuclear checkpoint activates the tumour suppressor p53 to halt the proliferation of aneuploid cells. These findings provide mechanistic insights to explore in both ageing and cancer pathologies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Errors in chromosome segregation during cell division lead to changes in nuclear features. A study now shows that a mechanosensitive nuclear checkpoint activates the tumour suppressor p53 to halt the proliferation of aneuploid cells. These findings provide mechanistic insights to explore in both ageing and cancer pathologies.</p></div>]]></content:encoded>
+                <pubDate>2024-12-18</pubDate>
+                <dc:creator>Joana C. Macedo</dc:creator>
+                <dc:creator>Maria M. da Silva</dc:creator>
+                <dc:creator>Elsa Logarinho</dc:creator>
+                <dc:date>2024-12-18</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Misshapen chromosomes in check by mechanics</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01573-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Animals in sticky situations</title>
                 <link>https://www.nature.com/articles/d41586-024-04121-7</link>
                 <description>Descriptions of different creatures’ attachment mechanisms, and muddy banks of calm in the Indian Ocean, in our weekly dip into Nature’s archive.</description>
@@ -740,21 +755,6 @@
             </item>
         
             <item>
-                <title>The inconvenient reality of AI-assisted embryo selection in IVF</title>
-                <link>https://www.nature.com/articles/s41591-024-03289-9</link>
-                <description>Artificial intelligence is being hyped for its potential to revolutionize assisted reproduction, including embryo selection — but a new study reveals that the inflated expectations of new technologies are not always justified.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is being hyped for its potential to revolutionize assisted reproduction, including embryo selection — but a new study reveals that the inflated expectations of new technologies are not always justified.</p></div>]]></content:encoded>
-                <pubDate>2024-10-01</pubDate>
-                <dc:creator>Dorit C. Kieslinger</dc:creator>
-                <dc:creator>Cornelis B. Lambalk</dc:creator>
-                <dc:creator>Carlijn G. Vergouw</dc:creator>
-                <dc:date>2024-10-01</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>The inconvenient reality of AI-assisted embryo selection in IVF</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03289-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>RNAs kiss and translate in germ granules</title>
                 <link>https://www.nature.com/articles/s41556-024-01502-y</link>
                 <description>The assembly of germ granules remains unknown, but recent attention to the role of RNA structure in membrane-less organelle assembly is changing our understanding of RNAs in the cell. Two studies now show how RNA–RNA interactions drive germ granule assembly and how germ granules spatially regulate embryonic mRNA translation.</description>
@@ -767,6 +767,21 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>RNAs kiss and translate in germ granules</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01502-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The inconvenient reality of AI-assisted embryo selection in IVF</title>
+                <link>https://www.nature.com/articles/s41591-024-03289-9</link>
+                <description>Artificial intelligence is being hyped for its potential to revolutionize assisted reproduction, including embryo selection — but a new study reveals that the inflated expectations of new technologies are not always justified.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is being hyped for its potential to revolutionize assisted reproduction, including embryo selection — but a new study reveals that the inflated expectations of new technologies are not always justified.</p></div>]]></content:encoded>
+                <pubDate>2024-10-01</pubDate>
+                <dc:creator>Dorit C. Kieslinger</dc:creator>
+                <dc:creator>Cornelis B. Lambalk</dc:creator>
+                <dc:creator>Carlijn G. Vergouw</dc:creator>
+                <dc:date>2024-10-01</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The inconvenient reality of AI-assisted embryo selection in IVF</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03289-9</dc:identifier>
             </item>
         
             <item>
@@ -1527,19 +1542,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Accessible computing platforms democratize neuroimaging data analysis</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02238-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Adding a transcription-coupled repair pathway</title>
-                <link>https://www.nature.com/articles/s41556-024-01399-7</link>
-                <description>When transcription by RNA polymerase II is stalled by ultraviolet-induced DNA damage, it recruits repair factors, leading to excision of the damaged site and DNA synthesis to fill the gap. Three new studies show that, for aldehyde-induced DNA crosslinks, repair is activated by the same factors, but without base excision and gap filling.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">When transcription by RNA polymerase II is stalled by ultraviolet-induced DNA damage, it recruits repair factors, leading to excision of the damaged site and DNA synthesis to fill the gap. Three new studies show that, for aldehyde-induced DNA crosslinks, repair is activated by the same factors, but without base excision and gap filling.</p></div>]]></content:encoded>
-                <pubDate>2024-04-10</pubDate>
-                <dc:creator>Marco Saponaro</dc:creator>
-                <dc:date>2024-04-10</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Adding a transcription-coupled repair pathway</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01399-7</dc:identifier>
             </item>
         
             <item>
