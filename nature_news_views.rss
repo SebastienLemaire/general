@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Animals in sticky situations</title>
+                <link>https://www.nature.com/articles/d41586-024-04121-7</link>
+                <description>Descriptions of different creatures’ attachment mechanisms, and muddy banks of calm in the Indian Ocean, in our weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Descriptions of different creatures’ attachment mechanisms, and muddy banks of calm in the Indian Ocean, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2024-12-17</pubDate>
+                
+                <dc:date>2024-12-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Animals in sticky situations</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04121-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Green steel, thunderstorms and next-generation gene editing: a year of remarkable science</title>
                 <link>https://www.nature.com/articles/d41586-024-04119-1</link>
                 <description>Highlights from News & Views published in 2024.</description>
@@ -161,20 +174,6 @@
             </item>
         
             <item>
-                <title>Fragments of the brain’s myelin proteins train T cells to ward off autoimmune attacks</title>
-                <link>https://www.nature.com/articles/d41586-024-03846-9</link>
-                <description>The discovery that peptides from myelin proteins in the brain help the immune system’s T cells to suppress autoimmunity could pave the way to developing therapies for inflammatory brain diseases.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery that peptides from myelin proteins in the brain help the immune system’s T cells to suppress autoimmunity could pave the way to developing therapies for inflammatory brain diseases.</p></div>]]></content:encoded>
-                <pubDate>2024-12-04</pubDate>
-                <dc:creator>Hartmut Wekerle</dc:creator>
-                <dc:creator>Naoto Kawakami</dc:creator>
-                <dc:date>2024-12-04</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Fragments of the brain’s myelin proteins train T cells to ward off autoimmune attacks</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03846-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Bird-inspired leg enables robots to jump into flight</title>
                 <link>https://www.nature.com/articles/d41586-024-03845-w</link>
                 <description>A bird’s ability to transition swiftly from walking to flying has been emulated in the design of a simple robotic leg. The feat is a win for drone design, and one that could reveal why some birds’ legs make up so large a fraction of their weight.</description>
@@ -256,6 +255,20 @@
             </item>
         
             <item>
+                <title>Fragments of the brain’s myelin proteins train T cells to ward off autoimmune attacks</title>
+                <link>https://www.nature.com/articles/d41586-024-03846-9</link>
+                <description>The discovery that peptides from myelin proteins in the brain help the immune system’s T cells to suppress autoimmunity could pave the way to developing therapies for inflammatory brain diseases.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery that peptides from myelin proteins in the brain help the immune system’s T cells to suppress autoimmunity could pave the way to developing therapies for inflammatory brain diseases.</p></div>]]></content:encoded>
+                <pubDate>2024-12-04</pubDate>
+                <dc:creator>Hartmut Wekerle</dc:creator>
+                <dc:creator>Naoto Kawakami</dc:creator>
+                <dc:date>2024-12-04</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Fragments of the brain’s myelin proteins train T cells to ward off autoimmune attacks</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-03846-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Where does poetry come from?</title>
                 <link>https://www.nature.com/articles/d41586-024-03848-7</link>
                 <description>Surveying poets on the unconscious sources of their verse, and an accidental ghost co-author, in this week’s excerpts from Nature’s archive.</description>
@@ -294,19 +307,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Single-cell genomics breaks new ground in cell cycle detection</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01987-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Wastes of time — faeces and vomit track how dinosaurs rose to prominence</title>
-                <link>https://www.nature.com/articles/d41586-024-03652-3</link>
-                <description>The earliest known dinosaur fossils are at least 230 million years old, and by 200 million years ago, dinosaurs dominated global ecosystems. Reconstructing food webs using fossil evidence of feeding activity helps to explain this ascendency.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The earliest known dinosaur fossils are at least 230 million years old, and by 200 million years ago, dinosaurs dominated global ecosystems. Reconstructing food webs using fossil evidence of feeding activity helps to explain this ascendency.</p></div>]]></content:encoded>
-                <pubDate>2024-11-27</pubDate>
-                <dc:creator>Lawrence H. Tanner</dc:creator>
-                <dc:date>2024-11-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Wastes of time — faeces and vomit track how dinosaurs rose to prominence</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03652-3</dc:identifier>
             </item>
         
             <item>
