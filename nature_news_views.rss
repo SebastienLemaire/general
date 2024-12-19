@@ -13,6 +13,32 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Algae use the underwater light spectrum to sense depth</title>
+                <link>https://www.nature.com/articles/d41586-024-04079-6</link>
+                <description>Aquatic algae called diatoms have been found to use light-sensing proteins as depth indicators. Detecting depth-related changes in the intensity and spectrum of light enables algae to modulate their physiology accordingly.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Aquatic algae called diatoms have been found to use light-sensing proteins as depth indicators. Detecting depth-related changes in the intensity and spectrum of light enables algae to modulate their physiology accordingly.</p></div>]]></content:encoded>
+                <pubDate>2024-12-18</pubDate>
+                <dc:creator>Marina Cvetkovska</dc:creator>
+                <dc:date>2024-12-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Algae use the underwater light spectrum to sense depth</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04079-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A bile acid could explain how calorie restriction slows ageing</title>
+                <link>https://www.nature.com/articles/d41586-024-04062-1</link>
+                <description>Could lithocholic acid, a compound produced when gut bacteria process bile, be the missing link between a low-calorie diet and its age-defying effects? Experiments in mice, flies and nematode worms provide clues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Could lithocholic acid, a compound produced when gut bacteria process bile, be the missing link between a low-calorie diet and its age-defying effects? Experiments in mice, flies and nematode worms provide clues.</p></div>]]></content:encoded>
+                <pubDate>2024-12-18</pubDate>
+                <dc:creator>David A. Sinclair</dc:creator>
+                <dc:date>2024-12-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A bile acid could explain how calorie restriction slows ageing</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04062-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Misshapen chromosomes in check by mechanics</title>
                 <link>https://www.nature.com/articles/s41556-024-01573-x</link>
                 <description>Errors in chromosome segregation during cell division lead to changes in nuclear features. A study now shows that a mechanosensitive nuclear checkpoint activates the tumour suppressor p53 to halt the proliferation of aneuploid cells. These findings provide mechanistic insights to explore in both ageing and cancer pathologies.</description>
@@ -25,6 +51,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Misshapen chromosomes in check by mechanics</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01573-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Sea ice is shrinking during Antarctic winter: here’s what it means for Earth’s oceans and atmosphere</title>
+                <link>https://www.nature.com/articles/d41586-024-04078-7</link>
+                <description>The extent of Antarctic sea ice dropped precipitously in 2023. Analysis shows that this decline has increased the transfer of ocean heat to the atmosphere — in turn affecting ocean circulation and the frequency of storms.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The extent of Antarctic sea ice dropped precipitously in 2023. Analysis shows that this decline has increased the transfer of ocean heat to the atmosphere — in turn affecting ocean circulation and the frequency of storms.</p></div>]]></content:encoded>
+                <pubDate>2024-12-18</pubDate>
+                <dc:creator>Laura L. Landrum</dc:creator>
+                <dc:creator>Alice. K. DuVivier</dc:creator>
+                <dc:date>2024-12-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Sea ice is shrinking during Antarctic winter: here’s what it means for Earth’s oceans and atmosphere</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04078-7</dc:identifier>
             </item>
         
             <item>
@@ -51,19 +91,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Green steel, thunderstorms and next-generation gene editing: a year of remarkable science</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-04119-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Liquid metal pumps itself out of gels to make artificial vasculature</title>
-                <link>https://www.nature.com/articles/d41586-024-03850-z</link>
-                <description>A fresh take on an ancient process for making moulds reverses the usual roles of soft and rigid materials. The resulting process enables complex, 3D channel systems that mimic vasculature to be made in soft biomaterials.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A fresh take on an ancient process for making moulds reverses the usual roles of soft and rigid materials. The resulting process enables complex, 3D channel systems that mimic vasculature to be made in soft biomaterials.</p></div>]]></content:encoded>
-                <pubDate>2024-12-11</pubDate>
-                <dc:creator>Michael D. Bartlett</dc:creator>
-                <dc:date>2024-12-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Liquid metal pumps itself out of gels to make artificial vasculature</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03850-z</dc:identifier>
             </item>
         
             <item>
@@ -132,6 +159,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>A lipid made by tumour cells reprograms immune cells</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-03855-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Liquid metal pumps itself out of gels to make artificial vasculature</title>
+                <link>https://www.nature.com/articles/d41586-024-03850-z</link>
+                <description>A fresh take on an ancient process for making moulds reverses the usual roles of soft and rigid materials. The resulting process enables complex, 3D channel systems that mimic vasculature to be made in soft biomaterials.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A fresh take on an ancient process for making moulds reverses the usual roles of soft and rigid materials. The resulting process enables complex, 3D channel systems that mimic vasculature to be made in soft biomaterials.</p></div>]]></content:encoded>
+                <pubDate>2024-12-11</pubDate>
+                <dc:creator>Michael D. Bartlett</dc:creator>
+                <dc:date>2024-12-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Liquid metal pumps itself out of gels to make artificial vasculature</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-03850-z</dc:identifier>
             </item>
         
             <item>
@@ -284,19 +324,6 @@
             </item>
         
             <item>
-                <title>Where does poetry come from?</title>
-                <link>https://www.nature.com/articles/d41586-024-03848-7</link>
-                <description>Surveying poets on the unconscious sources of their verse, and an accidental ghost co-author, in this week’s excerpts from Nature’s archive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Surveying poets on the unconscious sources of their verse, and an accidental ghost co-author, in this week’s excerpts from Nature’s archive.</p></div>]]></content:encoded>
-                <pubDate>2024-12-03</pubDate>
-                
-                <dc:date>2024-12-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Where does poetry come from?</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03848-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>A cautionary tale for Alzheimer’s disease GWAS by proxy</title>
                 <link>https://www.nature.com/articles/s41588-024-02023-y</link>
                 <description>Using reported parental disease history to decipher the genetics of Alzheimer’s disease may be promising, but this approach is also susceptible to complex selection and information bias that can mislead researchers if not accounted for.</description>
@@ -322,34 +349,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Single-cell genomics breaks new ground in cell cycle detection</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01987-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Quantum scars make their mark in graphene</title>
-                <link>https://www.nature.com/articles/d41586-024-03649-y</link>
-                <description>By patterning an ultrathin layered structure with tiny wells, physicists have created and imaged peculiar states known as quantum scars — revealing behaviour that could be used to boost the performance of electronic devices.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">By patterning an ultrathin layered structure with tiny wells, physicists have created and imaged peculiar states known as quantum scars — revealing behaviour that could be used to boost the performance of electronic devices.</p></div>]]></content:encoded>
-                <pubDate>2024-11-27</pubDate>
-                <dc:creator>Dmitry Abanin</dc:creator>
-                <dc:creator>Maksym Serbyn</dc:creator>
-                <dc:date>2024-11-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Quantum scars make their mark in graphene</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03649-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Design tips for reproducible studies linking the brain to behaviour</title>
-                <link>https://www.nature.com/articles/d41586-024-03650-5</link>
-                <description>Brain-wide association studies, which aim to link features of the brain to a person’s characteristics, have a replicability problem. Besides increasing sample size, what else can be done to make these studies more reproducible?</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Brain-wide association studies, which aim to link features of the brain to a person’s characteristics, have a replicability problem. Besides increasing sample size, what else can be done to make these studies more reproducible?</p></div>]]></content:encoded>
-                <pubDate>2024-11-27</pubDate>
-                <dc:creator>Roselyne J. Chauvin</dc:creator>
-                <dc:creator>Nico U. F. Dosenbach</dc:creator>
-                <dc:date>2024-11-27</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Design tips for reproducible studies linking the brain to behaviour</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03650-5</dc:identifier>
             </item>
         
             <item>
