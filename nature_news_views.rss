@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Skin in the game — locally made antibodies fight resident bacteria</title>
+                <link>https://www.nature.com/articles/d41586-024-04205-4</link>
+                <description>How immune responses arise against microorganisms living on the skin is not fully understood. The discovery that skin maintains its own system to form antibody responses reveals an unexpected vaccination route.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How immune responses arise against microorganisms living on the skin is not fully understood. The discovery that skin maintains its own system to form antibody responses reveals an unexpected vaccination route.</p></div>]]></content:encoded>
+                <pubDate>2024-12-19</pubDate>
+                <dc:creator>Jeong-Mi Lee</dc:creator>
+                <dc:creator>Peter T. Sage</dc:creator>
+                <dc:date>2024-12-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Skin in the game — locally made antibodies fight resident bacteria</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04205-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Algae use the underwater light spectrum to sense depth</title>
                 <link>https://www.nature.com/articles/d41586-024-04079-6</link>
                 <description>Aquatic algae called diatoms have been found to use light-sensing proteins as depth indicators. Detecting depth-related changes in the intensity and spectrum of light enables algae to modulate their physiology accordingly.</description>
@@ -39,6 +53,20 @@
             </item>
         
             <item>
+                <title>Sea ice is shrinking during Antarctic winter: here’s what it means for Earth’s oceans and atmosphere</title>
+                <link>https://www.nature.com/articles/d41586-024-04078-7</link>
+                <description>The extent of Antarctic sea ice dropped precipitously in 2023. Analysis shows that this decline has increased the transfer of ocean heat to the atmosphere — in turn affecting ocean circulation and the frequency of storms.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The extent of Antarctic sea ice dropped precipitously in 2023. Analysis shows that this decline has increased the transfer of ocean heat to the atmosphere — in turn affecting ocean circulation and the frequency of storms.</p></div>]]></content:encoded>
+                <pubDate>2024-12-18</pubDate>
+                <dc:creator>Laura L. Landrum</dc:creator>
+                <dc:creator>Alice. K. DuVivier</dc:creator>
+                <dc:date>2024-12-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Sea ice is shrinking during Antarctic winter: here’s what it means for Earth’s oceans and atmosphere</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04078-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Misshapen chromosomes in check by mechanics</title>
                 <link>https://www.nature.com/articles/s41556-024-01573-x</link>
                 <description>Errors in chromosome segregation during cell division lead to changes in nuclear features. A study now shows that a mechanosensitive nuclear checkpoint activates the tumour suppressor p53 to halt the proliferation of aneuploid cells. These findings provide mechanistic insights to explore in both ageing and cancer pathologies.</description>
@@ -51,20 +79,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Misshapen chromosomes in check by mechanics</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01573-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Sea ice is shrinking during Antarctic winter: here’s what it means for Earth’s oceans and atmosphere</title>
-                <link>https://www.nature.com/articles/d41586-024-04078-7</link>
-                <description>The extent of Antarctic sea ice dropped precipitously in 2023. Analysis shows that this decline has increased the transfer of ocean heat to the atmosphere — in turn affecting ocean circulation and the frequency of storms.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The extent of Antarctic sea ice dropped precipitously in 2023. Analysis shows that this decline has increased the transfer of ocean heat to the atmosphere — in turn affecting ocean circulation and the frequency of storms.</p></div>]]></content:encoded>
-                <pubDate>2024-12-18</pubDate>
-                <dc:creator>Laura L. Landrum</dc:creator>
-                <dc:creator>Alice. K. DuVivier</dc:creator>
-                <dc:date>2024-12-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Sea ice is shrinking during Antarctic winter: here’s what it means for Earth’s oceans and atmosphere</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-04078-7</dc:identifier>
             </item>
         
             <item>
@@ -91,20 +105,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Green steel, thunderstorms and next-generation gene editing: a year of remarkable science</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-04119-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Personalized ranges for blood-test results enable precision diagnostics</title>
-                <link>https://www.nature.com/articles/d41586-024-03854-9</link>
-                <description>In medicine, a person’s blood-test results are compared with the average range in a population. But results are highly individual and tightly regulated around a person’s own stable values. Changes to these values can indicate disease.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In medicine, a person’s blood-test results are compared with the average range in a population. But results are highly individual and tightly regulated around a person’s own stable values. Changes to these values can indicate disease.</p></div>]]></content:encoded>
-                <pubDate>2024-12-11</pubDate>
-                <dc:creator>Steven J. R. Meex</dc:creator>
-                <dc:creator>Kristin Moberg Aakre</dc:creator>
-                <dc:date>2024-12-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Personalized ranges for blood-test results enable precision diagnostics</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03854-9</dc:identifier>
             </item>
         
             <item>
@@ -175,6 +175,20 @@
             </item>
         
             <item>
+                <title>Personalized ranges for blood-test results enable precision diagnostics</title>
+                <link>https://www.nature.com/articles/d41586-024-03854-9</link>
+                <description>In medicine, a person’s blood-test results are compared with the average range in a population. But results are highly individual and tightly regulated around a person’s own stable values. Changes to these values can indicate disease.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In medicine, a person’s blood-test results are compared with the average range in a population. But results are highly individual and tightly regulated around a person’s own stable values. Changes to these values can indicate disease.</p></div>]]></content:encoded>
+                <pubDate>2024-12-11</pubDate>
+                <dc:creator>Steven J. R. Meex</dc:creator>
+                <dc:creator>Kristin Moberg Aakre</dc:creator>
+                <dc:date>2024-12-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Personalized ranges for blood-test results enable precision diagnostics</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-03854-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Is the telescope pointing the right way?</title>
                 <link>https://www.nature.com/articles/d41586-024-03859-4</link>
                 <description>This week’s excerpts from Nature’s archive feature reviews of a visit to the Lick Observatory in California and a children’s adaptation of a book on anthropology.</description>
@@ -226,19 +240,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Pregnancy restructures the brain to prepare for childbirth and parenthood</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-03942-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Bird-inspired leg enables robots to jump into flight</title>
-                <link>https://www.nature.com/articles/d41586-024-03845-w</link>
-                <description>A bird’s ability to transition swiftly from walking to flying has been emulated in the design of a simple robotic leg. The feat is a win for drone design, and one that could reveal why some birds’ legs make up so large a fraction of their weight.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A bird’s ability to transition swiftly from walking to flying has been emulated in the design of a simple robotic leg. The feat is a win for drone design, and one that could reveal why some birds’ legs make up so large a fraction of their weight.</p></div>]]></content:encoded>
-                <pubDate>2024-12-04</pubDate>
-                <dc:creator>Aimy A. Wissa</dc:creator>
-                <dc:date>2024-12-04</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Bird-inspired leg enables robots to jump into flight</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03845-w</dc:identifier>
             </item>
         
             <item>
