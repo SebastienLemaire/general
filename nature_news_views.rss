@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Did Pluto ‘kiss and capture’ its largest moon?</title>
+                <link>https://www.nature.com/articles/d41586-025-00034-1</link>
+                <description>Cutting-edge simulations reveal a new potential mechanism by which Pluto trapped its biggest satellite, Charon.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cutting-edge simulations reveal a new potential mechanism by which Pluto trapped its biggest satellite, Charon.</p></div>]]></content:encoded>
+                <pubDate>2025-01-13</pubDate>
+                <dc:creator>Andrew Mitchinson</dc:creator>
+                <dc:date>2025-01-13</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Did Pluto ‘kiss and capture’ its largest moon?</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00034-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Boosting cargo turnover with receptor mobility</title>
                 <link>https://www.nature.com/articles/s41556-024-01576-8</link>
                 <description>The clearance of biomacromolecules through selective autophagy is crucial for cellular homeostasis. A study now identifies receptor mobility as a key factor influencing cargo degradability. A dynamic cargo–receptor surface enables phase separation of essential autophagy initiation proteins, which drives phagophore formation.</description>
@@ -82,6 +95,20 @@
             </item>
         
             <item>
+                <title>Circadian rhythms are set by epigenetic marks in neurons</title>
+                <link>https://www.nature.com/articles/d41586-024-04080-z</link>
+                <description>Chemicals derived from neurotransmitter molecules in the brain can act as epigenetic marks on histone proteins to regulate gene expression. These marks control circadian clock genes and influence behaviour.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Chemicals derived from neurotransmitter molecules in the brain can act as epigenetic marks on histone proteins to regulate gene expression. These marks control circadian clock genes and influence behaviour.</p></div>]]></content:encoded>
+                <pubDate>2025-01-08</pubDate>
+                <dc:creator>Debosmita Sardar</dc:creator>
+                <dc:creator>Tatiana G. Kutateladze</dc:creator>
+                <dc:date>2025-01-08</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Circadian rhythms are set by epigenetic marks in neurons</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04080-z</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Misshapen chromosomes in check by mechanics</title>
                 <link>https://www.nature.com/articles/s41556-024-01573-x</link>
                 <description>Errors in chromosome segregation during cell division lead to changes in nuclear features. A study now shows that a mechanosensitive nuclear checkpoint activates the tumour suppressor p53 to halt the proliferation of aneuploid cells. These findings provide mechanistic insights to explore in both ageing and cancer pathologies.</description>
@@ -94,20 +121,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Misshapen chromosomes in check by mechanics</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01573-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Circadian rhythms are set by epigenetic marks in neurons</title>
-                <link>https://www.nature.com/articles/d41586-024-04080-z</link>
-                <description>Chemicals derived from neurotransmitter molecules in the brain can act as epigenetic marks on histone proteins to regulate gene expression. These marks control circadian clock genes and influence behaviour.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Chemicals derived from neurotransmitter molecules in the brain can act as epigenetic marks on histone proteins to regulate gene expression. These marks control circadian clock genes and influence behaviour.</p></div>]]></content:encoded>
-                <pubDate>2025-01-08</pubDate>
-                <dc:creator>Debosmita Sardar</dc:creator>
-                <dc:creator>Tatiana G. Kutateladze</dc:creator>
-                <dc:date>2025-01-08</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Circadian rhythms are set by epigenetic marks in neurons</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-04080-z</dc:identifier>
             </item>
         
             <item>
@@ -234,19 +247,6 @@
             </item>
         
             <item>
-                <title>Direct fabrication of lasers on silicon suggests solution to chip-production problem</title>
-                <link>https://www.nature.com/articles/d41586-024-04104-8</link>
-                <description>The lack of methods for preparing miniature lasers directly on silicon wafers is holding back photonic technology in a range of applications, including machine learning. The solution could be to construct lasers in nanoscale trenches.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The lack of methods for preparing miniature lasers directly on silicon wafers is holding back photonic technology in a range of applications, including machine learning. The solution could be to construct lasers in nanoscale trenches.</p></div>]]></content:encoded>
-                <pubDate>2025-01-01</pubDate>
-                <dc:creator>Brian Corbett</dc:creator>
-                <dc:date>2025-01-01</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Direct fabrication of lasers on silicon suggests solution to chip-production problem</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-04104-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Light turns tiny crystals into force sensors</title>
                 <link>https://www.nature.com/articles/d41586-024-04103-9</link>
                 <description>Two studies show that the light emitted by nanocrystals embedded with luminescent ions can be used to sense forces with high spatial resolution — even when those forces are inside a microscopic living worm.</description>
@@ -257,6 +257,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Light turns tiny crystals into force sensors</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-04103-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Direct fabrication of lasers on silicon suggests solution to chip-production problem</title>
+                <link>https://www.nature.com/articles/d41586-024-04104-8</link>
+                <description>The lack of methods for preparing miniature lasers directly on silicon wafers is holding back photonic technology in a range of applications, including machine learning. The solution could be to construct lasers in nanoscale trenches.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The lack of methods for preparing miniature lasers directly on silicon wafers is holding back photonic technology in a range of applications, including machine learning. The solution could be to construct lasers in nanoscale trenches.</p></div>]]></content:encoded>
+                <pubDate>2025-01-01</pubDate>
+                <dc:creator>Brian Corbett</dc:creator>
+                <dc:date>2025-01-01</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Direct fabrication of lasers on silicon suggests solution to chip-production problem</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04104-8</dc:identifier>
             </item>
         
             <item>
@@ -363,20 +376,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Green steel, thunderstorms and next-generation gene editing: a year of remarkable science</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-04119-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Lipid-delivery system could treat life-threatening pregnancy complication</title>
-                <link>https://www.nature.com/articles/d41586-024-03853-w</link>
-                <description>Pre-eclampsia is a common and dangerous pregnancy-related illness. Using tiny lipid particles to deliver messenger RNA directly to the placenta to boost blood-vessel function might prove to be an effective treatment.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pre-eclampsia is a common and dangerous pregnancy-related illness. Using tiny lipid particles to deliver messenger RNA directly to the placenta to boost blood-vessel function might prove to be an effective treatment.</p></div>]]></content:encoded>
-                <pubDate>2024-12-11</pubDate>
-                <dc:creator>Ravi Thadhani</dc:creator>
-                <dc:creator>S. Ananth Karumanchi</dc:creator>
-                <dc:date>2024-12-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Lipid-delivery system could treat life-threatening pregnancy complication</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03853-w</dc:identifier>
             </item>
         
             <item>
