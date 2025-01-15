@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Mitotic lethality prevents inflammation</title>
+                <link>https://www.nature.com/articles/s41556-024-01529-1</link>
+                <description>A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</p></div>]]></content:encoded>
+                <pubDate>2025-01-14</pubDate>
+                <dc:creator>Christian Zierhut</dc:creator>
+                <dc:creator>Andreas Villunger</dc:creator>
+                <dc:date>2025-01-14</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Mitotic lethality prevents inflammation</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01529-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The scientific reason to cook with simmering rather than vigorously boiling water</title>
+                <link>https://www.nature.com/articles/d41586-025-00061-y</link>
+                <description>An energy-efficient lesson for the kitchen that is still relevant 150 years later, and the automation of long-distance communication by telephone or text gathers pace, in our weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An energy-efficient lesson for the kitchen that is still relevant 150 years later, and the automation of long-distance communication by telephone or text gathers pace, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2025-01-14</pubDate>
+                
+                <dc:date>2025-01-14</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The scientific reason to cook with simmering rather than vigorously boiling water</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00061-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Did Pluto ‘kiss and capture’ its largest moon?</title>
                 <link>https://www.nature.com/articles/d41586-025-00034-1</link>
                 <description>Cutting-edge simulations reveal a new potential mechanism by which Pluto trapped its biggest satellite, Charon.</description>
@@ -247,19 +274,6 @@
             </item>
         
             <item>
-                <title>Light turns tiny crystals into force sensors</title>
-                <link>https://www.nature.com/articles/d41586-024-04103-9</link>
-                <description>Two studies show that the light emitted by nanocrystals embedded with luminescent ions can be used to sense forces with high spatial resolution — even when those forces are inside a microscopic living worm.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two studies show that the light emitted by nanocrystals embedded with luminescent ions can be used to sense forces with high spatial resolution — even when those forces are inside a microscopic living worm.</p></div>]]></content:encoded>
-                <pubDate>2025-01-01</pubDate>
-                <dc:creator>Andries Meijerink</dc:creator>
-                <dc:date>2025-01-01</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Light turns tiny crystals into force sensors</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-04103-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Direct fabrication of lasers on silicon suggests solution to chip-production problem</title>
                 <link>https://www.nature.com/articles/d41586-024-04104-8</link>
                 <description>The lack of methods for preparing miniature lasers directly on silicon wafers is holding back photonic technology in a range of applications, including machine learning. The solution could be to construct lasers in nanoscale trenches.</description>
@@ -270,6 +284,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Direct fabrication of lasers on silicon suggests solution to chip-production problem</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-04104-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Light turns tiny crystals into force sensors</title>
+                <link>https://www.nature.com/articles/d41586-024-04103-9</link>
+                <description>Two studies show that the light emitted by nanocrystals embedded with luminescent ions can be used to sense forces with high spatial resolution — even when those forces are inside a microscopic living worm.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two studies show that the light emitted by nanocrystals embedded with luminescent ions can be used to sense forces with high spatial resolution — even when those forces are inside a microscopic living worm.</p></div>]]></content:encoded>
+                <pubDate>2025-01-01</pubDate>
+                <dc:creator>Andries Meijerink</dc:creator>
+                <dc:date>2025-01-01</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Light turns tiny crystals into force sensors</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04103-9</dc:identifier>
             </item>
         
             <item>
@@ -376,20 +403,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Green steel, thunderstorms and next-generation gene editing: a year of remarkable science</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-04119-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A lipid made by tumour cells reprograms immune cells</title>
-                <link>https://www.nature.com/articles/d41586-024-03855-8</link>
-                <description>Cancer cells often become unresponsive to multiple types of therapy. It emerges that these ‘cross-resistant’ tumour cells release lipids that reprogram cells called monocytes to stop them from activating tumour-targeting T cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cancer cells often become unresponsive to multiple types of therapy. It emerges that these ‘cross-resistant’ tumour cells release lipids that reprogram cells called monocytes to stop them from activating tumour-targeting T cells.</p></div>]]></content:encoded>
-                <pubDate>2024-12-11</pubDate>
-                <dc:creator>Anthony C. Buzzai</dc:creator>
-                <dc:creator>Thomas Tüting</dc:creator>
-                <dc:date>2024-12-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>A lipid made by tumour cells reprograms immune cells</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-03855-8</dc:identifier>
             </item>
         
             <item>
@@ -630,6 +643,19 @@
             </item>
         
             <item>
+                <title>Building the epigenetic fortress with PRC2.2</title>
+                <link>https://www.nature.com/articles/s41556-024-01551-3</link>
+                <description>How heterochromatin is established de novo in early embryos is unknown. A study now shows that the sequential recruitment of the key regulator JARID2 recruits PRC2.2 to H2AK119ub and ensures proper H3K27me2/3 deposition. This prevents premature enhancer activation, which is crucial for gene regulation and lineage specification.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How heterochromatin is established de novo in early embryos is unknown. A study now shows that the sequential recruitment of the key regulator JARID2 recruits PRC2.2 to H2AK119ub and ensures proper H3K27me2/3 deposition. This prevents premature enhancer activation, which is crucial for gene regulation and lineage specification.</p></div>]]></content:encoded>
+                <pubDate>2024-10-31</pubDate>
+                <dc:creator>Fides Zenk</dc:creator>
+                <dc:date>2024-10-31</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Building the epigenetic fortress with PRC2.2</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01551-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Uncovering cell cycle speed modulations with statistical inference</title>
                 <link>https://www.nature.com/articles/s41592-024-02484-3</link>
                 <description>A Bayesian inference framework improves RNA velocity estimates to make them more coherent and biologically interpretable.</description>
@@ -641,19 +667,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Uncovering cell cycle speed modulations with statistical inference</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02484-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Building the epigenetic fortress with PRC2.2</title>
-                <link>https://www.nature.com/articles/s41556-024-01551-3</link>
-                <description>How heterochromatin is established de novo in early embryos is unknown. A study now shows that the sequential recruitment of the key regulator JARID2 recruits PRC2.2 to H2AK119ub and ensures proper H3K27me2/3 deposition. This prevents premature enhancer activation, which is crucial for gene regulation and lineage specification.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How heterochromatin is established de novo in early embryos is unknown. A study now shows that the sequential recruitment of the key regulator JARID2 recruits PRC2.2 to H2AK119ub and ensures proper H3K27me2/3 deposition. This prevents premature enhancer activation, which is crucial for gene regulation and lineage specification.</p></div>]]></content:encoded>
-                <pubDate>2024-10-31</pubDate>
-                <dc:creator>Fides Zenk</dc:creator>
-                <dc:date>2024-10-31</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Building the epigenetic fortress with PRC2.2</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01551-3</dc:identifier>
             </item>
         
             <item>
@@ -850,21 +863,6 @@
             </item>
         
             <item>
-                <title>RNAs kiss and translate in germ granules</title>
-                <link>https://www.nature.com/articles/s41556-024-01502-y</link>
-                <description>The assembly of germ granules remains unknown, but recent attention to the role of RNA structure in membrane-less organelle assembly is changing our understanding of RNAs in the cell. Two studies now show how RNA–RNA interactions drive germ granule assembly and how germ granules spatially regulate embryonic mRNA translation.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The assembly of germ granules remains unknown, but recent attention to the role of RNA structure in membrane-less organelle assembly is changing our understanding of RNAs in the cell. Two studies now show how RNA–RNA interactions drive germ granule assembly and how germ granules spatially regulate embryonic mRNA translation.</p></div>]]></content:encoded>
-                <pubDate>2024-10-01</pubDate>
-                <dc:creator>Ameya P. Jalihal</dc:creator>
-                <dc:creator>Zachary M. Geisterfer</dc:creator>
-                <dc:creator>Amy S. Gladfelter</dc:creator>
-                <dc:date>2024-10-01</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>RNAs kiss and translate in germ granules</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01502-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The inconvenient reality of AI-assisted embryo selection in IVF</title>
                 <link>https://www.nature.com/articles/s41591-024-03289-9</link>
                 <description>Artificial intelligence is being hyped for its potential to revolutionize assisted reproduction, including embryo selection — but a new study reveals that the inflated expectations of new technologies are not always justified.</description>
@@ -877,6 +875,21 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The inconvenient reality of AI-assisted embryo selection in IVF</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03289-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>RNAs kiss and translate in germ granules</title>
+                <link>https://www.nature.com/articles/s41556-024-01502-y</link>
+                <description>The assembly of germ granules remains unknown, but recent attention to the role of RNA structure in membrane-less organelle assembly is changing our understanding of RNAs in the cell. Two studies now show how RNA–RNA interactions drive germ granule assembly and how germ granules spatially regulate embryonic mRNA translation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The assembly of germ granules remains unknown, but recent attention to the role of RNA structure in membrane-less organelle assembly is changing our understanding of RNAs in the cell. Two studies now show how RNA–RNA interactions drive germ granule assembly and how germ granules spatially regulate embryonic mRNA translation.</p></div>]]></content:encoded>
+                <pubDate>2024-10-01</pubDate>
+                <dc:creator>Ameya P. Jalihal</dc:creator>
+                <dc:creator>Zachary M. Geisterfer</dc:creator>
+                <dc:creator>Amy S. Gladfelter</dc:creator>
+                <dc:date>2024-10-01</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>RNAs kiss and translate in germ granules</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01502-y</dc:identifier>
             </item>
         
             <item>
@@ -1433,20 +1446,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Translational control by VARS in melanoma</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01430-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>TCF3, TCF12 and distinct enhancers regulate oocyte transcription</title>
-                <link>https://www.nature.com/articles/s41556-024-01433-8</link>
-                <description>Oocyte development involves the prolonged and intricate process of building a distinctive transcriptome and epigenome to anticipate embryogenesis after fertilization. Research now shows that mouse oocytes use an unusual chromatin signature to mark regulatory elements, and that the transcription factors TCF3 and TCF12 have a key role.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Oocyte development involves the prolonged and intricate process of building a distinctive transcriptome and epigenome to anticipate embryogenesis after fertilization. Research now shows that mouse oocytes use an unusual chromatin signature to mark regulatory elements, and that the transcription factors TCF3 and TCF12 have a key role.</p></div>]]></content:encoded>
-                <pubDate>2024-06-05</pubDate>
-                <dc:creator>Qiqi Cao</dc:creator>
-                <dc:creator>Edward J. Grow</dc:creator>
-                <dc:date>2024-06-05</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>TCF3, TCF12 and distinct enhancers regulate oocyte transcription</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01433-8</dc:identifier>
             </item>
         
             <item>
