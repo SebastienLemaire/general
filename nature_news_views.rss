@@ -13,17 +13,30 @@
             <ttl>120</ttl>
     
             <item>
-                <title>Mitotic lethality prevents inflammation</title>
-                <link>https://www.nature.com/articles/s41556-024-01529-1</link>
-                <description>A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</p></div>]]></content:encoded>
-                <pubDate>2025-01-14</pubDate>
-                <dc:creator>Christian Zierhut</dc:creator>
-                <dc:creator>Andreas Villunger</dc:creator>
-                <dc:date>2025-01-14</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Mitotic lethality prevents inflammation</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01529-1</dc:identifier>
+                <title>Imaging reveals how plants cope with salt</title>
+                <link>https://www.nature.com/articles/d41586-024-04213-4</link>
+                <description>A groundbreaking imaging method for tracking salt inside plant cells has rewritten knowledge of how roots handle toxic levels of sodium ions. The findings might aid efforts to boost plant resilience to stress driven by high levels of salt.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking imaging method for tracking salt inside plant cells has rewritten knowledge of how roots handle toxic levels of sodium ions. The findings might aid efforts to boost plant resilience to stress driven by high levels of salt.</p></div>]]></content:encoded>
+                <pubDate>2025-01-15</pubDate>
+                <dc:creator>Christa Testerink</dc:creator>
+                <dc:creator>Antony van der Ent</dc:creator>
+                <dc:date>2025-01-15</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Imaging reveals how plants cope with salt</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04213-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Women were at the centre of social networks in Iron Age Britain</title>
+                <link>https://www.nature.com/articles/d41586-024-04214-3</link>
+                <description>Evidence from 2,000-year-old DNA reveals that women in Celtic society stayed in their ancestral communities after marriage, whereas men were mobile, and that the southern coast of Britain was a hotspot for cultural exchange.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Evidence from 2,000-year-old DNA reveals that women in Celtic society stayed in their ancestral communities after marriage, whereas men were mobile, and that the southern coast of Britain was a hotspot for cultural exchange.</p></div>]]></content:encoded>
+                <pubDate>2025-01-15</pubDate>
+                <dc:creator>Guido Alberto Gnecchi-Ruscone</dc:creator>
+                <dc:date>2025-01-15</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Women were at the centre of social networks in Iron Age Britain</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04214-3</dc:identifier>
             </item>
         
             <item>
@@ -37,6 +50,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>The scientific reason to cook with simmering rather than vigorously boiling water</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00061-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mitotic lethality prevents inflammation</title>
+                <link>https://www.nature.com/articles/s41556-024-01529-1</link>
+                <description>A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</p></div>]]></content:encoded>
+                <pubDate>2025-01-14</pubDate>
+                <dc:creator>Christian Zierhut</dc:creator>
+                <dc:creator>Andreas Villunger</dc:creator>
+                <dc:date>2025-01-14</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Mitotic lethality prevents inflammation</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01529-1</dc:identifier>
             </item>
         
             <item>
@@ -136,6 +163,20 @@
             </item>
         
             <item>
+                <title>Electrochemical synthesis goes wireless</title>
+                <link>https://www.nature.com/articles/d41586-024-04106-6</link>
+                <description>Electrochemical reactions for organic synthesis typically require intricate, specialized equipment, slowing progress in this field. Minuscule electric generators now enable faster reaction discovery and development.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Electrochemical reactions for organic synthesis typically require intricate, specialized equipment, slowing progress in this field. Minuscule electric generators now enable faster reaction discovery and development.</p></div>]]></content:encoded>
+                <pubDate>2025-01-08</pubDate>
+                <dc:creator>Thomas M. O’Brien</dc:creator>
+                <dc:creator>Alastair J. J. Lennox</dc:creator>
+                <dc:date>2025-01-08</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Electrochemical synthesis goes wireless</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04106-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Misshapen chromosomes in check by mechanics</title>
                 <link>https://www.nature.com/articles/s41556-024-01573-x</link>
                 <description>Errors in chromosome segregation during cell division lead to changes in nuclear features. A study now shows that a mechanosensitive nuclear checkpoint activates the tumour suppressor p53 to halt the proliferation of aneuploid cells. These findings provide mechanistic insights to explore in both ageing and cancer pathologies.</description>
@@ -148,20 +189,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Misshapen chromosomes in check by mechanics</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01573-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Electrochemical synthesis goes wireless</title>
-                <link>https://www.nature.com/articles/d41586-024-04106-6</link>
-                <description>Electrochemical reactions for organic synthesis typically require intricate, specialized equipment, slowing progress in this field. Minuscule electric generators now enable faster reaction discovery and development.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Electrochemical reactions for organic synthesis typically require intricate, specialized equipment, slowing progress in this field. Minuscule electric generators now enable faster reaction discovery and development.</p></div>]]></content:encoded>
-                <pubDate>2025-01-08</pubDate>
-                <dc:creator>Thomas M. O’Brien</dc:creator>
-                <dc:creator>Alastair J. J. Lennox</dc:creator>
-                <dc:date>2025-01-08</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Electrochemical synthesis goes wireless</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-04106-6</dc:identifier>
             </item>
         
             <item>
@@ -377,32 +404,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Sea ice is shrinking during Antarctic winter: here’s what it means for Earth’s oceans and atmosphere</dc:title>
                 <dc:identifier>doi:doi.org/d41586-024-04078-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Animals in sticky situations</title>
-                <link>https://www.nature.com/articles/d41586-024-04121-7</link>
-                <description>Descriptions of different creatures’ attachment mechanisms, and muddy banks of calm in the Indian Ocean, in our weekly dip into Nature’s archive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Descriptions of different creatures’ attachment mechanisms, and muddy banks of calm in the Indian Ocean, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
-                <pubDate>2024-12-17</pubDate>
-                
-                <dc:date>2024-12-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Animals in sticky situations</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-04121-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Green steel, thunderstorms and next-generation gene editing: a year of remarkable science</title>
-                <link>https://www.nature.com/articles/d41586-024-04119-1</link>
-                <description>Highlights from News & Views published in 2024.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Highlights from News & Views published in 2024.</p></div>]]></content:encoded>
-                <pubDate>2024-12-16</pubDate>
-                
-                <dc:date>2024-12-16</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Green steel, thunderstorms and next-generation gene editing: a year of remarkable science</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-04119-1</dc:identifier>
             </item>
         
             <item>
