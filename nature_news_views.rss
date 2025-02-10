@@ -13,6 +13,74 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</title>
+                <link>https://www.nature.com/articles/s41591-025-03510-3</link>
+                <description>A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Rozalyn Chok</dc:creator>
+                <dc:creator>Sneha Ramakrishna</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03510-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A new gut–brain therapeutic target for hepatic encephalopathy</title>
+                <link>https://www.nature.com/articles/s41591-024-03467-9</link>
+                <description>New evidence suggests that Ruminococcus gnavus in the gut induces monoamine synthesis and neurotoxicity in some patients with cirrhosis, causing hepatic encephalopathy — revealing a possible therapeutic target or predictive biomarker for this understudied condition.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New evidence suggests that Ruminococcus gnavus in the gut induces monoamine synthesis and neurotoxicity in some patients with cirrhosis, causing hepatic encephalopathy — revealing a possible therapeutic target or predictive biomarker for this understudied condition.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Patricia P. Bloom</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>A new gut–brain therapeutic target for hepatic encephalopathy</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03467-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Regulating MYC translation in cancer</title>
+                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
+                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Zainab Hussain</dc:creator>
+                <dc:creator>Mara H. Sherman</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Regulating MYC translation in cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The visible and hidden mortality caused by flooding</title>
+                <link>https://www.nature.com/articles/s41591-025-03491-3</link>
+                <description>A study advances our understanding of how different flood events affect direct and indirect causes of mortality — providing useful insights for disaster response and preparedness.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study advances our understanding of how different flood events affect direct and indirect causes of mortality — providing useful insights for disaster response and preparedness.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Andrew P. Morse</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The visible and hidden mortality caused by flooding</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03491-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Unveiling heterogeneity in rare cells by combining RNA-based sorting and scRNA-seq</title>
+                <link>https://www.nature.com/articles/s41588-024-02073-2</link>
+                <description>A study describes the development of PERFF-seq, a method to ‘FISH’ out rare cells using RNA markers, helping to solve the challenge in single-cell biology of studying cells that make up less than 1% of a sample.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study describes the development of PERFF-seq, a method to ‘FISH’ out rare cells using RNA markers, helping to solve the challenge in single-cell biology of studying cells that make up less than 1% of a sample.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Madison Wahlsten</dc:creator>
+                <dc:creator>Sydney M. Shaffer</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Unveiling heterogeneity in rare cells by combining RNA-based sorting and scRNA-seq</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-02073-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Genetic and geographical origins of Eurasia’s influential Yamna culture</title>
                 <link>https://www.nature.com/articles/d41586-025-00089-0</link>
                 <description>Ancient genomes from modern Ukraine and Russia reveal the origins of the Yamna people, pastoralists who migrated from the Eurasian steppe to Europe 5,000 years ago, spreading their ancestry, culture and, probably, language.</description>
@@ -109,19 +177,6 @@
             </item>
         
             <item>
-                <title>Pseudouridine is the hidden language of plant RNA translation</title>
-                <link>https://www.nature.com/articles/s41477-025-01926-w</link>
-                <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</p></div>]]></content:encoded>
-                <pubDate>2025-02-03</pubDate>
-                <dc:creator>Patricia Baldrich</dc:creator>
-                <dc:date>2025-02-03</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
-                <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Not the end of the road for macrophage therapy in liver cirrhosis</title>
                 <link>https://www.nature.com/articles/s41591-025-03490-4</link>
                 <description>A phase 2 trial of autologous macrophage therapy falls just short of meeting its primary endpoint of improving prognosis, but it is too soon to dismiss this approach; further research and protocol optimization should yield more definitive results.</description>
@@ -132,6 +187,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Not the end of the road for macrophage therapy in liver cirrhosis</dc:title>
                 <dc:identifier>doi:doi.org/s41591-025-03490-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pseudouridine is the hidden language of plant RNA translation</title>
+                <link>https://www.nature.com/articles/s41477-025-01926-w</link>
+                <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</p></div>]]></content:encoded>
+                <pubDate>2025-02-03</pubDate>
+                <dc:creator>Patricia Baldrich</dc:creator>
+                <dc:date>2025-02-03</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
             </item>
         
             <item>
@@ -479,20 +547,6 @@
             </item>
         
             <item>
-                <title>Speckle signatures dictate cancer prognosis</title>
-                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
-                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
-                <pubDate>2025-01-03</pubDate>
-                <dc:creator>Hiro Takakuwa</dc:creator>
-                <dc:creator>Tetsuro Hirose</dc:creator>
-                <dc:date>2025-01-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Setting sights on a single-shot malaria vaccine</title>
                 <link>https://www.nature.com/articles/s41591-024-03427-3</link>
                 <description>In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</description>
@@ -504,6 +558,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Setting sights on a single-shot malaria vaccine</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03427-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Speckle signatures dictate cancer prognosis</title>
+                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
+                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
+                <pubDate>2025-01-03</pubDate>
+                <dc:creator>Hiro Takakuwa</dc:creator>
+                <dc:creator>Tetsuro Hirose</dc:creator>
+                <dc:date>2025-01-03</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
             </item>
         
             <item>
@@ -547,19 +615,6 @@
             </item>
         
             <item>
-                <title>Single-molecule DNA dynamics with graphene energy transfer</title>
-                <link>https://www.nature.com/articles/s41592-024-02560-8</link>
-                <description>Graphene energy transfer (GET) can be used to measure the distance between a graphene surface and a fluorescent dye. A new strategy for attaching DNA in a controlled orientation onto graphene now makes it possible to use GET to track the dynamics of DNA and protein–DNA interactions with base-pair resolution.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Graphene energy transfer (GET) can be used to measure the distance between a graphene surface and a fluorescent dye. A new strategy for attaching DNA in a controlled orientation onto graphene now makes it possible to use GET to track the dynamics of DNA and protein–DNA interactions with base-pair resolution.</p></div>]]></content:encoded>
-                <pubDate>2024-12-10</pubDate>
-                <dc:creator>Pallav Kosuri</dc:creator>
-                <dc:date>2024-12-10</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Single-molecule DNA dynamics with graphene energy transfer</dc:title>
-                <dc:identifier>doi:doi.org/s41592-024-02560-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Spatial biology captures the effects of neoadjuvant chemo-immunotherapy in lung cancer</title>
                 <link>https://www.nature.com/articles/s41588-024-01992-4</link>
                 <description>PD-1 pathway blockade in combination with chemotherapy has emerged as a treatment paradigm for patients with resectable lung cancer, but insights into predictive biomarkers and mechanisms of immune responses are lacking. A study uses spatial transcriptomic methods to identify patterns within the tumor microenvironment associated with response.</description>
@@ -571,6 +626,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Spatial biology captures the effects of neoadjuvant chemo-immunotherapy in lung cancer</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01992-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Single-molecule DNA dynamics with graphene energy transfer</title>
+                <link>https://www.nature.com/articles/s41592-024-02560-8</link>
+                <description>Graphene energy transfer (GET) can be used to measure the distance between a graphene surface and a fluorescent dye. A new strategy for attaching DNA in a controlled orientation onto graphene now makes it possible to use GET to track the dynamics of DNA and protein–DNA interactions with base-pair resolution.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Graphene energy transfer (GET) can be used to measure the distance between a graphene surface and a fluorescent dye. A new strategy for attaching DNA in a controlled orientation onto graphene now makes it possible to use GET to track the dynamics of DNA and protein–DNA interactions with base-pair resolution.</p></div>]]></content:encoded>
+                <pubDate>2024-12-10</pubDate>
+                <dc:creator>Pallav Kosuri</dc:creator>
+                <dc:date>2024-12-10</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Single-molecule DNA dynamics with graphene energy transfer</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02560-8</dc:identifier>
             </item>
         
             <item>
@@ -838,6 +906,19 @@
             </item>
         
             <item>
+                <title>Cryo-electron microscopy in color</title>
+                <link>https://www.nature.com/articles/s41592-024-02427-y</link>
+                <description>Cryo-electron microscopy with energy resolution, using the EELS-STEM method, allows researchers to identify the approximate locations of certain heavier atoms within single frozen, hydrated protein particles.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cryo-electron microscopy with energy resolution, using the EELS-STEM method, allows researchers to identify the approximate locations of certain heavier atoms within single frozen, hydrated protein particles.</p></div>]]></content:encoded>
+                <pubDate>2024-10-24</pubDate>
+                <dc:creator>Henning Stahlberg</dc:creator>
+                <dc:date>2024-10-24</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Cryo-electron microscopy in color</dc:title>
+                <dc:identifier>doi:doi.org/s41592-024-02427-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>An explainable foundation model for drug repurposing</title>
                 <link>https://www.nature.com/articles/s41591-024-03333-8</link>
                 <description>A foundation model leverages large-scale medical knowledge to repurpose drugs for diseases that currently lack approved treatments, and provides explanations to support clinicians’ decisions.</description>
@@ -849,19 +930,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>An explainable foundation model for drug repurposing</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03333-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Cryo-electron microscopy in color</title>
-                <link>https://www.nature.com/articles/s41592-024-02427-y</link>
-                <description>Cryo-electron microscopy with energy resolution, using the EELS-STEM method, allows researchers to identify the approximate locations of certain heavier atoms within single frozen, hydrated protein particles.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cryo-electron microscopy with energy resolution, using the EELS-STEM method, allows researchers to identify the approximate locations of certain heavier atoms within single frozen, hydrated protein particles.</p></div>]]></content:encoded>
-                <pubDate>2024-10-24</pubDate>
-                <dc:creator>Henning Stahlberg</dc:creator>
-                <dc:date>2024-10-24</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Cryo-electron microscopy in color</dc:title>
-                <dc:identifier>doi:doi.org/s41592-024-02427-y</dc:identifier>
             </item>
         
             <item>
@@ -894,19 +962,6 @@
             </item>
         
             <item>
-                <title>Waste management and cell death in T cells</title>
-                <link>https://www.nature.com/articles/s41556-024-01538-0</link>
-                <description>After being activated, T lymphocytes must consume fuel for energy and biomaterials to sustain rapid proliferation and differentiation. As a consequence, waste is generated that must be managed. A new study now explores how activated CD8+ effector T cells handle ammonia, and how this impacts the survival and function of these cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">After being activated, T lymphocytes must consume fuel for energy and biomaterials to sustain rapid proliferation and differentiation. As a consequence, waste is generated that must be managed. A new study now explores how activated CD8+ effector T cells handle ammonia, and how this impacts the survival and function of these cells.</p></div>]]></content:encoded>
-                <pubDate>2024-10-16</pubDate>
-                <dc:creator>Douglas R. Green</dc:creator>
-                <dc:date>2024-10-16</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Waste management and cell death in T cells</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01538-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Now it’s getting bloody in cardiac organoids</title>
                 <link>https://www.nature.com/articles/s41556-024-01528-2</link>
                 <description>Modelling definitive haematopoiesis in organoids has been challenging. A study now develops blood-generating heart-forming organoids that display heart muscle, vascular endothelium formation and definitive haematopoiesis. This organoid represents an in vitro model of human embryonic circulatory system development.</description>
@@ -917,6 +972,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Now it’s getting bloody in cardiac organoids</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01528-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Waste management and cell death in T cells</title>
+                <link>https://www.nature.com/articles/s41556-024-01538-0</link>
+                <description>After being activated, T lymphocytes must consume fuel for energy and biomaterials to sustain rapid proliferation and differentiation. As a consequence, waste is generated that must be managed. A new study now explores how activated CD8+ effector T cells handle ammonia, and how this impacts the survival and function of these cells.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">After being activated, T lymphocytes must consume fuel for energy and biomaterials to sustain rapid proliferation and differentiation. As a consequence, waste is generated that must be managed. A new study now explores how activated CD8+ effector T cells handle ammonia, and how this impacts the survival and function of these cells.</p></div>]]></content:encoded>
+                <pubDate>2024-10-16</pubDate>
+                <dc:creator>Douglas R. Green</dc:creator>
+                <dc:date>2024-10-16</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Waste management and cell death in T cells</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01538-0</dc:identifier>
             </item>
         
             <item>
@@ -1060,17 +1128,16 @@
             </item>
         
             <item>
-                <title>Structural remodeling of the inactive X chromosome during early mouse development</title>
-                <link>https://www.nature.com/articles/s41588-024-01936-y</link>
-                <description>The mammalian inactive X chromosome shows unusual folding dominated by large-scale structures. A study finds a megadomain structure with a boundary at the Xist locus, preceding the well-known Dxz4-separated megadomains in somatic cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mammalian inactive X chromosome shows unusual folding dominated by large-scale structures. A study finds a megadomain structure with a boundary at the Xist locus, preceding the well-known Dxz4-separated megadomains in somatic cells.</p></div>]]></content:encoded>
+                <title>Context-specific targeting of the androgen receptor in prostate cancer</title>
+                <link>https://www.nature.com/articles/s41588-024-01935-z</link>
+                <description>A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</p></div>]]></content:encoded>
                 <pubDate>2024-09-27</pubDate>
-                <dc:creator>Edda G. Schulz</dc:creator>
-                <dc:creator>Alexandra Martitz</dc:creator>
+                <dc:creator>Cory Abate-Shen</dc:creator>
                 <dc:date>2024-09-27</dc:date>
                 <dc:source>Nature Genetics</dc:source>
-                <dc:title>Structural remodeling of the inactive X chromosome during early mouse development</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01936-y</dc:identifier>
+                <dc:title>Context-specific targeting of the androgen receptor in prostate cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01935-z</dc:identifier>
             </item>
         
             <item>
@@ -1087,16 +1154,17 @@
             </item>
         
             <item>
-                <title>Context-specific targeting of the androgen receptor in prostate cancer</title>
-                <link>https://www.nature.com/articles/s41588-024-01935-z</link>
-                <description>A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</p></div>]]></content:encoded>
+                <title>Structural remodeling of the inactive X chromosome during early mouse development</title>
+                <link>https://www.nature.com/articles/s41588-024-01936-y</link>
+                <description>The mammalian inactive X chromosome shows unusual folding dominated by large-scale structures. A study finds a megadomain structure with a boundary at the Xist locus, preceding the well-known Dxz4-separated megadomains in somatic cells.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mammalian inactive X chromosome shows unusual folding dominated by large-scale structures. A study finds a megadomain structure with a boundary at the Xist locus, preceding the well-known Dxz4-separated megadomains in somatic cells.</p></div>]]></content:encoded>
                 <pubDate>2024-09-27</pubDate>
-                <dc:creator>Cory Abate-Shen</dc:creator>
+                <dc:creator>Edda G. Schulz</dc:creator>
+                <dc:creator>Alexandra Martitz</dc:creator>
                 <dc:date>2024-09-27</dc:date>
                 <dc:source>Nature Genetics</dc:source>
-                <dc:title>Context-specific targeting of the androgen receptor in prostate cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01935-z</dc:identifier>
+                <dc:title>Structural remodeling of the inactive X chromosome during early mouse development</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01936-y</dc:identifier>
             </item>
         
             <item>
@@ -1142,20 +1210,6 @@
             </item>
         
             <item>
-                <title>Navigating treatment combinations in small-cell lung cancer</title>
-                <link>https://www.nature.com/articles/s41591-024-03255-5</link>
-                <description>The ETER701 trial demonstrates that a four-drug regimen, involving the addition of anti-angiogenesis therapy to immuno-chemotherapy, improves survival outcomes for extensive-stage small-cell lung cancer — but is more indeed better when it comes to treating this intractable disease?</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The ETER701 trial demonstrates that a four-drug regimen, involving the addition of anti-angiogenesis therapy to immuno-chemotherapy, improves survival outcomes for extensive-stage small-cell lung cancer — but is more indeed better when it comes to treating this intractable disease?</p></div>]]></content:encoded>
-                <pubDate>2024-09-18</pubDate>
-                <dc:creator>Ning Li</dc:creator>
-                <dc:creator>Si-Yu Wang</dc:creator>
-                <dc:date>2024-09-18</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Navigating treatment combinations in small-cell lung cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03255-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Improving primary healthcare with generative AI</title>
                 <link>https://www.nature.com/articles/s41591-024-03257-3</link>
                 <description>Studies in China show how large language models can improve primary healthcare systems, but equitably scaling this technology will require attention to rural, low-resource settings and the companion policies that support its implementation.</description>
@@ -1180,36 +1234,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Serial lift-out for in situ structural biology of multicellular specimens</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02317-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Advancing ASO therapies from development to implementation</title>
-                <link>https://www.nature.com/articles/s41591-024-03217-x</link>
-                <description>A novel application of antisense oligonucleotide (ASO) technology, developed to treat a single patient, adds to the growing number of ‘personalized’ therapies for rare diseases; but pathways to implementation and access are urgently needed.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A novel application of antisense oligonucleotide (ASO) technology, developed to treat a single patient, adds to the growing number of ‘personalized’ therapies for rare diseases; but pathways to implementation and access are urgently needed.</p></div>]]></content:encoded>
-                <pubDate>2024-09-13</pubDate>
-                <dc:creator>Rebecca Schuele</dc:creator>
-                <dc:creator>Matthis Synofzik</dc:creator>
-                <dc:creator>Annemieke Aartsma-Rus</dc:creator>
-                <dc:date>2024-09-13</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Advancing ASO therapies from development to implementation</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03217-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A global metric of immune health</title>
-                <link>https://www.nature.com/articles/s41591-024-03210-4</link>
-                <description>A study uses '-omics' and artificial intelligence to derive a metric that distinguishes normal immunity from its perturbation — and reveals that healthy immune systems are less alike than anticipated.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study uses '-omics' and artificial intelligence to derive a metric that distinguishes normal immunity from its perturbation — and reveals that healthy immune systems are less alike than anticipated.</p></div>]]></content:encoded>
-                <pubDate>2024-09-05</pubDate>
-                <dc:creator>Carola G. Vinuesa</dc:creator>
-                <dc:creator>Yuke He</dc:creator>
-                <dc:creator>Matthew C. Cook</dc:creator>
-                <dc:date>2024-09-05</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>A global metric of immune health</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03210-4</dc:identifier>
             </item>
         
             <item>
@@ -1242,19 +1266,6 @@
             </item>
         
             <item>
-                <title>A centromere’s obsession with transposons</title>
-                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
-                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
-                <pubDate>2024-09-02</pubDate>
-                <dc:creator>Leandro Quadrana</dc:creator>
-                <dc:date>2024-09-02</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A centromere’s obsession with transposons</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Activating the dark genome to illuminate cancer vaccine targets</title>
                 <link>https://www.nature.com/articles/s41588-024-01850-3</link>
                 <description>Epigenetic therapy triggers myriad transposable elements to generate new antigens that could prime tumor cells for immunotherapy. A study of glioblastoma discovers indiscriminate activation in healthy cells as well, and presents a more selective strategy for potential therapeutic targeting.</description>
@@ -1267,6 +1278,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Activating the dark genome to illuminate cancer vaccine targets</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01850-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A centromere’s obsession with transposons</title>
+                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
+                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
+                <pubDate>2024-09-02</pubDate>
+                <dc:creator>Leandro Quadrana</dc:creator>
+                <dc:date>2024-09-02</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A centromere’s obsession with transposons</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
             </item>
         
             <item>
@@ -1448,20 +1472,6 @@
             </item>
         
             <item>
-                <title>Built to be imperfect</title>
-                <link>https://www.nature.com/articles/s41556-024-01408-9</link>
-                <description>Transcription factors (TFs) and cis-regulatory elements (CREs) drive organism development. Suboptimal binding of TFs to CREs is shown to be key for the specificity of gene expression. New work now indicates that a similar principle governs the activities of TFs and their regulatory specificity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transcription factors (TFs) and cis-regulatory elements (CREs) drive organism development. Suboptimal binding of TFs to CREs is shown to be key for the specificity of gene expression. New work now indicates that a similar principle governs the activities of TFs and their regulatory specificity.</p></div>]]></content:encoded>
-                <pubDate>2024-07-05</pubDate>
-                <dc:creator>Jie Xu</dc:creator>
-                <dc:creator>Bing Ren</dc:creator>
-                <dc:date>2024-07-05</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Built to be imperfect</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01408-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>LINE1 mediates long-range DNA interactions</title>
                 <link>https://www.nature.com/articles/s41588-024-01824-5</link>
                 <description>The impact of transposable elements (TEs) on gene regulatory networks and how they are governed remain poorly understood. A new study identifies a role for LINE1, a specific subset of TEs, in the long-range regulation of gene expression, particularly during embryonic development.</description>
@@ -1501,19 +1511,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Driving evolution in wild plants</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01723-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An unexpected polyglycine route to spinocerebellar ataxia</title>
-                <link>https://www.nature.com/articles/s41588-024-01770-2</link>
-                <description>Trinucleotide repeat expansions, notably CAG repeats translated into toxic polyglutamine-containing proteins, are the leading cause of spinocerebellar ataxia (SCA). New work points to a GGC repeat expansion that encodes a polyglycine-containing protein as a cause of SCA4, highlighting polyglycine disorders as an emerging human genetic disease class.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Trinucleotide repeat expansions, notably CAG repeats translated into toxic polyglutamine-containing proteins, are the leading cause of spinocerebellar ataxia (SCA). New work points to a GGC repeat expansion that encodes a polyglycine-containing protein as a cause of SCA4, highlighting polyglycine disorders as an emerging human genetic disease class.</p></div>]]></content:encoded>
-                <pubDate>2024-05-29</pubDate>
-                <dc:creator>Nicolas Charlet-Berguerand</dc:creator>
-                <dc:date>2024-05-29</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>An unexpected polyglycine route to spinocerebellar ataxia</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01770-2</dc:identifier>
             </item>
         
             <item>
