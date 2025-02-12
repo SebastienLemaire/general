@@ -13,6 +13,33 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Thinking globally for pandemic early warning systems</title>
+                <link>https://www.nature.com/articles/s41591-024-03460-2</link>
+                <description>A modeling study highlights the benefits of a global aircraft-based wastewater surveillance network, but the best early warning system is likely to involve a combination of methodologies within an integrated, end-to-end bioinformatics pipeline.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A modeling study highlights the benefits of a global aircraft-based wastewater surveillance network, but the best early warning system is likely to involve a combination of methodologies within an integrated, end-to-end bioinformatics pipeline.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>C. Raina MacIntyre</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Thinking globally for pandemic early warning systems</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03460-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Uncovering the role of sleep on human health</title>
+                <link>https://www.nature.com/articles/s41591-025-03529-6</link>
+                <description>A large-scale, phenome-wide study enables a holistic view of the role of sleep on human health, highlighting its potential as a modifiable risk factor for chronic disease.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A large-scale, phenome-wide study enables a holistic view of the role of sleep on human health, highlighting its potential as a modifiable risk factor for chronic disease.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>Diego R. Mazzotti</dc:creator>
+                <dc:creator>Mason Manetta</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Uncovering the role of sleep on human health</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03529-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Ribophagy relies on Rpl12</title>
                 <link>https://www.nature.com/articles/s41556-024-01594-6</link>
                 <description>The selective destruction of ribosomal subunits through autophagy (‘ribophagy’) is crucial for maintaining cellular protein homeostasis under stress. Findings from various model systems highlight the conserved function of the Rpl12 protein in ribophagy, and show its importance in cellular health and the response to environmental stresses.</description>
@@ -67,20 +94,6 @@
             </item>
         
             <item>
-                <title>Regulating MYC translation in cancer</title>
-                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
-                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
-                <pubDate>2025-02-07</pubDate>
-                <dc:creator>Zainab Hussain</dc:creator>
-                <dc:creator>Mara H. Sherman</dc:creator>
-                <dc:date>2025-02-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Regulating MYC translation in cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>A new gut–brain therapeutic target for hepatic encephalopathy</title>
                 <link>https://www.nature.com/articles/s41591-024-03467-9</link>
                 <description>New evidence suggests that Ruminococcus gnavus in the gut induces monoamine synthesis and neurotoxicity in some patients with cirrhosis, causing hepatic encephalopathy — revealing a possible therapeutic target or predictive biomarker for this understudied condition.</description>
@@ -104,6 +117,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The visible and hidden mortality caused by flooding</dc:title>
                 <dc:identifier>doi:doi.org/s41591-025-03491-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Regulating MYC translation in cancer</title>
+                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
+                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Zainab Hussain</dc:creator>
+                <dc:creator>Mara H. Sherman</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Regulating MYC translation in cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
             </item>
         
             <item>
@@ -561,20 +588,6 @@
             </item>
         
             <item>
-                <title>Speckle signatures dictate cancer prognosis</title>
-                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
-                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
-                <pubDate>2025-01-03</pubDate>
-                <dc:creator>Hiro Takakuwa</dc:creator>
-                <dc:creator>Tetsuro Hirose</dc:creator>
-                <dc:date>2025-01-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Setting sights on a single-shot malaria vaccine</title>
                 <link>https://www.nature.com/articles/s41591-024-03427-3</link>
                 <description>In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</description>
@@ -586,6 +599,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Setting sights on a single-shot malaria vaccine</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03427-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Speckle signatures dictate cancer prognosis</title>
+                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
+                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
+                <pubDate>2025-01-03</pubDate>
+                <dc:creator>Hiro Takakuwa</dc:creator>
+                <dc:creator>Tetsuro Hirose</dc:creator>
+                <dc:date>2025-01-03</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
             </item>
         
             <item>
@@ -603,19 +630,6 @@
             </item>
         
             <item>
-                <title>Genetic insights into global heterogeneity of type 2 diabetes</title>
-                <link>https://www.nature.com/articles/s41591-024-03413-9</link>
-                <description>In people of South Asia ancestry, specific genetic mechanisms may drive diabetes development, as revealed by a new study offering insights into global diabetes heterogeneity and potential avenues toward precision medicine.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In people of South Asia ancestry, specific genetic mechanisms may drive diabetes development, as revealed by a new study offering insights into global diabetes heterogeneity and potential avenues toward precision medicine.</p></div>]]></content:encoded>
-                <pubDate>2025-01-02</pubDate>
-                <dc:creator>Miriam S. Udler</dc:creator>
-                <dc:date>2025-01-02</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Genetic insights into global heterogeneity of type 2 diabetes</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03413-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Lysozyme-coated LDHs boost trait control</title>
                 <link>https://www.nature.com/articles/s41477-024-01874-x</link>
                 <description>Coating RNA- or DNA-loaded layered double hydroxide nanosheets with lysozyme enhances their uptake by loosening the plant cell wall and stimulating endocytosis and membrane trafficking — with promising implications for both fundamental research and agricultural applications.</description>
@@ -626,6 +640,19 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Lysozyme-coated LDHs boost trait control</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01874-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Genetic insights into global heterogeneity of type 2 diabetes</title>
+                <link>https://www.nature.com/articles/s41591-024-03413-9</link>
+                <description>In people of South Asia ancestry, specific genetic mechanisms may drive diabetes development, as revealed by a new study offering insights into global diabetes heterogeneity and potential avenues toward precision medicine.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In people of South Asia ancestry, specific genetic mechanisms may drive diabetes development, as revealed by a new study offering insights into global diabetes heterogeneity and potential avenues toward precision medicine.</p></div>]]></content:encoded>
+                <pubDate>2025-01-02</pubDate>
+                <dc:creator>Miriam S. Udler</dc:creator>
+                <dc:date>2025-01-02</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Genetic insights into global heterogeneity of type 2 diabetes</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03413-9</dc:identifier>
             </item>
         
             <item>
@@ -1206,34 +1233,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Host physiology shapes the mutational landscape of normal and carcinogenic tissue</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01922-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Patient attitudes toward the AI doctor</title>
-                <link>https://www.nature.com/articles/s41591-024-03272-4</link>
-                <description>As medical AI development gathers momentum, a new study reveals that much work still needs to be done before the public will willingly embrace AI-based technologies in healthcare.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As medical AI development gathers momentum, a new study reveals that much work still needs to be done before the public will willingly embrace AI-based technologies in healthcare.</p></div>]]></content:encoded>
-                <pubDate>2024-09-23</pubDate>
-                <dc:creator>Aaron Fanous</dc:creator>
-                <dc:creator>Kirsten Steffner</dc:creator>
-                <dc:creator>Roxana Daneshjou</dc:creator>
-                <dc:date>2024-09-23</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Patient attitudes toward the AI doctor</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03272-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Improving primary healthcare with generative AI</title>
-                <link>https://www.nature.com/articles/s41591-024-03257-3</link>
-                <description>Studies in China show how large language models can improve primary healthcare systems, but equitably scaling this technology will require attention to rural, low-resource settings and the companion policies that support its implementation.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Studies in China show how large language models can improve primary healthcare systems, but equitably scaling this technology will require attention to rural, low-resource settings and the companion policies that support its implementation.</p></div>]]></content:encoded>
-                <pubDate>2024-09-18</pubDate>
-                <dc:creator>Winnie Yip</dc:creator>
-                <dc:date>2024-09-18</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Improving primary healthcare with generative AI</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03257-3</dc:identifier>
             </item>
         
             <item>
