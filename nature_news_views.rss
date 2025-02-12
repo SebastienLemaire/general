@@ -13,6 +13,46 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Ribophagy relies on Rpl12</title>
+                <link>https://www.nature.com/articles/s41556-024-01594-6</link>
+                <description>The selective destruction of ribosomal subunits through autophagy (‘ribophagy’) is crucial for maintaining cellular protein homeostasis under stress. Findings from various model systems highlight the conserved function of the Rpl12 protein in ribophagy, and show its importance in cellular health and the response to environmental stresses.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The selective destruction of ribosomal subunits through autophagy (‘ribophagy’) is crucial for maintaining cellular protein homeostasis under stress. Findings from various model systems highlight the conserved function of the Rpl12 protein in ribophagy, and show its importance in cellular health and the response to environmental stresses.</p></div>]]></content:encoded>
+                <pubDate>2025-02-11</pubDate>
+                <dc:creator>Katarzyna Tutak</dc:creator>
+                <dc:creator>Katrin Karbstein</dc:creator>
+                <dc:date>2025-02-11</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Ribophagy relies on Rpl12</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01594-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Amazing Australopithecus — excitement from 1925 about a ‘man ape’ fossil find</title>
+                <link>https://www.nature.com/articles/d41586-025-00066-7</link>
+                <description>A skull discovered in South Africa provides key evidence about human evolution, and early plans for a tunnel to connect England and France, in this week’s pick from the Nature archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A skull discovered in South Africa provides key evidence about human evolution, and early plans for a tunnel to connect England and France, in this week’s pick from the Nature archive.</p></div>]]></content:encoded>
+                <pubDate>2025-02-11</pubDate>
+                
+                <dc:date>2025-02-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Amazing Australopithecus — excitement from 1925 about a ‘man ape’ fossil find</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00066-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The Greenland Ice Sheet is fracturing faster than expected</title>
+                <link>https://www.nature.com/articles/d41586-025-00408-5</link>
+                <description>Three-dimensional maps of glacier surfaces across Greenland reveal that cracks are growing rapidly where land ice meets the sea — and climate change is to blame.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Three-dimensional maps of glacier surfaces across Greenland reveal that cracks are growing rapidly where land ice meets the sea — and climate change is to blame.</p></div>]]></content:encoded>
+                <pubDate>2025-02-10</pubDate>
+                <dc:creator>Holly Smith</dc:creator>
+                <dc:date>2025-02-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The Greenland Ice Sheet is fracturing faster than expected</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00408-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</title>
                 <link>https://www.nature.com/articles/s41591-025-03510-3</link>
                 <description>A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</description>
@@ -27,19 +67,6 @@
             </item>
         
             <item>
-                <title>A new gut–brain therapeutic target for hepatic encephalopathy</title>
-                <link>https://www.nature.com/articles/s41591-024-03467-9</link>
-                <description>New evidence suggests that Ruminococcus gnavus in the gut induces monoamine synthesis and neurotoxicity in some patients with cirrhosis, causing hepatic encephalopathy — revealing a possible therapeutic target or predictive biomarker for this understudied condition.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New evidence suggests that Ruminococcus gnavus in the gut induces monoamine synthesis and neurotoxicity in some patients with cirrhosis, causing hepatic encephalopathy — revealing a possible therapeutic target or predictive biomarker for this understudied condition.</p></div>]]></content:encoded>
-                <pubDate>2025-02-07</pubDate>
-                <dc:creator>Patricia P. Bloom</dc:creator>
-                <dc:date>2025-02-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>A new gut–brain therapeutic target for hepatic encephalopathy</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03467-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Regulating MYC translation in cancer</title>
                 <link>https://www.nature.com/articles/s41556-024-01589-3</link>
                 <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
@@ -51,6 +78,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Regulating MYC translation in cancer</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A new gut–brain therapeutic target for hepatic encephalopathy</title>
+                <link>https://www.nature.com/articles/s41591-024-03467-9</link>
+                <description>New evidence suggests that Ruminococcus gnavus in the gut induces monoamine synthesis and neurotoxicity in some patients with cirrhosis, causing hepatic encephalopathy — revealing a possible therapeutic target or predictive biomarker for this understudied condition.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">New evidence suggests that Ruminococcus gnavus in the gut induces monoamine synthesis and neurotoxicity in some patients with cirrhosis, causing hepatic encephalopathy — revealing a possible therapeutic target or predictive biomarker for this understudied condition.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Patricia P. Bloom</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>A new gut–brain therapeutic target for hepatic encephalopathy</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03467-9</dc:identifier>
             </item>
         
             <item>
@@ -230,34 +270,6 @@
             </item>
         
             <item>
-                <title>Conservation strategies aided by assessment of global genetic diversity</title>
-                <link>https://www.nature.com/articles/d41586-025-00083-6</link>
-                <description>An analysis of published data reveals how genetic diversity has been changing in populations of 622 terrestrial and marine species and the effectiveness of different types of intervention to boost genetic diversity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of published data reveals how genetic diversity has been changing in populations of 622 terrestrial and marine species and the effectiveness of different types of intervention to boost genetic diversity.</p></div>]]></content:encoded>
-                <pubDate>2025-01-29</pubDate>
-                <dc:creator>David Nogués-Bravo</dc:creator>
-                <dc:creator>Carsten Rahbek</dc:creator>
-                <dc:date>2025-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Conservation strategies aided by assessment of global genetic diversity</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00083-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Dipoles disordered by design to increase capacity of energy-storage devices</title>
-                <link>https://www.nature.com/articles/d41586-025-00085-4</link>
-                <description>Energy-storage devices called capacitors deliver power rapidly, but the amount of energy they can absorb is limited. Deliberately disordered electric dipoles in ‘antiferroelectric’ capacitor materials could solve this problem.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Energy-storage devices called capacitors deliver power rapidly, but the amount of energy they can absorb is limited. Deliberately disordered electric dipoles in ‘antiferroelectric’ capacitor materials could solve this problem.</p></div>]]></content:encoded>
-                <pubDate>2025-01-29</pubDate>
-                <dc:creator>Piush Behera</dc:creator>
-                <dc:creator>Suraj S. Cheema</dc:creator>
-                <dc:date>2025-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Dipoles disordered by design to increase capacity of energy-storage devices</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00085-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Signs of damage that drive protein degradation</title>
                 <link>https://www.nature.com/articles/d41586-025-00082-7</link>
                 <description>Many environmental toxins damage proteins, which then must be removed to avoid dangerous protein aggregation and disease. How cells dispose of chemically modified proteins has been unclear, but a discovery offers some clues.</description>
@@ -296,6 +308,34 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Viral tolerance enabled by a bat-specific genomic tweak</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00081-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Conservation strategies aided by assessment of global genetic diversity</title>
+                <link>https://www.nature.com/articles/d41586-025-00083-6</link>
+                <description>An analysis of published data reveals how genetic diversity has been changing in populations of 622 terrestrial and marine species and the effectiveness of different types of intervention to boost genetic diversity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of published data reveals how genetic diversity has been changing in populations of 622 terrestrial and marine species and the effectiveness of different types of intervention to boost genetic diversity.</p></div>]]></content:encoded>
+                <pubDate>2025-01-29</pubDate>
+                <dc:creator>David Nogués-Bravo</dc:creator>
+                <dc:creator>Carsten Rahbek</dc:creator>
+                <dc:date>2025-01-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Conservation strategies aided by assessment of global genetic diversity</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00083-6</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dipoles disordered by design to increase capacity of energy-storage devices</title>
+                <link>https://www.nature.com/articles/d41586-025-00085-4</link>
+                <description>Energy-storage devices called capacitors deliver power rapidly, but the amount of energy they can absorb is limited. Deliberately disordered electric dipoles in ‘antiferroelectric’ capacitor materials could solve this problem.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Energy-storage devices called capacitors deliver power rapidly, but the amount of energy they can absorb is limited. Deliberately disordered electric dipoles in ‘antiferroelectric’ capacitor materials could solve this problem.</p></div>]]></content:encoded>
+                <pubDate>2025-01-29</pubDate>
+                <dc:creator>Piush Behera</dc:creator>
+                <dc:creator>Suraj S. Cheema</dc:creator>
+                <dc:date>2025-01-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Dipoles disordered by design to increase capacity of energy-storage devices</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00085-4</dc:identifier>
             </item>
         
             <item>
@@ -382,19 +422,6 @@
             </item>
         
             <item>
-                <title>Chirping chorus rings out from an unexpected part of outer space</title>
-                <link>https://www.nature.com/articles/d41586-024-04211-6</link>
-                <description>Bursts of electromagnetic radiation that share similarities with birdsong have long been observed close to Earth. A detection farther out in space confirms a key part of the theory of their origin, but also poses questions.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bursts of electromagnetic radiation that share similarities with birdsong have long been observed close to Earth. A detection farther out in space confirms a key part of the theory of their origin, but also poses questions.</p></div>]]></content:encoded>
-                <pubDate>2025-01-22</pubDate>
-                <dc:creator>Richard B. Horne</dc:creator>
-                <dc:date>2025-01-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Chirping chorus rings out from an unexpected part of outer space</dc:title>
-                <dc:identifier>doi:doi.org/d41586-024-04211-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>X chromosome passed from mother to daughter influences brain ageing</title>
                 <link>https://www.nature.com/articles/d41586-025-00079-2</link>
                 <description>Older female mice show poor spatial memory when their paternal X chromosome is inactive and only the maternal copy is active. This phenomenon could be responsible for variation in age-related cognitive decline among women.</description>
@@ -446,19 +473,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Defining genes and pathways that modify huntingtin CAG repeat somatic instability in vivo</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-02055-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The Doppler effect explained with steam trains</title>
-                <link>https://www.nature.com/articles/d41586-025-00062-x</link>
-                <description>Our weekly peek at Nature’s archive features musings on knowledge, and a physical phenomenon exemplified by the toot of a passing train.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Our weekly peek at Nature’s archive features musings on knowledge, and a physical phenomenon exemplified by the toot of a passing train.</p></div>]]></content:encoded>
-                <pubDate>2025-01-21</pubDate>
-                
-                <dc:date>2025-01-21</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The Doppler effect explained with steam trains</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00062-x</dc:identifier>
             </item>
         
             <item>
@@ -547,20 +561,6 @@
             </item>
         
             <item>
-                <title>Setting sights on a single-shot malaria vaccine</title>
-                <link>https://www.nature.com/articles/s41591-024-03427-3</link>
-                <description>In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</p></div>]]></content:encoded>
-                <pubDate>2025-01-03</pubDate>
-                <dc:creator>Debashree Goswami</dc:creator>
-                <dc:creator>Stefan H. I. Kappe</dc:creator>
-                <dc:date>2025-01-03</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Setting sights on a single-shot malaria vaccine</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03427-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Speckle signatures dictate cancer prognosis</title>
                 <link>https://www.nature.com/articles/s41556-024-01569-7</link>
                 <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
@@ -572,6 +572,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Setting sights on a single-shot malaria vaccine</title>
+                <link>https://www.nature.com/articles/s41591-024-03427-3</link>
+                <description>In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</p></div>]]></content:encoded>
+                <pubDate>2025-01-03</pubDate>
+                <dc:creator>Debashree Goswami</dc:creator>
+                <dc:creator>Stefan H. I. Kappe</dc:creator>
+                <dc:date>2025-01-03</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Setting sights on a single-shot malaria vaccine</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03427-3</dc:identifier>
             </item>
         
             <item>
@@ -780,19 +794,6 @@
             </item>
         
             <item>
-                <title>New light on pyrenoid membrane tubules</title>
-                <link>https://www.nature.com/articles/s41477-024-01857-y</link>
-                <description>The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</p></div>]]></content:encoded>
-                <pubDate>2024-11-15</pubDate>
-                <dc:creator>Jean-David Rochaix</dc:creator>
-                <dc:date>2024-11-15</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>New light on pyrenoid membrane tubules</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01857-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>FMRP gains mitochondrial fission control</title>
                 <link>https://www.nature.com/articles/s41556-024-01567-9</link>
                 <description>Mitochondrial fission and fusion are crucial for neurons. The RNA-binding protein FMRP regulates mitochondrial dynamics, including fusion and trafficking in neurons. A study now identifies a mechanism by which FMRP regulates mitochondrial fission.</description>
@@ -805,6 +806,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>FMRP gains mitochondrial fission control</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01567-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>New light on pyrenoid membrane tubules</title>
+                <link>https://www.nature.com/articles/s41477-024-01857-y</link>
+                <description>The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</p></div>]]></content:encoded>
+                <pubDate>2024-11-15</pubDate>
+                <dc:creator>Jean-David Rochaix</dc:creator>
+                <dc:date>2024-11-15</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>New light on pyrenoid membrane tubules</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01857-y</dc:identifier>
             </item>
         
             <item>
@@ -852,19 +866,6 @@
             </item>
         
             <item>
-                <title>Building the epigenetic fortress with PRC2.2</title>
-                <link>https://www.nature.com/articles/s41556-024-01551-3</link>
-                <description>How heterochromatin is established de novo in early embryos is unknown. A study now shows that the sequential recruitment of the key regulator JARID2 recruits PRC2.2 to H2AK119ub and ensures proper H3K27me2/3 deposition. This prevents premature enhancer activation, which is crucial for gene regulation and lineage specification.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How heterochromatin is established de novo in early embryos is unknown. A study now shows that the sequential recruitment of the key regulator JARID2 recruits PRC2.2 to H2AK119ub and ensures proper H3K27me2/3 deposition. This prevents premature enhancer activation, which is crucial for gene regulation and lineage specification.</p></div>]]></content:encoded>
-                <pubDate>2024-10-31</pubDate>
-                <dc:creator>Fides Zenk</dc:creator>
-                <dc:date>2024-10-31</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Building the epigenetic fortress with PRC2.2</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01551-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Uncovering cell cycle speed modulations with statistical inference</title>
                 <link>https://www.nature.com/articles/s41592-024-02484-3</link>
                 <description>A Bayesian inference framework improves RNA velocity estimates to make them more coherent and biologically interpretable.</description>
@@ -876,6 +877,19 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Uncovering cell cycle speed modulations with statistical inference</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02484-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Building the epigenetic fortress with PRC2.2</title>
+                <link>https://www.nature.com/articles/s41556-024-01551-3</link>
+                <description>How heterochromatin is established de novo in early embryos is unknown. A study now shows that the sequential recruitment of the key regulator JARID2 recruits PRC2.2 to H2AK119ub and ensures proper H3K27me2/3 deposition. This prevents premature enhancer activation, which is crucial for gene regulation and lineage specification.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How heterochromatin is established de novo in early embryos is unknown. A study now shows that the sequential recruitment of the key regulator JARID2 recruits PRC2.2 to H2AK119ub and ensures proper H3K27me2/3 deposition. This prevents premature enhancer activation, which is crucial for gene regulation and lineage specification.</p></div>]]></content:encoded>
+                <pubDate>2024-10-31</pubDate>
+                <dc:creator>Fides Zenk</dc:creator>
+                <dc:date>2024-10-31</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Building the epigenetic fortress with PRC2.2</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01551-3</dc:identifier>
             </item>
         
             <item>
@@ -1456,19 +1470,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Improving estimates of loss-of-function constraint for short genes</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01829-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>RNA glues it all</title>
-                <link>https://www.nature.com/articles/s41556-024-01454-3</link>
-                <description>The role of RNA in preserving the integrity and dynamics of membrane-bound organelles remains largely unexplored. A study now identifies the Golgi-resident protein GM130 as an RNA-binding protein that scaffolds the Golgi ribbon in a polyadenylated-RNA-dependent manner.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The role of RNA in preserving the integrity and dynamics of membrane-bound organelles remains largely unexplored. A study now identifies the Golgi-resident protein GM130 as an RNA-binding protein that scaffolds the Golgi ribbon in a polyadenylated-RNA-dependent manner.</p></div>]]></content:encoded>
-                <pubDate>2024-07-11</pubDate>
-                <dc:creator>Fátima Gebauer</dc:creator>
-                <dc:date>2024-07-11</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>RNA glues it all</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01454-3</dc:identifier>
             </item>
         
             <item>
