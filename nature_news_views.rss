@@ -13,6 +13,46 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Does a cell’s gene expression always reflect its function?</title>
+                <link>https://www.nature.com/articles/d41586-025-00088-1</link>
+                <description>Defining a cell’s ‘type’ by the RNA transcripts it expresses is popular in biological research, but evidence from zebrafish neurons suggests that transcriptionally similar cells can be functionally diverse.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Defining a cell’s ‘type’ by the RNA transcripts it expresses is popular in biological research, but evidence from zebrafish neurons suggests that transcriptionally similar cells can be functionally diverse.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>M. Neşet Özel</dc:creator>
+                <dc:creator>Claude Desplan</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Does a cell’s gene expression always reflect its function?</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00088-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The lost long tail of early bird evolution</title>
+                <link>https://www.nature.com/articles/d41586-024-04212-5</link>
+                <description>In the nineteenth century, the discovery of the fossil Archaeopteryx revealed how birds evolved from dinosaurs. A bird fossil of similar age to Archaeopteryx shows flight-aiding innovations such as the loss of a long tail.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In the nineteenth century, the discovery of the fossil Archaeopteryx revealed how birds evolved from dinosaurs. A bird fossil of similar age to Archaeopteryx shows flight-aiding innovations such as the loss of a long tail.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>Stephen L. Brusatte</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The lost long tail of early bird evolution</dc:title>
+                <dc:identifier>doi:doi.org/d41586-024-04212-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>X-ray telescope casts a sharper gaze on galaxy clusters</title>
+                <link>https://www.nature.com/articles/d41586-025-00087-2</link>
+                <description>Data from the XRISM X-ray satellite provide unprecedented detail on how ionized plasma moves in massive galaxy clusters — a question with huge cosmological and astrophysical implications.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Data from the XRISM X-ray satellite provide unprecedented detail on how ionized plasma moves in massive galaxy clusters — a question with huge cosmological and astrophysical implications.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>Stefano Borgani</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>X-ray telescope casts a sharper gaze on galaxy clusters</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00087-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Thinking globally for pandemic early warning systems</title>
                 <link>https://www.nature.com/articles/s41591-024-03460-2</link>
                 <description>A modeling study highlights the benefits of a global aircraft-based wastewater surveillance network, but the best early warning system is likely to involve a combination of methodologies within an integrated, end-to-end bioinformatics pipeline.</description>
@@ -23,6 +63,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Thinking globally for pandemic early warning systems</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03460-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mysterious neutrino barrels through deep waters near Sicily</title>
+                <link>https://www.nature.com/articles/d41586-025-00035-0</link>
+                <description>The observation of a neutrino in an enormous underwater detector has confounded physicists. It is much more energetic than any particle observed previously, suggesting that it came from a distant astrophysical source.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The observation of a neutrino in an enormous underwater detector has confounded physicists. It is much more energetic than any particle observed previously, suggesting that it came from a distant astrophysical source.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>Erik K. Blaufuss</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mysterious neutrino barrels through deep waters near Sicily</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00035-0</dc:identifier>
             </item>
         
             <item>
@@ -40,17 +93,16 @@
             </item>
         
             <item>
-                <title>Ribophagy relies on Rpl12</title>
-                <link>https://www.nature.com/articles/s41556-024-01594-6</link>
-                <description>The selective destruction of ribosomal subunits through autophagy (‘ribophagy’) is crucial for maintaining cellular protein homeostasis under stress. Findings from various model systems highlight the conserved function of the Rpl12 protein in ribophagy, and show its importance in cellular health and the response to environmental stresses.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The selective destruction of ribosomal subunits through autophagy (‘ribophagy’) is crucial for maintaining cellular protein homeostasis under stress. Findings from various model systems highlight the conserved function of the Rpl12 protein in ribophagy, and show its importance in cellular health and the response to environmental stresses.</p></div>]]></content:encoded>
-                <pubDate>2025-02-11</pubDate>
-                <dc:creator>Katarzyna Tutak</dc:creator>
-                <dc:creator>Katrin Karbstein</dc:creator>
-                <dc:date>2025-02-11</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Ribophagy relies on Rpl12</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01594-6</dc:identifier>
+                <title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</title>
+                <link>https://www.nature.com/articles/d41586-025-00091-6</link>
+                <description>A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>Laura Arbour</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00091-6</dc:identifier>
             </item>
         
             <item>
@@ -64,6 +116,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Amazing Australopithecus — excitement from 1925 about a ‘man ape’ fossil find</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00066-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Ribophagy relies on Rpl12</title>
+                <link>https://www.nature.com/articles/s41556-024-01594-6</link>
+                <description>The selective destruction of ribosomal subunits through autophagy (‘ribophagy’) is crucial for maintaining cellular protein homeostasis under stress. Findings from various model systems highlight the conserved function of the Rpl12 protein in ribophagy, and show its importance in cellular health and the response to environmental stresses.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The selective destruction of ribosomal subunits through autophagy (‘ribophagy’) is crucial for maintaining cellular protein homeostasis under stress. Findings from various model systems highlight the conserved function of the Rpl12 protein in ribophagy, and show its importance in cellular health and the response to environmental stresses.</p></div>]]></content:encoded>
+                <pubDate>2025-02-11</pubDate>
+                <dc:creator>Katarzyna Tutak</dc:creator>
+                <dc:creator>Katrin Karbstein</dc:creator>
+                <dc:date>2025-02-11</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Ribophagy relies on Rpl12</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01594-6</dc:identifier>
             </item>
         
             <item>
@@ -148,20 +214,6 @@
             </item>
         
             <item>
-                <title>Genetic and geographical origins of Eurasia’s influential Yamna culture</title>
-                <link>https://www.nature.com/articles/d41586-025-00089-0</link>
-                <description>Ancient genomes from modern Ukraine and Russia reveal the origins of the Yamna people, pastoralists who migrated from the Eurasian steppe to Europe 5,000 years ago, spreading their ancestry, culture and, probably, language.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ancient genomes from modern Ukraine and Russia reveal the origins of the Yamna people, pastoralists who migrated from the Eurasian steppe to Europe 5,000 years ago, spreading their ancestry, culture and, probably, language.</p></div>]]></content:encoded>
-                <pubDate>2025-02-05</pubDate>
-                <dc:creator>Lehti Saag</dc:creator>
-                <dc:creator>Mait Metspalu</dc:creator>
-                <dc:date>2025-02-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Genetic and geographical origins of Eurasia’s influential Yamna culture</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00089-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Superkiller complex problems expose a cancer-cell vulnerability</title>
                 <link>https://www.nature.com/articles/d41586-025-00086-3</link>
                 <description>When a cancer cell no longer makes a particular functioning protein, it can become dependent on another protein for survival. The identification of one such relationship has uncovered a therapeutic target.</description>
@@ -200,6 +252,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>‘Unconventional’ superconductivity probed in twisted graphene</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00057-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Genetic and geographical origins of Eurasia’s influential Yamna culture</title>
+                <link>https://www.nature.com/articles/d41586-025-00089-0</link>
+                <description>Ancient genomes from modern Ukraine and Russia reveal the origins of the Yamna people, pastoralists who migrated from the Eurasian steppe to Europe 5,000 years ago, spreading their ancestry, culture and, probably, language.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ancient genomes from modern Ukraine and Russia reveal the origins of the Yamna people, pastoralists who migrated from the Eurasian steppe to Europe 5,000 years ago, spreading their ancestry, culture and, probably, language.</p></div>]]></content:encoded>
+                <pubDate>2025-02-05</pubDate>
+                <dc:creator>Lehti Saag</dc:creator>
+                <dc:creator>Mait Metspalu</dc:creator>
+                <dc:date>2025-02-05</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Genetic and geographical origins of Eurasia’s influential Yamna culture</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00089-0</dc:identifier>
             </item>
         
             <item>
@@ -297,33 +363,6 @@
             </item>
         
             <item>
-                <title>Signs of damage that drive protein degradation</title>
-                <link>https://www.nature.com/articles/d41586-025-00082-7</link>
-                <description>Many environmental toxins damage proteins, which then must be removed to avoid dangerous protein aggregation and disease. How cells dispose of chemically modified proteins has been unclear, but a discovery offers some clues.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Many environmental toxins damage proteins, which then must be removed to avoid dangerous protein aggregation and disease. How cells dispose of chemically modified proteins has been unclear, but a discovery offers some clues.</p></div>]]></content:encoded>
-                <pubDate>2025-01-29</pubDate>
-                <dc:creator>Alfred Freeberg</dc:creator>
-                <dc:creator>Michael Rapé</dc:creator>
-                <dc:date>2025-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Signs of damage that drive protein degradation</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00082-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Asteroid Bennu contains salts from ancient brine</title>
-                <link>https://www.nature.com/articles/d41586-025-00084-5</link>
-                <description>A space mission to an asteroid has returned extremely delicate salts not previously observed in extraterrestrial materials. An analysis of these salts helps to establish the history of water in the early Solar System.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A space mission to an asteroid has returned extremely delicate salts not previously observed in extraterrestrial materials. An analysis of these salts helps to establish the history of water in the early Solar System.</p></div>]]></content:encoded>
-                <pubDate>2025-01-29</pubDate>
-                <dc:creator>Yasuhito Sekine</dc:creator>
-                <dc:date>2025-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Asteroid Bennu contains salts from ancient brine</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00084-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Viral tolerance enabled by a bat-specific genomic tweak</title>
                 <link>https://www.nature.com/articles/d41586-025-00081-8</link>
                 <description>Bats carry viral pathogens that typically do not lead to severe disease in the bats themselves but can be lethal to humans. Adaptations in certain immune genes might contribute to this resistance.</description>
@@ -366,6 +405,33 @@
             </item>
         
             <item>
+                <title>Signs of damage that drive protein degradation</title>
+                <link>https://www.nature.com/articles/d41586-025-00082-7</link>
+                <description>Many environmental toxins damage proteins, which then must be removed to avoid dangerous protein aggregation and disease. How cells dispose of chemically modified proteins has been unclear, but a discovery offers some clues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Many environmental toxins damage proteins, which then must be removed to avoid dangerous protein aggregation and disease. How cells dispose of chemically modified proteins has been unclear, but a discovery offers some clues.</p></div>]]></content:encoded>
+                <pubDate>2025-01-29</pubDate>
+                <dc:creator>Alfred Freeberg</dc:creator>
+                <dc:creator>Michael Rapé</dc:creator>
+                <dc:date>2025-01-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Signs of damage that drive protein degradation</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00082-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Asteroid Bennu contains salts from ancient brine</title>
+                <link>https://www.nature.com/articles/d41586-025-00084-5</link>
+                <description>A space mission to an asteroid has returned extremely delicate salts not previously observed in extraterrestrial materials. An analysis of these salts helps to establish the history of water in the early Solar System.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A space mission to an asteroid has returned extremely delicate salts not previously observed in extraterrestrial materials. An analysis of these salts helps to establish the history of water in the early Solar System.</p></div>]]></content:encoded>
+                <pubDate>2025-01-29</pubDate>
+                <dc:creator>Yasuhito Sekine</dc:creator>
+                <dc:date>2025-01-29</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Asteroid Bennu contains salts from ancient brine</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00084-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Intermittent fasting is good for losing (some) weight</title>
                 <link>https://www.nature.com/articles/s41591-024-03468-8</link>
                 <description>A large, randomized controlled trial comparing three time-restricted eating (TRE) windows found that time-restricted eating at any time of day is a promising strategy for losing weight — but does not reduce visceral adipose tissue.</description>
@@ -377,34 +443,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Intermittent fasting is good for losing (some) weight</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03468-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Ancient human genomes offer clues about the earliest migrations out of Africa</title>
-                <link>https://www.nature.com/articles/d41586-025-00182-4</link>
-                <description>Analyses of 45,000-year-old bones from Europe allow scientists to pin down when modern humans interbred with Neanderthals, shedding light on the histories of populations with no present-day descendants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Analyses of 45,000-year-old bones from Europe allow scientists to pin down when modern humans interbred with Neanderthals, shedding light on the histories of populations with no present-day descendants.</p></div>]]></content:encoded>
-                <pubDate>2025-01-28</pubDate>
-                <dc:creator>María Martinón-Torres</dc:creator>
-                <dc:creator>Carles Lalueza-Fox</dc:creator>
-                <dc:date>2025-01-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ancient human genomes offer clues about the earliest migrations out of Africa</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00182-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Breaking up clusters of circulating tumour cells to halt cancer spread</title>
-                <link>https://www.nature.com/articles/d41586-025-00251-8</link>
-                <description>A drug that limits the clustering of malignant breast-cancer cells that are moving through the bloodstream to distant organs might open avenues to block the lethal spread of a tumour.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A drug that limits the clustering of malignant breast-cancer cells that are moving through the bloodstream to distant organs might open avenues to block the lethal spread of a tumour.</p></div>]]></content:encoded>
-                <pubDate>2025-01-28</pubDate>
-                <dc:creator>Daniel J. Smit</dc:creator>
-                <dc:creator>Klaus Pantel</dc:creator>
-                <dc:date>2025-01-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Breaking up clusters of circulating tumour cells to halt cancer spread</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00251-8</dc:identifier>
             </item>
         
             <item>
@@ -446,46 +484,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>The next generation of in situ multi-omics</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02571-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>X chromosome passed from mother to daughter influences brain ageing</title>
-                <link>https://www.nature.com/articles/d41586-025-00079-2</link>
-                <description>Older female mice show poor spatial memory when their paternal X chromosome is inactive and only the maternal copy is active. This phenomenon could be responsible for variation in age-related cognitive decline among women.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Older female mice show poor spatial memory when their paternal X chromosome is inactive and only the maternal copy is active. This phenomenon could be responsible for variation in age-related cognitive decline among women.</p></div>]]></content:encoded>
-                <pubDate>2025-01-22</pubDate>
-                <dc:creator>Daniel M. Snell</dc:creator>
-                <dc:creator>James M. A. Turner</dc:creator>
-                <dc:date>2025-01-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>X chromosome passed from mother to daughter influences brain ageing</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00079-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A scalable system using mini-organs to test personalized RNA therapy</title>
-                <link>https://www.nature.com/articles/d41586-025-00078-3</link>
-                <description>A rapid and efficient method developed to create stem-cell-based 3D mini-organs derived from the cells of patients offers a way to evaluate personalized treatments using RNA therapies for rare genetic diseases.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A rapid and efficient method developed to create stem-cell-based 3D mini-organs derived from the cells of patients offers a way to evaluate personalized treatments using RNA therapies for rare genetic diseases.</p></div>]]></content:encoded>
-                <pubDate>2025-01-22</pubDate>
-                <dc:creator>Ronald A. M. Buijsen</dc:creator>
-                <dc:date>2025-01-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>A scalable system using mini-organs to test personalized RNA therapy</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00078-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Mitochondrial swap from cancer to immune cells thwarts anti-tumour defences</title>
-                <link>https://www.nature.com/articles/d41586-025-00077-4</link>
-                <description>Immune cells can destroy cancer, but tumours often evade such responses. The bidirectional transfer of mitochondria between cancer and immune cells is a newly discovered mechanism that thwarts anticancer defences.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Immune cells can destroy cancer, but tumours often evade such responses. The bidirectional transfer of mitochondria between cancer and immune cells is a newly discovered mechanism that thwarts anticancer defences.</p></div>]]></content:encoded>
-                <pubDate>2025-01-22</pubDate>
-                <dc:creator>Jonathan R. Brestoff</dc:creator>
-                <dc:date>2025-01-22</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Mitochondrial swap from cancer to immune cells thwarts anti-tumour defences</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00077-4</dc:identifier>
             </item>
         
             <item>
