@@ -13,6 +13,20 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Molecular glue unexpectedly mimics the effect of cancer mutations</title>
+                <link>https://www.nature.com/articles/d41586-025-00090-7</link>
+                <description>Many conventional small-molecule drugs work by inhibiting proteins, affecting their function. One small molecule instead imbues a protein with a new function in a mechanism that could inform rational drug design.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Many conventional small-molecule drugs work by inhibiting proteins, affecting their function. One small molecule instead imbues a protein with a new function in a mechanism that could inform rational drug design.</p></div>]]></content:encoded>
+                <pubDate>2025-02-18</pubDate>
+                <dc:creator>Jonathan W. Bushman</dc:creator>
+                <dc:creator>Patrick Ryan Potts</dc:creator>
+                <dc:date>2025-02-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Molecular glue unexpectedly mimics the effect of cancer mutations</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00090-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>PNET1 is a key regulator of NPC dynamics and cell division</title>
                 <link>https://www.nature.com/articles/s41477-025-01930-0</link>
                 <description>The membrane-intrinsic nuclear pore complex component PNET1 is specifically found in proliferating tissue, where it regulates breakdown and reassembly of the nuclear pores and is essential for promoting cell division and tissue maintenance. These dynamics are driven by phosphorylation events that alter PNET1 interactions.</description>
@@ -95,6 +109,19 @@
             </item>
         
             <item>
+                <title>Mysterious neutrino barrels through deep waters near Sicily</title>
+                <link>https://www.nature.com/articles/d41586-025-00035-0</link>
+                <description>The observation of a neutrino in an enormous underwater detector has confounded physicists. It is much more energetic than any particle observed previously, suggesting that it came from a distant astrophysical source.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The observation of a neutrino in an enormous underwater detector has confounded physicists. It is much more energetic than any particle observed previously, suggesting that it came from a distant astrophysical source.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>Erik K. Blaufuss</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mysterious neutrino barrels through deep waters near Sicily</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00035-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Thinking globally for pandemic early warning systems</title>
                 <link>https://www.nature.com/articles/s41591-024-03460-2</link>
                 <description>A modeling study highlights the benefits of a global aircraft-based wastewater surveillance network, but the best early warning system is likely to involve a combination of methodologies within an integrated, end-to-end bioinformatics pipeline.</description>
@@ -108,16 +135,16 @@
             </item>
         
             <item>
-                <title>Mysterious neutrino barrels through deep waters near Sicily</title>
-                <link>https://www.nature.com/articles/d41586-025-00035-0</link>
-                <description>The observation of a neutrino in an enormous underwater detector has confounded physicists. It is much more energetic than any particle observed previously, suggesting that it came from a distant astrophysical source.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The observation of a neutrino in an enormous underwater detector has confounded physicists. It is much more energetic than any particle observed previously, suggesting that it came from a distant astrophysical source.</p></div>]]></content:encoded>
+                <title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</title>
+                <link>https://www.nature.com/articles/d41586-025-00091-6</link>
+                <description>A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</p></div>]]></content:encoded>
                 <pubDate>2025-02-12</pubDate>
-                <dc:creator>Erik K. Blaufuss</dc:creator>
+                <dc:creator>Laura Arbour</dc:creator>
                 <dc:date>2025-02-12</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>Mysterious neutrino barrels through deep waters near Sicily</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00035-0</dc:identifier>
+                <dc:title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00091-6</dc:identifier>
             </item>
         
             <item>
@@ -132,19 +159,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Uncovering the role of sleep on human health</dc:title>
                 <dc:identifier>doi:doi.org/s41591-025-03529-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</title>
-                <link>https://www.nature.com/articles/d41586-025-00091-6</link>
-                <description>A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</p></div>]]></content:encoded>
-                <pubDate>2025-02-12</pubDate>
-                <dc:creator>Laura Arbour</dc:creator>
-                <dc:date>2025-02-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00091-6</dc:identifier>
             </item>
         
             <item>
@@ -256,20 +270,6 @@
             </item>
         
             <item>
-                <title>Superkiller complex problems expose a cancer-cell vulnerability</title>
-                <link>https://www.nature.com/articles/d41586-025-00086-3</link>
-                <description>When a cancer cell no longer makes a particular functioning protein, it can become dependent on another protein for survival. The identification of one such relationship has uncovered a therapeutic target.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">When a cancer cell no longer makes a particular functioning protein, it can become dependent on another protein for survival. The identification of one such relationship has uncovered a therapeutic target.</p></div>]]></content:encoded>
-                <pubDate>2025-02-05</pubDate>
-                <dc:creator>Christopher U. T. Hellen</dc:creator>
-                <dc:creator>Tatyana V. Pestova</dc:creator>
-                <dc:date>2025-02-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Superkiller complex problems expose a cancer-cell vulnerability</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00086-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Crowds start to spin when their densities hit a threshold</title>
                 <link>https://www.nature.com/articles/d41586-025-00036-z</link>
                 <description>Overcrowding can lead to disaster, and yet the dynamics of dense groups of people are poorly understood. Analysis of a festival uncovers collective rotational movements that emerge at critical densities, which could be universal.</description>
@@ -308,6 +308,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Genetic and geographical origins of Eurasia’s influential Yamna culture</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00089-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Superkiller complex problems expose a cancer-cell vulnerability</title>
+                <link>https://www.nature.com/articles/d41586-025-00086-3</link>
+                <description>When a cancer cell no longer makes a particular functioning protein, it can become dependent on another protein for survival. The identification of one such relationship has uncovered a therapeutic target.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">When a cancer cell no longer makes a particular functioning protein, it can become dependent on another protein for survival. The identification of one such relationship has uncovered a therapeutic target.</p></div>]]></content:encoded>
+                <pubDate>2025-02-05</pubDate>
+                <dc:creator>Christopher U. T. Hellen</dc:creator>
+                <dc:creator>Tatyana V. Pestova</dc:creator>
+                <dc:date>2025-02-05</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Superkiller complex problems expose a cancer-cell vulnerability</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00086-3</dc:identifier>
             </item>
         
             <item>
@@ -485,19 +499,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Intermittent fasting is good for losing (some) weight</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03468-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>No parent–child conflicts about when young cichlid fish leave home</title>
-                <link>https://www.nature.com/articles/d41586-025-00156-6</link>
-                <description>Behavioural experiments in shell-dwelling cichlid fish reveal evolutionary adaptations in parents and offspring that control the timing of emergence from the nest.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Behavioural experiments in shell-dwelling cichlid fish reveal evolutionary adaptations in parents and offspring that control the timing of emergence from the nest.</p></div>]]></content:encoded>
-                <pubDate>2025-01-28</pubDate>
-                <dc:creator>Holly Smith</dc:creator>
-                <dc:date>2025-01-28</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>No parent–child conflicts about when young cichlid fish leave home</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00156-6</dc:identifier>
             </item>
         
             <item>
