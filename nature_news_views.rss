@@ -13,6 +13,48 @@
             <ttl>120</ttl>
     
             <item>
+                <title>PNET1 is a key regulator of NPC dynamics and cell division</title>
+                <link>https://www.nature.com/articles/s41477-025-01930-0</link>
+                <description>The membrane-intrinsic nuclear pore complex component PNET1 is specifically found in proliferating tissue, where it regulates breakdown and reassembly of the nuclear pores and is essential for promoting cell division and tissue maintenance. These dynamics are driven by phosphorylation events that alter PNET1 interactions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The membrane-intrinsic nuclear pore complex component PNET1 is specifically found in proliferating tissue, where it regulates breakdown and reassembly of the nuclear pores and is essential for promoting cell division and tissue maintenance. These dynamics are driven by phosphorylation events that alter PNET1 interactions.</p></div>]]></content:encoded>
+                <pubDate>2025-02-17</pubDate>
+                <dc:creator>Katja Graumann</dc:creator>
+                <dc:creator>Nadine Field</dc:creator>
+                <dc:date>2025-02-17</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>PNET1 is a key regulator of NPC dynamics and cell division</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01930-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Polyguanine microsatellites are robust replication clocks in cancer</title>
+                <link>https://www.nature.com/articles/s41588-025-02098-1</link>
+                <description>Cancer phylogenetic trees describe the evolutionary relationship between primary tumors and metastatic sites. A study now shows that mutations in guanine homopolymer microsatellites represent accurate molecular clocks, revealing the number of cell divisions that have occurred during cancer development and progression.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cancer phylogenetic trees describe the evolutionary relationship between primary tumors and metastatic sites. A study now shows that mutations in guanine homopolymer microsatellites represent accurate molecular clocks, revealing the number of cell divisions that have occurred during cancer development and progression.</p></div>]]></content:encoded>
+                <pubDate>2025-02-17</pubDate>
+                <dc:creator>Ron S. Gejman</dc:creator>
+                <dc:creator>Benjamin Izar</dc:creator>
+                <dc:date>2025-02-17</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Polyguanine microsatellites are robust replication clocks in cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41588-025-02098-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>When more becomes too much in acid growth</title>
+                <link>https://www.nature.com/articles/s41477-025-01919-9</link>
+                <description>The acid growth theory states that the auxin-induced acidification of plant cell walls causes their expansion. A model now suggests that excessive acidification leads to growth inhibition, which explains the biphasic response of hypocotyl to auxin.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The acid growth theory states that the auxin-induced acidification of plant cell walls causes their expansion. A model now suggests that excessive acidification leads to growth inhibition, which explains the biphasic response of hypocotyl to auxin.</p></div>]]></content:encoded>
+                <pubDate>2025-02-14</pubDate>
+                <dc:creator>Pavel Krupař</dc:creator>
+                <dc:creator>Matyáš Fendrych</dc:creator>
+                <dc:date>2025-02-14</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>When more becomes too much in acid growth</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01919-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Does a cell’s gene expression always reflect its function?</title>
                 <link>https://www.nature.com/articles/d41586-025-00088-1</link>
                 <description>Defining a cell’s ‘type’ by the RNA transcripts it expresses is popular in biological research, but evidence from zebrafish neurons suggests that transcriptionally similar cells can be functionally diverse.</description>
@@ -819,6 +861,19 @@
             </item>
         
             <item>
+                <title>New light on pyrenoid membrane tubules</title>
+                <link>https://www.nature.com/articles/s41477-024-01857-y</link>
+                <description>The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</p></div>]]></content:encoded>
+                <pubDate>2024-11-15</pubDate>
+                <dc:creator>Jean-David Rochaix</dc:creator>
+                <dc:date>2024-11-15</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>New light on pyrenoid membrane tubules</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01857-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>FMRP gains mitochondrial fission control</title>
                 <link>https://www.nature.com/articles/s41556-024-01567-9</link>
                 <description>Mitochondrial fission and fusion are crucial for neurons. The RNA-binding protein FMRP regulates mitochondrial dynamics, including fusion and trafficking in neurons. A study now identifies a mechanism by which FMRP regulates mitochondrial fission.</description>
@@ -831,19 +886,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>FMRP gains mitochondrial fission control</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01567-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>New light on pyrenoid membrane tubules</title>
-                <link>https://www.nature.com/articles/s41477-024-01857-y</link>
-                <description>The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</p></div>]]></content:encoded>
-                <pubDate>2024-11-15</pubDate>
-                <dc:creator>Jean-David Rochaix</dc:creator>
-                <dc:date>2024-11-15</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>New light on pyrenoid membrane tubules</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01857-y</dc:identifier>
             </item>
         
             <item>
@@ -1141,19 +1183,6 @@
             </item>
         
             <item>
-                <title>From RdDM to plant defence</title>
-                <link>https://www.nature.com/articles/s41477-024-01806-9</link>
-                <description>Genetic analysis has shown that RNA polymerase V (Pol V) regulates plant defence independently of its known function in RNA-directed DNA methylation. These findings reveal a mechanism whereby Pol V transcripts regulate gene expression upon infection with pathogens.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genetic analysis has shown that RNA polymerase V (Pol V) regulates plant defence independently of its known function in RNA-directed DNA methylation. These findings reveal a mechanism whereby Pol V transcripts regulate gene expression upon infection with pathogens.</p></div>]]></content:encoded>
-                <pubDate>2024-09-30</pubDate>
-                <dc:creator>Claudia Martinho</dc:creator>
-                <dc:date>2024-09-30</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>From RdDM to plant defence</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01806-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Astrocytes are enablers of brain metastases</title>
                 <link>https://www.nature.com/articles/s41556-024-01516-6</link>
                 <description>Circulating tumour cells from primary carcinomas may reach the brain and establish metastases. In the brain parenchyma, tumour cells initiate extensive interactions with resident astrocytes, microglia and neurons, forming a niche where tumour cells can thrive. A new study reveals a previously unknown type of astrocyte–tumour cell interaction.</description>
@@ -1167,16 +1196,16 @@
             </item>
         
             <item>
-                <title>Context-specific targeting of the androgen receptor in prostate cancer</title>
-                <link>https://www.nature.com/articles/s41588-024-01935-z</link>
-                <description>A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</p></div>]]></content:encoded>
-                <pubDate>2024-09-27</pubDate>
-                <dc:creator>Cory Abate-Shen</dc:creator>
-                <dc:date>2024-09-27</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Context-specific targeting of the androgen receptor in prostate cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01935-z</dc:identifier>
+                <title>From RdDM to plant defence</title>
+                <link>https://www.nature.com/articles/s41477-024-01806-9</link>
+                <description>Genetic analysis has shown that RNA polymerase V (Pol V) regulates plant defence independently of its known function in RNA-directed DNA methylation. These findings reveal a mechanism whereby Pol V transcripts regulate gene expression upon infection with pathogens.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genetic analysis has shown that RNA polymerase V (Pol V) regulates plant defence independently of its known function in RNA-directed DNA methylation. These findings reveal a mechanism whereby Pol V transcripts regulate gene expression upon infection with pathogens.</p></div>]]></content:encoded>
+                <pubDate>2024-09-30</pubDate>
+                <dc:creator>Claudia Martinho</dc:creator>
+                <dc:date>2024-09-30</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>From RdDM to plant defence</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01806-9</dc:identifier>
             </item>
         
             <item>
@@ -1190,6 +1219,19 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Transposable elements underlie genetic adaptation</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01792-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Context-specific targeting of the androgen receptor in prostate cancer</title>
+                <link>https://www.nature.com/articles/s41588-024-01935-z</link>
+                <description>A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</p></div>]]></content:encoded>
+                <pubDate>2024-09-27</pubDate>
+                <dc:creator>Cory Abate-Shen</dc:creator>
+                <dc:date>2024-09-27</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Context-specific targeting of the androgen receptor in prostate cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01935-z</dc:identifier>
             </item>
         
             <item>
@@ -1277,6 +1319,19 @@
             </item>
         
             <item>
+                <title>A centromere’s obsession with transposons</title>
+                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
+                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
+                <pubDate>2024-09-02</pubDate>
+                <dc:creator>Leandro Quadrana</dc:creator>
+                <dc:date>2024-09-02</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A centromere’s obsession with transposons</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Activating the dark genome to illuminate cancer vaccine targets</title>
                 <link>https://www.nature.com/articles/s41588-024-01850-3</link>
                 <description>Epigenetic therapy triggers myriad transposable elements to generate new antigens that could prime tumor cells for immunotherapy. A study of glioblastoma discovers indiscriminate activation in healthy cells as well, and presents a more selective strategy for potential therapeutic targeting.</description>
@@ -1289,19 +1344,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Activating the dark genome to illuminate cancer vaccine targets</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01850-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A centromere’s obsession with transposons</title>
-                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
-                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
-                <pubDate>2024-09-02</pubDate>
-                <dc:creator>Leandro Quadrana</dc:creator>
-                <dc:date>2024-09-02</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A centromere’s obsession with transposons</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
             </item>
         
             <item>
@@ -1470,20 +1512,6 @@
             </item>
         
             <item>
-                <title>LINE1 mediates long-range DNA interactions</title>
-                <link>https://www.nature.com/articles/s41588-024-01824-5</link>
-                <description>The impact of transposable elements (TEs) on gene regulatory networks and how they are governed remain poorly understood. A new study identifies a role for LINE1, a specific subset of TEs, in the long-range regulation of gene expression, particularly during embryonic development.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The impact of transposable elements (TEs) on gene regulatory networks and how they are governed remain poorly understood. A new study identifies a role for LINE1, a specific subset of TEs, in the long-range regulation of gene expression, particularly during embryonic development.</p></div>]]></content:encoded>
-                <pubDate>2024-07-04</pubDate>
-                <dc:creator>Yonghao Liang</dc:creator>
-                <dc:creator>Ting Wang</dc:creator>
-                <dc:date>2024-07-04</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>LINE1 mediates long-range DNA interactions</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01824-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Rmg8 gene against wheat blast</title>
                 <link>https://www.nature.com/articles/s41477-024-01690-3</link>
                 <description>Characterization of Rmg8, the major resistance gene for wheat blast found in common wheat, brought a surprise: it is a variant of Pm4, a resistance gene for powdery mildew disease. Both genes recognize the AVR-Rmg8 gene of the wheat blast fungus Magnaporthe oryzae pathotype Triticum (MoT), which results in resistance against this pathogen. This discovery opens avenues for developing wheat varieties to combat wheat blast disease.</description>
@@ -1509,33 +1537,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Driving evolution in wild plants</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01723-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Raison d’être of the plastid repeat</title>
-                <link>https://www.nature.com/articles/s41477-024-01710-2</link>
-                <description>Creation of a plastid genome without an inverted repeat in Nicotiana tabacum reveals a role for the inverted repeat in gene dosage and the regulation of replication by total DNA content rather than copy number.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Creation of a plastid genome without an inverted repeat in Nicotiana tabacum reveals a role for the inverted repeat in gene dosage and the regulation of replication by total DNA content rather than copy number.</p></div>]]></content:encoded>
-                <pubDate>2024-05-27</pubDate>
-                <dc:creator>Jeffrey P. Mower</dc:creator>
-                <dc:date>2024-05-27</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Raison d’être of the plastid repeat</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01710-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Nuclear pores beyond macromolecule channels</title>
-                <link>https://www.nature.com/articles/s41477-024-01704-0</link>
-                <description>The nuclear pore is known as a large protein complex for the transport of macromolecules between the nucleus and the cytoplasm. Comprehensive proteomic analyses revealed a novel role of the nuclear pore complex as a platform for the coordinated regulation of the flow from transcription to translation.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nuclear pore is known as a large protein complex for the transport of macromolecules between the nucleus and the cytoplasm. Comprehensive proteomic analyses revealed a novel role of the nuclear pore complex as a platform for the coordinated regulation of the flow from transcription to translation.</p></div>]]></content:encoded>
-                <pubDate>2024-05-21</pubDate>
-                <dc:creator>Sachihiro Matsunaga</dc:creator>
-                <dc:creator>Nanami Ito</dc:creator>
-                <dc:date>2024-05-21</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Nuclear pores beyond macromolecule channels</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01704-0</dc:identifier>
             </item>
         
             <item>
