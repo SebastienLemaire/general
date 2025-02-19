@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Mass spectrometry-based mapping of plasma protein QTLs in children and adolescents</title>
+                <link>https://www.nature.com/articles/s41588-025-02088-3</link>
+                <description>Mass spectrometry-based proteomics demonstrated its increasing analytical power and unique strengths in measuring genome-wide plasma proteomes and identifying protein quantitative trait loci (pQTLs), as reported in a study of over 3,000 Danish children and adolescents.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mass spectrometry-based proteomics demonstrated its increasing analytical power and unique strengths in measuring genome-wide plasma proteomes and identifying protein quantitative trait loci (pQTLs), as reported in a study of over 3,000 Danish children and adolescents.</p></div>]]></content:encoded>
+                <pubDate>2025-02-19</pubDate>
+                <dc:creator>Yansheng Liu</dc:creator>
+                <dc:date>2025-02-19</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Mass spectrometry-based mapping of plasma protein QTLs in children and adolescents</dc:title>
+                <dc:identifier>doi:doi.org/s41588-025-02088-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Molecular glue unexpectedly mimics the effect of cancer mutations</title>
                 <link>https://www.nature.com/articles/d41586-025-00090-7</link>
                 <description>Many conventional small-molecule drugs work by inhibiting proteins, affecting their function. One small molecule instead imbues a protein with a new function in a mechanism that could inform rational drug design.</description>
@@ -41,17 +54,30 @@
             </item>
         
             <item>
-                <title>PNET1 is a key regulator of NPC dynamics and cell division</title>
-                <link>https://www.nature.com/articles/s41477-025-01930-0</link>
-                <description>The membrane-intrinsic nuclear pore complex component PNET1 is specifically found in proliferating tissue, where it regulates breakdown and reassembly of the nuclear pores and is essential for promoting cell division and tissue maintenance. These dynamics are driven by phosphorylation events that alter PNET1 interactions.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The membrane-intrinsic nuclear pore complex component PNET1 is specifically found in proliferating tissue, where it regulates breakdown and reassembly of the nuclear pores and is essential for promoting cell division and tissue maintenance. These dynamics are driven by phosphorylation events that alter PNET1 interactions.</p></div>]]></content:encoded>
-                <pubDate>2025-02-17</pubDate>
-                <dc:creator>Katja Graumann</dc:creator>
-                <dc:creator>Nadine Field</dc:creator>
-                <dc:date>2025-02-17</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>PNET1 is a key regulator of NPC dynamics and cell division</dc:title>
-                <dc:identifier>doi:doi.org/s41477-025-01930-0</dc:identifier>
+                <title>Could psychedelics be fine-tuned to relieve anxiety but skip the ‘trip’?</title>
+                <link>https://www.nature.com/articles/d41586-025-00454-z</link>
+                <description>Interest in psychedelic substances as medicines is rising. Identifying the neural circuits that mediate the benefits of psychedelics could pave the way for long-lasting anxiety treatments without the short-term sensory disturbances.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Interest in psychedelic substances as medicines is rising. Identifying the neural circuits that mediate the benefits of psychedelics could pave the way for long-lasting anxiety treatments without the short-term sensory disturbances.</p></div>]]></content:encoded>
+                <pubDate>2025-02-18</pubDate>
+                <dc:creator>Cory A. Knox</dc:creator>
+                <dc:creator>Alex C. Kwan</dc:creator>
+                <dc:date>2025-02-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Could psychedelics be fine-tuned to relieve anxiety but skip the ‘trip’?</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00454-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The 1925 debate about adopting the word ‘scientist’ heats up</title>
+                <link>https://www.nature.com/articles/d41586-025-00464-x</link>
+                <description>The pros and cons of a word gaining popularity, and publication of an updated edition of a book by Charles Darwin in this week’s pick from the Nature archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pros and cons of a word gaining popularity, and publication of an updated edition of a book by Charles Darwin in this week’s pick from the Nature archive.</p></div>]]></content:encoded>
+                <pubDate>2025-02-18</pubDate>
+                
+                <dc:date>2025-02-18</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The 1925 debate about adopting the word ‘scientist’ heats up</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00464-x</dc:identifier>
             </item>
         
             <item>
@@ -66,6 +92,20 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Polyguanine microsatellites are robust replication clocks in cancer</dc:title>
                 <dc:identifier>doi:doi.org/s41588-025-02098-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>PNET1 is a key regulator of NPC dynamics and cell division</title>
+                <link>https://www.nature.com/articles/s41477-025-01930-0</link>
+                <description>The membrane-intrinsic nuclear pore complex component PNET1 is specifically found in proliferating tissue, where it regulates breakdown and reassembly of the nuclear pores and is essential for promoting cell division and tissue maintenance. These dynamics are driven by phosphorylation events that alter PNET1 interactions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The membrane-intrinsic nuclear pore complex component PNET1 is specifically found in proliferating tissue, where it regulates breakdown and reassembly of the nuclear pores and is essential for promoting cell division and tissue maintenance. These dynamics are driven by phosphorylation events that alter PNET1 interactions.</p></div>]]></content:encoded>
+                <pubDate>2025-02-17</pubDate>
+                <dc:creator>Katja Graumann</dc:creator>
+                <dc:creator>Nadine Field</dc:creator>
+                <dc:date>2025-02-17</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>PNET1 is a key regulator of NPC dynamics and cell division</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01930-0</dc:identifier>
             </item>
         
             <item>
@@ -256,20 +296,6 @@
             </item>
         
             <item>
-                <title>Regulating MYC translation in cancer</title>
-                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
-                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
-                <pubDate>2025-02-07</pubDate>
-                <dc:creator>Zainab Hussain</dc:creator>
-                <dc:creator>Mara H. Sherman</dc:creator>
-                <dc:date>2025-02-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Regulating MYC translation in cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Unveiling heterogeneity in rare cells by combining RNA-based sorting and scRNA-seq</title>
                 <link>https://www.nature.com/articles/s41588-024-02073-2</link>
                 <description>A study describes the development of PERFF-seq, a method to ‘FISH’ out rare cells using RNA markers, helping to solve the challenge in single-cell biology of studying cells that make up less than 1% of a sample.</description>
@@ -284,17 +310,17 @@
             </item>
         
             <item>
-                <title>‘Unconventional’ superconductivity probed in twisted graphene</title>
-                <link>https://www.nature.com/articles/d41586-025-00057-8</link>
-                <description>A superconducting state can be induced in a twisted carbon-based material, but it can’t be described with conventional theory. A technique using high-frequency circuits could reveal the mechanism behind this fascinating state.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A superconducting state can be induced in a twisted carbon-based material, but it can’t be described with conventional theory. A technique using high-frequency circuits could reveal the mechanism behind this fascinating state.</p></div>]]></content:encoded>
-                <pubDate>2025-02-05</pubDate>
-                <dc:creator>Paritosh Karnatak</dc:creator>
-                <dc:creator>Christian Schönenberger</dc:creator>
-                <dc:date>2025-02-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>‘Unconventional’ superconductivity probed in twisted graphene</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00057-8</dc:identifier>
+                <title>Regulating MYC translation in cancer</title>
+                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
+                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Zainab Hussain</dc:creator>
+                <dc:creator>Mara H. Sherman</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Regulating MYC translation in cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
             </item>
         
             <item>
@@ -336,6 +362,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Crowds start to spin when their densities hit a threshold</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00036-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>‘Unconventional’ superconductivity probed in twisted graphene</title>
+                <link>https://www.nature.com/articles/d41586-025-00057-8</link>
+                <description>A superconducting state can be induced in a twisted carbon-based material, but it can’t be described with conventional theory. A technique using high-frequency circuits could reveal the mechanism behind this fascinating state.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A superconducting state can be induced in a twisted carbon-based material, but it can’t be described with conventional theory. A technique using high-frequency circuits could reveal the mechanism behind this fascinating state.</p></div>]]></content:encoded>
+                <pubDate>2025-02-05</pubDate>
+                <dc:creator>Paritosh Karnatak</dc:creator>
+                <dc:creator>Christian Schönenberger</dc:creator>
+                <dc:date>2025-02-05</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>‘Unconventional’ superconductivity probed in twisted graphene</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00057-8</dc:identifier>
             </item>
         
             <item>
@@ -430,34 +470,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>How a ribosomal protein avoids mixed signals</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01606-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Viral tolerance enabled by a bat-specific genomic tweak</title>
-                <link>https://www.nature.com/articles/d41586-025-00081-8</link>
-                <description>Bats carry viral pathogens that typically do not lead to severe disease in the bats themselves but can be lethal to humans. Adaptations in certain immune genes might contribute to this resistance.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bats carry viral pathogens that typically do not lead to severe disease in the bats themselves but can be lethal to humans. Adaptations in certain immune genes might contribute to this resistance.</p></div>]]></content:encoded>
-                <pubDate>2025-01-29</pubDate>
-                <dc:creator>Junji Zhu</dc:creator>
-                <dc:creator>Michaela U. Gack</dc:creator>
-                <dc:date>2025-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Viral tolerance enabled by a bat-specific genomic tweak</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00081-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Conservation strategies aided by assessment of global genetic diversity</title>
-                <link>https://www.nature.com/articles/d41586-025-00083-6</link>
-                <description>An analysis of published data reveals how genetic diversity has been changing in populations of 622 terrestrial and marine species and the effectiveness of different types of intervention to boost genetic diversity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of published data reveals how genetic diversity has been changing in populations of 622 terrestrial and marine species and the effectiveness of different types of intervention to boost genetic diversity.</p></div>]]></content:encoded>
-                <pubDate>2025-01-29</pubDate>
-                <dc:creator>David Nogués-Bravo</dc:creator>
-                <dc:creator>Carsten Rahbek</dc:creator>
-                <dc:date>2025-01-29</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Conservation strategies aided by assessment of global genetic diversity</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00083-6</dc:identifier>
             </item>
         
             <item>
@@ -1211,19 +1223,6 @@
             </item>
         
             <item>
-                <title>Transposable elements underlie genetic adaptation</title>
-                <link>https://www.nature.com/articles/s41477-024-01792-y</link>
-                <description>The insertion of the stress-responsive transposable element (TE) ONSEN into a critical flowering regulator gene confers an adaptive response to herbicide treatment in Arabidopsis thaliana natural accessions.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The insertion of the stress-responsive transposable element (TE) ONSEN into a critical flowering regulator gene confers an adaptive response to herbicide treatment in Arabidopsis thaliana natural accessions.</p></div>]]></content:encoded>
-                <pubDate>2024-09-27</pubDate>
-                <dc:creator>Marco Catoni</dc:creator>
-                <dc:date>2024-09-27</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Transposable elements underlie genetic adaptation</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01792-y</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Context-specific targeting of the androgen receptor in prostate cancer</title>
                 <link>https://www.nature.com/articles/s41588-024-01935-z</link>
                 <description>A co-factor for the androgen receptor, NSD2, provides insights into context-specific functions of the androgen receptor and is a new target for intervention.</description>
@@ -1234,6 +1233,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Context-specific targeting of the androgen receptor in prostate cancer</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01935-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Transposable elements underlie genetic adaptation</title>
+                <link>https://www.nature.com/articles/s41477-024-01792-y</link>
+                <description>The insertion of the stress-responsive transposable element (TE) ONSEN into a critical flowering regulator gene confers an adaptive response to herbicide treatment in Arabidopsis thaliana natural accessions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The insertion of the stress-responsive transposable element (TE) ONSEN into a critical flowering regulator gene confers an adaptive response to herbicide treatment in Arabidopsis thaliana natural accessions.</p></div>]]></content:encoded>
+                <pubDate>2024-09-27</pubDate>
+                <dc:creator>Marco Catoni</dc:creator>
+                <dc:date>2024-09-27</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Transposable elements underlie genetic adaptation</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01792-y</dc:identifier>
             </item>
         
             <item>
@@ -1321,19 +1333,6 @@
             </item>
         
             <item>
-                <title>A centromere’s obsession with transposons</title>
-                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
-                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
-                <pubDate>2024-09-02</pubDate>
-                <dc:creator>Leandro Quadrana</dc:creator>
-                <dc:date>2024-09-02</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A centromere’s obsession with transposons</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Activating the dark genome to illuminate cancer vaccine targets</title>
                 <link>https://www.nature.com/articles/s41588-024-01850-3</link>
                 <description>Epigenetic therapy triggers myriad transposable elements to generate new antigens that could prime tumor cells for immunotherapy. A study of glioblastoma discovers indiscriminate activation in healthy cells as well, and presents a more selective strategy for potential therapeutic targeting.</description>
@@ -1346,6 +1345,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Activating the dark genome to illuminate cancer vaccine targets</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01850-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A centromere’s obsession with transposons</title>
+                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
+                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
+                <pubDate>2024-09-02</pubDate>
+                <dc:creator>Leandro Quadrana</dc:creator>
+                <dc:date>2024-09-02</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A centromere’s obsession with transposons</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
             </item>
         
             <item>
@@ -1498,19 +1510,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Mobile element insertions affect human pigmentation and skin cancer risk</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01849-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Improving estimates of loss-of-function constraint for short genes</title>
-                <link>https://www.nature.com/articles/s41588-024-01829-0</link>
-                <description>Genetic constraint identifies genes under selection against loss-of-function, but existing methods are inaccurate for shorter genes. A new study overcomes this key limitation to ascribe more confident predictions to all human protein-coding genes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genetic constraint identifies genes under selection against loss-of-function, but existing methods are inaccurate for shorter genes. A new study overcomes this key limitation to ascribe more confident predictions to all human protein-coding genes.</p></div>]]></content:encoded>
-                <pubDate>2024-07-15</pubDate>
-                <dc:creator>Nicola Whiffin</dc:creator>
-                <dc:date>2024-07-15</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Improving estimates of loss-of-function constraint for short genes</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01829-0</dc:identifier>
             </item>
         
             <item>
