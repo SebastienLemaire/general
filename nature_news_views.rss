@@ -42,6 +42,19 @@
             </item>
         
             <item>
+                <title>How to develop a good writing style</title>
+                <link>https://www.nature.com/articles/d41586-025-00465-w</link>
+                <description>Tips for clear scientific communication, and news of efforts to kill the larvae that cause river blindness, in this week’s pick from Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Tips for clear scientific communication, and news of efforts to kill the larvae that cause river blindness, in this week’s pick from Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2025-02-25</pubDate>
+                
+                <dc:date>2025-02-25</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How to develop a good writing style</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00465-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Finding factors that enforce the multifaceted functions of FAMA</title>
                 <link>https://www.nature.com/articles/s41477-024-01890-x</link>
                 <description>Guard cells and myrosin cells have different functions, morphology and location and yet share regulators and a large part of their transcriptome. FAMA is required for the differentiation of both cell types. A recent study reveals WASABI MAKER as a FAMA target that is involved in both differentiation processes.</description>
@@ -123,19 +136,6 @@
             </item>
         
             <item>
-                <title>Mass spectrometry-based mapping of plasma protein QTLs in children and adolescents</title>
-                <link>https://www.nature.com/articles/s41588-025-02088-3</link>
-                <description>Mass spectrometry-based proteomics demonstrated its increasing analytical power and unique strengths in measuring genome-wide plasma proteomes and identifying protein quantitative trait loci (pQTLs), as reported in a study of over 3,000 Danish children and adolescents.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mass spectrometry-based proteomics demonstrated its increasing analytical power and unique strengths in measuring genome-wide plasma proteomes and identifying protein quantitative trait loci (pQTLs), as reported in a study of over 3,000 Danish children and adolescents.</p></div>]]></content:encoded>
-                <pubDate>2025-02-19</pubDate>
-                <dc:creator>Yansheng Liu</dc:creator>
-                <dc:date>2025-02-19</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Mass spectrometry-based mapping of plasma protein QTLs in children and adolescents</dc:title>
-                <dc:identifier>doi:doi.org/s41588-025-02088-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Putting the brakes on mitochondrial fusion to prevent escape of mitochondrial DNA</title>
                 <link>https://www.nature.com/articles/d41586-025-00303-z</link>
                 <description>Cellular organelles called mitochondria contain DNA and can fuse together or split apart. It emerges that excess fusion is averted by stress-activated regulators, preventing the potentially harmful release of mitochondrial DNA.</description>
@@ -147,6 +147,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Putting the brakes on mitochondrial fusion to prevent escape of mitochondrial DNA</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00303-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mass spectrometry-based mapping of plasma protein QTLs in children and adolescents</title>
+                <link>https://www.nature.com/articles/s41588-025-02088-3</link>
+                <description>Mass spectrometry-based proteomics demonstrated its increasing analytical power and unique strengths in measuring genome-wide plasma proteomes and identifying protein quantitative trait loci (pQTLs), as reported in a study of over 3,000 Danish children and adolescents.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mass spectrometry-based proteomics demonstrated its increasing analytical power and unique strengths in measuring genome-wide plasma proteomes and identifying protein quantitative trait loci (pQTLs), as reported in a study of over 3,000 Danish children and adolescents.</p></div>]]></content:encoded>
+                <pubDate>2025-02-19</pubDate>
+                <dc:creator>Yansheng Liu</dc:creator>
+                <dc:date>2025-02-19</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Mass spectrometry-based mapping of plasma protein QTLs in children and adolescents</dc:title>
+                <dc:identifier>doi:doi.org/s41588-025-02088-3</dc:identifier>
             </item>
         
             <item>
@@ -247,19 +260,6 @@
             </item>
         
             <item>
-                <title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</title>
-                <link>https://www.nature.com/articles/d41586-025-00091-6</link>
-                <description>A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</p></div>]]></content:encoded>
-                <pubDate>2025-02-12</pubDate>
-                <dc:creator>Laura Arbour</dc:creator>
-                <dc:date>2025-02-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00091-6</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Does a cell’s gene expression always reflect its function?</title>
                 <link>https://www.nature.com/articles/d41586-025-00088-1</link>
                 <description>Defining a cell’s ‘type’ by the RNA transcripts it expresses is popular in biological research, but evidence from zebrafish neurons suggests that transcriptionally similar cells can be functionally diverse.</description>
@@ -310,6 +310,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Mysterious neutrino barrels through deep waters near Sicily</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00035-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</title>
+                <link>https://www.nature.com/articles/d41586-025-00091-6</link>
+                <description>A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study involving 14% of the people in Greenland makes a case for including under-represented groups in population genomics data — which could reduce inequalities in genetics-based clinical care and personalized medicine.</p></div>]]></content:encoded>
+                <pubDate>2025-02-12</pubDate>
+                <dc:creator>Laura Arbour</dc:creator>
+                <dc:date>2025-02-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00091-6</dc:identifier>
             </item>
         
             <item>
@@ -445,20 +458,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Unveiling heterogeneity in rare cells by combining RNA-based sorting and scRNA-seq</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-02073-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Genetic and geographical origins of Eurasia’s influential Yamna culture</title>
-                <link>https://www.nature.com/articles/d41586-025-00089-0</link>
-                <description>Ancient genomes from modern Ukraine and Russia reveal the origins of the Yamna people, pastoralists who migrated from the Eurasian steppe to Europe 5,000 years ago, spreading their ancestry, culture and, probably, language.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ancient genomes from modern Ukraine and Russia reveal the origins of the Yamna people, pastoralists who migrated from the Eurasian steppe to Europe 5,000 years ago, spreading their ancestry, culture and, probably, language.</p></div>]]></content:encoded>
-                <pubDate>2025-02-05</pubDate>
-                <dc:creator>Lehti Saag</dc:creator>
-                <dc:creator>Mait Metspalu</dc:creator>
-                <dc:date>2025-02-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Genetic and geographical origins of Eurasia’s influential Yamna culture</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00089-0</dc:identifier>
             </item>
         
             <item>
