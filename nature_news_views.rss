@@ -13,6 +13,60 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The new newborn screening</title>
+                <link>https://www.nature.com/articles/s41591-025-03567-0</link>
+                <description>DNA sequencing offers opportunities for enhancing and expanding newborn screening for treatable conditions that affect children; pilot studies will be critical to refining key parameters for scalability and optimal outcomes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA sequencing offers opportunities for enhancing and expanding newborn screening for treatable conditions that affect children; pilot studies will be critical to refining key parameters for scalability and optimal outcomes.</p></div>]]></content:encoded>
+                <pubDate>2025-03-05</pubDate>
+                <dc:creator>Wendy K. Chung</dc:creator>
+                <dc:date>2025-03-05</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The new newborn screening</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03567-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Sugar unmasking for trafficking</title>
+                <link>https://www.nature.com/articles/s41556-025-01615-y</link>
+                <description>Cell surface acidification has key roles in both cell migration and bone resorption. A study now identifies a pathway whereby growth factor signalling induces local acidification, driving sialic acid removal and galectin-3-mediated integrin internalization.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Cell surface acidification has key roles in both cell migration and bone resorption. A study now identifies a pathway whereby growth factor signalling induces local acidification, driving sialic acid removal and galectin-3-mediated integrin internalization.</p></div>]]></content:encoded>
+                <pubDate>2025-03-04</pubDate>
+                <dc:creator>David A. Calderwood</dc:creator>
+                <dc:creator>Derek Toomre</dc:creator>
+                <dc:date>2025-03-04</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Sugar unmasking for trafficking</dc:title>
+                <dc:identifier>doi:doi.org/s41556-025-01615-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A name for the study of life in the Universe</title>
+                <link>https://www.nature.com/articles/d41586-025-00466-9</link>
+                <description>An argument for introducing the word ‘cosmobiology’, and accounts of the human side of science, in our weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An argument for introducing the word ‘cosmobiology’, and accounts of the human side of science, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2025-03-04</pubDate>
+                
+                <dc:date>2025-03-04</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A name for the study of life in the Universe</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00466-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Entering the era of deep single-cell proteomics</title>
+                <link>https://www.nature.com/articles/s41592-025-02620-7</link>
+                <description>Advances in single-cell proteomics allow quantification of half of the expressed proteome in an individual cell.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Advances in single-cell proteomics allow quantification of half of the expressed proteome in an individual cell.</p></div>]]></content:encoded>
+                <pubDate>2025-03-03</pubDate>
+                <dc:creator>Ludwig R. Sinn</dc:creator>
+                <dc:creator>Vadim Demichev</dc:creator>
+                <dc:date>2025-03-03</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Entering the era of deep single-cell proteomics</dc:title>
+                <dc:identifier>doi:doi.org/s41592-025-02620-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Atlantic circulation could be more resilient to global warming than was thought</title>
                 <link>https://www.nature.com/articles/d41586-025-00300-2</link>
                 <description>A system of ocean currents called the Atlantic meridional overturning circulation strongly affects climate, but is showing signs of shutting down. An analysis now suggests that total collapse is unlikely this century.</description>
@@ -149,20 +203,6 @@
             </item>
         
             <item>
-                <title>The secrets of static electricity are finally being revealed</title>
-                <link>https://www.nature.com/articles/d41586-025-00298-7</link>
-                <description>The mechanism that causes static electricity to build up is a mystery. Experiments now reveal that materials ‘remember’ past contacts with each other — and this determines how electric charge is transferred in future contacts.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanism that causes static electricity to build up is a mystery. Experiments now reveal that materials ‘remember’ past contacts with each other — and this determines how electric charge is transferred in future contacts.</p></div>]]></content:encoded>
-                <pubDate>2025-02-19</pubDate>
-                <dc:creator>Daniel J. Lacks</dc:creator>
-                <dc:creator>Mamadou Sow</dc:creator>
-                <dc:date>2025-02-19</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The secrets of static electricity are finally being revealed</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00298-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Peptides from abnormal RNA processing in cancer offer an immunotherapy target</title>
                 <link>https://www.nature.com/articles/d41586-025-00302-0</link>
                 <description>Tumour cells often have problems processing messenger RNA. The finding that these splicing errors result in commonly expressed peptides that are recognized by immune cells offers a target for cancer treatments.</description>
@@ -214,6 +254,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Key process in sex-cell formation can finally be studied in vitro</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00305-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The secrets of static electricity are finally being revealed</title>
+                <link>https://www.nature.com/articles/d41586-025-00298-7</link>
+                <description>The mechanism that causes static electricity to build up is a mystery. Experiments now reveal that materials ‘remember’ past contacts with each other — and this determines how electric charge is transferred in future contacts.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanism that causes static electricity to build up is a mystery. Experiments now reveal that materials ‘remember’ past contacts with each other — and this determines how electric charge is transferred in future contacts.</p></div>]]></content:encoded>
+                <pubDate>2025-02-19</pubDate>
+                <dc:creator>Daniel J. Lacks</dc:creator>
+                <dc:creator>Mamadou Sow</dc:creator>
+                <dc:date>2025-02-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>The secrets of static electricity are finally being revealed</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00298-7</dc:identifier>
             </item>
         
             <item>
@@ -327,17 +381,16 @@
             </item>
         
             <item>
-                <title>Does a cell’s gene expression always reflect its function?</title>
-                <link>https://www.nature.com/articles/d41586-025-00088-1</link>
-                <description>Defining a cell’s ‘type’ by the RNA transcripts it expresses is popular in biological research, but evidence from zebrafish neurons suggests that transcriptionally similar cells can be functionally diverse.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Defining a cell’s ‘type’ by the RNA transcripts it expresses is popular in biological research, but evidence from zebrafish neurons suggests that transcriptionally similar cells can be functionally diverse.</p></div>]]></content:encoded>
+                <title>Thinking globally for pandemic early warning systems</title>
+                <link>https://www.nature.com/articles/s41591-024-03460-2</link>
+                <description>A modeling study highlights the benefits of a global aircraft-based wastewater surveillance network, but the best early warning system is likely to involve a combination of methodologies within an integrated, end-to-end bioinformatics pipeline.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A modeling study highlights the benefits of a global aircraft-based wastewater surveillance network, but the best early warning system is likely to involve a combination of methodologies within an integrated, end-to-end bioinformatics pipeline.</p></div>]]></content:encoded>
                 <pubDate>2025-02-12</pubDate>
-                <dc:creator>M. Neşet Özel</dc:creator>
-                <dc:creator>Claude Desplan</dc:creator>
+                <dc:creator>C. Raina MacIntyre</dc:creator>
                 <dc:date>2025-02-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Does a cell’s gene expression always reflect its function?</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00088-1</dc:identifier>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Thinking globally for pandemic early warning systems</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03460-2</dc:identifier>
             </item>
         
             <item>
@@ -390,19 +443,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Genetic data from Indigenous Greenlanders could help to narrow health-care gap</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00091-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Thinking globally for pandemic early warning systems</title>
-                <link>https://www.nature.com/articles/s41591-024-03460-2</link>
-                <description>A modeling study highlights the benefits of a global aircraft-based wastewater surveillance network, but the best early warning system is likely to involve a combination of methodologies within an integrated, end-to-end bioinformatics pipeline.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A modeling study highlights the benefits of a global aircraft-based wastewater surveillance network, but the best early warning system is likely to involve a combination of methodologies within an integrated, end-to-end bioinformatics pipeline.</p></div>]]></content:encoded>
-                <pubDate>2025-02-12</pubDate>
-                <dc:creator>C. Raina MacIntyre</dc:creator>
-                <dc:date>2025-02-12</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Thinking globally for pandemic early warning systems</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03460-2</dc:identifier>
             </item>
         
             <item>
@@ -516,19 +556,6 @@
             </item>
         
             <item>
-                <title>Pseudouridine is the hidden language of plant RNA translation</title>
-                <link>https://www.nature.com/articles/s41477-025-01926-w</link>
-                <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</p></div>]]></content:encoded>
-                <pubDate>2025-02-03</pubDate>
-                <dc:creator>Patricia Baldrich</dc:creator>
-                <dc:date>2025-02-03</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
-                <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Not the end of the road for macrophage therapy in liver cirrhosis</title>
                 <link>https://www.nature.com/articles/s41591-025-03490-4</link>
                 <description>A phase 2 trial of autologous macrophage therapy falls just short of meeting its primary endpoint of improving prognosis, but it is too soon to dismiss this approach; further research and protocol optimization should yield more definitive results.</description>
@@ -539,6 +566,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Not the end of the road for macrophage therapy in liver cirrhosis</dc:title>
                 <dc:identifier>doi:doi.org/s41591-025-03490-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pseudouridine is the hidden language of plant RNA translation</title>
+                <link>https://www.nature.com/articles/s41477-025-01926-w</link>
+                <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</p></div>]]></content:encoded>
+                <pubDate>2025-02-03</pubDate>
+                <dc:creator>Patricia Baldrich</dc:creator>
+                <dc:date>2025-02-03</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
             </item>
         
             <item>
@@ -697,17 +737,17 @@
             </item>
         
             <item>
-                <title>Setting sights on a single-shot malaria vaccine</title>
-                <link>https://www.nature.com/articles/s41591-024-03427-3</link>
-                <description>In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</p></div>]]></content:encoded>
+                <title>Speckle signatures dictate cancer prognosis</title>
+                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
+                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
                 <pubDate>2025-01-03</pubDate>
-                <dc:creator>Debashree Goswami</dc:creator>
-                <dc:creator>Stefan H. I. Kappe</dc:creator>
+                <dc:creator>Hiro Takakuwa</dc:creator>
+                <dc:creator>Tetsuro Hirose</dc:creator>
                 <dc:date>2025-01-03</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Setting sights on a single-shot malaria vaccine</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03427-3</dc:identifier>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
             </item>
         
             <item>
@@ -725,17 +765,17 @@
             </item>
         
             <item>
-                <title>Speckle signatures dictate cancer prognosis</title>
-                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
-                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
+                <title>Setting sights on a single-shot malaria vaccine</title>
+                <link>https://www.nature.com/articles/s41591-024-03427-3</link>
+                <description>In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</p></div>]]></content:encoded>
                 <pubDate>2025-01-03</pubDate>
-                <dc:creator>Hiro Takakuwa</dc:creator>
-                <dc:creator>Tetsuro Hirose</dc:creator>
+                <dc:creator>Debashree Goswami</dc:creator>
+                <dc:creator>Stefan H. I. Kappe</dc:creator>
                 <dc:date>2025-01-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Setting sights on a single-shot malaria vaccine</dc:title>
+                <dc:identifier>doi:doi.org/s41591-024-03427-3</dc:identifier>
             </item>
         
             <item>
@@ -930,6 +970,19 @@
             </item>
         
             <item>
+                <title>New light on pyrenoid membrane tubules</title>
+                <link>https://www.nature.com/articles/s41477-024-01857-y</link>
+                <description>The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</p></div>]]></content:encoded>
+                <pubDate>2024-11-15</pubDate>
+                <dc:creator>Jean-David Rochaix</dc:creator>
+                <dc:date>2024-11-15</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>New light on pyrenoid membrane tubules</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01857-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>FMRP gains mitochondrial fission control</title>
                 <link>https://www.nature.com/articles/s41556-024-01567-9</link>
                 <description>Mitochondrial fission and fusion are crucial for neurons. The RNA-binding protein FMRP regulates mitochondrial dynamics, including fusion and trafficking in neurons. A study now identifies a mechanism by which FMRP regulates mitochondrial fission.</description>
@@ -942,19 +995,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>FMRP gains mitochondrial fission control</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01567-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>New light on pyrenoid membrane tubules</title>
-                <link>https://www.nature.com/articles/s41477-024-01857-y</link>
-                <description>The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pyrenoid contains internal membrane structures that are required for efficient carbon fixation. The two proteins SAGA1 and MITH1 are necessary for the biogenesis of these membranes and the delivery of bicarbonate to the pyrenoid matrix.</p></div>]]></content:encoded>
-                <pubDate>2024-11-15</pubDate>
-                <dc:creator>Jean-David Rochaix</dc:creator>
-                <dc:date>2024-11-15</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>New light on pyrenoid membrane tubules</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01857-y</dc:identifier>
             </item>
         
             <item>
@@ -1318,19 +1358,6 @@
             </item>
         
             <item>
-                <title>The practical longevity of stockpiled A(H5N1) influenza vaccine</title>
-                <link>https://www.nature.com/articles/s41591-024-03256-4</link>
-                <description>Stockpiled A(H5N1) influenza vaccines made using viruses from the mid-2000s stimulate antibodies that cross-react with current strains, despite being separated by 20 years of viral evolution — supporting investment in vaccine stockpiling for pandemic preparedness.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Stockpiled A(H5N1) influenza vaccines made using viruses from the mid-2000s stimulate antibodies that cross-react with current strains, despite being separated by 20 years of viral evolution — supporting investment in vaccine stockpiling for pandemic preparedness.</p></div>]]></content:encoded>
-                <pubDate>2024-09-26</pubDate>
-                <dc:creator>Richard J. Webby</dc:creator>
-                <dc:date>2024-09-26</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>The practical longevity of stockpiled A(H5N1) influenza vaccine</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03256-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Host physiology shapes the mutational landscape of normal and carcinogenic tissue</title>
                 <link>https://www.nature.com/articles/s41588-024-01922-4</link>
                 <description>Somatic mutations accrue with age as patches of mutant clones arise in otherwise histologically normal tissue. The clones’ persistence, expansion and roles in physiology and tumorigenesis are unclear. New work on the behavior of Pik3caH1047R mutant esophageal clones shows that host-dependent metabolic features underpin their expansion.</description>
@@ -1373,19 +1400,6 @@
             </item>
         
             <item>
-                <title>A centromere’s obsession with transposons</title>
-                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
-                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
-                <pubDate>2024-09-02</pubDate>
-                <dc:creator>Leandro Quadrana</dc:creator>
-                <dc:date>2024-09-02</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A centromere’s obsession with transposons</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>HSF1 renders NK cells too stressed to respond</title>
                 <link>https://www.nature.com/articles/s41556-024-01472-1</link>
                 <description>The tumour microenvironment propagates stress responses in resident cells. In tumour-infiltrating natural killer (NK) cells, the HSF1 transcription factor binds to mediators of effector function, negatively regulating NK cytotoxicity. These findings provide important mechanistic insights that may enhance NK cell cancer therapy.</description>
@@ -1398,6 +1412,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>HSF1 renders NK cells too stressed to respond</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01472-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A centromere’s obsession with transposons</title>
+                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
+                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
+                <pubDate>2024-09-02</pubDate>
+                <dc:creator>Leandro Quadrana</dc:creator>
+                <dc:date>2024-09-02</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A centromere’s obsession with transposons</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
             </item>
         
             <item>
@@ -1468,20 +1495,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Unlocking alleles from exotic wheat</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01764-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A fatty acid switch drives ferroptosis in EMT</title>
-                <link>https://www.nature.com/articles/s41556-024-01483-y</link>
-                <description>Ferroptosis is mediated by toxic accumulation of lipid peroxides. A new study reports that the transcription factor ZEB1 drives ferroptosis sensitivity by regulating the synthesis of highly oxidizable poly-unsaturated fatty acids. This creates a selective vulnerability that can be exploited to eliminate aggressive mesenchymal cancer cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ferroptosis is mediated by toxic accumulation of lipid peroxides. A new study reports that the transcription factor ZEB1 drives ferroptosis sensitivity by regulating the synthesis of highly oxidizable poly-unsaturated fatty acids. This creates a selective vulnerability that can be exploited to eliminate aggressive mesenchymal cancer cells.</p></div>]]></content:encoded>
-                <pubDate>2024-08-13</pubDate>
-                <dc:creator>Alina M. Winkelkotte</dc:creator>
-                <dc:creator>Almut Schulze</dc:creator>
-                <dc:date>2024-08-13</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>A fatty acid switch drives ferroptosis in EMT</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01483-y</dc:identifier>
             </item>
         
             <item>
@@ -1644,19 +1657,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Movies tell us how tissues develop a 3D shape</dc:title>
                 <dc:identifier>doi:doi.org/s41592-023-02102-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Genetically encoded shape probes for cryogenic electron tomography</title>
-                <link>https://www.nature.com/articles/s41592-023-02044-1</link>
-                <description>A class of protein-based molecular shape probes move us closer toward the goal of a general, genetically encoded tagging system for cryogenic electron tomography.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A class of protein-based molecular shape probes move us closer toward the goal of a general, genetically encoded tagging system for cryogenic electron tomography.</p></div>]]></content:encoded>
-                <pubDate>2023-11-06</pubDate>
-                <dc:creator>Justin W. Taraska</dc:creator>
-                <dc:date>2023-11-06</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Genetically encoded shape probes for cryogenic electron tomography</dc:title>
-                <dc:identifier>doi:doi.org/s41592-023-02044-1</dc:identifier>
             </item>
             
         </channel>
