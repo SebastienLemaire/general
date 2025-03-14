@@ -13,6 +13,84 @@
             <ttl>120</ttl>
     
             <item>
+                <title>A NERDy effect on flowering</title>
+                <link>https://www.nature.com/articles/s41477-025-01967-1</link>
+                <description>Identification of NERD-interacting proteins reveals a role for this protein in N6-methyladenosine deposition at the FLC locus to regulate flowering time.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Identification of NERD-interacting proteins reveals a role for this protein in N6-methyladenosine deposition at the FLC locus to regulate flowering time.</p></div>]]></content:encoded>
+                <pubDate>2025-03-14</pubDate>
+                <dc:creator>Brian D. Gregory</dc:creator>
+                <dc:date>2025-03-14</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A NERDy effect on flowering</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01967-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Metals squeezed to thickness of just two atoms</title>
+                <link>https://www.nature.com/articles/d41586-025-00548-8</link>
+                <description>Ultrathin metals have been prepared using a benchtop hydraulic press — allowing the fascinating properties of the resulting 2D materials to be observed.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ultrathin metals have been prepared using a benchtop hydraulic press — allowing the fascinating properties of the resulting 2D materials to be observed.</p></div>]]></content:encoded>
+                <pubDate>2025-03-12</pubDate>
+                <dc:creator>Javier Sanchez-Yamagishi</dc:creator>
+                <dc:date>2025-03-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Metals squeezed to thickness of just two atoms</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00548-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Biodiversity declines across fragmented forests</title>
+                <link>https://www.nature.com/articles/d41586-025-00672-5</link>
+                <description>A global analysis of species in fragmented-forest landscapes reveals species losses in fragments, and that the changes in species composition across fragments is not enough to benefit biodiversity over entire landscapes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A global analysis of species in fragmented-forest landscapes reveals species losses in fragments, and that the changes in species composition across fragments is not enough to benefit biodiversity over entire landscapes.</p></div>]]></content:encoded>
+                <pubDate>2025-03-12</pubDate>
+                <dc:creator>Robert J. Fletcher Jr</dc:creator>
+                <dc:date>2025-03-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Biodiversity declines across fragmented forests</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00672-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An operating system for networked quantum computers is a huge practical step forward</title>
+                <link>https://www.nature.com/articles/d41586-025-00547-9</link>
+                <description>Quantum computers have gained the powerful abstractions that allow programmers of classical computers to design and integrate new apps and hardware, and connect devices into networks with ease.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Quantum computers have gained the powerful abstractions that allow programmers of classical computers to design and integrate new apps and hardware, and connect devices into networks with ease.</p></div>]]></content:encoded>
+                <pubDate>2025-03-12</pubDate>
+                <dc:creator>Claudio Cicconetti</dc:creator>
+                <dc:date>2025-03-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>An operating system for networked quantum computers is a huge practical step forward</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00547-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Liver cancer recurrence predicted by immune-cell location and gene expression</title>
+                <link>https://www.nature.com/articles/d41586-025-00734-8</link>
+                <description>Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</p></div>]]></content:encoded>
+                <pubDate>2025-03-12</pubDate>
+                <dc:creator>Christian M. Schürch</dc:creator>
+                <dc:date>2025-03-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Liver cancer recurrence predicted by immune-cell location and gene expression</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00734-8</dc:identifier>
+            </item>
+        
+            <item>
+                <title>An organ that stores red blood cells for emergencies</title>
+                <link>https://www.nature.com/articles/d41586-025-00732-w</link>
+                <description>A new ‘storehouse’ function ascribed to the spleen, and reducing laboratory waste by reusing vials, in our weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new ‘storehouse’ function ascribed to the spleen, and reducing laboratory waste by reusing vials, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2025-03-11</pubDate>
+                
+                <dc:date>2025-03-11</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>An organ that stores red blood cells for emergencies</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00732-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>AI algorithm helps telescopes to pivot fast towards gravitational-wave sources</title>
                 <link>https://www.nature.com/articles/d41586-025-00543-z</link>
                 <description>Fast electromagnetic follow-up observations of gravitational-wave sources such as binary neutron stars could shed light on questions across physics and cosmology. A machine-learning approach brings that a step closer.</description>
@@ -39,7 +117,7 @@
             </item>
         
             <item>
-                <title>Amazonian deforestation makes the wet season wetter, and the dry season dryer</title>
+                <title>Amazonian deforestation makes the wet season wetter, and the dry season drier</title>
                 <link>https://www.nature.com/articles/d41586-025-00542-0</link>
                 <description>Clearing of Amazonian forest boosts rainfall during the wet season, but reduces it in the dry season, when the ecosystem needs water most — highlighting the need to prevent further clearance of a climate-regulating environment.</description>
                 <content:encoded><![CDATA[<div><p style="color: #4aa564;">Clearing of Amazonian forest boosts rainfall during the wet season, but reduces it in the dry season, when the ecosystem needs water most — highlighting the need to prevent further clearance of a climate-regulating environment.</p></div>]]></content:encoded>
@@ -47,7 +125,7 @@
                 <dc:creator>Wim Thiery</dc:creator>
                 <dc:date>2025-03-05</dc:date>
                 <dc:source>Nature</dc:source>
-                <dc:title>Amazonian deforestation makes the wet season wetter, and the dry season dryer</dc:title>
+                <dc:title>Amazonian deforestation makes the wet season wetter, and the dry season drier</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00542-0</dc:identifier>
             </item>
         
@@ -66,19 +144,6 @@
             </item>
         
             <item>
-                <title>The new newborn screening</title>
-                <link>https://www.nature.com/articles/s41591-025-03567-0</link>
-                <description>DNA sequencing offers opportunities for enhancing and expanding newborn screening for treatable conditions that affect children; pilot studies will be critical to refining key parameters for scalability and optimal outcomes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA sequencing offers opportunities for enhancing and expanding newborn screening for treatable conditions that affect children; pilot studies will be critical to refining key parameters for scalability and optimal outcomes.</p></div>]]></content:encoded>
-                <pubDate>2025-03-05</pubDate>
-                <dc:creator>Wendy K. Chung</dc:creator>
-                <dc:date>2025-03-05</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>The new newborn screening</dc:title>
-                <dc:identifier>doi:doi.org/s41591-025-03567-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Designer cannabinoids could be the key to pain relief without adverse effects</title>
                 <link>https://www.nature.com/articles/d41586-025-00546-w</link>
                 <description>Current approaches to pain relief are falling short. Chemically modifying a synthetic cannabinoid could enable scientists to capitalize on the body’s natural pain-killing pathway without evoking drug tolerance or psychoactivity.</description>
@@ -90,6 +155,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Designer cannabinoids could be the key to pain relief without adverse effects</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00546-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The new newborn screening</title>
+                <link>https://www.nature.com/articles/s41591-025-03567-0</link>
+                <description>DNA sequencing offers opportunities for enhancing and expanding newborn screening for treatable conditions that affect children; pilot studies will be critical to refining key parameters for scalability and optimal outcomes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">DNA sequencing offers opportunities for enhancing and expanding newborn screening for treatable conditions that affect children; pilot studies will be critical to refining key parameters for scalability and optimal outcomes.</p></div>]]></content:encoded>
+                <pubDate>2025-03-05</pubDate>
+                <dc:creator>Wendy K. Chung</dc:creator>
+                <dc:date>2025-03-05</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>The new newborn screening</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03567-0</dc:identifier>
             </item>
         
             <item>
@@ -131,6 +209,19 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Entering the era of deep single-cell proteomics</dc:title>
                 <dc:identifier>doi:doi.org/s41592-025-02620-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Atlantic circulation could be more resilient to global warming than was thought</title>
+                <link>https://www.nature.com/articles/d41586-025-00300-2</link>
+                <description>A system of ocean currents called the Atlantic meridional overturning circulation strongly affects climate, but is showing signs of shutting down. An analysis now suggests that total collapse is unlikely this century.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A system of ocean currents called the Atlantic meridional overturning circulation strongly affects climate, but is showing signs of shutting down. An analysis now suggests that total collapse is unlikely this century.</p></div>]]></content:encoded>
+                <pubDate>2025-02-26</pubDate>
+                <dc:creator>Aixue Hu</dc:creator>
+                <dc:date>2025-02-26</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Atlantic circulation could be more resilient to global warming than was thought</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00300-2</dc:identifier>
             </item>
         
             <item>
@@ -188,16 +279,18 @@
             </item>
         
             <item>
-                <title>Atlantic circulation could be more resilient to global warming than was thought</title>
-                <link>https://www.nature.com/articles/d41586-025-00300-2</link>
-                <description>A system of ocean currents called the Atlantic meridional overturning circulation strongly affects climate, but is showing signs of shutting down. An analysis now suggests that total collapse is unlikely this century.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A system of ocean currents called the Atlantic meridional overturning circulation strongly affects climate, but is showing signs of shutting down. An analysis now suggests that total collapse is unlikely this century.</p></div>]]></content:encoded>
-                <pubDate>2025-02-26</pubDate>
-                <dc:creator>Aixue Hu</dc:creator>
-                <dc:date>2025-02-26</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Atlantic circulation could be more resilient to global warming than was thought</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00300-2</dc:identifier>
+                <title>A microRNA defines root regeneration</title>
+                <link>https://www.nature.com/articles/s41477-025-01928-8</link>
+                <description>Injury-induced regeneration allows plants to restore lost or damaged cells, tissues and organs and thus to survive severe injuries. A recent study shows that the microRNA396–GROWTH REGULATING FACTORs (miR396–GRFs) module has a bifunctional role in restoring a damaged root: miR396 bolsters regeneration potential, while its targets, the GRFs, accelerate regeneration speed.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Injury-induced regeneration allows plants to restore lost or damaged cells, tissues and organs and thus to survive severe injuries. A recent study shows that the microRNA396–GROWTH REGULATING FACTORs (miR396–GRFs) module has a bifunctional role in restoring a damaged root: miR396 bolsters regeneration potential, while its targets, the GRFs, accelerate regeneration speed.</p></div>]]></content:encoded>
+                <pubDate>2025-02-25</pubDate>
+                <dc:creator>Ziyao Hu</dc:creator>
+                <dc:creator>Huibin Han</dc:creator>
+                <dc:creator>Guodong Wang</dc:creator>
+                <dc:date>2025-02-25</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A microRNA defines root regeneration</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01928-8</dc:identifier>
             </item>
         
             <item>
@@ -211,21 +304,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>How to develop a good writing style</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00465-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A microRNA defines root regeneration</title>
-                <link>https://www.nature.com/articles/s41477-025-01928-8</link>
-                <description>Injury-induced regeneration allows plants to restore lost or damaged cells, tissues and organs and thus to survive severe injuries. A recent study shows that the microRNA396–GROWTH REGULATING FACTORs (miR396–GRFs) module has a bifunctional role in restoring a damaged root: miR396 bolsters regeneration potential, while its targets, the GRFs, accelerate regeneration speed.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Injury-induced regeneration allows plants to restore lost or damaged cells, tissues and organs and thus to survive severe injuries. A recent study shows that the microRNA396–GROWTH REGULATING FACTORs (miR396–GRFs) module has a bifunctional role in restoring a damaged root: miR396 bolsters regeneration potential, while its targets, the GRFs, accelerate regeneration speed.</p></div>]]></content:encoded>
-                <pubDate>2025-02-25</pubDate>
-                <dc:creator>Ziyao Hu</dc:creator>
-                <dc:creator>Huibin Han</dc:creator>
-                <dc:creator>Guodong Wang</dc:creator>
-                <dc:date>2025-02-25</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A microRNA defines root regeneration</dc:title>
-                <dc:identifier>doi:doi.org/s41477-025-01928-8</dc:identifier>
             </item>
         
             <item>
@@ -267,34 +345,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>A class of large cell-like extracellular vesicles</dc:title>
                 <dc:identifier>doi:doi.org/s41556-025-01611-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Key process in sex-cell formation can finally be studied in vitro</title>
-                <link>https://www.nature.com/articles/d41586-025-00305-x</link>
-                <description>The enzyme SPO11 has a crucial role in meiosis, the process that forms sperm and egg cells. The activity of purified SPO11 has now been reconstituted in a cell-free system — enabling the enzyme’s role to be studied in detail.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The enzyme SPO11 has a crucial role in meiosis, the process that forms sperm and egg cells. The activity of purified SPO11 has now been reconstituted in a cell-free system — enabling the enzyme’s role to be studied in detail.</p></div>]]></content:encoded>
-                <pubDate>2025-02-19</pubDate>
-                <dc:creator>Francisco Mendez Diaz</dc:creator>
-                <dc:creator>Kevin D. Corbett</dc:creator>
-                <dc:date>2025-02-19</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Key process in sex-cell formation can finally be studied in vitro</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00305-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The secrets of static electricity are finally being revealed</title>
-                <link>https://www.nature.com/articles/d41586-025-00298-7</link>
-                <description>The mechanism that causes static electricity to build up is a mystery. Experiments now reveal that materials ‘remember’ past contacts with each other — and this determines how electric charge is transferred in future contacts.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The mechanism that causes static electricity to build up is a mystery. Experiments now reveal that materials ‘remember’ past contacts with each other — and this determines how electric charge is transferred in future contacts.</p></div>]]></content:encoded>
-                <pubDate>2025-02-19</pubDate>
-                <dc:creator>Daniel J. Lacks</dc:creator>
-                <dc:creator>Mamadou Sow</dc:creator>
-                <dc:date>2025-02-19</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The secrets of static electricity are finally being revealed</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00298-7</dc:identifier>
             </item>
         
             <item>
@@ -348,47 +398,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Mass spectrometry-based mapping of plasma protein QTLs in children and adolescents</dc:title>
                 <dc:identifier>doi:doi.org/s41588-025-02088-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Pinpointing neurons that hinder cancer treatment</title>
-                <link>https://www.nature.com/articles/d41586-025-00501-9</link>
-                <description>Pancreatic tumours hijack neuronal signalling mechanisms to boost cancer growth. A technology to identify and profile mouse neurons that connect the spinal cord to pancreatic cancer might improve treatment of this disease.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Pancreatic tumours hijack neuronal signalling mechanisms to boost cancer growth. A technology to identify and profile mouse neurons that connect the spinal cord to pancreatic cancer might improve treatment of this disease.</p></div>]]></content:encoded>
-                <pubDate>2025-02-18</pubDate>
-                <dc:creator>Ihsan Ekin Demir</dc:creator>
-                <dc:creator>Elke Demir</dc:creator>
-                <dc:date>2025-02-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Pinpointing neurons that hinder cancer treatment</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00501-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Could psychedelics be fine-tuned to relieve anxiety but skip the ‘trip’?</title>
-                <link>https://www.nature.com/articles/d41586-025-00454-z</link>
-                <description>Interest in psychedelic substances as medicines is rising. Identifying the neural circuits that mediate the benefits of psychedelics could pave the way for long-lasting anxiety treatments without the short-term sensory disturbances.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Interest in psychedelic substances as medicines is rising. Identifying the neural circuits that mediate the benefits of psychedelics could pave the way for long-lasting anxiety treatments without the short-term sensory disturbances.</p></div>]]></content:encoded>
-                <pubDate>2025-02-18</pubDate>
-                <dc:creator>Cory A. Knox</dc:creator>
-                <dc:creator>Alex C. Kwan</dc:creator>
-                <dc:date>2025-02-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Could psychedelics be fine-tuned to relieve anxiety but skip the ‘trip’?</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00454-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The 1925 debate about adopting the word ‘scientist’ heats up</title>
-                <link>https://www.nature.com/articles/d41586-025-00464-x</link>
-                <description>The pros and cons of a word gaining popularity, and publication of an updated edition of a book by Charles Darwin in this week’s pick from the Nature archive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The pros and cons of a word gaining popularity, and publication of an updated edition of a book by Charles Darwin in this week’s pick from the Nature archive.</p></div>]]></content:encoded>
-                <pubDate>2025-02-18</pubDate>
-                
-                <dc:date>2025-02-18</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>The 1925 debate about adopting the word ‘scientist’ heats up</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00464-x</dc:identifier>
             </item>
         
             <item>
@@ -557,19 +566,6 @@
             </item>
         
             <item>
-                <title>Not the end of the road for macrophage therapy in liver cirrhosis</title>
-                <link>https://www.nature.com/articles/s41591-025-03490-4</link>
-                <description>A phase 2 trial of autologous macrophage therapy falls just short of meeting its primary endpoint of improving prognosis, but it is too soon to dismiss this approach; further research and protocol optimization should yield more definitive results.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A phase 2 trial of autologous macrophage therapy falls just short of meeting its primary endpoint of improving prognosis, but it is too soon to dismiss this approach; further research and protocol optimization should yield more definitive results.</p></div>]]></content:encoded>
-                <pubDate>2025-02-03</pubDate>
-                <dc:creator>Jacquelyn J. Maher</dc:creator>
-                <dc:date>2025-02-03</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Not the end of the road for macrophage therapy in liver cirrhosis</dc:title>
-                <dc:identifier>doi:doi.org/s41591-025-03490-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Pseudouridine is the hidden language of plant RNA translation</title>
                 <link>https://www.nature.com/articles/s41477-025-01926-w</link>
                 <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
@@ -580,6 +576,19 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
                 <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Not the end of the road for macrophage therapy in liver cirrhosis</title>
+                <link>https://www.nature.com/articles/s41591-025-03490-4</link>
+                <description>A phase 2 trial of autologous macrophage therapy falls just short of meeting its primary endpoint of improving prognosis, but it is too soon to dismiss this approach; further research and protocol optimization should yield more definitive results.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A phase 2 trial of autologous macrophage therapy falls just short of meeting its primary endpoint of improving prognosis, but it is too soon to dismiss this approach; further research and protocol optimization should yield more definitive results.</p></div>]]></content:encoded>
+                <pubDate>2025-02-03</pubDate>
+                <dc:creator>Jacquelyn J. Maher</dc:creator>
+                <dc:date>2025-02-03</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Not the end of the road for macrophage therapy in liver cirrhosis</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03490-4</dc:identifier>
             </item>
         
             <item>
@@ -738,20 +747,6 @@
             </item>
         
             <item>
-                <title>Speckle signatures dictate cancer prognosis</title>
-                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
-                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
-                <pubDate>2025-01-03</pubDate>
-                <dc:creator>Hiro Takakuwa</dc:creator>
-                <dc:creator>Tetsuro Hirose</dc:creator>
-                <dc:date>2025-01-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>How plants adapt surface lipids to environmental changes</title>
                 <link>https://www.nature.com/articles/s41477-024-01897-4</link>
                 <description>Cuticular wax is the outermost hydrophobic barrier between plants and their environment. The ratio of wax components changes through the core shunt mechanism of the alkane-forming and alcohol-forming pathways in response to environmental conditions. In particular, higher levels of alkanes help to reduce water loss during drought, whereas increased levels of 1-alcohols promote water evaporation under high temperatures.</description>
@@ -763,6 +758,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>How plants adapt surface lipids to environmental changes</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01897-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Speckle signatures dictate cancer prognosis</title>
+                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
+                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
+                <pubDate>2025-01-03</pubDate>
+                <dc:creator>Hiro Takakuwa</dc:creator>
+                <dc:creator>Tetsuro Hirose</dc:creator>
+                <dc:date>2025-01-03</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
             </item>
         
             <item>
@@ -780,19 +789,6 @@
             </item>
         
             <item>
-                <title>Lysozyme-coated LDHs boost trait control</title>
-                <link>https://www.nature.com/articles/s41477-024-01874-x</link>
-                <description>Coating RNA- or DNA-loaded layered double hydroxide nanosheets with lysozyme enhances their uptake by loosening the plant cell wall and stimulating endocytosis and membrane trafficking — with promising implications for both fundamental research and agricultural applications.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Coating RNA- or DNA-loaded layered double hydroxide nanosheets with lysozyme enhances their uptake by loosening the plant cell wall and stimulating endocytosis and membrane trafficking — with promising implications for both fundamental research and agricultural applications.</p></div>]]></content:encoded>
-                <pubDate>2025-01-02</pubDate>
-                <dc:creator>Karl-Heinz Kogel</dc:creator>
-                <dc:date>2025-01-02</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Lysozyme-coated LDHs boost trait control</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01874-x</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Genetic insights into global heterogeneity of type 2 diabetes</title>
                 <link>https://www.nature.com/articles/s41591-024-03413-9</link>
                 <description>In people of South Asia ancestry, specific genetic mechanisms may drive diabetes development, as revealed by a new study offering insights into global diabetes heterogeneity and potential avenues toward precision medicine.</description>
@@ -803,6 +799,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Genetic insights into global heterogeneity of type 2 diabetes</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03413-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Lysozyme-coated LDHs boost trait control</title>
+                <link>https://www.nature.com/articles/s41477-024-01874-x</link>
+                <description>Coating RNA- or DNA-loaded layered double hydroxide nanosheets with lysozyme enhances their uptake by loosening the plant cell wall and stimulating endocytosis and membrane trafficking — with promising implications for both fundamental research and agricultural applications.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Coating RNA- or DNA-loaded layered double hydroxide nanosheets with lysozyme enhances their uptake by loosening the plant cell wall and stimulating endocytosis and membrane trafficking — with promising implications for both fundamental research and agricultural applications.</p></div>]]></content:encoded>
+                <pubDate>2025-01-02</pubDate>
+                <dc:creator>Karl-Heinz Kogel</dc:creator>
+                <dc:date>2025-01-02</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Lysozyme-coated LDHs boost trait control</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01874-x</dc:identifier>
             </item>
         
             <item>
@@ -1401,6 +1410,19 @@
             </item>
         
             <item>
+                <title>A centromere’s obsession with transposons</title>
+                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
+                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
+                <pubDate>2024-09-02</pubDate>
+                <dc:creator>Leandro Quadrana</dc:creator>
+                <dc:date>2024-09-02</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>A centromere’s obsession with transposons</dc:title>
+                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>HSF1 renders NK cells too stressed to respond</title>
                 <link>https://www.nature.com/articles/s41556-024-01472-1</link>
                 <description>The tumour microenvironment propagates stress responses in resident cells. In tumour-infiltrating natural killer (NK) cells, the HSF1 transcription factor binds to mediators of effector function, negatively regulating NK cytotoxicity. These findings provide important mechanistic insights that may enhance NK cell cancer therapy.</description>
@@ -1413,19 +1435,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>HSF1 renders NK cells too stressed to respond</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01472-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A centromere’s obsession with transposons</title>
-                <link>https://www.nature.com/articles/s41477-024-01724-w</link>
-                <description>Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Transposable elements frequently invade centromeres, yet their influence on centromere function has long been enigmatic. A new study reveals that epigenetic silencing of centromeric transposable elements is essential for chromosome cohesion and proper segregation during cell division.</p></div>]]></content:encoded>
-                <pubDate>2024-09-02</pubDate>
-                <dc:creator>Leandro Quadrana</dc:creator>
-                <dc:date>2024-09-02</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>A centromere’s obsession with transposons</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01724-w</dc:identifier>
             </item>
         
             <item>
@@ -1468,21 +1477,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Harnessing cancer genomes for precision oncology</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01879-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Keeping D6PK polar</title>
-                <link>https://www.nature.com/articles/s41477-024-01766-0</link>
-                <description>The PIN-FORMED (PIN) auxin efflux carriers in the plasma membrane are activated by the D6 serine/threonine protein kinase (D6PK). A recent study reveals how D6PK is anchored to membranes and trafficked between the plasma membrane and transport vesicles.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The PIN-FORMED (PIN) auxin efflux carriers in the plasma membrane are activated by the D6 serine/threonine protein kinase (D6PK). A recent study reveals how D6PK is anchored to membranes and trafficked between the plasma membrane and transport vesicles.</p></div>]]></content:encoded>
-                <pubDate>2024-08-14</pubDate>
-                <dc:creator>Katarina Kurtović</dc:creator>
-                <dc:creator>Vojtěch Schmidt</dc:creator>
-                <dc:creator>Jan Petrášek</dc:creator>
-                <dc:date>2024-08-14</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Keeping D6PK polar</dc:title>
-                <dc:identifier>doi:doi.org/s41477-024-01766-0</dc:identifier>
             </item>
         
             <item>
