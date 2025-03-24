@@ -13,6 +13,89 @@
             <ttl>120</ttl>
     
             <item>
+                <title>GPX4 methylation puts a brake on ferroptosis</title>
+                <link>https://www.nature.com/articles/s41556-025-01640-x</link>
+                <description>Ferroptosis is a form of cell death that occurs in many pathological conditions and is a target for cancer therapy. The enzyme GPX4 is the primary means by which cells guard against ferroptosis. A study now demonstrates that methylation of GPX4 promotes its stabilization, and that preventing GPX4 methylation improves cancer therapy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ferroptosis is a form of cell death that occurs in many pathological conditions and is a target for cancer therapy. The enzyme GPX4 is the primary means by which cells guard against ferroptosis. A study now demonstrates that methylation of GPX4 promotes its stabilization, and that preventing GPX4 methylation improves cancer therapy.</p></div>]]></content:encoded>
+                <pubDate>2025-03-21</pubDate>
+                <dc:creator>Graeme I. Lancaster</dc:creator>
+                <dc:creator>Andrew J. Murphy</dc:creator>
+                <dc:date>2025-03-21</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>GPX4 methylation puts a brake on ferroptosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-025-01640-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Breaking up translation condensates in cancer</title>
+                <link>https://www.nature.com/articles/s41556-025-01636-7</link>
+                <description>Translational control is emerging as a key regulator of cancer. The RNA-binding protein PABPC1 is shown to drive chronic myeloid leukaemia (CML) by enhancing the translation of pro-oncogenic mRNAs through the formation of biomolecular condensates. Small molecules that target PABPC1 show promise in treating therapy-resistant CML.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Translational control is emerging as a key regulator of cancer. The RNA-binding protein PABPC1 is shown to drive chronic myeloid leukaemia (CML) by enhancing the translation of pro-oncogenic mRNAs through the formation of biomolecular condensates. Small molecules that target PABPC1 show promise in treating therapy-resistant CML.</p></div>]]></content:encoded>
+                <pubDate>2025-03-20</pubDate>
+                <dc:creator>Joanna R. Kovalski</dc:creator>
+                <dc:creator>Davide Ruggero</dc:creator>
+                <dc:date>2025-03-20</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Breaking up translation condensates in cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-025-01636-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>What is the best type of tree to use for forest restoration?</title>
+                <link>https://www.nature.com/articles/d41586-025-00802-z</link>
+                <description>In forest experiments, tree species capable of high rates of photosynthesis grow more slowly than species with lower maximum rates of photosynthesis — with implications for tree-planting projects.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In forest experiments, tree species capable of high rates of photosynthesis grow more slowly than species with lower maximum rates of photosynthesis — with implications for tree-planting projects.</p></div>]]></content:encoded>
+                <pubDate>2025-03-19</pubDate>
+                <dc:creator>Pieter A. Zuidema</dc:creator>
+                <dc:creator>Madelon Lohbeck</dc:creator>
+                <dc:date>2025-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>What is the best type of tree to use for forest restoration?</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00802-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>New antifungal breaks the mould</title>
+                <link>https://www.nature.com/articles/d41586-025-00801-0</link>
+                <description>A bacterium makes a molecule that kills drug-resistant fungi in an unusual way — by targeting various phospholipid molecules in membranes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A bacterium makes a molecule that kills drug-resistant fungi in an unusual way — by targeting various phospholipid molecules in membranes.</p></div>]]></content:encoded>
+                <pubDate>2025-03-19</pubDate>
+                <dc:creator>Arun Maji</dc:creator>
+                <dc:creator>Martin D. Burke</dc:creator>
+                <dc:date>2025-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>New antifungal breaks the mould</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00801-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Mutations that accrue through life set the stage for stomach cancer</title>
+                <link>https://www.nature.com/articles/d41586-025-00803-y</link>
+                <description>Comprehensive maps of mutations in healthy and diseased gastric tissue give clues about how cancer arises and could inform early-detection strategies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Comprehensive maps of mutations in healthy and diseased gastric tissue give clues about how cancer arises and could inform early-detection strategies.</p></div>]]></content:encoded>
+                <pubDate>2025-03-19</pubDate>
+                <dc:creator>Callum Oddy</dc:creator>
+                <dc:creator>Marnix Jansen</dc:creator>
+                <dc:date>2025-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Mutations that accrue through life set the stage for stomach cancer</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00803-y</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Bird brains help scientists to unveil the secrets of speech</title>
+                <link>https://www.nature.com/articles/d41586-025-00680-5</link>
+                <description>Neural recordings from parrots and songbirds reveal the ways in which vocal production is encoded in the brain, highlighting remarkable similarities between how parrots and humans learn to produce sounds.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Neural recordings from parrots and songbirds reveal the ways in which vocal production is encoded in the brain, highlighting remarkable similarities between how parrots and humans learn to produce sounds.</p></div>]]></content:encoded>
+                <pubDate>2025-03-19</pubDate>
+                <dc:creator>Joshua Neunuebel</dc:creator>
+                <dc:date>2025-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Bird brains help scientists to unveil the secrets of speech</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00680-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Marrying mechanics with spatial transcriptomics</title>
                 <link>https://www.nature.com/articles/s41592-024-02491-4</link>
                 <description>A method infers tension from spatial transcriptomic data on single cells in tissue context.</description>
@@ -25,6 +108,19 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Marrying mechanics with spatial transcriptomics</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02491-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Ancient peat reveals that sea level surged rapidly twice at the end of the last ice age</title>
+                <link>https://www.nature.com/articles/d41586-025-00800-1</link>
+                <description>An analysis of peat from ancient wetlands provides a reconstruction of how sea level increased millennia ago — and how it might rise again with global warming.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of peat from ancient wetlands provides a reconstruction of how sea level increased millennia ago — and how it might rise again with global warming.</p></div>]]></content:encoded>
+                <pubDate>2025-03-19</pubDate>
+                <dc:creator>Nicole S. Khan</dc:creator>
+                <dc:date>2025-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Ancient peat reveals that sea level surged rapidly twice at the end of the last ice age</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00800-1</dc:identifier>
             </item>
         
             <item>
@@ -94,6 +190,19 @@
             </item>
         
             <item>
+                <title>Liver cancer recurrence predicted by immune-cell location and gene expression</title>
+                <link>https://www.nature.com/articles/d41586-025-00734-8</link>
+                <description>Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</p></div>]]></content:encoded>
+                <pubDate>2025-03-12</pubDate>
+                <dc:creator>Christian M. Schürch</dc:creator>
+                <dc:date>2025-03-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Liver cancer recurrence predicted by immune-cell location and gene expression</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00734-8</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Metals squeezed to thickness of just two atoms</title>
                 <link>https://www.nature.com/articles/d41586-025-00548-8</link>
                 <description>Ultrathin metals have been prepared using a benchtop hydraulic press — allowing the fascinating properties of the resulting 2D materials to be observed.</description>
@@ -133,19 +242,6 @@
             </item>
         
             <item>
-                <title>Liver cancer recurrence predicted by immune-cell location and gene expression</title>
-                <link>https://www.nature.com/articles/d41586-025-00734-8</link>
-                <description>Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</p></div>]]></content:encoded>
-                <pubDate>2025-03-12</pubDate>
-                <dc:creator>Christian M. Schürch</dc:creator>
-                <dc:date>2025-03-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Liver cancer recurrence predicted by immune-cell location and gene expression</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00734-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>An organ that stores red blood cells for emergencies</title>
                 <link>https://www.nature.com/articles/d41586-025-00732-w</link>
                 <description>A new ‘storehouse’ function ascribed to the spleen, and reducing laboratory waste by reusing vials, in our weekly dip into Nature’s archive.</description>
@@ -156,20 +252,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>An organ that stores red blood cells for emergencies</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00732-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Designer cannabinoids could be the key to pain relief without adverse effects</title>
-                <link>https://www.nature.com/articles/d41586-025-00546-w</link>
-                <description>Current approaches to pain relief are falling short. Chemically modifying a synthetic cannabinoid could enable scientists to capitalize on the body’s natural pain-killing pathway without evoking drug tolerance or psychoactivity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Current approaches to pain relief are falling short. Chemically modifying a synthetic cannabinoid could enable scientists to capitalize on the body’s natural pain-killing pathway without evoking drug tolerance or psychoactivity.</p></div>]]></content:encoded>
-                <pubDate>2025-03-05</pubDate>
-                <dc:creator>Iain R. Greig</dc:creator>
-                <dc:creator>Ruth A. Ross</dc:creator>
-                <dc:date>2025-03-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Designer cannabinoids could be the key to pain relief without adverse effects</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00546-w</dc:identifier>
             </item>
         
             <item>
@@ -226,6 +308,20 @@
             </item>
         
             <item>
+                <title>Designer cannabinoids could be the key to pain relief without adverse effects</title>
+                <link>https://www.nature.com/articles/d41586-025-00546-w</link>
+                <description>Current approaches to pain relief are falling short. Chemically modifying a synthetic cannabinoid could enable scientists to capitalize on the body’s natural pain-killing pathway without evoking drug tolerance or psychoactivity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Current approaches to pain relief are falling short. Chemically modifying a synthetic cannabinoid could enable scientists to capitalize on the body’s natural pain-killing pathway without evoking drug tolerance or psychoactivity.</p></div>]]></content:encoded>
+                <pubDate>2025-03-05</pubDate>
+                <dc:creator>Iain R. Greig</dc:creator>
+                <dc:creator>Ruth A. Ross</dc:creator>
+                <dc:date>2025-03-05</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Designer cannabinoids could be the key to pain relief without adverse effects</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00546-w</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The new newborn screening</title>
                 <link>https://www.nature.com/articles/s41591-025-03567-0</link>
                 <description>DNA sequencing offers opportunities for enhancing and expanding newborn screening for treatable conditions that affect children; pilot studies will be critical to refining key parameters for scalability and optimal outcomes.</description>
@@ -236,19 +332,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The new newborn screening</dc:title>
                 <dc:identifier>doi:doi.org/s41591-025-03567-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A name for the study of life in the Universe</title>
-                <link>https://www.nature.com/articles/d41586-025-00466-9</link>
-                <description>An argument for introducing the word ‘cosmobiology’, and accounts of the human side of science, in our weekly dip into Nature’s archive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An argument for introducing the word ‘cosmobiology’, and accounts of the human side of science, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
-                <pubDate>2025-03-04</pubDate>
-                
-                <dc:date>2025-03-04</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>A name for the study of life in the Universe</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00466-9</dc:identifier>
             </item>
         
             <item>
@@ -266,6 +349,19 @@
             </item>
         
             <item>
+                <title>A name for the study of life in the Universe</title>
+                <link>https://www.nature.com/articles/d41586-025-00466-9</link>
+                <description>An argument for introducing the word ‘cosmobiology’, and accounts of the human side of science, in our weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An argument for introducing the word ‘cosmobiology’, and accounts of the human side of science, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2025-03-04</pubDate>
+                
+                <dc:date>2025-03-04</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A name for the study of life in the Universe</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00466-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Entering the era of deep single-cell proteomics</title>
                 <link>https://www.nature.com/articles/s41592-025-02620-7</link>
                 <description>Advances in single-cell proteomics allow quantification of half of the expressed proteome in an individual cell.</description>
@@ -277,73 +373,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Entering the era of deep single-cell proteomics</dc:title>
                 <dc:identifier>doi:doi.org/s41592-025-02620-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Atlantic circulation could be more resilient to global warming than was thought</title>
-                <link>https://www.nature.com/articles/d41586-025-00300-2</link>
-                <description>A system of ocean currents called the Atlantic meridional overturning circulation strongly affects climate, but is showing signs of shutting down. An analysis now suggests that total collapse is unlikely this century.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A system of ocean currents called the Atlantic meridional overturning circulation strongly affects climate, but is showing signs of shutting down. An analysis now suggests that total collapse is unlikely this century.</p></div>]]></content:encoded>
-                <pubDate>2025-02-26</pubDate>
-                <dc:creator>Aixue Hu</dc:creator>
-                <dc:date>2025-02-26</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Atlantic circulation could be more resilient to global warming than was thought</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00300-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Revealing how fungi build planet-altering ‘road’ networks</title>
-                <link>https://www.nature.com/articles/d41586-025-00307-9</link>
-                <description>Fungi made Earth’s land liveable by building networks that released nutrients locked in primordial rock and supplied those nutrients to plant roots. An imaging study now sheds light on how these fungal networks are constructed.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Fungi made Earth’s land liveable by building networks that released nutrients locked in primordial rock and supplied those nutrients to plant roots. An imaging study now sheds light on how these fungal networks are constructed.</p></div>]]></content:encoded>
-                <pubDate>2025-02-26</pubDate>
-                <dc:creator>Neo D. Martinez</dc:creator>
-                <dc:creator>Gianna L. Marschmann</dc:creator>
-                <dc:date>2025-02-26</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Revealing how fungi build planet-altering ‘road’ networks</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00307-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Nursing-home residents’ skin is a source of transmitted harmful and drug-resistant microbes</title>
-                <link>https://www.nature.com/articles/d41586-025-00306-w</link>
-                <description>Genomic sequencing has revealed that individual strains of life-threatening, antibiotic-resistant bacteria and Candida auris fungi reside on human skin and can be commonly transmitted between residents of nursing homes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Genomic sequencing has revealed that individual strains of life-threatening, antibiotic-resistant bacteria and Candida auris fungi reside on human skin and can be commonly transmitted between residents of nursing homes.</p></div>]]></content:encoded>
-                <pubDate>2025-02-26</pubDate>
-                <dc:creator>Teresa R. O’Meara</dc:creator>
-                <dc:date>2025-02-26</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Nursing-home residents’ skin is a source of transmitted harmful and drug-resistant microbes</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00306-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Superelastic titanium alloy has potential for space missions</title>
-                <link>https://www.nature.com/articles/d41586-025-00301-1</link>
-                <description>Metallurgists have designed an extraordinary titanium alloy that is light, strong and flexible, and which recovers its original shape after large amounts of deformation — even when as cold as liquid helium or hotter than boiling water.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Metallurgists have designed an extraordinary titanium alloy that is light, strong and flexible, and which recovers its original shape after large amounts of deformation — even when as cold as liquid helium or hotter than boiling water.</p></div>]]></content:encoded>
-                <pubDate>2025-02-26</pubDate>
-                <dc:creator>Shaolou Wei</dc:creator>
-                <dc:creator>Dierk Raabe</dc:creator>
-                <dc:date>2025-02-26</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Superelastic titanium alloy has potential for space missions</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00301-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Evolutionary flexibility to gain or lose tooth complexity sparks fish diversification</title>
-                <link>https://www.nature.com/articles/d41586-025-00541-1</link>
-                <description>Why are some species more likely to diversify than others? For the largest group of vertebrates, ray-finned fishes, the ability to evolve by transitioning back and forth between simple and complex teeth fuelled their diversification.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Why are some species more likely to diversify than others? For the largest group of vertebrates, ray-finned fishes, the ability to evolve by transitioning back and forth between simple and complex teeth fuelled their diversification.</p></div>]]></content:encoded>
-                <pubDate>2025-02-26</pubDate>
-                <dc:creator>Nare Ngoepe</dc:creator>
-                <dc:date>2025-02-26</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Evolutionary flexibility to gain or lose tooth complexity sparks fish diversification</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00541-1</dc:identifier>
             </item>
         
             <item>
@@ -499,6 +528,20 @@
             </item>
         
             <item>
+                <title>Regulating MYC translation in cancer</title>
+                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
+                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Zainab Hussain</dc:creator>
+                <dc:creator>Mara H. Sherman</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Regulating MYC translation in cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</title>
                 <link>https://www.nature.com/articles/s41591-025-03510-3</link>
                 <description>A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</description>
@@ -523,20 +566,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>A new gut–brain therapeutic target for hepatic encephalopathy</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03467-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Regulating MYC translation in cancer</title>
-                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
-                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
-                <pubDate>2025-02-07</pubDate>
-                <dc:creator>Zainab Hussain</dc:creator>
-                <dc:creator>Mara H. Sherman</dc:creator>
-                <dc:date>2025-02-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Regulating MYC translation in cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
             </item>
         
             <item>
@@ -1438,21 +1467,6 @@
             </item>
         
             <item>
-                <title>HSF1 renders NK cells too stressed to respond</title>
-                <link>https://www.nature.com/articles/s41556-024-01472-1</link>
-                <description>The tumour microenvironment propagates stress responses in resident cells. In tumour-infiltrating natural killer (NK) cells, the HSF1 transcription factor binds to mediators of effector function, negatively regulating NK cytotoxicity. These findings provide important mechanistic insights that may enhance NK cell cancer therapy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The tumour microenvironment propagates stress responses in resident cells. In tumour-infiltrating natural killer (NK) cells, the HSF1 transcription factor binds to mediators of effector function, negatively regulating NK cytotoxicity. These findings provide important mechanistic insights that may enhance NK cell cancer therapy.</p></div>]]></content:encoded>
-                <pubDate>2024-09-02</pubDate>
-                <dc:creator>Yael Gruper</dc:creator>
-                <dc:creator>Aviad Ben-Shmuel</dc:creator>
-                <dc:creator>Ruth Scherz-Shouval</dc:creator>
-                <dc:date>2024-09-02</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>HSF1 renders NK cells too stressed to respond</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01472-1</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Activating the dark genome to illuminate cancer vaccine targets</title>
                 <link>https://www.nature.com/articles/s41588-024-01850-3</link>
                 <description>Epigenetic therapy triggers myriad transposable elements to generate new antigens that could prime tumor cells for immunotherapy. A study of glioblastoma discovers indiscriminate activation in healthy cells as well, and presents a more selective strategy for potential therapeutic targeting.</description>
@@ -1465,20 +1479,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Activating the dark genome to illuminate cancer vaccine targets</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01850-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Exosome regulation by Rubicon in ageing</title>
-                <link>https://www.nature.com/articles/s41556-024-01482-z</link>
-                <description>Autophagy decreases with age, and this is in part attributed to increasing levels of the autophagy-suppressing protein Rubicon. Cell biologists now find another ageing-associated function for Rubicon — the release of exosomes containing microRNAs that control senescence and longevity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Autophagy decreases with age, and this is in part attributed to increasing levels of the autophagy-suppressing protein Rubicon. Cell biologists now find another ageing-associated function for Rubicon — the release of exosomes containing microRNAs that control senescence and longevity.</p></div>]]></content:encoded>
-                <pubDate>2024-08-22</pubDate>
-                <dc:creator>Yan Zhen</dc:creator>
-                <dc:creator>Harald Stenmark</dc:creator>
-                <dc:date>2024-08-22</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Exosome regulation by Rubicon in ageing</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01482-z</dc:identifier>
             </item>
         
             <item>
