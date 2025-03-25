@@ -13,6 +13,34 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Making large language models into reliable physician assistants</title>
+                <link>https://www.nature.com/articles/s41591-025-03606-w</link>
+                <description>A randomized study highlights the potential of large language models to assist clinicians in patient care; future research should harness our understanding of the cognitive processes underlying clinical reasoning to further optimize their utility.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A randomized study highlights the potential of large language models to assist clinicians in patient care; future research should harness our understanding of the cognitive processes underlying clinical reasoning to further optimize their utility.</p></div>]]></content:encoded>
+                <pubDate>2025-03-24</pubDate>
+                <dc:creator>Sílvia Mamede</dc:creator>
+                <dc:creator>Henk G. Schmidt</dc:creator>
+                <dc:date>2025-03-24</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Making large language models into reliable physician assistants</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03606-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Live-cell super-resolution microscopy reveals how molecules enter and exit the nucleus</title>
+                <link>https://www.nature.com/articles/d41586-025-00804-x</link>
+                <description>The nuclear pore complex is the gateway to the nucleus of cells. Now an in vivo imaging technique can track the way in which molecules move through this complex.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The nuclear pore complex is the gateway to the nucleus of cells. Now an in vivo imaging technique can track the way in which molecules move through this complex.</p></div>]]></content:encoded>
+                <pubDate>2025-03-24</pubDate>
+                <dc:creator>Bernd Rieger</dc:creator>
+                <dc:creator>Enya S. Berrevoets</dc:creator>
+                <dc:date>2025-03-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Live-cell super-resolution microscopy reveals how molecules enter and exit the nucleus</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00804-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>GPX4 methylation puts a brake on ferroptosis</title>
                 <link>https://www.nature.com/articles/s41556-025-01640-x</link>
                 <description>Ferroptosis is a form of cell death that occurs in many pathological conditions and is a target for cancer therapy. The enzyme GPX4 is the primary means by which cells guard against ferroptosis. A study now demonstrates that methylation of GPX4 promotes its stabilization, and that preventing GPX4 methylation improves cancer therapy.</description>
@@ -96,6 +124,19 @@
             </item>
         
             <item>
+                <title>Ancient peat reveals that sea level surged rapidly twice at the end of the last ice age</title>
+                <link>https://www.nature.com/articles/d41586-025-00800-1</link>
+                <description>An analysis of peat from ancient wetlands provides a reconstruction of how sea level increased millennia ago — and how it might rise again with global warming.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of peat from ancient wetlands provides a reconstruction of how sea level increased millennia ago — and how it might rise again with global warming.</p></div>]]></content:encoded>
+                <pubDate>2025-03-19</pubDate>
+                <dc:creator>Nicole S. Khan</dc:creator>
+                <dc:date>2025-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Ancient peat reveals that sea level surged rapidly twice at the end of the last ice age</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00800-1</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Marrying mechanics with spatial transcriptomics</title>
                 <link>https://www.nature.com/articles/s41592-024-02491-4</link>
                 <description>A method infers tension from spatial transcriptomic data on single cells in tissue context.</description>
@@ -108,19 +149,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Marrying mechanics with spatial transcriptomics</dc:title>
                 <dc:identifier>doi:doi.org/s41592-024-02491-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Ancient peat reveals that sea level surged rapidly twice at the end of the last ice age</title>
-                <link>https://www.nature.com/articles/d41586-025-00800-1</link>
-                <description>An analysis of peat from ancient wetlands provides a reconstruction of how sea level increased millennia ago — and how it might rise again with global warming.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of peat from ancient wetlands provides a reconstruction of how sea level increased millennia ago — and how it might rise again with global warming.</p></div>]]></content:encoded>
-                <pubDate>2025-03-19</pubDate>
-                <dc:creator>Nicole S. Khan</dc:creator>
-                <dc:date>2025-03-19</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ancient peat reveals that sea level surged rapidly twice at the end of the last ice age</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00800-1</dc:identifier>
             </item>
         
             <item>
@@ -190,19 +218,6 @@
             </item>
         
             <item>
-                <title>Liver cancer recurrence predicted by immune-cell location and gene expression</title>
-                <link>https://www.nature.com/articles/d41586-025-00734-8</link>
-                <description>Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</p></div>]]></content:encoded>
-                <pubDate>2025-03-12</pubDate>
-                <dc:creator>Christian M. Schürch</dc:creator>
-                <dc:date>2025-03-12</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Liver cancer recurrence predicted by immune-cell location and gene expression</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00734-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Metals squeezed to thickness of just two atoms</title>
                 <link>https://www.nature.com/articles/d41586-025-00548-8</link>
                 <description>Ultrathin metals have been prepared using a benchtop hydraulic press — allowing the fascinating properties of the resulting 2D materials to be observed.</description>
@@ -239,6 +254,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>An operating system for networked quantum computers is a huge practical step forward</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00547-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Liver cancer recurrence predicted by immune-cell location and gene expression</title>
+                <link>https://www.nature.com/articles/d41586-025-00734-8</link>
+                <description>Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.</p></div>]]></content:encoded>
+                <pubDate>2025-03-12</pubDate>
+                <dc:creator>Christian M. Schürch</dc:creator>
+                <dc:date>2025-03-12</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Liver cancer recurrence predicted by immune-cell location and gene expression</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00734-8</dc:identifier>
             </item>
         
             <item>
@@ -346,19 +374,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Sugar unmasking for trafficking</dc:title>
                 <dc:identifier>doi:doi.org/s41556-025-01615-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>A name for the study of life in the Universe</title>
-                <link>https://www.nature.com/articles/d41586-025-00466-9</link>
-                <description>An argument for introducing the word ‘cosmobiology’, and accounts of the human side of science, in our weekly dip into Nature’s archive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An argument for introducing the word ‘cosmobiology’, and accounts of the human side of science, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
-                <pubDate>2025-03-04</pubDate>
-                
-                <dc:date>2025-03-04</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>A name for the study of life in the Universe</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00466-9</dc:identifier>
             </item>
         
             <item>
@@ -528,20 +543,6 @@
             </item>
         
             <item>
-                <title>Regulating MYC translation in cancer</title>
-                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
-                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
-                <pubDate>2025-02-07</pubDate>
-                <dc:creator>Zainab Hussain</dc:creator>
-                <dc:creator>Mara H. Sherman</dc:creator>
-                <dc:date>2025-02-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Regulating MYC translation in cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</title>
                 <link>https://www.nature.com/articles/s41591-025-03510-3</link>
                 <description>A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</description>
@@ -553,6 +554,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</dc:title>
                 <dc:identifier>doi:doi.org/s41591-025-03510-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Regulating MYC translation in cancer</title>
+                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
+                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Zainab Hussain</dc:creator>
+                <dc:creator>Mara H. Sherman</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Regulating MYC translation in cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
             </item>
         
             <item>
@@ -610,19 +625,6 @@
             </item>
         
             <item>
-                <title>Pseudouridine is the hidden language of plant RNA translation</title>
-                <link>https://www.nature.com/articles/s41477-025-01926-w</link>
-                <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</p></div>]]></content:encoded>
-                <pubDate>2025-02-03</pubDate>
-                <dc:creator>Patricia Baldrich</dc:creator>
-                <dc:date>2025-02-03</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
-                <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Not the end of the road for macrophage therapy in liver cirrhosis</title>
                 <link>https://www.nature.com/articles/s41591-025-03490-4</link>
                 <description>A phase 2 trial of autologous macrophage therapy falls just short of meeting its primary endpoint of improving prognosis, but it is too soon to dismiss this approach; further research and protocol optimization should yield more definitive results.</description>
@@ -633,6 +635,19 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Not the end of the road for macrophage therapy in liver cirrhosis</dc:title>
                 <dc:identifier>doi:doi.org/s41591-025-03490-4</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pseudouridine is the hidden language of plant RNA translation</title>
+                <link>https://www.nature.com/articles/s41477-025-01926-w</link>
+                <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</p></div>]]></content:encoded>
+                <pubDate>2025-02-03</pubDate>
+                <dc:creator>Patricia Baldrich</dc:creator>
+                <dc:date>2025-02-03</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
             </item>
         
             <item>
@@ -1313,21 +1328,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Genetic African ancestry modifies the biology of acute myeloid leukemia</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01869-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>The inconvenient reality of AI-assisted embryo selection in IVF</title>
-                <link>https://www.nature.com/articles/s41591-024-03289-9</link>
-                <description>Artificial intelligence is being hyped for its potential to revolutionize assisted reproduction, including embryo selection — but a new study reveals that the inflated expectations of new technologies are not always justified.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is being hyped for its potential to revolutionize assisted reproduction, including embryo selection — but a new study reveals that the inflated expectations of new technologies are not always justified.</p></div>]]></content:encoded>
-                <pubDate>2024-10-01</pubDate>
-                <dc:creator>Dorit C. Kieslinger</dc:creator>
-                <dc:creator>Cornelis B. Lambalk</dc:creator>
-                <dc:creator>Carlijn G. Vergouw</dc:creator>
-                <dc:date>2024-10-01</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>The inconvenient reality of AI-assisted embryo selection in IVF</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03289-9</dc:identifier>
             </item>
         
             <item>
