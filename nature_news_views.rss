@@ -13,17 +13,30 @@
             <ttl>120</ttl>
     
             <item>
-                <title>Making large language models into reliable physician assistants</title>
-                <link>https://www.nature.com/articles/s41591-025-03606-w</link>
-                <description>A randomized study highlights the potential of large language models to assist clinicians in patient care; future research should harness our understanding of the cognitive processes underlying clinical reasoning to further optimize their utility.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A randomized study highlights the potential of large language models to assist clinicians in patient care; future research should harness our understanding of the cognitive processes underlying clinical reasoning to further optimize their utility.</p></div>]]></content:encoded>
-                <pubDate>2025-03-24</pubDate>
-                <dc:creator>Sílvia Mamede</dc:creator>
-                <dc:creator>Henk G. Schmidt</dc:creator>
-                <dc:date>2025-03-24</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Making large language models into reliable physician assistants</dc:title>
-                <dc:identifier>doi:doi.org/s41591-025-03606-w</dc:identifier>
+                <title>How the Atlantic jet stream has changed in 600 years — and what it means for weather</title>
+                <link>https://www.nature.com/articles/d41586-025-00871-0</link>
+                <description>A multi-century climate record suggests that current Atlantic jet-stream variations are not the cause of an increase in extreme weather events.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A multi-century climate record suggests that current Atlantic jet-stream variations are not the cause of an increase in extreme weather events.</p></div>]]></content:encoded>
+                <pubDate>2025-03-25</pubDate>
+                <dc:creator>Matthew P. Dannenberg</dc:creator>
+                <dc:creator>Erika K. Wise</dc:creator>
+                <dc:date>2025-03-25</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How the Atlantic jet stream has changed in 600 years — and what it means for weather</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00871-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Why is my cello howling?</title>
+                <link>https://www.nature.com/articles/d41586-025-00914-6</link>
+                <description>A musician’s query as to the origin of a warped ‘wolf’ tone, and a review of a book by physicist Marie Curie, in our weekly dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A musician’s query as to the origin of a warped ‘wolf’ tone, and a review of a book by physicist Marie Curie, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2025-03-25</pubDate>
+                
+                <dc:date>2025-03-25</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Why is my cello howling?</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00914-6</dc:identifier>
             </item>
         
             <item>
@@ -38,6 +51,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Live-cell super-resolution microscopy reveals how molecules enter and exit the nucleus</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00804-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Making large language models into reliable physician assistants</title>
+                <link>https://www.nature.com/articles/s41591-025-03606-w</link>
+                <description>A randomized study highlights the potential of large language models to assist clinicians in patient care; future research should harness our understanding of the cognitive processes underlying clinical reasoning to further optimize their utility.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A randomized study highlights the potential of large language models to assist clinicians in patient care; future research should harness our understanding of the cognitive processes underlying clinical reasoning to further optimize their utility.</p></div>]]></content:encoded>
+                <pubDate>2025-03-24</pubDate>
+                <dc:creator>Sílvia Mamede</dc:creator>
+                <dc:creator>Henk G. Schmidt</dc:creator>
+                <dc:date>2025-03-24</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Making large language models into reliable physician assistants</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03606-w</dc:identifier>
             </item>
         
             <item>
@@ -165,6 +192,19 @@
             </item>
         
             <item>
+                <title>Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery</title>
+                <link>https://www.nature.com/articles/d41586-025-00733-9</link>
+                <description>The 2005 finding of cells and blood vessels in dinosaur bone launched a systematic search for fossil remnants of biomolecules, creating innovations in methods and applications.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The 2005 finding of cells and blood vessels in dinosaur bone launched a systematic search for fossil remnants of biomolecules, creating innovations in methods and applications.</p></div>]]></content:encoded>
+                <pubDate>2025-03-17</pubDate>
+                <dc:creator>Jasmina Wiemann</dc:creator>
+                <dc:date>2025-03-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00733-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Errors in the Huntington’s disease gene accumulate slowly and then all at once</title>
                 <link>https://www.nature.com/articles/d41586-025-00717-9</link>
                 <description>Inherited repeat mutations in the HTT gene expand in neurons over decades before crossing a toxic threshold, revealing a long time window for therapy.</description>
@@ -189,19 +229,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>The early origins of bone-tool manufacturing traditions by hominins 1.5 million years ago</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00545-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery</title>
-                <link>https://www.nature.com/articles/d41586-025-00733-9</link>
-                <description>The 2005 finding of cells and blood vessels in dinosaur bone launched a systematic search for fossil remnants of biomolecules, creating innovations in methods and applications.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The 2005 finding of cells and blood vessels in dinosaur bone launched a systematic search for fossil remnants of biomolecules, creating innovations in methods and applications.</p></div>]]></content:encoded>
-                <pubDate>2025-03-17</pubDate>
-                <dc:creator>Jasmina Wiemann</dc:creator>
-                <dc:date>2025-03-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00733-9</dc:identifier>
             </item>
         
             <item>
@@ -280,32 +307,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>An organ that stores red blood cells for emergencies</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00732-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>AI algorithm helps telescopes to pivot fast towards gravitational-wave sources</title>
-                <link>https://www.nature.com/articles/d41586-025-00543-z</link>
-                <description>Fast electromagnetic follow-up observations of gravitational-wave sources such as binary neutron stars could shed light on questions across physics and cosmology. A machine-learning approach brings that a step closer.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Fast electromagnetic follow-up observations of gravitational-wave sources such as binary neutron stars could shed light on questions across physics and cosmology. A machine-learning approach brings that a step closer.</p></div>]]></content:encoded>
-                <pubDate>2025-03-05</pubDate>
-                <dc:creator>Michael J. Williams</dc:creator>
-                <dc:date>2025-03-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>AI algorithm helps telescopes to pivot fast towards gravitational-wave sources</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00543-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Protein waste turned into antibiotics as a defence strategy of human cells</title>
-                <link>https://www.nature.com/articles/d41586-025-00514-4</link>
-                <description>As well as degrading proteins, the proteosome surprisingly also functions in human defence against bacterial infection. By changing how proteins are cleaved, this system generates antibiotic peptides on demand.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">As well as degrading proteins, the proteosome surprisingly also functions in human defence against bacterial infection. By changing how proteins are cleaved, this system generates antibiotic peptides on demand.</p></div>]]></content:encoded>
-                <pubDate>2025-03-05</pubDate>
-                <dc:creator>Tim Clausen</dc:creator>
-                <dc:date>2025-03-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Protein waste turned into antibiotics as a defence strategy of human cells</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00514-4</dc:identifier>
             </item>
         
             <item>
