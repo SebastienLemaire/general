@@ -13,6 +13,45 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Lasso-shaped molecule is a new type of broad-spectrum antibiotic</title>
+                <link>https://www.nature.com/articles/d41586-025-00901-x</link>
+                <description>A natural antibacterial molecule shows clinical promise. Its unusual binding site is on an excellent target: protein-synthesis machinery known as the ribosome.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A natural antibacterial molecule shows clinical promise. Its unusual binding site is on an excellent target: protein-synthesis machinery known as the ribosome.</p></div>]]></content:encoded>
+                <pubDate>2025-03-26</pubDate>
+                <dc:creator>Lynn L. Silver</dc:creator>
+                <dc:date>2025-03-26</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Lasso-shaped molecule is a new type of broad-spectrum antibiotic</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00901-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A lighthouse galaxy shines unexpectedly through the fog of the cosmic dawn</title>
+                <link>https://www.nature.com/articles/d41586-025-00899-2</link>
+                <description>Ultraviolet light from a galaxy observed when the Universe was just 330 million years old has intriguing implications for understanding how the first generations of stars and black holes were formed.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Ultraviolet light from a galaxy observed when the Universe was just 330 million years old has intriguing implications for understanding how the first generations of stars and black holes were formed.</p></div>]]></content:encoded>
+                <pubDate>2025-03-26</pubDate>
+                <dc:creator>Michele Trenti</dc:creator>
+                <dc:date>2025-03-26</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A lighthouse galaxy shines unexpectedly through the fog of the cosmic dawn</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00899-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Crucial meeting: molecule helps vaccine to interact with killer T cells</title>
+                <link>https://www.nature.com/articles/d41586-025-00900-y</link>
+                <description>Vaccines containing peptides called antigens are bad at stimulating key immune cells called killer T cells. A molecule now enables antigens to encounter these T cells.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Vaccines containing peptides called antigens are bad at stimulating key immune cells called killer T cells. A molecule now enables antigens to encounter these T cells.</p></div>]]></content:encoded>
+                <pubDate>2025-03-26</pubDate>
+                <dc:creator>John T. Wilson</dc:creator>
+                <dc:date>2025-03-26</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Crucial meeting: molecule helps vaccine to interact with killer T cells</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00900-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>How the Atlantic jet stream has changed in 600 years — and what it means for weather</title>
                 <link>https://www.nature.com/articles/d41586-025-00871-0</link>
                 <description>A multi-century climate record suggests that current Atlantic jet-stream variations are not the cause of an increase in extreme weather events.</description>
@@ -96,20 +135,6 @@
             </item>
         
             <item>
-                <title>What is the best type of tree to use for forest restoration?</title>
-                <link>https://www.nature.com/articles/d41586-025-00802-z</link>
-                <description>In forest experiments, tree species capable of high rates of photosynthesis grow more slowly than species with lower maximum rates of photosynthesis — with implications for tree-planting projects.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In forest experiments, tree species capable of high rates of photosynthesis grow more slowly than species with lower maximum rates of photosynthesis — with implications for tree-planting projects.</p></div>]]></content:encoded>
-                <pubDate>2025-03-19</pubDate>
-                <dc:creator>Pieter A. Zuidema</dc:creator>
-                <dc:creator>Madelon Lohbeck</dc:creator>
-                <dc:date>2025-03-19</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>What is the best type of tree to use for forest restoration?</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00802-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>New antifungal breaks the mould</title>
                 <link>https://www.nature.com/articles/d41586-025-00801-0</link>
                 <description>A bacterium makes a molecule that kills drug-resistant fungi in an unusual way — by targeting various phospholipid molecules in membranes.</description>
@@ -164,6 +189,20 @@
             </item>
         
             <item>
+                <title>What is the best type of tree to use for forest restoration?</title>
+                <link>https://www.nature.com/articles/d41586-025-00802-z</link>
+                <description>In forest experiments, tree species capable of high rates of photosynthesis grow more slowly than species with lower maximum rates of photosynthesis — with implications for tree-planting projects.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In forest experiments, tree species capable of high rates of photosynthesis grow more slowly than species with lower maximum rates of photosynthesis — with implications for tree-planting projects.</p></div>]]></content:encoded>
+                <pubDate>2025-03-19</pubDate>
+                <dc:creator>Pieter A. Zuidema</dc:creator>
+                <dc:creator>Madelon Lohbeck</dc:creator>
+                <dc:date>2025-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>What is the best type of tree to use for forest restoration?</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00802-z</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Marrying mechanics with spatial transcriptomics</title>
                 <link>https://www.nature.com/articles/s41592-024-02491-4</link>
                 <description>A method infers tension from spatial transcriptomic data on single cells in tissue context.</description>
@@ -192,19 +231,6 @@
             </item>
         
             <item>
-                <title>Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery</title>
-                <link>https://www.nature.com/articles/d41586-025-00733-9</link>
-                <description>The 2005 finding of cells and blood vessels in dinosaur bone launched a systematic search for fossil remnants of biomolecules, creating innovations in methods and applications.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The 2005 finding of cells and blood vessels in dinosaur bone launched a systematic search for fossil remnants of biomolecules, creating innovations in methods and applications.</p></div>]]></content:encoded>
-                <pubDate>2025-03-17</pubDate>
-                <dc:creator>Jasmina Wiemann</dc:creator>
-                <dc:date>2025-03-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00733-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Errors in the Huntington’s disease gene accumulate slowly and then all at once</title>
                 <link>https://www.nature.com/articles/d41586-025-00717-9</link>
                 <description>Inherited repeat mutations in the HTT gene expand in neurons over decades before crossing a toxic threshold, revealing a long time window for therapy.</description>
@@ -229,6 +255,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>The early origins of bone-tool manufacturing traditions by hominins 1.5 million years ago</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00545-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery</title>
+                <link>https://www.nature.com/articles/d41586-025-00733-9</link>
+                <description>The 2005 finding of cells and blood vessels in dinosaur bone launched a systematic search for fossil remnants of biomolecules, creating innovations in methods and applications.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The 2005 finding of cells and blood vessels in dinosaur bone launched a systematic search for fossil remnants of biomolecules, creating innovations in methods and applications.</p></div>]]></content:encoded>
+                <pubDate>2025-03-17</pubDate>
+                <dc:creator>Jasmina Wiemann</dc:creator>
+                <dc:date>2025-03-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00733-9</dc:identifier>
             </item>
         
             <item>
@@ -307,47 +346,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>An organ that stores red blood cells for emergencies</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00732-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Amazonian deforestation makes the wet season wetter, and the dry season drier</title>
-                <link>https://www.nature.com/articles/d41586-025-00542-0</link>
-                <description>Clearing of Amazonian forest boosts rainfall during the wet season, but reduces it in the dry season, when the ecosystem needs water most — highlighting the need to prevent further clearance of a climate-regulating environment.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Clearing of Amazonian forest boosts rainfall during the wet season, but reduces it in the dry season, when the ecosystem needs water most — highlighting the need to prevent further clearance of a climate-regulating environment.</p></div>]]></content:encoded>
-                <pubDate>2025-03-05</pubDate>
-                <dc:creator>Wim Thiery</dc:creator>
-                <dc:date>2025-03-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Amazonian deforestation makes the wet season wetter, and the dry season drier</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00542-0</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Genus-wide plant pangenome could inform next-generation crop design</title>
-                <link>https://www.nature.com/articles/d41586-025-00544-y</link>
-                <description>A compilation of genomes from species in the genus Solanum could help scientists to blend the best aspects of productive staple crops and genetically diverse but under-studied indigenous crops.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A compilation of genomes from species in the genus Solanum could help scientists to blend the best aspects of productive staple crops and genetically diverse but under-studied indigenous crops.</p></div>]]></content:encoded>
-                <pubDate>2025-03-05</pubDate>
-                <dc:creator>Nadia Kamal</dc:creator>
-                <dc:creator>Manuel Spannagl</dc:creator>
-                <dc:date>2025-03-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Genus-wide plant pangenome could inform next-generation crop design</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00544-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Designer cannabinoids could be the key to pain relief without adverse effects</title>
-                <link>https://www.nature.com/articles/d41586-025-00546-w</link>
-                <description>Current approaches to pain relief are falling short. Chemically modifying a synthetic cannabinoid could enable scientists to capitalize on the body’s natural pain-killing pathway without evoking drug tolerance or psychoactivity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Current approaches to pain relief are falling short. Chemically modifying a synthetic cannabinoid could enable scientists to capitalize on the body’s natural pain-killing pathway without evoking drug tolerance or psychoactivity.</p></div>]]></content:encoded>
-                <pubDate>2025-03-05</pubDate>
-                <dc:creator>Iain R. Greig</dc:creator>
-                <dc:creator>Ruth A. Ross</dc:creator>
-                <dc:date>2025-03-05</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Designer cannabinoids could be the key to pain relief without adverse effects</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00546-w</dc:identifier>
             </item>
         
             <item>
