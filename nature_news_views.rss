@@ -39,6 +39,20 @@
             </item>
         
             <item>
+                <title>Lysosome repair fails in ageing and Alzheimer’s disease</title>
+                <link>https://www.nature.com/articles/s41556-024-01608-3</link>
+                <description>Decades of research have linked lysosomal failure to Alzheimer’s disease, but the role of ageing has remained unknown, hindered by the absence of in vitro models that combine both ageing and Alzheimer’s. A study now identifies how disrupted lysosome repair fuels dysproteostasis and inflammation in both aged and diseased neurons.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Decades of research have linked lysosomal failure to Alzheimer’s disease, but the role of ageing has remained unknown, hindered by the absence of in vitro models that combine both ageing and Alzheimer’s. A study now identifies how disrupted lysosome repair fuels dysproteostasis and inflammation in both aged and diseased neurons.</p></div>]]></content:encoded>
+                <pubDate>2025-03-26</pubDate>
+                <dc:creator>Céline Vrancx</dc:creator>
+                <dc:creator>Wim Annaert</dc:creator>
+                <dc:date>2025-03-26</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Lysosome repair fails in ageing and Alzheimer’s disease</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01608-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Crucial meeting: molecule helps vaccine to interact with killer T cells</title>
                 <link>https://www.nature.com/articles/d41586-025-00900-y</link>
                 <description>Vaccines containing peptides called antigens are bad at stimulating key immune cells called killer T cells. A molecule now enables antigens to encounter these T cells.</description>
@@ -542,20 +556,6 @@
             </item>
         
             <item>
-                <title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</title>
-                <link>https://www.nature.com/articles/s41591-025-03510-3</link>
-                <description>A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</p></div>]]></content:encoded>
-                <pubDate>2025-02-07</pubDate>
-                <dc:creator>Rozalyn Chok</dc:creator>
-                <dc:creator>Sneha Ramakrishna</dc:creator>
-                <dc:date>2025-02-07</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</dc:title>
-                <dc:identifier>doi:doi.org/s41591-025-03510-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Regulating MYC translation in cancer</title>
                 <link>https://www.nature.com/articles/s41556-024-01589-3</link>
                 <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
@@ -567,6 +567,20 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Regulating MYC translation in cancer</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</title>
+                <link>https://www.nature.com/articles/s41591-025-03510-3</link>
+                <description>A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Rozalyn Chok</dc:creator>
+                <dc:creator>Sneha Ramakrishna</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03510-3</dc:identifier>
             </item>
         
             <item>
@@ -1342,19 +1356,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>RNAs kiss and translate in germ granules</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01502-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Astrocytes are enablers of brain metastases</title>
-                <link>https://www.nature.com/articles/s41556-024-01516-6</link>
-                <description>Circulating tumour cells from primary carcinomas may reach the brain and establish metastases. In the brain parenchyma, tumour cells initiate extensive interactions with resident astrocytes, microglia and neurons, forming a niche where tumour cells can thrive. A new study reveals a previously unknown type of astrocyte–tumour cell interaction.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Circulating tumour cells from primary carcinomas may reach the brain and establish metastases. In the brain parenchyma, tumour cells initiate extensive interactions with resident astrocytes, microglia and neurons, forming a niche where tumour cells can thrive. A new study reveals a previously unknown type of astrocyte–tumour cell interaction.</p></div>]]></content:encoded>
-                <pubDate>2024-09-30</pubDate>
-                <dc:creator>Livia Garzia</dc:creator>
-                <dc:date>2024-09-30</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Astrocytes are enablers of brain metastases</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01516-6</dc:identifier>
             </item>
         
             <item>
