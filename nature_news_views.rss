@@ -13,6 +13,88 @@
             <ttl>120</ttl>
     
             <item>
+                <title>TAILORing AI-guided treatment for atrial fibrillation</title>
+                <link>https://www.nature.com/articles/s41591-025-03611-z</link>
+                <description>The TAILORED-AF trial used artificial intelligence (AI)-guided mapping to enhance catheter ablation in persistent atrial fibrillation and demonstrated reductions in recurrent atrial fibrillation, but the net clinical benefit remains unclear.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The TAILORED-AF trial used artificial intelligence (AI)-guided mapping to enhance catheter ablation in persistent atrial fibrillation and demonstrated reductions in recurrent atrial fibrillation, but the net clinical benefit remains unclear.</p></div>]]></content:encoded>
+                <pubDate>2025-04-02</pubDate>
+                <dc:creator>Zak Loring</dc:creator>
+                <dc:creator>Jonathan P. Piccini</dc:creator>
+                <dc:date>2025-04-02</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>TAILORing AI-guided treatment for atrial fibrillation</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03611-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Borzoi decodes the complex DNA signals governing gene regulation</title>
+                <link>https://www.nature.com/articles/s41588-025-02154-w</link>
+                <description>Borzoi is a deep learning model that predicts RNA sequencing coverage across each exon of every human gene, across different cells and tissues, based on DNA sequence alone.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Borzoi is a deep learning model that predicts RNA sequencing coverage across each exon of every human gene, across different cells and tissues, based on DNA sequence alone.</p></div>]]></content:encoded>
+                <pubDate>2025-04-01</pubDate>
+                <dc:creator>Sandra T. Cooper</dc:creator>
+                <dc:date>2025-04-01</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Borzoi decodes the complex DNA signals governing gene regulation</dc:title>
+                <dc:identifier>doi:doi.org/s41588-025-02154-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</title>
+                <link>https://www.nature.com/articles/s41588-025-02151-z</link>
+                <description>The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</p></div>]]></content:encoded>
+                <pubDate>2025-04-01</pubDate>
+                <dc:creator>Sílvia Vilarinho</dc:creator>
+                <dc:date>2025-04-01</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</dc:title>
+                <dc:identifier>doi:doi.org/s41588-025-02151-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How seahorses and pipefish inspired the design of a boat propeller</title>
+                <link>https://www.nature.com/articles/d41586-025-00915-5</link>
+                <description>Why really good trombones sound the way they do, and the peculiar motion of creatures in the ocean, in this week’s dip into Nature’s archive.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Why really good trombones sound the way they do, and the peculiar motion of creatures in the ocean, in this week’s dip into Nature’s archive.</p></div>]]></content:encoded>
+                <pubDate>2025-04-01</pubDate>
+                
+                <dc:date>2025-04-01</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How seahorses and pipefish inspired the design of a boat propeller</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00915-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A new paradigm for immunotherapy in glioblastoma</title>
+                <link>https://www.nature.com/articles/s41591-025-03607-9</link>
+                <description>A detailed case report shows that neoadjuvant combination immunotherapy can activate antitumor immunity and drive clinical benefit in newly diagnosed glioblastoma, revealing avenues for further research that could shift the treatment landscape to improve survival.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A detailed case report shows that neoadjuvant combination immunotherapy can activate antitumor immunity and drive clinical benefit in newly diagnosed glioblastoma, revealing avenues for further research that could shift the treatment landscape to improve survival.</p></div>]]></content:encoded>
+                <pubDate>2025-03-31</pubDate>
+                <dc:creator>Yosef Ellenbogen</dc:creator>
+                <dc:creator>Gelareh Zadeh</dc:creator>
+                <dc:date>2025-03-31</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>A new paradigm for immunotherapy in glioblastoma</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03607-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Targeting GDF-15 in cancer cachexia and immunity</title>
+                <link>https://www.nature.com/articles/s41591-025-03557-2</link>
+                <description>Two recent, early-phase trials evaluating antibodies that target GDF-15 show positive effects on immunotherapy response and cachexia symptoms; further work to unravel the multifaceted biology of GDF-15 in cancer could lead to transformative treatment strategies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two recent, early-phase trials evaluating antibodies that target GDF-15 show positive effects on immunotherapy response and cachexia symptoms; further work to unravel the multifaceted biology of GDF-15 in cancer could lead to transformative treatment strategies.</p></div>]]></content:encoded>
+                <pubDate>2025-03-28</pubDate>
+                <dc:creator>Louise Y. Cheng</dc:creator>
+                <dc:creator>Jayesh Desai</dc:creator>
+                <dc:creator>Paul J. Neeson</dc:creator>
+                <dc:date>2025-03-28</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Targeting GDF-15 in cancer cachexia and immunity</dc:title>
+                <dc:identifier>doi:doi.org/s41591-025-03557-2</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Lasso-shaped molecule is a new type of broad-spectrum antibiotic</title>
                 <link>https://www.nature.com/articles/d41586-025-00901-x</link>
                 <description>A natural antibacterial molecule shows clinical promise. Its unusual binding site is on an excellent target: protein-synthesis machinery known as the ribosome.</description>
@@ -39,6 +121,19 @@
             </item>
         
             <item>
+                <title>Crucial meeting: molecule helps vaccine to interact with killer T cells</title>
+                <link>https://www.nature.com/articles/d41586-025-00900-y</link>
+                <description>Vaccines containing peptides called antigens are bad at stimulating key immune cells called killer T cells. A molecule now enables antigens to encounter these T cells.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Vaccines containing peptides called antigens are bad at stimulating key immune cells called killer T cells. A molecule now enables antigens to encounter these T cells.</p></div>]]></content:encoded>
+                <pubDate>2025-03-26</pubDate>
+                <dc:creator>John T. Wilson</dc:creator>
+                <dc:date>2025-03-26</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Crucial meeting: molecule helps vaccine to interact with killer T cells</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00900-y</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Lysosome repair fails in ageing and Alzheimer’s disease</title>
                 <link>https://www.nature.com/articles/s41556-024-01608-3</link>
                 <description>Decades of research have linked lysosomal failure to Alzheimer’s disease, but the role of ageing has remained unknown, hindered by the absence of in vitro models that combine both ageing and Alzheimer’s. A study now identifies how disrupted lysosome repair fuels dysproteostasis and inflammation in both aged and diseased neurons.</description>
@@ -50,19 +145,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Lysosome repair fails in ageing and Alzheimer’s disease</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01608-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Crucial meeting: molecule helps vaccine to interact with killer T cells</title>
-                <link>https://www.nature.com/articles/d41586-025-00900-y</link>
-                <description>Vaccines containing peptides called antigens are bad at stimulating key immune cells called killer T cells. A molecule now enables antigens to encounter these T cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Vaccines containing peptides called antigens are bad at stimulating key immune cells called killer T cells. A molecule now enables antigens to encounter these T cells.</p></div>]]></content:encoded>
-                <pubDate>2025-03-26</pubDate>
-                <dc:creator>John T. Wilson</dc:creator>
-                <dc:date>2025-03-26</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Crucial meeting: molecule helps vaccine to interact with killer T cells</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00900-y</dc:identifier>
             </item>
         
             <item>
@@ -149,20 +231,6 @@
             </item>
         
             <item>
-                <title>New antifungal breaks the mould</title>
-                <link>https://www.nature.com/articles/d41586-025-00801-0</link>
-                <description>A bacterium makes a molecule that kills drug-resistant fungi in an unusual way — by targeting various phospholipid molecules in membranes.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A bacterium makes a molecule that kills drug-resistant fungi in an unusual way — by targeting various phospholipid molecules in membranes.</p></div>]]></content:encoded>
-                <pubDate>2025-03-19</pubDate>
-                <dc:creator>Arun Maji</dc:creator>
-                <dc:creator>Martin D. Burke</dc:creator>
-                <dc:date>2025-03-19</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>New antifungal breaks the mould</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00801-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Mutations that accrue through life set the stage for stomach cancer</title>
                 <link>https://www.nature.com/articles/d41586-025-00803-y</link>
                 <description>Comprehensive maps of mutations in healthy and diseased gastric tissue give clues about how cancer arises and could inform early-detection strategies.</description>
@@ -214,6 +282,20 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>What is the best type of tree to use for forest restoration?</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00802-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>New antifungal breaks the mould</title>
+                <link>https://www.nature.com/articles/d41586-025-00801-0</link>
+                <description>A bacterium makes a molecule that kills drug-resistant fungi in an unusual way — by targeting various phospholipid molecules in membranes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A bacterium makes a molecule that kills drug-resistant fungi in an unusual way — by targeting various phospholipid molecules in membranes.</p></div>]]></content:encoded>
+                <pubDate>2025-03-19</pubDate>
+                <dc:creator>Arun Maji</dc:creator>
+                <dc:creator>Martin D. Burke</dc:creator>
+                <dc:date>2025-03-19</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>New antifungal breaks the mould</dc:title>
+                <dc:identifier>doi:doi.org/d41586-025-00801-0</dc:identifier>
             </item>
         
             <item>
@@ -347,19 +429,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Liver cancer recurrence predicted by immune-cell location and gene expression</dc:title>
                 <dc:identifier>doi:doi.org/d41586-025-00734-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>An organ that stores red blood cells for emergencies</title>
-                <link>https://www.nature.com/articles/d41586-025-00732-w</link>
-                <description>A new ‘storehouse’ function ascribed to the spleen, and reducing laboratory waste by reusing vials, in our weekly dip into Nature’s archive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new ‘storehouse’ function ascribed to the spleen, and reducing laboratory waste by reusing vials, in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
-                <pubDate>2025-03-11</pubDate>
-                
-                <dc:date>2025-03-11</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>An organ that stores red blood cells for emergencies</dc:title>
-                <dc:identifier>doi:doi.org/d41586-025-00732-w</dc:identifier>
             </item>
         
             <item>
@@ -556,20 +625,6 @@
             </item>
         
             <item>
-                <title>Regulating MYC translation in cancer</title>
-                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
-                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
-                <pubDate>2025-02-07</pubDate>
-                <dc:creator>Zainab Hussain</dc:creator>
-                <dc:creator>Mara H. Sherman</dc:creator>
-                <dc:date>2025-02-07</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Regulating MYC translation in cancer</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Allogeneic approach unlocks CAR T cell benefits in solid tumors</title>
                 <link>https://www.nature.com/articles/s41591-025-03510-3</link>
                 <description>A small but in-depth study of allogeneic CAR T cell therapy in patients with high-risk neuroblastoma shows feasibility and potential efficacy, and mechanistic insights reveal pathways to improved functionality of CAR T cells in solid tumors.</description>
@@ -610,6 +665,20 @@
             </item>
         
             <item>
+                <title>Regulating MYC translation in cancer</title>
+                <link>https://www.nature.com/articles/s41556-024-01589-3</link>
+                <description>Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Layered control of oncogenic protein dosage enables the hallmarks of cancer, but specific regulators of oncogene mRNA translation remain unknown. A study now reports RMB42 as a regulator of the MYC by remodelling its RNA structure and increasing translation efficiency, highlighting a potential therapeutic avenue to target MYC-driven cancers.</p></div>]]></content:encoded>
+                <pubDate>2025-02-07</pubDate>
+                <dc:creator>Zainab Hussain</dc:creator>
+                <dc:creator>Mara H. Sherman</dc:creator>
+                <dc:date>2025-02-07</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Regulating MYC translation in cancer</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01589-3</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Unveiling heterogeneity in rare cells by combining RNA-based sorting and scRNA-seq</title>
                 <link>https://www.nature.com/articles/s41588-024-02073-2</link>
                 <description>A study describes the development of PERFF-seq, a method to ‘FISH’ out rare cells using RNA markers, helping to solve the challenge in single-cell biology of studying cells that make up less than 1% of a sample.</description>
@@ -621,6 +690,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Unveiling heterogeneity in rare cells by combining RNA-based sorting and scRNA-seq</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-02073-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Pseudouridine is the hidden language of plant RNA translation</title>
+                <link>https://www.nature.com/articles/s41477-025-01926-w</link>
+                <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</p></div>]]></content:encoded>
+                <pubDate>2025-02-03</pubDate>
+                <dc:creator>Patricia Baldrich</dc:creator>
+                <dc:date>2025-02-03</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
+                <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
             </item>
         
             <item>
@@ -648,19 +730,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Not the end of the road for macrophage therapy in liver cirrhosis</dc:title>
                 <dc:identifier>doi:doi.org/s41591-025-03490-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Pseudouridine is the hidden language of plant RNA translation</title>
-                <link>https://www.nature.com/articles/s41477-025-01926-w</link>
-                <description>A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A groundbreaking study reveals how pseudouridine modifications across plant RNA species orchestrate translation dynamics, and provides a comprehensive atlas of these modifications in four major crop species. This discovery illuminates a crucial mechanism that controls translation and tissue development in plants.</p></div>]]></content:encoded>
-                <pubDate>2025-02-03</pubDate>
-                <dc:creator>Patricia Baldrich</dc:creator>
-                <dc:date>2025-02-03</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Pseudouridine is the hidden language of plant RNA translation</dc:title>
-                <dc:identifier>doi:doi.org/s41477-025-01926-w</dc:identifier>
             </item>
         
             <item>
@@ -833,20 +902,6 @@
             </item>
         
             <item>
-                <title>Speckle signatures dictate cancer prognosis</title>
-                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
-                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
-                <pubDate>2025-01-03</pubDate>
-                <dc:creator>Hiro Takakuwa</dc:creator>
-                <dc:creator>Tetsuro Hirose</dc:creator>
-                <dc:date>2025-01-03</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
-                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Setting sights on a single-shot malaria vaccine</title>
                 <link>https://www.nature.com/articles/s41591-024-03427-3</link>
                 <description>In a game-changing development for malaria vaccines, single-dose immunization with a genetically weakened whole malaria parasite vaccine achieved an unprecedented 90% protection.</description>
@@ -858,6 +913,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Setting sights on a single-shot malaria vaccine</dc:title>
                 <dc:identifier>doi:doi.org/s41591-024-03427-3</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Speckle signatures dictate cancer prognosis</title>
+                <link>https://www.nature.com/articles/s41556-024-01569-7</link>
+                <description>Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nuclear speckles are dynamic structures enriched in RNA and RNA regulators, with varying compositions. A study now reports two distinct signatures of nuclear speckles that are linked to the prognosis of clear cell renal cell carcinoma. The signatures influence the expression of genes regulated by the transcription factor HIF2α.</p></div>]]></content:encoded>
+                <pubDate>2025-01-03</pubDate>
+                <dc:creator>Hiro Takakuwa</dc:creator>
+                <dc:creator>Tetsuro Hirose</dc:creator>
+                <dc:date>2025-01-03</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Speckle signatures dictate cancer prognosis</dc:title>
+                <dc:identifier>doi:doi.org/s41556-024-01569-7</dc:identifier>
             </item>
         
             <item>
@@ -956,20 +1025,6 @@
             </item>
         
             <item>
-                <title>Spatial mapping of Alzheimer’s disease across genetic subtypes</title>
-                <link>https://www.nature.com/articles/s41588-024-01895-4</link>
-                <description>Alzheimer’s disease is a complex, heterogeneous disorder with multiple genetic subtypes. Spatial and single-cell gene expression analyses of these subtypes have provided new insights into general and subtype-specific cellular and molecular mechanisms of Alzheimer’s disease.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Alzheimer’s disease is a complex, heterogeneous disorder with multiple genetic subtypes. Spatial and single-cell gene expression analyses of these subtypes have provided new insights into general and subtype-specific cellular and molecular mechanisms of Alzheimer’s disease.</p></div>]]></content:encoded>
-                <pubDate>2024-11-25</pubDate>
-                <dc:creator>Alexi Nott</dc:creator>
-                <dc:creator>Inge R. Holtman</dc:creator>
-                <dc:date>2024-11-25</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Spatial mapping of Alzheimer’s disease across genetic subtypes</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01895-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Split-pool barcoding serves up an epigenomic smorgasbord</title>
                 <link>https://www.nature.com/articles/s41588-024-01980-8</link>
                 <description>Perez, Goronzy et al. present ChIP-DIP, which enables multiplex genomic mapping of hundreds of epitopes from a single sample. The authors apply ChIP-DIP to localize modified histones, transcription factors and other chromatin-interacting proteins at scale, in both cell lines and primary cells.</description>
@@ -993,6 +1048,20 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Unlocking Amborella’s ZW sex chromosome system</dc:title>
                 <dc:identifier>doi:doi.org/s41477-024-01830-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Spatial mapping of Alzheimer’s disease across genetic subtypes</title>
+                <link>https://www.nature.com/articles/s41588-024-01895-4</link>
+                <description>Alzheimer’s disease is a complex, heterogeneous disorder with multiple genetic subtypes. Spatial and single-cell gene expression analyses of these subtypes have provided new insights into general and subtype-specific cellular and molecular mechanisms of Alzheimer’s disease.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Alzheimer’s disease is a complex, heterogeneous disorder with multiple genetic subtypes. Spatial and single-cell gene expression analyses of these subtypes have provided new insights into general and subtype-specific cellular and molecular mechanisms of Alzheimer’s disease.</p></div>]]></content:encoded>
+                <pubDate>2024-11-25</pubDate>
+                <dc:creator>Alexi Nott</dc:creator>
+                <dc:creator>Inge R. Holtman</dc:creator>
+                <dc:date>2024-11-25</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Spatial mapping of Alzheimer’s disease across genetic subtypes</dc:title>
+                <dc:identifier>doi:doi.org/s41588-024-01895-4</dc:identifier>
             </item>
         
             <item>
@@ -1205,20 +1274,6 @@
             </item>
         
             <item>
-                <title>Economics, equity and avoidable mortality</title>
-                <link>https://www.nature.com/articles/s41591-024-03303-0</link>
-                <description>Two new studies characterize the unequal global burden of avoidable mortality and the economic value of reducing it — providing evidence to support targeted investment in health and longevity.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Two new studies characterize the unequal global burden of avoidable mortality and the economic value of reducing it — providing evidence to support targeted investment in health and longevity.</p></div>]]></content:encoded>
-                <pubDate>2024-10-22</pubDate>
-                <dc:creator>Jeong-Yeon Cho</dc:creator>
-                <dc:creator>Nathorn Chaiyakunapruk</dc:creator>
-                <dc:date>2024-10-22</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Economics, equity and avoidable mortality</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03303-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Constructing and personalizing population pangenome graphs</title>
                 <link>https://www.nature.com/articles/s41592-024-02402-7</link>
                 <description>Pangenome graphs signify a new frontier in genome representation. Recent advances in constructing and personalizing them mark progress in this area.</description>
@@ -1298,36 +1353,6 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Retinoid-enhanced human gastruloids</dc:title>
                 <dc:identifier>doi:doi.org/s41556-024-01517-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>People with cardiac pacemakers require multidisciplinary care</title>
-                <link>https://www.nature.com/articles/s41591-024-03296-w</link>
-                <description>Echocardiographic screening during routine pacemaker checkups identifies pacing-induced cardiomyopathy in more than one-third of patients, requiring multidisciplinary, guideline-directed follow-up care.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Echocardiographic screening during routine pacemaker checkups identifies pacing-induced cardiomyopathy in more than one-third of patients, requiring multidisciplinary, guideline-directed follow-up care.</p></div>]]></content:encoded>
-                <pubDate>2024-10-09</pubDate>
-                <dc:creator>Kevin Vernooy</dc:creator>
-                <dc:creator>Antonius M. W. van Stipdonk</dc:creator>
-                <dc:creator>Jacqueline Joza</dc:creator>
-                <dc:date>2024-10-09</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>People with cardiac pacemakers require multidisciplinary care</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03296-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Lessons from a negative gene therapy trial for Duchenne muscular dystrophy</title>
-                <link>https://www.nature.com/articles/s41591-024-03316-9</link>
-                <description>Delandistrogene moxeparvovec received FDA approval after a negative trial, which highlights the many complexities and challenges of drug development in this setting.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Delandistrogene moxeparvovec received FDA approval after a negative trial, which highlights the many complexities and challenges of drug development in this setting.</p></div>]]></content:encoded>
-                <pubDate>2024-10-09</pubDate>
-                <dc:creator>Simone Spuler</dc:creator>
-                <dc:creator>Gian Domenico Borasio</dc:creator>
-                <dc:creator>Ulrike Grittner</dc:creator>
-                <dc:date>2024-10-09</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Lessons from a negative gene therapy trial for Duchenne muscular dystrophy</dc:title>
-                <dc:identifier>doi:doi.org/s41591-024-03316-9</dc:identifier>
             </item>
         
             <item>
@@ -1532,32 +1557,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Single-cell technologies meet Hi-C</dc:title>
                 <dc:identifier>doi:doi.org/s41588-024-01855-y</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Stopped clinical trials give evidence for the value of genetics</title>
-                <link>https://www.nature.com/articles/s41588-024-01834-3</link>
-                <description>A new analysis of clinical trials that were stopped early generates insights on the role of genetics in drug development and provides a new resource for researchers aiming to improve success rates of clinical trials.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new analysis of clinical trials that were stopped early generates insights on the role of genetics in drug development and provides a new resource for researchers aiming to improve success rates of clinical trials.</p></div>]]></content:encoded>
-                <pubDate>2024-07-29</pubDate>
-                <dc:creator>Emily King</dc:creator>
-                <dc:date>2024-07-29</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Stopped clinical trials give evidence for the value of genetics</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01834-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Mobile element insertions affect human pigmentation and skin cancer risk</title>
-                <link>https://www.nature.com/articles/s41588-024-01849-w</link>
-                <description>Nearly 50% of the sequence of mammalian genomes is derived from mobile elements that inserted into the genome over millions of years of evolution. A recent mobile element insertion, found only in some individuals with European genetic ancestry, contributes to decreased skin pigmentation and increased sunburn frequency and skin cancer risk.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Nearly 50% of the sequence of mammalian genomes is derived from mobile elements that inserted into the genome over millions of years of evolution. A recent mobile element insertion, found only in some individuals with European genetic ancestry, contributes to decreased skin pigmentation and increased sunburn frequency and skin cancer risk.</p></div>]]></content:encoded>
-                <pubDate>2024-07-24</pubDate>
-                <dc:creator>Jeffrey M. Kidd</dc:creator>
-                <dc:date>2024-07-24</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Mobile element insertions affect human pigmentation and skin cancer risk</dc:title>
-                <dc:identifier>doi:doi.org/s41588-024-01849-w</dc:identifier>
             </item>
         
             <item>
