@@ -1,4 +1,4 @@
-#!/Users/labo/miniconda3/bin/python
+#!/home/slemaire/miniconda3/bin/python
 
 
 """
@@ -16,6 +16,8 @@ import os
 import sys
 import time
 import subprocess
+from github import Auth
+from github import Github
 
 
 def main():
@@ -69,7 +71,7 @@ def make_rss_text(item_list):
                 <dc:date>%s</dc:date>
                 <dc:source>%s</dc:source>
                 <dc:title>%s</dc:title>
-                <dc:identifier>doi:%s</dc:identifier>
+                <dc:identifier>doi:10.1038/%s</dc:identifier>
             </item>
         ''' % (item['item_title'], item['item_href'], item['item_summary'], item['item_summary'], item['temps'], item['item_author'], item['temps'], item['item_journal'], item['item_title'], item['item_doi'])
         #
@@ -85,18 +87,32 @@ def make_rss_text(item_list):
 
 
 def update_file(xmlt):
-    os.chdir('/Users/labo/')
+    os.chdir('/mnt/c/Users/slemaire/softwares/')
     #
     #
-    with open('/Users/labo/general/nature_news_views.rss', 'w') as fich:
+    rss_path = '/mnt/c/Users/slemaire/softwares/general/nature_news_views.rss'
+    with open(rss_path, 'w') as fich:
         print(xmlt, file = fich)
     #
     #
-    os.system('cd /Users/labo/general/')
-    os.chdir('/Users/labo/general/')
-    os.system('git add nature_news_views.rss')
-    os.system('git commit -m "update"')
-    os.system('git push -u origin main')
+    # os.system('cd /mnt/c/Users/slemaire/softwares/general/')
+    os.chdir('/mnt/c/Users/slemaire/softwares/general/')
+
+    # os.system('git add nature_news_views.rss')
+    # os.system('git commit -m "update"')
+    # os.system('git push -u origin main')
+    
+    # Write contents to file in GitHub repo:
+    toktxt="_pat_11ALYIFPA0exyGMhheoajy_ZmdbOnaKJT4mNr0HaklxG3LlNnKwNwOuxAORfwxMOc0KJ7UGAVPEYcw87pY"
+    auth = Auth.Token("github" + toktxt)
+    g = Github(auth=auth)
+    repo = g.get_repo("SebastienLemaire/general")
+
+    contents = repo.get_contents(path="nature_news_views.rss", ref="main")
+    repo.update_file(path=contents.path, message="update RSS XML", content=xmlt, sha=contents.sha, branch="main")
+
+
+
 
 
 def retrieve_articles(url_list=['https://www.nature.com/nature/articles?type=news-and-views', 'https://www.nature.com/ng/articles?type=news-and-views', 'https://www.nature.com/nm/articles?type=news-and-views', 'https://www.nature.com/ncb/articles?type=news-and-views', 'https://www.nature.com/nmeth/articles?type=news-and-views', 'https://www.nature.com/nplants/articles?type=news-and-views']):

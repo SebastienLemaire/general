@@ -1,0 +1,5 @@
+g ithub "general" token (just for reading)
+g hp_aBqXFIQVHJYGI75VtRyTWijtYbpMGD4MXM54
+
+g ithub "general_fg" token
+g ithub_pat_11ALYIFPA0exyGMhheoajy_ZmdbOnaKJT4mNr0HaklxG3LlNnKwNwOuxAORfwxMOc0KJ7UGAVPEYcw87pY
