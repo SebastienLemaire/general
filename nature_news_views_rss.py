@@ -103,7 +103,7 @@ def update_file(xmlt):
     # os.system('git push -u origin main')
     
     # Write contents to file in GitHub repo:
-    toktxt="_pat_11ALYIFPA0exyGMhheoajy_ZmdbOnaKJT4mNr0HaklxG3LlNnKwNwOuxAORfwxMOc0KJ7UGAVPEYcw87pY"
+    toktxt = "_pat_11ALYIFPA0exyGMhheoajy_ZmdbOnaKJT4mNr0HaklxG3LlNnKwNwOuxAORfwxMOc0KJ7UGAVPEYcw87pY"
     auth = Auth.Token("github" + toktxt)
     g = Github(auth=auth)
     repo = g.get_repo("SebastienLemaire/general")
