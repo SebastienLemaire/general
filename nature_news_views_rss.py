@@ -140,7 +140,7 @@ def retrieve_articles(url_list=['https://www.nature.com/nature/articles?type=new
                 #
                 item_title = card.h3.a.get_text()
                 item_href = ''.join([url_base, card.h3.a.get_attribute_list("href")[0]])
-                item_doi = 'doi.org/' + item_href.split('/')[-1]
+                item_doi = item_href.split('/')[-1] #'doi.org/' + item_href.split('/')[-1]
                 item_summary = card.div.p.get_text()
                 #
                 try:
