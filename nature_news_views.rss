@@ -13,6 +13,21 @@
             <ttl>120</ttl>
     
             <item>
+                <title>The dawn of bryophyte genomics is here</title>
+                <link>https://www.nature.com/articles/s41588-025-02240-z</link>
+                <description>Bryophytes are a widespread group of land plants that occupy nearly all biomes, yet their genetics and evolutionary history have long remained underexplored. Now, a study that generates extensive genomic data for bryophytes highlights de novo gene formation and horizontal gene transfer as key forces that shape bryophyte diversity and adaptation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bryophytes are a widespread group of land plants that occupy nearly all biomes, yet their genetics and evolutionary history have long remained underexplored. Now, a study that generates extensive genomic data for bryophytes highlights de novo gene formation and horizontal gene transfer as key forces that shape bryophyte diversity and adaptation.</p></div>]]></content:encoded>
+                <pubDate>2025-09-22</pubDate>
+                <dc:creator>Giacomo Potente</dc:creator>
+                <dc:creator>Yuling Yue</dc:creator>
+                <dc:creator>Péter Szövényi</dc:creator>
+                <dc:date>2025-09-22</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The dawn of bryophyte genomics is here</dc:title>
+                <dc:identifier>doi:10.1038/s41588-025-02240-z</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Wired for growth: neuron–tumour signalling in the lung and brain increases growth of a hard-to-treat cancer</title>
                 <link>https://www.nature.com/articles/d41586-025-02705-5</link>
                 <description>Signalling between neurons and tumour cells in the lung and brain promotes the growth of small-cell lung cancer. These interactions might be a therapeutic target.</description>
@@ -747,19 +762,6 @@
             </item>
         
             <item>
-                <title>AI-enabled drug discovery reaches clinical milestone</title>
-                <link>https://www.nature.com/articles/s41591-025-03832-2</link>
-                <description>A randomized phase 2a clinical trial of an AI-discovered drug and target combination for idiopathic pulmonary fibrosis shows safety and signs of efficacy, marking a concrete step forward in bringing AI-enabled drug discovery into the clinic.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A randomized phase 2a clinical trial of an AI-discovered drug and target combination for idiopathic pulmonary fibrosis shows safety and signs of efficacy, marking a concrete step forward in bringing AI-enabled drug discovery into the clinic.</p></div>]]></content:encoded>
-                <pubDate>2025-07-01</pubDate>
-                <dc:creator>Marinka Zitnik</dc:creator>
-                <dc:date>2025-07-01</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>AI-enabled drug discovery reaches clinical milestone</dc:title>
-                <dc:identifier>doi:10.1038/s41591-025-03832-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>How chemotherapy shapes hematopoietic stem cells</title>
                 <link>https://www.nature.com/articles/s41588-025-02231-0</link>
                 <description>Two complementary studies used whole-genome sequencing of single cell-derived hematopoietic colonies to show that chemotherapy results in a marked decrease in hematopoietic stem and progenitor cell (HSPC) diversity, with the parallel evolution of multiple independent HSPCs harboring mutations in DNA damage response genes.</description>
@@ -771,6 +773,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>How chemotherapy shapes hematopoietic stem cells</dc:title>
                 <dc:identifier>doi:10.1038/s41588-025-02231-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>AI-enabled drug discovery reaches clinical milestone</title>
+                <link>https://www.nature.com/articles/s41591-025-03832-2</link>
+                <description>A randomized phase 2a clinical trial of an AI-discovered drug and target combination for idiopathic pulmonary fibrosis shows safety and signs of efficacy, marking a concrete step forward in bringing AI-enabled drug discovery into the clinic.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A randomized phase 2a clinical trial of an AI-discovered drug and target combination for idiopathic pulmonary fibrosis shows safety and signs of efficacy, marking a concrete step forward in bringing AI-enabled drug discovery into the clinic.</p></div>]]></content:encoded>
+                <pubDate>2025-07-01</pubDate>
+                <dc:creator>Marinka Zitnik</dc:creator>
+                <dc:date>2025-07-01</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>AI-enabled drug discovery reaches clinical milestone</dc:title>
+                <dc:identifier>doi:10.1038/s41591-025-03832-2</dc:identifier>
             </item>
         
             <item>
@@ -1188,19 +1203,6 @@
             </item>
         
             <item>
-                <title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</title>
-                <link>https://www.nature.com/articles/s41588-025-02151-z</link>
-                <description>The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</p></div>]]></content:encoded>
-                <pubDate>2025-04-01</pubDate>
-                <dc:creator>Sílvia Vilarinho</dc:creator>
-                <dc:date>2025-04-01</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</dc:title>
-                <dc:identifier>doi:10.1038/s41588-025-02151-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Borzoi decodes the complex DNA signals governing gene regulation</title>
                 <link>https://www.nature.com/articles/s41588-025-02154-w</link>
                 <description>Borzoi is a deep learning model that predicts RNA sequencing coverage across each exon of every human gene, across different cells and tissues, based on DNA sequence alone.</description>
@@ -1211,6 +1213,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Borzoi decodes the complex DNA signals governing gene regulation</dc:title>
                 <dc:identifier>doi:10.1038/s41588-025-02154-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</title>
+                <link>https://www.nature.com/articles/s41588-025-02151-z</link>
+                <description>The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</p></div>]]></content:encoded>
+                <pubDate>2025-04-01</pubDate>
+                <dc:creator>Sílvia Vilarinho</dc:creator>
+                <dc:date>2025-04-01</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</dc:title>
+                <dc:identifier>doi:10.1038/s41588-025-02151-z</dc:identifier>
             </item>
         
             <item>
@@ -1504,20 +1519,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Single-cell genomics breaks new ground in cell cycle detection</dc:title>
                 <dc:identifier>doi:10.1038/s41588-024-01987-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Spatial mapping of Alzheimer’s disease across genetic subtypes</title>
-                <link>https://www.nature.com/articles/s41588-024-01895-4</link>
-                <description>Alzheimer’s disease is a complex, heterogeneous disorder with multiple genetic subtypes. Spatial and single-cell gene expression analyses of these subtypes have provided new insights into general and subtype-specific cellular and molecular mechanisms of Alzheimer’s disease.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Alzheimer’s disease is a complex, heterogeneous disorder with multiple genetic subtypes. Spatial and single-cell gene expression analyses of these subtypes have provided new insights into general and subtype-specific cellular and molecular mechanisms of Alzheimer’s disease.</p></div>]]></content:encoded>
-                <pubDate>2024-11-25</pubDate>
-                <dc:creator>Alexi Nott</dc:creator>
-                <dc:creator>Inge R. Holtman</dc:creator>
-                <dc:date>2024-11-25</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Spatial mapping of Alzheimer’s disease across genetic subtypes</dc:title>
-                <dc:identifier>doi:10.1038/s41588-024-01895-4</dc:identifier>
             </item>
         
             <item>
