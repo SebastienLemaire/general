@@ -13,6 +13,32 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Cryogenic STEM of thick biological specimens</title>
+                <link>https://www.nature.com/articles/s41592-025-02818-9</link>
+                <description>A cryogenic scanning transmission electron microscopy (STEM) approach for analyzing thick biological specimens expands the reach of cryo-electron microscopy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A cryogenic scanning transmission electron microscopy (STEM) approach for analyzing thick biological specimens expands the reach of cryo-electron microscopy.</p></div>]]></content:encoded>
+                <pubDate>2025-09-23</pubDate>
+                <dc:creator>Carsten Sachse</dc:creator>
+                <dc:date>2025-09-23</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Cryogenic STEM of thick biological specimens</dc:title>
+                <dc:identifier>doi:10.1038/s41592-025-02818-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Fossil fight: how Raymond Dart countered some unfair criticism</title>
+                <link>https://www.nature.com/articles/d41586-025-02828-9</link>
+                <description>A letter to the editor sets the record straight regarding the discovery of Australopithecus, and a proposal to put food on the school curriculum in this week’s pick from the Nature archive</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A letter to the editor sets the record straight regarding the discovery of Australopithecus, and a proposal to put food on the school curriculum in this week’s pick from the Nature archive</p></div>]]></content:encoded>
+                <pubDate>2025-09-23</pubDate>
+                
+                <dc:date>2025-09-23</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Fossil fight: how Raymond Dart countered some unfair criticism</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02828-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The dawn of bryophyte genomics is here</title>
                 <link>https://www.nature.com/articles/s41588-025-02240-z</link>
                 <description>Bryophytes are a widespread group of land plants that occupy nearly all biomes, yet their genetics and evolutionary history have long remained underexplored. Now, a study that generates extensive genomic data for bryophytes highlights de novo gene formation and horizontal gene transfer as key forces that shape bryophyte diversity and adaptation.</description>
@@ -176,6 +202,19 @@
             </item>
         
             <item>
+                <title>How did the oldest star clusters form?</title>
+                <link>https://www.nature.com/articles/d41586-025-02598-4</link>
+                <description>A computational model of the early-to-present-day Universe predicts that some of the first stars formed in structures that challenge conventional classification. </description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A computational model of the early-to-present-day Universe predicts that some of the first stars formed in structures that challenge conventional classification. </p></div>]]></content:encoded>
+                <pubDate>2025-09-10</pubDate>
+                <dc:creator>Natalia Lahén</dc:creator>
+                <dc:date>2025-09-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How did the oldest star clusters form?</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02598-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Mystery Martian minerals hint at the planet’s complex geochemical past</title>
                 <link>https://www.nature.com/articles/d41586-025-02597-5</link>
                 <description>The Perseverance rover on Mars has observed unusual minerals associated with organic matter — raising questions about the geochemistry of ancient Mars.</description>
@@ -187,19 +226,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Mystery Martian minerals hint at the planet’s complex geochemical past</dc:title>
                 <dc:identifier>doi:10.1038/d41586-025-02597-5</dc:identifier>
-            </item>
-        
-            <item>
-                <title>How did the oldest star clusters form?</title>
-                <link>https://www.nature.com/articles/d41586-025-02598-4</link>
-                <description>A computational model of the early-to-present-day Universe predicts that some of the first stars formed in structures that challenge conventional classification. </description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A computational model of the early-to-present-day Universe predicts that some of the first stars formed in structures that challenge conventional classification. </p></div>]]></content:encoded>
-                <pubDate>2025-09-10</pubDate>
-                <dc:creator>Natalia Lahén</dc:creator>
-                <dc:date>2025-09-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>How did the oldest star clusters form?</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02598-4</dc:identifier>
             </item>
         
             <item>
@@ -386,19 +412,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Diversity favoured: heterozygosity attracts crossovers</dc:title>
                 <dc:identifier>doi:10.1038/s41477-025-02066-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Experiment puts ‘spoon bending’ to the test</title>
-                <link>https://www.nature.com/articles/d41586-025-02535-5</link>
-                <description>People who claim they can bend spoons by stroking them fail to convince researchers, and a pioneer of industrial research gets the recognition she deserves in our weekly dip into Nature’s archive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">People who claim they can bend spoons by stroking them fail to convince researchers, and a pioneer of industrial research gets the recognition she deserves in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
-                <pubDate>2025-09-02</pubDate>
-                
-                <dc:date>2025-09-02</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Experiment puts ‘spoon bending’ to the test</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02535-5</dc:identifier>
             </item>
         
             <item>
@@ -1644,19 +1657,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Serial lift-out for in situ structural biology of multicellular specimens</dc:title>
                 <dc:identifier>doi:10.1038/s41592-024-02317-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Toward learning a foundational representation of cells and genes</title>
-                <link>https://www.nature.com/articles/s41592-024-02367-7</link>
-                <description>Inspired by the success of large-scale machine learning models in natural language, several groups are adapting these models for cellular data using massive single-cell datasets.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Inspired by the success of large-scale machine learning models in natural language, several groups are adapting these models for cellular data using massive single-cell datasets.</p></div>]]></content:encoded>
-                <pubDate>2024-08-09</pubDate>
-                <dc:creator>Mohammad Lotfollahi</dc:creator>
-                <dc:date>2024-08-09</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Toward learning a foundational representation of cells and genes</dc:title>
-                <dc:identifier>doi:10.1038/s41592-024-02367-7</dc:identifier>
             </item>
             
         </channel>
