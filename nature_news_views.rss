@@ -13,16 +13,96 @@
             <ttl>120</ttl>
     
             <item>
-                <title>Cryogenic STEM of thick biological specimens</title>
-                <link>https://www.nature.com/articles/s41592-025-02818-9</link>
-                <description>A cryogenic scanning transmission electron microscopy (STEM) approach for analyzing thick biological specimens expands the reach of cryo-electron microscopy.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A cryogenic scanning transmission electron microscopy (STEM) approach for analyzing thick biological specimens expands the reach of cryo-electron microscopy.</p></div>]]></content:encoded>
-                <pubDate>2025-09-23</pubDate>
-                <dc:creator>Carsten Sachse</dc:creator>
-                <dc:date>2025-09-23</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Cryogenic STEM of thick biological specimens</dc:title>
-                <dc:identifier>doi:10.1038/s41592-025-02818-9</dc:identifier>
+                <title>Jazzy jaw joints: evolutionary fine-tuning reveals unexpected bone connections in ancient predecessors of mammals</title>
+                <link>https://www.nature.com/articles/d41586-025-02823-0</link>
+                <description>The evolution of the jaw helped mammals to thrive. Fossil discoveries shed light on the diverse evolutionary journeys taken by joints between the skull and lower jaw.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The evolution of the jaw helped mammals to thrive. Fossil discoveries shed light on the diverse evolutionary journeys taken by joints between the skull and lower jaw.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Elsa Panciroli</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Jazzy jaw joints: evolutionary fine-tuning reveals unexpected bone connections in ancient predecessors of mammals</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02823-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Electrostatic-based transfer keeps 2D materials ultra-clean</title>
+                <link>https://www.nature.com/articles/d41586-025-02822-1</link>
+                <description>A technique that spontaneously detaches a 2D material from the substrate on which it was grown creates high-quality nanoscale electronic devices.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A technique that spontaneously detaches a 2D material from the substrate on which it was grown creates high-quality nanoscale electronic devices.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Wanqing Meng</dc:creator>
+                <dc:creator>Lain-Jong Li</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Electrostatic-based transfer keeps 2D materials ultra-clean</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02822-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How a tick-borne virus enters human cells</title>
+                <link>https://www.nature.com/articles/d41586-025-02593-9</link>
+                <description>Tick-borne encephalitis virus can infect the nervous system and cause life-threatening illness. Finding the cellular gateway it uses could transform prevention and treatment.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Tick-borne encephalitis virus can infect the nervous system and cause life-threatening illness. Finding the cellular gateway it uses could transform prevention and treatment.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Yaw Shin Ooi</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How a tick-borne virus enters human cells</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02593-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A drug–diet combination could improve childhood cancer treatment</title>
+                <link>https://www.nature.com/articles/d41586-025-02824-z</link>
+                <description>Mouse studies show that depriving neuroblastoma of certain amino acids causes a switch in protein synthesis to suppress tumour growth and promote cell differentiation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mouse studies show that depriving neuroblastoma of certain amino acids causes a switch in protein synthesis to suppress tumour growth and promote cell differentiation.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Frank Speleman</dc:creator>
+                <dc:creator>Louis Delhaye</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A drug–diet combination could improve childhood cancer treatment</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02824-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Boosting immune cells to combat cancer using CRISPR engineering and large-scale in vivo testing</title>
+                <link>https://www.nature.com/articles/d41586-025-02595-7</link>
+                <description>Immune cells can target cancer in the clinic. The ability to test a gene-editing technology in mice on a large scale should improve such immunotherapies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Immune cells can target cancer in the clinic. The ability to test a gene-editing technology in mice on a large scale should improve such immunotherapies.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Michael Hudecek</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Boosting immune cells to combat cancer using CRISPR engineering and large-scale in vivo testing</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02595-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Climate change is reshaping fish communities in the United States</title>
+                <link>https://www.nature.com/articles/d41586-025-02826-x</link>
+                <description>Rising temperatures and the introduction of non-native fishes have been linked to rapid changes in fish communities across the United States.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Rising temperatures and the introduction of non-native fishes have been linked to rapid changes in fish communities across the United States.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Ian P. Vaughan</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Climate change is reshaping fish communities in the United States</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02826-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Robotic system takes chemistry into hyperspace</title>
+                <link>https://www.nature.com/articles/d41586-025-02821-2</link>
+                <description>Exploring multidimensional ‘landscapes’ of chemical reactions provides rich insights into how they work, and might even enable the discovery of new forms of reactivity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Exploring multidimensional ‘landscapes’ of chemical reactions provides rich insights into how they work, and might even enable the discovery of new forms of reactivity.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>William E. Robinson</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Robotic system takes chemistry into hyperspace</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02821-2</dc:identifier>
             </item>
         
             <item>
@@ -39,6 +119,19 @@
             </item>
         
             <item>
+                <title>Cryogenic STEM of thick biological specimens</title>
+                <link>https://www.nature.com/articles/s41592-025-02818-9</link>
+                <description>A cryogenic scanning transmission electron microscopy (STEM) approach for analyzing thick biological specimens expands the reach of cryo-electron microscopy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A cryogenic scanning transmission electron microscopy (STEM) approach for analyzing thick biological specimens expands the reach of cryo-electron microscopy.</p></div>]]></content:encoded>
+                <pubDate>2025-09-23</pubDate>
+                <dc:creator>Carsten Sachse</dc:creator>
+                <dc:date>2025-09-23</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Cryogenic STEM of thick biological specimens</dc:title>
+                <dc:identifier>doi:10.1038/s41592-025-02818-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The dawn of bryophyte genomics is here</title>
                 <link>https://www.nature.com/articles/s41588-025-02240-z</link>
                 <description>Bryophytes are a widespread group of land plants that occupy nearly all biomes, yet their genetics and evolutionary history have long remained underexplored. Now, a study that generates extensive genomic data for bryophytes highlights de novo gene formation and horizontal gene transfer as key forces that shape bryophyte diversity and adaptation.</description>
@@ -51,6 +144,32 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>The dawn of bryophyte genomics is here</dc:title>
                 <dc:identifier>doi:10.1038/s41588-025-02240-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>People are more likely to cheat when they delegate tasks to AI</title>
+                <link>https://www.nature.com/articles/d41586-025-02819-w</link>
+                <description>Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </p></div>]]></content:encoded>
+                <pubDate>2025-09-17</pubDate>
+                <dc:creator>Shoko Suzuki</dc:creator>
+                <dc:date>2025-09-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>People are more likely to cheat when they delegate tasks to AI</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02819-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Caribbean coral reefs are threatened by rising seas</title>
+                <link>https://www.nature.com/articles/d41586-025-02533-7</link>
+                <description>Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</p></div>]]></content:encoded>
+                <pubDate>2025-09-17</pubDate>
+                <dc:creator>Nicola K. Browne</dc:creator>
+                <dc:date>2025-09-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Caribbean coral reefs are threatened by rising seas</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02533-7</dc:identifier>
             </item>
         
             <item>
@@ -107,32 +226,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>AI can learn to show its workings through trial and error</dc:title>
                 <dc:identifier>doi:10.1038/d41586-025-02703-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>People are more likely to cheat when they delegate tasks to AI</title>
-                <link>https://www.nature.com/articles/d41586-025-02819-w</link>
-                <description>Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </p></div>]]></content:encoded>
-                <pubDate>2025-09-17</pubDate>
-                <dc:creator>Shoko Suzuki</dc:creator>
-                <dc:date>2025-09-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>People are more likely to cheat when they delegate tasks to AI</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02819-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Caribbean coral reefs are threatened by rising seas</title>
-                <link>https://www.nature.com/articles/d41586-025-02533-7</link>
-                <description>Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</p></div>]]></content:encoded>
-                <pubDate>2025-09-17</pubDate>
-                <dc:creator>Nicola K. Browne</dc:creator>
-                <dc:date>2025-09-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Caribbean coral reefs are threatened by rising seas</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02533-7</dc:identifier>
             </item>
         
             <item>
@@ -202,19 +295,6 @@
             </item>
         
             <item>
-                <title>How did the oldest star clusters form?</title>
-                <link>https://www.nature.com/articles/d41586-025-02598-4</link>
-                <description>A computational model of the early-to-present-day Universe predicts that some of the first stars formed in structures that challenge conventional classification. </description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A computational model of the early-to-present-day Universe predicts that some of the first stars formed in structures that challenge conventional classification. </p></div>]]></content:encoded>
-                <pubDate>2025-09-10</pubDate>
-                <dc:creator>Natalia Lahén</dc:creator>
-                <dc:date>2025-09-10</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>How did the oldest star clusters form?</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02598-4</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Mystery Martian minerals hint at the planet’s complex geochemical past</title>
                 <link>https://www.nature.com/articles/d41586-025-02597-5</link>
                 <description>The Perseverance rover on Mars has observed unusual minerals associated with organic matter — raising questions about the geochemistry of ancient Mars.</description>
@@ -229,6 +309,19 @@
             </item>
         
             <item>
+                <title>How did the oldest star clusters form?</title>
+                <link>https://www.nature.com/articles/d41586-025-02598-4</link>
+                <description>A computational model of the early-to-present-day Universe predicts that some of the first stars formed in structures that challenge conventional classification. </description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A computational model of the early-to-present-day Universe predicts that some of the first stars formed in structures that challenge conventional classification. </p></div>]]></content:encoded>
+                <pubDate>2025-09-10</pubDate>
+                <dc:creator>Natalia Lahén</dc:creator>
+                <dc:date>2025-09-10</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How did the oldest star clusters form?</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02598-4</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The dilemma of global dryland management</title>
                 <link>https://www.nature.com/articles/s41477-025-02102-w</link>
                 <description>When aridity levels exceed a threshold, dryland vegetation productivity decreases dramatically. A new global study shows that high levels of protection within conservation areas enhance the capacity of drylands to withstand more drying, significantly advancing the aridity threshold. This finding highlights the dilemma of global dryland management, that is, whether we should prioritize protection or continue dryland development.</description>
@@ -239,19 +332,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The dilemma of global dryland management</dc:title>
                 <dc:identifier>doi:10.1038/s41477-025-02102-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Protests are infectious: mapping rural unrest in Revolutionary France</title>
-                <link>https://www.nature.com/articles/d41586-025-02526-6</link>
-                <description>Researchers have used epidemiological models to determine whether the wave of riots in 1789 known as the Great Fear spread through irrational panic or rational protest.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have used epidemiological models to determine whether the wave of riots in 1789 known as the Great Fear spread through irrational panic or rational protest.</p></div>]]></content:encoded>
-                <pubDate>2025-09-09</pubDate>
-                <dc:creator>Jack A. Goldstone</dc:creator>
-                <dc:date>2025-09-09</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Protests are infectious: mapping rural unrest in Revolutionary France</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02526-6</dc:identifier>
             </item>
         
             <item>
@@ -319,85 +399,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>Echocardiography gets to the heart of cardiac amyloidosis</dc:title>
                 <dc:identifier>doi:10.1038/s41591-025-03940-z</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Marsquakes indicate that the inner core of the red planet is solid, not liquid</title>
-                <link>https://www.nature.com/articles/d41586-025-02530-w</link>
-                <description>An analysis of seismic waves propagating through Mars finds evidence that the planet has a small, solid inner core, which challenges existing planetary models.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of seismic waves propagating through Mars finds evidence that the planet has a small, solid inner core, which challenges existing planetary models.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Nicholas C. Schmerr</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Marsquakes indicate that the inner core of the red planet is solid, not liquid</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02530-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Flies evolved a shock-absorber tissue used during embryonic development</title>
-                <link>https://www.nature.com/articles/d41586-025-02532-8</link>
-                <description>The role of tissue that forms between the head and trunk of a fly embryo has been unclear. It turns out that it absorbs forces when nearby cells move and divide.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The role of tissue that forms between the head and trunk of a fly embryo has been unclear. It turns out that it absorbs forces when nearby cells move and divide.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Thibaut Brunet</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Flies evolved a shock-absorber tissue used during embryonic development</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02532-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Ancient DNA clarifies the early history of the Slavs</title>
-                <link>https://www.nature.com/articles/d41586-025-02525-7</link>
-                <description>A study examines the emergence of a group that sparked a fundamental change in lifestyle in Central and Eastern Europe in the sixth century.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study examines the emergence of a group that sparked a fundamental change in lifestyle in Central and Eastern Europe in the sixth century.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Steffen Patzold</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ancient DNA clarifies the early history of the Slavs</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02525-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Depriving brain tumours of an amino acid could enhance chemotherapy</title>
-                <link>https://www.nature.com/articles/d41586-025-02531-9</link>
-                <description>Glioblastoma, an aggressive brain cancer, depends on the amino acid serine as a fuel source. A serine-deficient diet has been shown to slow tumour growth in mice. </description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Glioblastoma, an aggressive brain cancer, depends on the amino acid serine as a fuel source. A serine-deficient diet has been shown to slow tumour growth in mice. </p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Daniel Mobilio</dc:creator>
-                <dc:creator>Sheila Singh</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Depriving brain tumours of an amino acid could enhance chemotherapy</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02531-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Ant queens produce sons of two distinct species</title>
-                <link>https://www.nature.com/articles/d41586-025-02524-8</link>
-                <description>The discovery of an unusual reproductive system for one ant species solves a long-standing puzzle about a missing population of another ant species.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery of an unusual reproductive system for one ant species solves a long-standing puzzle about a missing population of another ant species.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Jessica Purcell</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ant queens produce sons of two distinct species</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02524-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Damaged bridges flex and twist to prevent collapse</title>
-                <link>https://www.nature.com/articles/d41586-025-02529-3</link>
-                <description>Bridges made from connected steel frameworks can sometimes survive unexpected damage by activating hidden structural responses.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bridges made from connected steel frameworks can sometimes survive unexpected damage by activating hidden structural responses.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Katherine A. Cashell</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Damaged bridges flex and twist to prevent collapse</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02529-3</dc:identifier>
             </item>
         
             <item>
