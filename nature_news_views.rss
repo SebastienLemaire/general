@@ -13,6 +13,47 @@
             <ttl>120</ttl>
     
             <item>
+                <title>AMPK signalling integrated in growth control</title>
+                <link>https://www.nature.com/articles/s41556-025-01777-9</link>
+                <description>The AMP-dependent protein kinase AMPK is thought to be activated only when cellular energy levels are low. However, a study now finds that intracellular AMP is generated from extracellular adenosine in an intricate growth signalling cascade, explaining how AMPK can be regulated by extracellular cues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The AMP-dependent protein kinase AMPK is thought to be activated only when cellular energy levels are low. However, a study now finds that intracellular AMP is generated from extracellular adenosine in an intricate growth signalling cascade, explaining how AMPK can be regulated by extracellular cues.</p></div>]]></content:encoded>
+                <pubDate>2025-09-26</pubDate>
+                <dc:creator>Sebastian Rumpf</dc:creator>
+                <dc:creator>Neeraja Sanal</dc:creator>
+                <dc:date>2025-09-26</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>AMPK signalling integrated in growth control</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01777-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>ERCC6L2–CtIP condensation tunes end resection</title>
+                <link>https://www.nature.com/articles/s41556-025-01772-0</link>
+                <description>ATM inhibitors (ATMi) cause cell death by enabling CtIP to induce excessive DNA resection. A study now shows that ERCC6L2 regulates resection by forming condensates with CtIP to prevent its degradation. Loss of ERCC6L2 decreases sensitivity to ATMi, which suggests that ERCC6L2 deficiency can be a biomarker for ATMi resistance.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">ATM inhibitors (ATMi) cause cell death by enabling CtIP to induce excessive DNA resection. A study now shows that ERCC6L2 regulates resection by forming condensates with CtIP to prevent its degradation. Loss of ERCC6L2 decreases sensitivity to ATMi, which suggests that ERCC6L2 deficiency can be a biomarker for ATMi resistance.</p></div>]]></content:encoded>
+                <pubDate>2025-09-26</pubDate>
+                <dc:creator>Rongwei Zhao</dc:creator>
+                <dc:creator>Huaiying Zhang</dc:creator>
+                <dc:date>2025-09-26</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>ERCC6L2–CtIP condensation tunes end resection</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01772-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Targeting molecular vulnerabilities in glioblastoma</title>
+                <link>https://www.nature.com/articles/s41591-025-03952-9</link>
+                <description>Despite mixed efficacy outcomes, a phase 1/2 umbrella trial brings the glioblastoma field closer to a new era of diagnostic precision and targeted therapy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite mixed efficacy outcomes, a phase 1/2 umbrella trial brings the glioblastoma field closer to a new era of diagnostic precision and targeted therapy.</p></div>]]></content:encoded>
+                <pubDate>2025-09-26</pubDate>
+                <dc:creator>Joshua D. Bernstock</dc:creator>
+                <dc:date>2025-09-26</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Targeting molecular vulnerabilities in glioblastoma</dc:title>
+                <dc:identifier>doi:10.1038/s41591-025-03952-9</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Jazzy jaw joints: evolutionary fine-tuning reveals unexpected bone connections in ancient predecessors of mammals</title>
                 <link>https://www.nature.com/articles/d41586-025-02823-0</link>
                 <description>The evolution of the jaw helped mammals to thrive. Fossil discoveries shed light on the diverse evolutionary journeys taken by joints between the skull and lower jaw.</description>
@@ -335,6 +376,21 @@
             </item>
         
             <item>
+                <title>CD160+CD8+ T cells for improved immunotherapy</title>
+                <link>https://www.nature.com/articles/s41556-025-01756-0</link>
+                <description>A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</p></div>]]></content:encoded>
+                <pubDate>2025-09-09</pubDate>
+                <dc:creator>Yi-Hao Wang</dc:creator>
+                <dc:creator>Stanislav Dergun</dc:creator>
+                <dc:creator>Ping-Chih Ho</dc:creator>
+                <dc:date>2025-09-09</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>CD160+CD8+ T cells for improved immunotherapy</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01756-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Head start: fossil clues about how bodies evolved from two-fold to five-fold symmetry</title>
                 <link>https://www.nature.com/articles/d41586-025-02818-x</link>
                 <description>How the five-fold symmetrical bodies of starfish and other echinoderms evolved is a mystery. New evidence fills in a key piece of the puzzle.</description>
@@ -358,21 +414,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>Bug bites convince UK doctor to support mosquito research centre</dc:title>
                 <dc:identifier>doi:10.1038/d41586-025-02599-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>CD160+CD8+ T cells for improved immunotherapy</title>
-                <link>https://www.nature.com/articles/s41556-025-01756-0</link>
-                <description>A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</p></div>]]></content:encoded>
-                <pubDate>2025-09-09</pubDate>
-                <dc:creator>Yi-Hao Wang</dc:creator>
-                <dc:creator>Stanislav Dergun</dc:creator>
-                <dc:creator>Ping-Chih Ho</dc:creator>
-                <dc:date>2025-09-09</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>CD160+CD8+ T cells for improved immunotherapy</dc:title>
-                <dc:identifier>doi:10.1038/s41556-025-01756-0</dc:identifier>
             </item>
         
             <item>
@@ -595,6 +636,20 @@
             </item>
         
             <item>
+                <title>Pieces of the peroxisomal import puzzle</title>
+                <link>https://www.nature.com/articles/s41556-025-01727-5</link>
+                <description>Peroxisomes are single membrane-bound organelles containing numerous enzymes to perform metabolic functions. However, our view of peroxisomal protein import has remained incomplete. Two recent studies provide valuable insight to help explain the underlying molecular mechanisms of peroxisomal import.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Peroxisomes are single membrane-bound organelles containing numerous enzymes to perform metabolic functions. However, our view of peroxisomal protein import has remained incomplete. Two recent studies provide valuable insight to help explain the underlying molecular mechanisms of peroxisomal import.</p></div>]]></content:encoded>
+                <pubDate>2025-07-31</pubDate>
+                <dc:creator>Jianguo Wu</dc:creator>
+                <dc:creator>Min Zhuang</dc:creator>
+                <dc:date>2025-07-31</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pieces of the peroxisomal import puzzle</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01727-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>A HER3-targeting antibody–drug conjugate for leptomeningeal metastasis</title>
                 <link>https://www.nature.com/articles/s41591-025-03853-x</link>
                 <description>The phase 2 TUXEDO-3 trial identifies the HER3-targeting antibody–drug conjugate patritumab deruxtecan as a promising new therapeutic option for patients with leptomeningeal metastasis from solid tumors.</description>
@@ -607,20 +662,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>A HER3-targeting antibody–drug conjugate for leptomeningeal metastasis</dc:title>
                 <dc:identifier>doi:10.1038/s41591-025-03853-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Pieces of the peroxisomal import puzzle</title>
-                <link>https://www.nature.com/articles/s41556-025-01727-5</link>
-                <description>Peroxisomes are single membrane-bound organelles containing numerous enzymes to perform metabolic functions. However, our view of peroxisomal protein import has remained incomplete. Two recent studies provide valuable insight to help explain the underlying molecular mechanisms of peroxisomal import.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Peroxisomes are single membrane-bound organelles containing numerous enzymes to perform metabolic functions. However, our view of peroxisomal protein import has remained incomplete. Two recent studies provide valuable insight to help explain the underlying molecular mechanisms of peroxisomal import.</p></div>]]></content:encoded>
-                <pubDate>2025-07-31</pubDate>
-                <dc:creator>Jianguo Wu</dc:creator>
-                <dc:creator>Min Zhuang</dc:creator>
-                <dc:date>2025-07-31</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Pieces of the peroxisomal import puzzle</dc:title>
-                <dc:identifier>doi:10.1038/s41556-025-01727-5</dc:identifier>
             </item>
         
             <item>
@@ -1069,20 +1110,6 @@
             </item>
         
             <item>
-                <title>Airborne cues shape soil legacies</title>
-                <link>https://www.nature.com/articles/s41477-025-01988-w</link>
-                <description>Plants are known to respond to odour cues emitted by other plants that may indicate impending environmental stress. These responses are now understood to extend belowground, where root exudates condition rhizosphere soil bacteria communities in ways that enhance future plant growth and defence.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants are known to respond to odour cues emitted by other plants that may indicate impending environmental stress. These responses are now understood to extend belowground, where root exudates condition rhizosphere soil bacteria communities in ways that enhance future plant growth and defence.</p></div>]]></content:encoded>
-                <pubDate>2025-05-01</pubDate>
-                <dc:creator>Christopher J. Frost</dc:creator>
-                <dc:creator>Sophia L. Shomper</dc:creator>
-                <dc:date>2025-05-01</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Airborne cues shape soil legacies</dc:title>
-                <dc:identifier>doi:10.1038/s41477-025-01988-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The quandary of high-quality evaluation in complex child welfare systems</title>
                 <link>https://www.nature.com/articles/s41591-025-03643-5</link>
                 <description>A randomized controlled trial of a family-focused intervention for children in care in England and Scotland takes a bold step in filling the gap in high-quality evaluation of child welfare, but novel trial designs will be required to truly know what is best for children.</description>
@@ -1094,6 +1121,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The quandary of high-quality evaluation in complex child welfare systems</dc:title>
                 <dc:identifier>doi:10.1038/s41591-025-03643-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Airborne cues shape soil legacies</title>
+                <link>https://www.nature.com/articles/s41477-025-01988-w</link>
+                <description>Plants are known to respond to odour cues emitted by other plants that may indicate impending environmental stress. These responses are now understood to extend belowground, where root exudates condition rhizosphere soil bacteria communities in ways that enhance future plant growth and defence.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants are known to respond to odour cues emitted by other plants that may indicate impending environmental stress. These responses are now understood to extend belowground, where root exudates condition rhizosphere soil bacteria communities in ways that enhance future plant growth and defence.</p></div>]]></content:encoded>
+                <pubDate>2025-05-01</pubDate>
+                <dc:creator>Christopher J. Frost</dc:creator>
+                <dc:creator>Sophia L. Shomper</dc:creator>
+                <dc:date>2025-05-01</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Airborne cues shape soil legacies</dc:title>
+                <dc:identifier>doi:10.1038/s41477-025-01988-w</dc:identifier>
             </item>
         
             <item>
@@ -1159,20 +1200,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>An exceptionally photostable mScarlet3 mutant</dc:title>
                 <dc:identifier>doi:10.1038/s41592-025-02675-6</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Using AI to screen for opioid use disorder</title>
-                <link>https://www.nature.com/articles/s41591-025-03673-z</link>
-                <description>An AI-driven screener for opioid use disorder in hospital settings could increase referrals to addiction services and improve patient outcomes, but it is crucial that treatment is accessible and that unintended harms such as stigma are avoided.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-driven screener for opioid use disorder in hospital settings could increase referrals to addiction services and improve patient outcomes, but it is crucial that treatment is accessible and that unintended harms such as stigma are avoided.</p></div>]]></content:encoded>
-                <pubDate>2025-04-17</pubDate>
-                <dc:creator>Louisa Picco</dc:creator>
-                <dc:creator>Suzanne Nielsen</dc:creator>
-                <dc:date>2025-04-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Using AI to screen for opioid use disorder</dc:title>
-                <dc:identifier>doi:10.1038/s41591-025-03673-z</dc:identifier>
             </item>
         
             <item>
@@ -1411,19 +1438,6 @@
             </item>
         
             <item>
-                <title>Flow, sense and divide</title>
-                <link>https://www.nature.com/articles/s41556-024-01591-9</link>
-                <description>In each cell division during early embryogenesis, daughter cells acquire half the size of the mother cell. A study now reports that cytoplasmic flows sensing the cell boundaries allow daughter cells to adapt to their new size and reform their nuclear envelope in the right position.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In each cell division during early embryogenesis, daughter cells acquire half the size of the mother cell. A study now reports that cytoplasmic flows sensing the cell boundaries allow daughter cells to adapt to their new size and reform their nuclear envelope in the right position.</p></div>]]></content:encoded>
-                <pubDate>2025-01-31</pubDate>
-                <dc:creator>Nicoletta I. Petridou</dc:creator>
-                <dc:date>2025-01-31</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Flow, sense and divide</dc:title>
-                <dc:identifier>doi:10.1038/s41556-024-01591-9</dc:identifier>
-            </item>
-        
-            <item>
                 <title>How a ribosomal protein avoids mixed signals</title>
                 <link>https://www.nature.com/articles/s41556-024-01606-5</link>
                 <description>Accurate protein targeting is a crucial aspect of many biological pathways such as ribosome assembly. Most eukaryotes require two sets of ribosomes assembled in the nucleus and mitochondria. A new study reveals how a cytoplasmic ribosomal protein uS5 evolved a unique signal to avoid being mistargeted to the mitochondria.</description>
@@ -1464,20 +1478,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Defining genes and pathways that modify huntingtin CAG repeat somatic instability in vivo</dc:title>
                 <dc:identifier>doi:10.1038/s41588-024-02055-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Mitotic lethality prevents inflammation</title>
-                <link>https://www.nature.com/articles/s41556-024-01529-1</link>
-                <description>A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</p></div>]]></content:encoded>
-                <pubDate>2025-01-14</pubDate>
-                <dc:creator>Christian Zierhut</dc:creator>
-                <dc:creator>Andreas Villunger</dc:creator>
-                <dc:date>2025-01-14</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Mitotic lethality prevents inflammation</dc:title>
-                <dc:identifier>doi:10.1038/s41556-024-01529-1</dc:identifier>
             </item>
         
             <item>
