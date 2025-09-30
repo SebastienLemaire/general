@@ -13,6 +13,19 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Forcing cell fate</title>
+                <link>https://www.nature.com/articles/s41556-025-01775-x</link>
+                <description>The transition of a pluripotent stem cell into a differentiated lineage is one of the most complex yet precisely orchestrated events in developmental biology. A study now reveals that mechanical and osmotic forces, long considered background players in guiding this transition, are essential regulators of chromatin accessibility and cell fate decisions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The transition of a pluripotent stem cell into a differentiated lineage is one of the most complex yet precisely orchestrated events in developmental biology. A study now reveals that mechanical and osmotic forces, long considered background players in guiding this transition, are essential regulators of chromatin accessibility and cell fate decisions.</p></div>]]></content:encoded>
+                <pubDate>2025-09-29</pubDate>
+                <dc:creator>Roberto Mayor</dc:creator>
+                <dc:date>2025-09-29</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Forcing cell fate</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01775-x</dc:identifier>
+            </item>
+        
+            <item>
                 <title>AMPK signalling integrated in growth control</title>
                 <link>https://www.nature.com/articles/s41556-025-01777-9</link>
                 <description>The AMP-dependent protein kinase AMPK is thought to be activated only when cellular energy levels are low. However, a study now finds that intracellular AMP is generated from extracellular adenosine in an intricate growth signalling cascade, explaining how AMPK can be regulated by extracellular cues.</description>
@@ -363,19 +376,6 @@
             </item>
         
             <item>
-                <title>The dilemma of global dryland management</title>
-                <link>https://www.nature.com/articles/s41477-025-02102-w</link>
-                <description>When aridity levels exceed a threshold, dryland vegetation productivity decreases dramatically. A new global study shows that high levels of protection within conservation areas enhance the capacity of drylands to withstand more drying, significantly advancing the aridity threshold. This finding highlights the dilemma of global dryland management, that is, whether we should prioritize protection or continue dryland development.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">When aridity levels exceed a threshold, dryland vegetation productivity decreases dramatically. A new global study shows that high levels of protection within conservation areas enhance the capacity of drylands to withstand more drying, significantly advancing the aridity threshold. This finding highlights the dilemma of global dryland management, that is, whether we should prioritize protection or continue dryland development.</p></div>]]></content:encoded>
-                <pubDate>2025-09-09</pubDate>
-                <dc:creator>Lixin Wang</dc:creator>
-                <dc:date>2025-09-09</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>The dilemma of global dryland management</dc:title>
-                <dc:identifier>doi:10.1038/s41477-025-02102-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>CD160+CD8+ T cells for improved immunotherapy</title>
                 <link>https://www.nature.com/articles/s41556-025-01756-0</link>
                 <description>A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</description>
@@ -388,6 +388,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>CD160+CD8+ T cells for improved immunotherapy</dc:title>
                 <dc:identifier>doi:10.1038/s41556-025-01756-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The dilemma of global dryland management</title>
+                <link>https://www.nature.com/articles/s41477-025-02102-w</link>
+                <description>When aridity levels exceed a threshold, dryland vegetation productivity decreases dramatically. A new global study shows that high levels of protection within conservation areas enhance the capacity of drylands to withstand more drying, significantly advancing the aridity threshold. This finding highlights the dilemma of global dryland management, that is, whether we should prioritize protection or continue dryland development.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">When aridity levels exceed a threshold, dryland vegetation productivity decreases dramatically. A new global study shows that high levels of protection within conservation areas enhance the capacity of drylands to withstand more drying, significantly advancing the aridity threshold. This finding highlights the dilemma of global dryland management, that is, whether we should prioritize protection or continue dryland development.</p></div>]]></content:encoded>
+                <pubDate>2025-09-09</pubDate>
+                <dc:creator>Lixin Wang</dc:creator>
+                <dc:date>2025-09-09</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>The dilemma of global dryland management</dc:title>
+                <dc:identifier>doi:10.1038/s41477-025-02102-w</dc:identifier>
             </item>
         
             <item>
@@ -1435,20 +1448,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Unveiling heterogeneity in rare cells by combining RNA-based sorting and scRNA-seq</dc:title>
                 <dc:identifier>doi:10.1038/s41588-024-02073-2</dc:identifier>
-            </item>
-        
-            <item>
-                <title>How a ribosomal protein avoids mixed signals</title>
-                <link>https://www.nature.com/articles/s41556-024-01606-5</link>
-                <description>Accurate protein targeting is a crucial aspect of many biological pathways such as ribosome assembly. Most eukaryotes require two sets of ribosomes assembled in the nucleus and mitochondria. A new study reveals how a cytoplasmic ribosomal protein uS5 evolved a unique signal to avoid being mistargeted to the mitochondria.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Accurate protein targeting is a crucial aspect of many biological pathways such as ribosome assembly. Most eukaryotes require two sets of ribosomes assembled in the nucleus and mitochondria. A new study reveals how a cytoplasmic ribosomal protein uS5 evolved a unique signal to avoid being mistargeted to the mitochondria.</p></div>]]></content:encoded>
-                <pubDate>2025-01-31</pubDate>
-                <dc:creator>Kanda M. Borgognoni</dc:creator>
-                <dc:creator>Robin E. Stanley</dc:creator>
-                <dc:date>2025-01-31</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>How a ribosomal protein avoids mixed signals</dc:title>
-                <dc:identifier>doi:10.1038/s41556-024-01606-5</dc:identifier>
             </item>
         
             <item>
