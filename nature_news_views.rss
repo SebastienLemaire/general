@@ -13,6 +13,220 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Forcing cell fate</title>
+                <link>https://www.nature.com/articles/s41556-025-01775-x</link>
+                <description>The transition of a pluripotent stem cell into a differentiated lineage is one of the most complex yet precisely orchestrated events in developmental biology. A study now reveals that mechanical and osmotic forces, long considered background players in guiding this transition, are essential regulators of chromatin accessibility and cell fate decisions.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The transition of a pluripotent stem cell into a differentiated lineage is one of the most complex yet precisely orchestrated events in developmental biology. A study now reveals that mechanical and osmotic forces, long considered background players in guiding this transition, are essential regulators of chromatin accessibility and cell fate decisions.</p></div>]]></content:encoded>
+                <pubDate>2025-09-29</pubDate>
+                <dc:creator>Roberto Mayor</dc:creator>
+                <dc:date>2025-09-29</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Forcing cell fate</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01775-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>AMPK signalling integrated in growth control</title>
+                <link>https://www.nature.com/articles/s41556-025-01777-9</link>
+                <description>The AMP-dependent protein kinase AMPK is thought to be activated only when cellular energy levels are low. However, a study now finds that intracellular AMP is generated from extracellular adenosine in an intricate growth signalling cascade, explaining how AMPK can be regulated by extracellular cues.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The AMP-dependent protein kinase AMPK is thought to be activated only when cellular energy levels are low. However, a study now finds that intracellular AMP is generated from extracellular adenosine in an intricate growth signalling cascade, explaining how AMPK can be regulated by extracellular cues.</p></div>]]></content:encoded>
+                <pubDate>2025-09-26</pubDate>
+                <dc:creator>Sebastian Rumpf</dc:creator>
+                <dc:creator>Neeraja Sanal</dc:creator>
+                <dc:date>2025-09-26</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>AMPK signalling integrated in growth control</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01777-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>ERCC6L2–CtIP condensation tunes end resection</title>
+                <link>https://www.nature.com/articles/s41556-025-01772-0</link>
+                <description>ATM inhibitors (ATMi) cause cell death by enabling CtIP to induce excessive DNA resection. A study now shows that ERCC6L2 regulates resection by forming condensates with CtIP to prevent its degradation. Loss of ERCC6L2 decreases sensitivity to ATMi, which suggests that ERCC6L2 deficiency can be a biomarker for ATMi resistance.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">ATM inhibitors (ATMi) cause cell death by enabling CtIP to induce excessive DNA resection. A study now shows that ERCC6L2 regulates resection by forming condensates with CtIP to prevent its degradation. Loss of ERCC6L2 decreases sensitivity to ATMi, which suggests that ERCC6L2 deficiency can be a biomarker for ATMi resistance.</p></div>]]></content:encoded>
+                <pubDate>2025-09-26</pubDate>
+                <dc:creator>Rongwei Zhao</dc:creator>
+                <dc:creator>Huaiying Zhang</dc:creator>
+                <dc:date>2025-09-26</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>ERCC6L2–CtIP condensation tunes end resection</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01772-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Targeting molecular vulnerabilities in glioblastoma</title>
+                <link>https://www.nature.com/articles/s41591-025-03952-9</link>
+                <description>Despite mixed efficacy outcomes, a phase 1/2 umbrella trial brings the glioblastoma field closer to a new era of diagnostic precision and targeted therapy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Despite mixed efficacy outcomes, a phase 1/2 umbrella trial brings the glioblastoma field closer to a new era of diagnostic precision and targeted therapy.</p></div>]]></content:encoded>
+                <pubDate>2025-09-26</pubDate>
+                <dc:creator>Joshua D. Bernstock</dc:creator>
+                <dc:date>2025-09-26</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>Targeting molecular vulnerabilities in glioblastoma</dc:title>
+                <dc:identifier>doi:10.1038/s41591-025-03952-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Jazzy jaw joints: evolutionary fine-tuning reveals unexpected bone connections in ancient predecessors of mammals</title>
+                <link>https://www.nature.com/articles/d41586-025-02823-0</link>
+                <description>The evolution of the jaw helped mammals to thrive. Fossil discoveries shed light on the diverse evolutionary journeys taken by joints between the skull and lower jaw.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The evolution of the jaw helped mammals to thrive. Fossil discoveries shed light on the diverse evolutionary journeys taken by joints between the skull and lower jaw.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Elsa Panciroli</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Jazzy jaw joints: evolutionary fine-tuning reveals unexpected bone connections in ancient predecessors of mammals</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02823-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Electrostatic-based transfer keeps 2D materials ultra-clean</title>
+                <link>https://www.nature.com/articles/d41586-025-02822-1</link>
+                <description>A technique that spontaneously detaches a 2D material from the substrate on which it was grown creates high-quality nanoscale electronic devices.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A technique that spontaneously detaches a 2D material from the substrate on which it was grown creates high-quality nanoscale electronic devices.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Wanqing Meng</dc:creator>
+                <dc:creator>Lain-Jong Li</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Electrostatic-based transfer keeps 2D materials ultra-clean</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02822-1</dc:identifier>
+            </item>
+        
+            <item>
+                <title>How a tick-borne virus enters human cells</title>
+                <link>https://www.nature.com/articles/d41586-025-02593-9</link>
+                <description>Tick-borne encephalitis virus can infect the nervous system and cause life-threatening illness. Finding the cellular gateway it uses could transform prevention and treatment.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Tick-borne encephalitis virus can infect the nervous system and cause life-threatening illness. Finding the cellular gateway it uses could transform prevention and treatment.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Yaw Shin Ooi</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>How a tick-borne virus enters human cells</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02593-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>A drug–diet combination could improve childhood cancer treatment</title>
+                <link>https://www.nature.com/articles/d41586-025-02824-z</link>
+                <description>Mouse studies show that depriving neuroblastoma of certain amino acids causes a switch in protein synthesis to suppress tumour growth and promote cell differentiation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Mouse studies show that depriving neuroblastoma of certain amino acids causes a switch in protein synthesis to suppress tumour growth and promote cell differentiation.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Frank Speleman</dc:creator>
+                <dc:creator>Louis Delhaye</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>A drug–diet combination could improve childhood cancer treatment</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02824-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Boosting immune cells to combat cancer using CRISPR engineering and large-scale in vivo testing</title>
+                <link>https://www.nature.com/articles/d41586-025-02595-7</link>
+                <description>Immune cells can target cancer in the clinic. The ability to test a gene-editing technology in mice on a large scale should improve such immunotherapies.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Immune cells can target cancer in the clinic. The ability to test a gene-editing technology in mice on a large scale should improve such immunotherapies.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Michael Hudecek</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Boosting immune cells to combat cancer using CRISPR engineering and large-scale in vivo testing</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02595-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Climate change is reshaping fish communities in the United States</title>
+                <link>https://www.nature.com/articles/d41586-025-02826-x</link>
+                <description>Rising temperatures and the introduction of non-native fishes have been linked to rapid changes in fish communities across the United States.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Rising temperatures and the introduction of non-native fishes have been linked to rapid changes in fish communities across the United States.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>Ian P. Vaughan</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Climate change is reshaping fish communities in the United States</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02826-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Robotic system takes chemistry into hyperspace</title>
+                <link>https://www.nature.com/articles/d41586-025-02821-2</link>
+                <description>Exploring multidimensional ‘landscapes’ of chemical reactions provides rich insights into how they work, and might even enable the discovery of new forms of reactivity.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Exploring multidimensional ‘landscapes’ of chemical reactions provides rich insights into how they work, and might even enable the discovery of new forms of reactivity.</p></div>]]></content:encoded>
+                <pubDate>2025-09-24</pubDate>
+                <dc:creator>William E. Robinson</dc:creator>
+                <dc:date>2025-09-24</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Robotic system takes chemistry into hyperspace</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02821-2</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Fossil fight: how Raymond Dart countered some unfair criticism</title>
+                <link>https://www.nature.com/articles/d41586-025-02828-9</link>
+                <description>A letter to the editor sets the record straight regarding the discovery of Australopithecus, and a proposal to put food on the school curriculum in this week’s pick from the Nature archive</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A letter to the editor sets the record straight regarding the discovery of Australopithecus, and a proposal to put food on the school curriculum in this week’s pick from the Nature archive</p></div>]]></content:encoded>
+                <pubDate>2025-09-23</pubDate>
+                
+                <dc:date>2025-09-23</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Fossil fight: how Raymond Dart countered some unfair criticism</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02828-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Cryogenic STEM of thick biological specimens</title>
+                <link>https://www.nature.com/articles/s41592-025-02818-9</link>
+                <description>A cryogenic scanning transmission electron microscopy (STEM) approach for analyzing thick biological specimens expands the reach of cryo-electron microscopy.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A cryogenic scanning transmission electron microscopy (STEM) approach for analyzing thick biological specimens expands the reach of cryo-electron microscopy.</p></div>]]></content:encoded>
+                <pubDate>2025-09-23</pubDate>
+                <dc:creator>Carsten Sachse</dc:creator>
+                <dc:date>2025-09-23</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>Cryogenic STEM of thick biological specimens</dc:title>
+                <dc:identifier>doi:10.1038/s41592-025-02818-9</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The dawn of bryophyte genomics is here</title>
+                <link>https://www.nature.com/articles/s41588-025-02240-z</link>
+                <description>Bryophytes are a widespread group of land plants that occupy nearly all biomes, yet their genetics and evolutionary history have long remained underexplored. Now, a study that generates extensive genomic data for bryophytes highlights de novo gene formation and horizontal gene transfer as key forces that shape bryophyte diversity and adaptation.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bryophytes are a widespread group of land plants that occupy nearly all biomes, yet their genetics and evolutionary history have long remained underexplored. Now, a study that generates extensive genomic data for bryophytes highlights de novo gene formation and horizontal gene transfer as key forces that shape bryophyte diversity and adaptation.</p></div>]]></content:encoded>
+                <pubDate>2025-09-22</pubDate>
+                <dc:creator>Giacomo Potente</dc:creator>
+                <dc:creator>Yuling Yue</dc:creator>
+                <dc:creator>Péter Szövényi</dc:creator>
+                <dc:date>2025-09-22</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The dawn of bryophyte genomics is here</dc:title>
+                <dc:identifier>doi:10.1038/s41588-025-02240-z</dc:identifier>
+            </item>
+        
+            <item>
+                <title>People are more likely to cheat when they delegate tasks to AI</title>
+                <link>https://www.nature.com/articles/d41586-025-02819-w</link>
+                <description>Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </p></div>]]></content:encoded>
+                <pubDate>2025-09-17</pubDate>
+                <dc:creator>Shoko Suzuki</dc:creator>
+                <dc:date>2025-09-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>People are more likely to cheat when they delegate tasks to AI</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02819-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Caribbean coral reefs are threatened by rising seas</title>
+                <link>https://www.nature.com/articles/d41586-025-02533-7</link>
+                <description>Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</p></div>]]></content:encoded>
+                <pubDate>2025-09-17</pubDate>
+                <dc:creator>Nicola K. Browne</dc:creator>
+                <dc:date>2025-09-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Caribbean coral reefs are threatened by rising seas</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02533-7</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Wired for growth: neuron–tumour signalling in the lung and brain increases growth of a hard-to-treat cancer</title>
                 <link>https://www.nature.com/articles/d41586-025-02705-5</link>
                 <description>Signalling between neurons and tumour cells in the lung and brain promotes the growth of small-cell lung cancer. These interactions might be a therapeutic target.</description>
@@ -66,32 +280,6 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>AI can learn to show its workings through trial and error</dc:title>
                 <dc:identifier>doi:10.1038/d41586-025-02703-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>People are more likely to cheat when they delegate tasks to AI</title>
-                <link>https://www.nature.com/articles/d41586-025-02819-w</link>
-                <description>Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </p></div>]]></content:encoded>
-                <pubDate>2025-09-17</pubDate>
-                <dc:creator>Shoko Suzuki</dc:creator>
-                <dc:date>2025-09-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>People are more likely to cheat when they delegate tasks to AI</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02819-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Caribbean coral reefs are threatened by rising seas</title>
-                <link>https://www.nature.com/articles/d41586-025-02533-7</link>
-                <description>Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</p></div>]]></content:encoded>
-                <pubDate>2025-09-17</pubDate>
-                <dc:creator>Nicola K. Browne</dc:creator>
-                <dc:date>2025-09-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Caribbean coral reefs are threatened by rising seas</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02533-7</dc:identifier>
             </item>
         
             <item>
@@ -188,6 +376,21 @@
             </item>
         
             <item>
+                <title>CD160+CD8+ T cells for improved immunotherapy</title>
+                <link>https://www.nature.com/articles/s41556-025-01756-0</link>
+                <description>A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</p></div>]]></content:encoded>
+                <pubDate>2025-09-09</pubDate>
+                <dc:creator>Yi-Hao Wang</dc:creator>
+                <dc:creator>Stanislav Dergun</dc:creator>
+                <dc:creator>Ping-Chih Ho</dc:creator>
+                <dc:date>2025-09-09</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>CD160+CD8+ T cells for improved immunotherapy</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01756-0</dc:identifier>
+            </item>
+        
+            <item>
                 <title>The dilemma of global dryland management</title>
                 <link>https://www.nature.com/articles/s41477-025-02102-w</link>
                 <description>When aridity levels exceed a threshold, dryland vegetation productivity decreases dramatically. A new global study shows that high levels of protection within conservation areas enhance the capacity of drylands to withstand more drying, significantly advancing the aridity threshold. This finding highlights the dilemma of global dryland management, that is, whether we should prioritize protection or continue dryland development.</description>
@@ -198,19 +401,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The dilemma of global dryland management</dc:title>
                 <dc:identifier>doi:10.1038/s41477-025-02102-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Protests are infectious: mapping rural unrest in Revolutionary France</title>
-                <link>https://www.nature.com/articles/d41586-025-02526-6</link>
-                <description>Researchers have used epidemiological models to determine whether the wave of riots in 1789 known as the Great Fear spread through irrational panic or rational protest.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Researchers have used epidemiological models to determine whether the wave of riots in 1789 known as the Great Fear spread through irrational panic or rational protest.</p></div>]]></content:encoded>
-                <pubDate>2025-09-09</pubDate>
-                <dc:creator>Jack A. Goldstone</dc:creator>
-                <dc:date>2025-09-09</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Protests are infectious: mapping rural unrest in Revolutionary France</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02526-6</dc:identifier>
             </item>
         
             <item>
@@ -240,21 +430,6 @@
             </item>
         
             <item>
-                <title>CD160+CD8+ T cells for improved immunotherapy</title>
-                <link>https://www.nature.com/articles/s41556-025-01756-0</link>
-                <description>A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now indicates that CD160⁺CD8⁺ T cells in patients with colorectal cancer modulate anti-tumour immune responses and may influence disease progression. Their combination with immune checkpoint blockade therapy has emerged as a promising strategy to enhance therapeutic efficacy and patient outcomes in colorectal cancer.</p></div>]]></content:encoded>
-                <pubDate>2025-09-09</pubDate>
-                <dc:creator>Yi-Hao Wang</dc:creator>
-                <dc:creator>Stanislav Dergun</dc:creator>
-                <dc:creator>Ping-Chih Ho</dc:creator>
-                <dc:date>2025-09-09</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>CD160+CD8+ T cells for improved immunotherapy</dc:title>
-                <dc:identifier>doi:10.1038/s41556-025-01756-0</dc:identifier>
-            </item>
-        
-            <item>
                 <title>RNA-binding proteins pull in chromatin loops</title>
                 <link>https://www.nature.com/articles/s41556-025-01743-5</link>
                 <description>During development as cells exit a pluripotent state, chromatin looping interactions are strengthened, but the mechanism for this is unknown. A study now shows that CTCF–RBP interactions increase upon differentiation of embryonic stem cells to neural stem cells, and that the non-coding RNA Pantr1 collaborates with CTCF and RBPs to contract the genome.</description>
@@ -281,85 +456,6 @@
             </item>
         
             <item>
-                <title>Marsquakes indicate that the inner core of the red planet is solid, not liquid</title>
-                <link>https://www.nature.com/articles/d41586-025-02530-w</link>
-                <description>An analysis of seismic waves propagating through Mars finds evidence that the planet has a small, solid inner core, which challenges existing planetary models.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An analysis of seismic waves propagating through Mars finds evidence that the planet has a small, solid inner core, which challenges existing planetary models.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Nicholas C. Schmerr</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Marsquakes indicate that the inner core of the red planet is solid, not liquid</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02530-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Flies evolved a shock-absorber tissue used during embryonic development</title>
-                <link>https://www.nature.com/articles/d41586-025-02532-8</link>
-                <description>The role of tissue that forms between the head and trunk of a fly embryo has been unclear. It turns out that it absorbs forces when nearby cells move and divide.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The role of tissue that forms between the head and trunk of a fly embryo has been unclear. It turns out that it absorbs forces when nearby cells move and divide.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Thibaut Brunet</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Flies evolved a shock-absorber tissue used during embryonic development</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02532-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Ancient DNA clarifies the early history of the Slavs</title>
-                <link>https://www.nature.com/articles/d41586-025-02525-7</link>
-                <description>A study examines the emergence of a group that sparked a fundamental change in lifestyle in Central and Eastern Europe in the sixth century.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study examines the emergence of a group that sparked a fundamental change in lifestyle in Central and Eastern Europe in the sixth century.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Steffen Patzold</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ancient DNA clarifies the early history of the Slavs</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02525-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Depriving brain tumours of an amino acid could enhance chemotherapy</title>
-                <link>https://www.nature.com/articles/d41586-025-02531-9</link>
-                <description>Glioblastoma, an aggressive brain cancer, depends on the amino acid serine as a fuel source. A serine-deficient diet has been shown to slow tumour growth in mice. </description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Glioblastoma, an aggressive brain cancer, depends on the amino acid serine as a fuel source. A serine-deficient diet has been shown to slow tumour growth in mice. </p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Daniel Mobilio</dc:creator>
-                <dc:creator>Sheila Singh</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Depriving brain tumours of an amino acid could enhance chemotherapy</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02531-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Ant queens produce sons of two distinct species</title>
-                <link>https://www.nature.com/articles/d41586-025-02524-8</link>
-                <description>The discovery of an unusual reproductive system for one ant species solves a long-standing puzzle about a missing population of another ant species.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The discovery of an unusual reproductive system for one ant species solves a long-standing puzzle about a missing population of another ant species.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Jessica Purcell</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Ant queens produce sons of two distinct species</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02524-8</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Damaged bridges flex and twist to prevent collapse</title>
-                <link>https://www.nature.com/articles/d41586-025-02529-3</link>
-                <description>Bridges made from connected steel frameworks can sometimes survive unexpected damage by activating hidden structural responses.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Bridges made from connected steel frameworks can sometimes survive unexpected damage by activating hidden structural responses.</p></div>]]></content:encoded>
-                <pubDate>2025-09-03</pubDate>
-                <dc:creator>Katherine A. Cashell</dc:creator>
-                <dc:date>2025-09-03</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Damaged bridges flex and twist to prevent collapse</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02529-3</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Diversity favoured: heterozygosity attracts crossovers</title>
                 <link>https://www.nature.com/articles/s41477-025-02066-x</link>
                 <description>The juxtaposition effect increases meiotic crossover frequency in heterozygous chromosome regions flanked by homozygous regions. Initially discovered in self-fertilizing Arabidopsis, this mechanism also operates in the outcrossing cereal crop maize.</description>
@@ -371,19 +467,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>Diversity favoured: heterozygosity attracts crossovers</dc:title>
                 <dc:identifier>doi:10.1038/s41477-025-02066-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Experiment puts ‘spoon bending’ to the test</title>
-                <link>https://www.nature.com/articles/d41586-025-02535-5</link>
-                <description>People who claim they can bend spoons by stroking them fail to convince researchers, and a pioneer of industrial research gets the recognition she deserves in our weekly dip into Nature’s archive.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">People who claim they can bend spoons by stroking them fail to convince researchers, and a pioneer of industrial research gets the recognition she deserves in our weekly dip into Nature’s archive.</p></div>]]></content:encoded>
-                <pubDate>2025-09-02</pubDate>
-                
-                <dc:date>2025-09-02</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Experiment puts ‘spoon bending’ to the test</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02535-5</dc:identifier>
             </item>
         
             <item>
@@ -566,6 +649,20 @@
             </item>
         
             <item>
+                <title>Pieces of the peroxisomal import puzzle</title>
+                <link>https://www.nature.com/articles/s41556-025-01727-5</link>
+                <description>Peroxisomes are single membrane-bound organelles containing numerous enzymes to perform metabolic functions. However, our view of peroxisomal protein import has remained incomplete. Two recent studies provide valuable insight to help explain the underlying molecular mechanisms of peroxisomal import.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Peroxisomes are single membrane-bound organelles containing numerous enzymes to perform metabolic functions. However, our view of peroxisomal protein import has remained incomplete. Two recent studies provide valuable insight to help explain the underlying molecular mechanisms of peroxisomal import.</p></div>]]></content:encoded>
+                <pubDate>2025-07-31</pubDate>
+                <dc:creator>Jianguo Wu</dc:creator>
+                <dc:creator>Min Zhuang</dc:creator>
+                <dc:date>2025-07-31</dc:date>
+                <dc:source>Nature Cell Biology</dc:source>
+                <dc:title>Pieces of the peroxisomal import puzzle</dc:title>
+                <dc:identifier>doi:10.1038/s41556-025-01727-5</dc:identifier>
+            </item>
+        
+            <item>
                 <title>A HER3-targeting antibody–drug conjugate for leptomeningeal metastasis</title>
                 <link>https://www.nature.com/articles/s41591-025-03853-x</link>
                 <description>The phase 2 TUXEDO-3 trial identifies the HER3-targeting antibody–drug conjugate patritumab deruxtecan as a promising new therapeutic option for patients with leptomeningeal metastasis from solid tumors.</description>
@@ -578,20 +675,6 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>A HER3-targeting antibody–drug conjugate for leptomeningeal metastasis</dc:title>
                 <dc:identifier>doi:10.1038/s41591-025-03853-x</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Pieces of the peroxisomal import puzzle</title>
-                <link>https://www.nature.com/articles/s41556-025-01727-5</link>
-                <description>Peroxisomes are single membrane-bound organelles containing numerous enzymes to perform metabolic functions. However, our view of peroxisomal protein import has remained incomplete. Two recent studies provide valuable insight to help explain the underlying molecular mechanisms of peroxisomal import.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Peroxisomes are single membrane-bound organelles containing numerous enzymes to perform metabolic functions. However, our view of peroxisomal protein import has remained incomplete. Two recent studies provide valuable insight to help explain the underlying molecular mechanisms of peroxisomal import.</p></div>]]></content:encoded>
-                <pubDate>2025-07-31</pubDate>
-                <dc:creator>Jianguo Wu</dc:creator>
-                <dc:creator>Min Zhuang</dc:creator>
-                <dc:date>2025-07-31</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Pieces of the peroxisomal import puzzle</dc:title>
-                <dc:identifier>doi:10.1038/s41556-025-01727-5</dc:identifier>
             </item>
         
             <item>
@@ -747,19 +830,6 @@
             </item>
         
             <item>
-                <title>AI-enabled drug discovery reaches clinical milestone</title>
-                <link>https://www.nature.com/articles/s41591-025-03832-2</link>
-                <description>A randomized phase 2a clinical trial of an AI-discovered drug and target combination for idiopathic pulmonary fibrosis shows safety and signs of efficacy, marking a concrete step forward in bringing AI-enabled drug discovery into the clinic.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A randomized phase 2a clinical trial of an AI-discovered drug and target combination for idiopathic pulmonary fibrosis shows safety and signs of efficacy, marking a concrete step forward in bringing AI-enabled drug discovery into the clinic.</p></div>]]></content:encoded>
-                <pubDate>2025-07-01</pubDate>
-                <dc:creator>Marinka Zitnik</dc:creator>
-                <dc:date>2025-07-01</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>AI-enabled drug discovery reaches clinical milestone</dc:title>
-                <dc:identifier>doi:10.1038/s41591-025-03832-2</dc:identifier>
-            </item>
-        
-            <item>
                 <title>How chemotherapy shapes hematopoietic stem cells</title>
                 <link>https://www.nature.com/articles/s41588-025-02231-0</link>
                 <description>Two complementary studies used whole-genome sequencing of single cell-derived hematopoietic colonies to show that chemotherapy results in a marked decrease in hematopoietic stem and progenitor cell (HSPC) diversity, with the parallel evolution of multiple independent HSPCs harboring mutations in DNA damage response genes.</description>
@@ -771,6 +841,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>How chemotherapy shapes hematopoietic stem cells</dc:title>
                 <dc:identifier>doi:10.1038/s41588-025-02231-0</dc:identifier>
+            </item>
+        
+            <item>
+                <title>AI-enabled drug discovery reaches clinical milestone</title>
+                <link>https://www.nature.com/articles/s41591-025-03832-2</link>
+                <description>A randomized phase 2a clinical trial of an AI-discovered drug and target combination for idiopathic pulmonary fibrosis shows safety and signs of efficacy, marking a concrete step forward in bringing AI-enabled drug discovery into the clinic.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A randomized phase 2a clinical trial of an AI-discovered drug and target combination for idiopathic pulmonary fibrosis shows safety and signs of efficacy, marking a concrete step forward in bringing AI-enabled drug discovery into the clinic.</p></div>]]></content:encoded>
+                <pubDate>2025-07-01</pubDate>
+                <dc:creator>Marinka Zitnik</dc:creator>
+                <dc:date>2025-07-01</dc:date>
+                <dc:source>Nature Medicine</dc:source>
+                <dc:title>AI-enabled drug discovery reaches clinical milestone</dc:title>
+                <dc:identifier>doi:10.1038/s41591-025-03832-2</dc:identifier>
             </item>
         
             <item>
@@ -1040,20 +1123,6 @@
             </item>
         
             <item>
-                <title>Airborne cues shape soil legacies</title>
-                <link>https://www.nature.com/articles/s41477-025-01988-w</link>
-                <description>Plants are known to respond to odour cues emitted by other plants that may indicate impending environmental stress. These responses are now understood to extend belowground, where root exudates condition rhizosphere soil bacteria communities in ways that enhance future plant growth and defence.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants are known to respond to odour cues emitted by other plants that may indicate impending environmental stress. These responses are now understood to extend belowground, where root exudates condition rhizosphere soil bacteria communities in ways that enhance future plant growth and defence.</p></div>]]></content:encoded>
-                <pubDate>2025-05-01</pubDate>
-                <dc:creator>Christopher J. Frost</dc:creator>
-                <dc:creator>Sophia L. Shomper</dc:creator>
-                <dc:date>2025-05-01</dc:date>
-                <dc:source>Nature Plants</dc:source>
-                <dc:title>Airborne cues shape soil legacies</dc:title>
-                <dc:identifier>doi:10.1038/s41477-025-01988-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The quandary of high-quality evaluation in complex child welfare systems</title>
                 <link>https://www.nature.com/articles/s41591-025-03643-5</link>
                 <description>A randomized controlled trial of a family-focused intervention for children in care in England and Scotland takes a bold step in filling the gap in high-quality evaluation of child welfare, but novel trial designs will be required to truly know what is best for children.</description>
@@ -1065,6 +1134,20 @@
                 <dc:source>Nature Medicine</dc:source>
                 <dc:title>The quandary of high-quality evaluation in complex child welfare systems</dc:title>
                 <dc:identifier>doi:10.1038/s41591-025-03643-5</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Airborne cues shape soil legacies</title>
+                <link>https://www.nature.com/articles/s41477-025-01988-w</link>
+                <description>Plants are known to respond to odour cues emitted by other plants that may indicate impending environmental stress. These responses are now understood to extend belowground, where root exudates condition rhizosphere soil bacteria communities in ways that enhance future plant growth and defence.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Plants are known to respond to odour cues emitted by other plants that may indicate impending environmental stress. These responses are now understood to extend belowground, where root exudates condition rhizosphere soil bacteria communities in ways that enhance future plant growth and defence.</p></div>]]></content:encoded>
+                <pubDate>2025-05-01</pubDate>
+                <dc:creator>Christopher J. Frost</dc:creator>
+                <dc:creator>Sophia L. Shomper</dc:creator>
+                <dc:date>2025-05-01</dc:date>
+                <dc:source>Nature Plants</dc:source>
+                <dc:title>Airborne cues shape soil legacies</dc:title>
+                <dc:identifier>doi:10.1038/s41477-025-01988-w</dc:identifier>
             </item>
         
             <item>
@@ -1133,20 +1216,6 @@
             </item>
         
             <item>
-                <title>Using AI to screen for opioid use disorder</title>
-                <link>https://www.nature.com/articles/s41591-025-03673-z</link>
-                <description>An AI-driven screener for opioid use disorder in hospital settings could increase referrals to addiction services and improve patient outcomes, but it is crucial that treatment is accessible and that unintended harms such as stigma are avoided.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">An AI-driven screener for opioid use disorder in hospital settings could increase referrals to addiction services and improve patient outcomes, but it is crucial that treatment is accessible and that unintended harms such as stigma are avoided.</p></div>]]></content:encoded>
-                <pubDate>2025-04-17</pubDate>
-                <dc:creator>Louisa Picco</dc:creator>
-                <dc:creator>Suzanne Nielsen</dc:creator>
-                <dc:date>2025-04-17</dc:date>
-                <dc:source>Nature Medicine</dc:source>
-                <dc:title>Using AI to screen for opioid use disorder</dc:title>
-                <dc:identifier>doi:10.1038/s41591-025-03673-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Desmosome mutations in keratinocytes fuel melanoma development</title>
                 <link>https://www.nature.com/articles/s41588-025-02133-1</link>
                 <description>In this study, somatic mutations in desmosome genes of keratinocytes were found to support melanoma growth. This work has fundamental implications for our understanding of the somatic landscape of cancer.</description>
@@ -1188,19 +1257,6 @@
             </item>
         
             <item>
-                <title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</title>
-                <link>https://www.nature.com/articles/s41588-025-02151-z</link>
-                <description>The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</p></div>]]></content:encoded>
-                <pubDate>2025-04-01</pubDate>
-                <dc:creator>Sílvia Vilarinho</dc:creator>
-                <dc:date>2025-04-01</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</dc:title>
-                <dc:identifier>doi:10.1038/s41588-025-02151-z</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Borzoi decodes the complex DNA signals governing gene regulation</title>
                 <link>https://www.nature.com/articles/s41588-025-02154-w</link>
                 <description>Borzoi is a deep learning model that predicts RNA sequencing coverage across each exon of every human gene, across different cells and tissues, based on DNA sequence alone.</description>
@@ -1211,6 +1267,19 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Borzoi decodes the complex DNA signals governing gene regulation</dc:title>
                 <dc:identifier>doi:10.1038/s41588-025-02154-w</dc:identifier>
+            </item>
+        
+            <item>
+                <title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</title>
+                <link>https://www.nature.com/articles/s41588-025-02151-z</link>
+                <description>The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The biological significance of somatic mutations in rare genetic liver diseases has remained elusive. A study using genomic sequencing paired with experimental cell-based assays has shed light on the selective advantage and accumulation of somatic variants in SERPINA1 found in liver explants from patients with alpha-1 anti-trypsin deficiency.</p></div>]]></content:encoded>
+                <pubDate>2025-04-01</pubDate>
+                <dc:creator>Sílvia Vilarinho</dc:creator>
+                <dc:date>2025-04-01</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>The interplay between germline and somatic variants in alpha-1 anti-trypsin deficiency liver disease</dc:title>
+                <dc:identifier>doi:10.1038/s41588-025-02151-z</dc:identifier>
             </item>
         
             <item>
@@ -1382,33 +1451,6 @@
             </item>
         
             <item>
-                <title>Flow, sense and divide</title>
-                <link>https://www.nature.com/articles/s41556-024-01591-9</link>
-                <description>In each cell division during early embryogenesis, daughter cells acquire half the size of the mother cell. A study now reports that cytoplasmic flows sensing the cell boundaries allow daughter cells to adapt to their new size and reform their nuclear envelope in the right position.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">In each cell division during early embryogenesis, daughter cells acquire half the size of the mother cell. A study now reports that cytoplasmic flows sensing the cell boundaries allow daughter cells to adapt to their new size and reform their nuclear envelope in the right position.</p></div>]]></content:encoded>
-                <pubDate>2025-01-31</pubDate>
-                <dc:creator>Nicoletta I. Petridou</dc:creator>
-                <dc:date>2025-01-31</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Flow, sense and divide</dc:title>
-                <dc:identifier>doi:10.1038/s41556-024-01591-9</dc:identifier>
-            </item>
-        
-            <item>
-                <title>How a ribosomal protein avoids mixed signals</title>
-                <link>https://www.nature.com/articles/s41556-024-01606-5</link>
-                <description>Accurate protein targeting is a crucial aspect of many biological pathways such as ribosome assembly. Most eukaryotes require two sets of ribosomes assembled in the nucleus and mitochondria. A new study reveals how a cytoplasmic ribosomal protein uS5 evolved a unique signal to avoid being mistargeted to the mitochondria.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Accurate protein targeting is a crucial aspect of many biological pathways such as ribosome assembly. Most eukaryotes require two sets of ribosomes assembled in the nucleus and mitochondria. A new study reveals how a cytoplasmic ribosomal protein uS5 evolved a unique signal to avoid being mistargeted to the mitochondria.</p></div>]]></content:encoded>
-                <pubDate>2025-01-31</pubDate>
-                <dc:creator>Kanda M. Borgognoni</dc:creator>
-                <dc:creator>Robin E. Stanley</dc:creator>
-                <dc:date>2025-01-31</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>How a ribosomal protein avoids mixed signals</dc:title>
-                <dc:identifier>doi:10.1038/s41556-024-01606-5</dc:identifier>
-            </item>
-        
-            <item>
                 <title>The next generation of in situ multi-omics</title>
                 <link>https://www.nature.com/articles/s41592-024-02571-5</link>
                 <description>Spatial-Mux-seq adds to a growing portfolio of innovative spatial omics technologies and enables simultaneous profiling of up to five omic modalities in situ.</description>
@@ -1435,20 +1477,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Defining genes and pathways that modify huntingtin CAG repeat somatic instability in vivo</dc:title>
                 <dc:identifier>doi:10.1038/s41588-024-02055-4</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Mitotic lethality prevents inflammation</title>
-                <link>https://www.nature.com/articles/s41556-024-01529-1</link>
-                <description>A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A study now finds that, after DNA damage, DNA repair by homologous recombination drives non-immunogenic cell death during mitosis. Loss of homologous recombination allows cells to pass through mitosis, but drives interphase death and inflammation. This suggests a dichotomy between immunogenic and non-immunogenic cell-death modes, with biomedical potential.</p></div>]]></content:encoded>
-                <pubDate>2025-01-14</pubDate>
-                <dc:creator>Christian Zierhut</dc:creator>
-                <dc:creator>Andreas Villunger</dc:creator>
-                <dc:date>2025-01-14</dc:date>
-                <dc:source>Nature Cell Biology</dc:source>
-                <dc:title>Mitotic lethality prevents inflammation</dc:title>
-                <dc:identifier>doi:10.1038/s41556-024-01529-1</dc:identifier>
             </item>
         
             <item>
@@ -1504,20 +1532,6 @@
                 <dc:source>Nature Genetics</dc:source>
                 <dc:title>Single-cell genomics breaks new ground in cell cycle detection</dc:title>
                 <dc:identifier>doi:10.1038/s41588-024-01987-1</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Spatial mapping of Alzheimer’s disease across genetic subtypes</title>
-                <link>https://www.nature.com/articles/s41588-024-01895-4</link>
-                <description>Alzheimer’s disease is a complex, heterogeneous disorder with multiple genetic subtypes. Spatial and single-cell gene expression analyses of these subtypes have provided new insights into general and subtype-specific cellular and molecular mechanisms of Alzheimer’s disease.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Alzheimer’s disease is a complex, heterogeneous disorder with multiple genetic subtypes. Spatial and single-cell gene expression analyses of these subtypes have provided new insights into general and subtype-specific cellular and molecular mechanisms of Alzheimer’s disease.</p></div>]]></content:encoded>
-                <pubDate>2024-11-25</pubDate>
-                <dc:creator>Alexi Nott</dc:creator>
-                <dc:creator>Inge R. Holtman</dc:creator>
-                <dc:date>2024-11-25</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Spatial mapping of Alzheimer’s disease across genetic subtypes</dc:title>
-                <dc:identifier>doi:10.1038/s41588-024-01895-4</dc:identifier>
             </item>
         
             <item>
@@ -1643,19 +1657,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Serial lift-out for in situ structural biology of multicellular specimens</dc:title>
                 <dc:identifier>doi:10.1038/s41592-024-02317-3</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Toward learning a foundational representation of cells and genes</title>
-                <link>https://www.nature.com/articles/s41592-024-02367-7</link>
-                <description>Inspired by the success of large-scale machine learning models in natural language, several groups are adapting these models for cellular data using massive single-cell datasets.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Inspired by the success of large-scale machine learning models in natural language, several groups are adapting these models for cellular data using massive single-cell datasets.</p></div>]]></content:encoded>
-                <pubDate>2024-08-09</pubDate>
-                <dc:creator>Mohammad Lotfollahi</dc:creator>
-                <dc:date>2024-08-09</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Toward learning a foundational representation of cells and genes</dc:title>
-                <dc:identifier>doi:10.1038/s41592-024-02367-7</dc:identifier>
             </item>
             
         </channel>
