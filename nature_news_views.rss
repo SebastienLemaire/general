@@ -13,6 +13,32 @@
             <ttl>120</ttl>
     
             <item>
+                <title>Early efforts to understand the processes underlying bird migration</title>
+                <link>https://www.nature.com/articles/d41586-025-02977-x</link>
+                <description>Scientists try to explain bird behaviour, and a book delves into scientific paradoxes.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Scientists try to explain bird behaviour, and a book delves into scientific paradoxes.</p></div>]]></content:encoded>
+                <pubDate>2025-09-30</pubDate>
+                
+                <dc:date>2025-09-30</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>Early efforts to understand the processes underlying bird migration</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02977-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>What does a language model know about proteins?</title>
+                <link>https://www.nature.com/articles/s41592-025-02837-6</link>
+                <description>A new approach sheds light on the biological features learned by protein language models, promising greater interpretability for unsupervised sequence learning.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">A new approach sheds light on the biological features learned by protein language models, promising greater interpretability for unsupervised sequence learning.</p></div>]]></content:encoded>
+                <pubDate>2025-09-29</pubDate>
+                <dc:creator>Jeffrey A. Ruffolo</dc:creator>
+                <dc:date>2025-09-29</dc:date>
+                <dc:source>Nature Methods</dc:source>
+                <dc:title>What does a language model know about proteins?</dc:title>
+                <dc:identifier>doi:10.1038/s41592-025-02837-6</dc:identifier>
+            </item>
+        
+            <item>
                 <title>Forcing cell fate</title>
                 <link>https://www.nature.com/articles/s41556-025-01775-x</link>
                 <description>The transition of a pluripotent stem cell into a differentiated lineage is one of the most complex yet precisely orchestrated events in developmental biology. A study now reveals that mechanical and osmotic forces, long considered background players in guiding this transition, are essential regulators of chromatin accessibility and cell fate decisions.</description>
@@ -23,6 +49,19 @@
                 <dc:source>Nature Cell Biology</dc:source>
                 <dc:title>Forcing cell fate</dc:title>
                 <dc:identifier>doi:10.1038/s41556-025-01775-x</dc:identifier>
+            </item>
+        
+            <item>
+                <title>Dipping into the function of DNA methylation at centromeres</title>
+                <link>https://www.nature.com/articles/s41588-025-02334-8</link>
+                <description>Human centromeres contain a small chromatin region with low levels of DNA cytosine methylation that resides with CENP-A. Salinas-Luypaert et al. find a role of DNA methylation in maintaining the size and function of centromeres by controlling the binding affinity of key centromere components.</description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Human centromeres contain a small chromatin region with low levels of DNA cytosine methylation that resides with CENP-A. Salinas-Luypaert et al. find a role of DNA methylation in maintaining the size and function of centromeres by controlling the binding affinity of key centromere components.</p></div>]]></content:encoded>
+                <pubDate>2025-09-29</pubDate>
+                <dc:creator>Sylvia Erhardt</dc:creator>
+                <dc:date>2025-09-29</dc:date>
+                <dc:source>Nature Genetics</dc:source>
+                <dc:title>Dipping into the function of DNA methylation at centromeres</dc:title>
+                <dc:identifier>doi:10.1038/s41588-025-02334-8</dc:identifier>
             </item>
         
             <item>
@@ -201,19 +240,6 @@
             </item>
         
             <item>
-                <title>People are more likely to cheat when they delegate tasks to AI</title>
-                <link>https://www.nature.com/articles/d41586-025-02819-w</link>
-                <description>Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </p></div>]]></content:encoded>
-                <pubDate>2025-09-17</pubDate>
-                <dc:creator>Shoko Suzuki</dc:creator>
-                <dc:date>2025-09-17</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>People are more likely to cheat when they delegate tasks to AI</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02819-w</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Caribbean coral reefs are threatened by rising seas</title>
                 <link>https://www.nature.com/articles/d41586-025-02533-7</link>
                 <description>Modelling suggests that most Caribbean coral reefs will erode by the year 2100 as sea-level rise outpaces reef growth and limits potential reef restoration.</description>
@@ -280,6 +306,19 @@
                 <dc:source>Nature</dc:source>
                 <dc:title>AI can learn to show its workings through trial and error</dc:title>
                 <dc:identifier>doi:10.1038/d41586-025-02703-7</dc:identifier>
+            </item>
+        
+            <item>
+                <title>People are more likely to cheat when they delegate tasks to AI</title>
+                <link>https://www.nature.com/articles/d41586-025-02819-w</link>
+                <description>Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </description>
+                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Artificial intelligence is moving from being a mere tool to an active partner in decision-making, but when we offload misconduct to machines, who bears the blame? </p></div>]]></content:encoded>
+                <pubDate>2025-09-17</pubDate>
+                <dc:creator>Shoko Suzuki</dc:creator>
+                <dc:date>2025-09-17</dc:date>
+                <dc:source>Nature</dc:source>
+                <dc:title>People are more likely to cheat when they delegate tasks to AI</dc:title>
+                <dc:identifier>doi:10.1038/d41586-025-02819-w</dc:identifier>
             </item>
         
             <item>
@@ -401,19 +440,6 @@
                 <dc:source>Nature Plants</dc:source>
                 <dc:title>The dilemma of global dryland management</dc:title>
                 <dc:identifier>doi:10.1038/s41477-025-02102-w</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Head start: fossil clues about how bodies evolved from two-fold to five-fold symmetry</title>
-                <link>https://www.nature.com/articles/d41586-025-02818-x</link>
-                <description>How the five-fold symmetrical bodies of starfish and other echinoderms evolved is a mystery. New evidence fills in a key piece of the puzzle.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">How the five-fold symmetrical bodies of starfish and other echinoderms evolved is a mystery. New evidence fills in a key piece of the puzzle.</p></div>]]></content:encoded>
-                <pubDate>2025-09-09</pubDate>
-                <dc:creator>Gregory A. Wray</dc:creator>
-                <dc:date>2025-09-09</dc:date>
-                <dc:source>Nature</dc:source>
-                <dc:title>Head start: fossil clues about how bodies evolved from two-fold to five-fold symmetry</dc:title>
-                <dc:identifier>doi:10.1038/d41586-025-02818-x</dc:identifier>
             </item>
         
             <item>
@@ -1535,19 +1561,6 @@
             </item>
         
             <item>
-                <title>Split-pool barcoding serves up an epigenomic smorgasbord</title>
-                <link>https://www.nature.com/articles/s41588-024-01980-8</link>
-                <description>Perez, Goronzy et al. present ChIP-DIP, which enables multiplex genomic mapping of hundreds of epitopes from a single sample. The authors apply ChIP-DIP to localize modified histones, transcription factors and other chromatin-interacting proteins at scale, in both cell lines and primary cells.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">Perez, Goronzy et al. present ChIP-DIP, which enables multiplex genomic mapping of hundreds of epitopes from a single sample. The authors apply ChIP-DIP to localize modified histones, transcription factors and other chromatin-interacting proteins at scale, in both cell lines and primary cells.</p></div>]]></content:encoded>
-                <pubDate>2024-11-25</pubDate>
-                <dc:creator>Vijay Ramani</dc:creator>
-                <dc:date>2024-11-25</dc:date>
-                <dc:source>Nature Genetics</dc:source>
-                <dc:title>Split-pool barcoding serves up an epigenomic smorgasbord</dc:title>
-                <dc:identifier>doi:10.1038/s41588-024-01980-8</dc:identifier>
-            </item>
-        
-            <item>
                 <title>Precision mutational scanning: your multipass to the future of genetics</title>
                 <link>https://www.nature.com/articles/s41592-024-02522-0</link>
                 <description>Massively parallel base and prime editing screens provide unparalleled interrogation of genetic variants with single-nucleotide resolution.</description>
@@ -1643,20 +1656,6 @@
                 <dc:source>Nature Methods</dc:source>
                 <dc:title>Constructing and personalizing population pangenome graphs</dc:title>
                 <dc:identifier>doi:10.1038/s41592-024-02402-7</dc:identifier>
-            </item>
-        
-            <item>
-                <title>Serial lift-out for in situ structural biology of multicellular specimens</title>
-                <link>https://www.nature.com/articles/s41592-024-02317-3</link>
-                <description>The capability of high-resolution in situ imaging by electron cryo-tomography (cryo-ET) has now been expanded to large multicellular tissues by newly developed workflows involving lift-out and serial sectioning using focused ion beam milling under cryogenic conditions.</description>
-                <content:encoded><![CDATA[<div><p style="color: #4aa564;">The capability of high-resolution in situ imaging by electron cryo-tomography (cryo-ET) has now been expanded to large multicellular tissues by newly developed workflows involving lift-out and serial sectioning using focused ion beam milling under cryogenic conditions.</p></div>]]></content:encoded>
-                <pubDate>2024-09-13</pubDate>
-                <dc:creator>Zhexin Wang</dc:creator>
-                <dc:creator>Tanmay A. M. Bharat</dc:creator>
-                <dc:date>2024-09-13</dc:date>
-                <dc:source>Nature Methods</dc:source>
-                <dc:title>Serial lift-out for in situ structural biology of multicellular specimens</dc:title>
-                <dc:identifier>doi:10.1038/s41592-024-02317-3</dc:identifier>
             </item>
             
         </channel>
